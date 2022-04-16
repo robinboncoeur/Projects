@@ -8,16 +8,16 @@ Shade House
 ***********
 
 ===========
-2022.Apr.14
+2022.Apr.15
 ===========
 
 So, here's where Blender came to the rescue to help visualise some ideas:
 
 .. image:: ../images/Shadehouse01.jpg
 
-Come to think of it, think that it's probably not as practical to have a gabled rook of that type. Perhaps a lean-to approach might be more useful.
+Come to think of it, think that it's probably not as practical to have a gabled roof of that type. Perhaps a lean-to approach might be more useful.
 
-Anyway, took out the mess that was in the corner - washed anything that looked useful; if not, off it went to the tip - and dismantled the bed furthest from the camera:
+Anyway, removed all the gardening stuff (pots and tools and soil in bags and clay marbles for hydroponics and on and on, endless collection of stuff over the years!) that was in the corner - washed anything that looked useful; if not, it got thrown - and dismantled the bed furthest from the camera:
 
 .. image:: ../images/Shadehouse02.jpg
 
@@ -26,3 +26,4 @@ When the decking came up, I saw the extent of the issue. The floor frame had ter
 .. image:: ../images/Shadehouse03.jpg
 
 And, extended. Also, the ag pipe that deals with storm rain-water in the front yard was directed to the frame and - worse yet - the neighbour's fence. It will need to be re-routed to our back yard. Hours and hours of back-breaking work ahead!
+
