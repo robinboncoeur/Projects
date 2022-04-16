@@ -11,12 +11,18 @@ Shade House
 2022.Apr.14
 ===========
 
-Dr Robert Lustig and Dr Dale Bredesen discuss their experiences and findings.
+So, here's where Blender came to the rescue to help visualise some ideas:
 
-.. raw:: html
-   
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/3LbsmS5TJXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+.. image:: ../images/Shadehouse01.jpg
 
-   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
- 
+Come to think of it, think that it's probably not as practical to have a gabled rook of that type. Perhaps a lean-to approach might be more useful.
 
+Anyway, took out the mess that was in the corner - washed anything that looked useful; if not, off it went to the tip - and dismantled the bed furthest from the camera:
+
+.. image:: ../images/Shadehouse02.jpg
+
+When the decking came up, I saw the extent of the issue. The floor frame had terrible rot issues. It will have to be replaced:
+
+.. image:: ../images/Shadehouse03.jpg
+
+And, extended. Also, the ag pipe that deals with storm rain-water in the front yard was directed to the frame and - worse yet - the neighbour's fence. It will need to be re-routed to our back yard. Hours and hours of back-breaking work ahead!
