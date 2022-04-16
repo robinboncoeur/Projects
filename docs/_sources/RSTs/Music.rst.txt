@@ -8,15 +8,17 @@ Sketches
 ********
 
 ===========
-2022.Apr.14
+2022.Feb.19
 ===========
 
-Dr Robert Lustig and Dr Dale Bredesen discuss their experiences and findings.
+In the Louvre hangs a painting most non-french people think of as Mona Lisa. The French call her "La Joconde", which loosely translated means "jovial". A sentiment which, loosely interpreted, I hoped to convey with this little piece. Having first and second woodwinds really did add a lot of richness to the sound: Penne Vodka put me on to something quite interesting. Am watching the OrchestrationOnline courseware on YouTube with Thomas Goss, and wonder what possesses me to think I can do this! LOL
+
+So, I *am* investing in NotePerformer. However, there really isn't much advantage to investing in Dorico as well, as the workflow into that app is no less labour-intensive to getting it into Reaper. I'll stay with Musescore and hopefully a future version will provide support for NotePerformer. Too keen on Reaper to go down another DAW rabbit-hole. 
 
 .. raw:: html
-   
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/3LbsmS5TJXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
- 
-
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/Sketch11.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+	
