@@ -1,0 +1,36 @@
+############
+Introduction
+############
+
+*************************
+Why these Projects Pages? 
+*************************
+
+I guess what set it off was trying to upload images to a GMail email I was sending to Martin and Esther on 2022-Apr-15. Got about halfway through and GMail told me I'd exceeded the size limit (25mb). Which seems silly. And there's no video, even... just pictures.
+
+What appeals to me about doing project progress sharing this way is:
+
+	I can share a LOT of information no-cost
+	
+	The information is hidden in obscurity of "no-one gives a rat's nether-regions about what I'm doing... just have a look at `Tightbytes <https://www.tightbytes.com/>`_. Visitors? none.
+	
+I'm doing this with dates as the header. As in: here's where I am so far with this project.
+
+
+Hey y'all, 
+Thought I'd do sort-of a newsletter-y thingo instead of individual emails... hope that's cool. Eventually, I really would like to try Zoom or something similar. Martin, you could get Andrew to set it up for you. Julia does it all the time for work, and beyond that, she and I actually have face-to-face when she's on rescue, using Messenger. Sort-of like what you and Heather used to do when she was in Dubai, Esther.A New Milestone hit today: 101.8kg! (that's 224.4lbs) I know, still obese, but wow, I'm so pumped about this!Couple of cool things I've learned about, and am actually trying... and going: "shit! this really works!!!" One is called 'blue-ing'. Background: you might remember my project of turning what was a horrid mess out by the garden beds to the side of the house into a 'shade house', right? Well, it's meant to have an inbuilt misting system but also places to store / hide stuff like soil and pots. Here's the Blender render of that shade house: 
+So, I've removed one of the beds, the one closest to the gate (farthest from the camera):
+ 
+...the one you can barely make out. Well, next to it was this terrible mess of ... gardening stuff. Same corner, minus the mess and the bed:
+Lots to do, here. The frame has badly rotted, so it will need replacing. The bright sparks that put in that shocking fine pumic-y gravel - terrible stuff - routed the ag pipe so that any rain-water accumulating near the house flows straight to the neighbour's fence. I'm sure the neighbours don't mind at all, having the fence rot. So, I'll need to re-route that so it flows into our backyard. Talk about back-breaking work. Taking this in stages!Anyway, that frame is coming out and being replaced.So yeah, retirement means: just a different set of tasks, but I can control when and if I feel like tackling a task that day.Today is the Sabbath, so I went for a walk along the water:
+Starting here (that's my little 2014 i20 - still a good little means of getting about)
+through the mangroves...then, along the water:
+
+
+
+
+
+
+
+
+https://github.com/robinboncoeur/Projects.git
