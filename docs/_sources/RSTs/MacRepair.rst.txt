@@ -27,10 +27,10 @@ So, that's what got me started.
 
 The multimeter (that yellow thing with the knob on it) is, at this point, only there to impress. I haven't actually gotten around to figuring out how it will help me decide what components are defective and need replacing.
 
-.. image:: ../images/MacRepairStn2.jpg
+.. image:: https://www.tightbytes.com/images/projects/macrepair/RepairStn1.jpg
    
 Julia got those two tables for free from work... they're moving to smaller quarters and needed to unload stuff.
 
-.. image:: ../images/MacRepairStn4.jpg
+.. image:: https://www.tightbytes.com/images/projects/macrepair/RepairStn2.jpg
 
-The Macbook Air (2015) failed as well... the logic board played up and finally refused to work. Got a replacement on eBay for $250... and the seller gave me $50 back for the non-working board! Win-win!
+The logic board in the Macbook Air (2015) that one can see sitting on the farther desk failed as well. It played up and finally refused to work. Got a replacement on eBay for $250... and the seller gave me $50 back for the non-working board! Win-win!
