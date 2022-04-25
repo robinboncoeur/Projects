@@ -1,0 +1,121 @@
+######################
+Repairing Anything Mac
+######################
+
+
+*****************************
+Why Repairs? and why on Macs?
+*****************************
+
+Some time ago, I bought a used Macbook Pro 2012 for AUD$995.00 plus shipping. As I had read up on Macbooks in general, this particular model stood out as a great system for upgrading. It already had a 500gig SSD (vs HDD) but I needed more space to edit video, so I took out the optical drive, got a caddy to hold another SSD and installed a second drive.
+
+And realised that doing this was fun.
+
+Then Julia dropped her 2011 Macbook Pro, one I'd purchased for $500. The keyboard was what had suffered the most damage, interestingly. Replacing the keyboard on the unibody meant pulling *everything* out. And having this repair done would have cost well over $200.
+
+Too daunting.
+
+Well, I finally pulled the machine down from the cupboard - where it had been sitting for almost two years - and pulled it apart. Purchased a new keyboard on eBay for $35 and did the replacement.
+
+The machine works beautifully!
+
+So, that's what got me started.
+
+
+==============
+WR-2021.Sep.25
+==============
+
+The multimeter (that yellow thing with the knob on it) is, at this point, only there to impress. I haven't actually gotten around to figuring out how it will help me decide what components are defective and need replacing.
+
+.. image:: https://www.tightbytes.com/images/projects/macrepair/Aa-RepairStn1.jpg
+   
+Julia got those two tables for free from work... they're moving to smaller quarters and needed to unload stuff.
+
+.. image:: https://www.tightbytes.com/images/projects/macrepair/Aa-RepairStn2.jpg
+
+The logic board in the Macbook Air (2015) that one can see sitting on the farther desk failed as well. It played up and finally refused to work. Got a replacement on eBay for $250... and the seller gave me $50 back for the non-working board! Win-win!
+
+
+==============
+WR-2022.Apr.23
+==============
+
+Since the last entry, Julia has organised some melomine bookshelves for my office (again, they were going to throw them out, so she saved them from the landfill!) to put all my bits-n-bobs stuff in. One of the desks is now in use in her office, and I have all this storage space now for my repairs-n-stuff:
+
+.. image:: https://www.tightbytes.com/images/projects/macrepair/Ab-Repairs1.jpg
+
+I tend to buy stuff that's like the cheapest-ever, crazy-low price. The printer? $50. It's a laser printer. It had a problem: paper wouldn't feed. Kind of a show stopper. The problem was the `pick up roller <https://au.vicedeal.com/products/compatible-rm1-6414-000-rm1-6414-paper-pickup-roller-for-hp-2035-2055-p2035-p2055-p2035n-p2055d-p2055dn-p2055x-1?variant=UHJvZHVjdFZhcmlhbnQ6Mjg3NjU0OTQw>`_ so for $20 or so picked one up, installed it and it works perfectly. I.e., a laser printer for $70.
+
+The monitor in the foreground - actually an iMac 2009:
+
+.. image:: https://www.tightbytes.com/images/projects/macrepair/Ab-Repairs2.jpg
+
+...which I found on the Facebook marketplace for $100. The guy *claimed* the OS was installed. No such thing. Thing is: Apple no longer support these devices... too old. Found a `solution to that problem <http://dosdude1.com/catalina/>`_, so it actually has Catalina installed now.
+
+And I'm currently working on another Macbook Pro that had been pretty roughly treated: the case had been distorted with the network cable (cat 5) goes in. And grubby-as! but the logic board is fine, needed to replace the keyboard:
+
+.. image:: https://www.tightbytes.com/images/projects/macrepair/Ab-Repairs3.jpg
+
+... so we'll see what ends up happening to this machine.
+
+
+
+====================================
+Replacing a Battery in a Macbook Pro
+====================================
+
+Note: *these instructions are mostly from the iFixit site*::
+
+	https://www.ifixit.com/Guide/MacBook+Pro+13-Inch+Unibody+Mid+2012+Battery+Replacement/10365
+
+Place the macbook face down on some paper towels or flat soft cloth. Do this on a table in a well-lit room. 'Flat' is important, because if you do this in your lap, besides risking the loss of those *teeny-tiny* screws, as you put the bottom back on it can distort - I know from experience, happened to **ME**! Remove the bottom case. I've included the screwdriver for these ten screws in the longish box in the Macbook box - the one with the hole in it. You will need to remove:
+
+	* Three 14.4 mm Phillips #00 screws
+
+	* Three 3.5 mm Phillips #00 screws
+
+	* Four 3.5 mm shouldered Phillips #00 screws
+
+.. image:: https://www.tightbytes.com/images/projects/macrepair/Ac-Battery1.png
+
+Pry the bottom off with your fingers at the vents.
+
+.. image:: https://www.tightbytes.com/images/projects/macrepair/Ac-Battery2.png
+
+
+I've included paperwork, a screwdriver for the battery screws (they're tri-point) and the screws in a ziplock bag. Remove all this before sliding in the battery. It only goes in one way:
+
+.. image:: https://www.tightbytes.com/images/projects/macrepair/Ac-Battery3.png
+
+Attach the following two screws:
+
+	* One 5.6 mm Tri-point screw
+
+	* One 13 mm Tri-point screw
+	
+.. image:: https://www.tightbytes.com/images/projects/macrepair/Ac-Battery4.png
+
+Note on 2022.Apr.25: *the longer one goes near the battery connector to the logic board. You may need to slightly adjust the battery a bit for the screw to "take". I have found that if you get the long one started (not tightened completely) and then do the shorter one it's less of a struggle*.
+
+Connect the battery connector to the logic board.
+
+.. image:: https://www.tightbytes.com/images/projects/macrepair/Ac-Battery5.png
+
+Replace the bottom with the vents towards the back (where the screen hinges to the laptop) and screw the bottom in place as shown:
+
+.. image:: https://www.tightbytes.com/images/projects/macrepair/Ac-Battery1.png
+
+Note: *when replacing the small screws, align them perpendicular to the slight curvature of the case (they don't go straight down)*.
+
+When installing a new battery, you should calibrate it after installation in order to maximise its lifespan:
+
+	* Charge it to 100%, and then keep charging it for at least 2 more hours.
+	
+	* Unplug and use it normally to drain the battery. When you see the low battery warning, save your work, and keep your laptop on until it goes to sleep due to low battery.
+	
+	* Wait at least 5 hours, then charge your laptop uninterrupted to 100%.
+
+If you notice any unusual behavior or problems after installing your new battery, you may need to reset your MacBook's SMC.
+
+

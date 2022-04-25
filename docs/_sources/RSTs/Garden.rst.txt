@@ -1,37 +1,38 @@
-###############
-Yard and Garden
-###############
+#################
+Garden At Seabrae
+#################
 
+This page covers anything going on outside the house, including growbeds, footpath and how we finally got rid of (re-purposed) all that nasty pumice gravel
 
 ***********
 Shade House
 ***********
 
-===========
-2022.Apr.15
-===========
+==============
+SH-2022.Apr.15
+==============
 
-So, here's where Blender came to the rescue to help visualise some ideas:
+I use a 3D software called `Blender <https://www.blender.org/>`_ - **completely** free software, mind you, download, install, PLAY! - to help visualise some ideas I had for this shadehouse:
 
 .. image:: https://www.tightbytes.com/images/projects/garden/Aa-SHStart01.jpg
 
-Come to think of it, think that it's probably not as practical to have a gabled roof of that type. Perhaps a lean-to approach might be more useful.
+Note on 22.Apr.25: *the more I've been working on and thinking about the design, the more I realise that it's probably not practical to have a gabled roof of the type in that image. Perhaps a lean-to approach might be more useful*.
 
-Anyway, removed all the gardening stuff (pots and tools and soil in bags and clay marbles for hydroponics and on and on, endless collection of stuff over the years!) that was in the corner - washed anything that looked useful; if not, it got thrown - and dismantled the bed furthest from the camera:
+Started with: removal of all the gardening stuff (pots and tools and soil in bags and clay marbles for hydroponics and on and on, endless collection of stuff over the years!) that had accumulated over time - washed anything that looked useful; if not, it got thrown - and dismantled the bed furthest from the camera:
 
 .. image:: https://www.tightbytes.com/images/projects/garden/Aa-SHStart02.jpg
 
-When the decking came up, I saw the extent of the issue. The floor frame had terrible rot issues. It will have to be replaced:
+When the decking came up, I became aware of something I'd sort-of suspected for some time: there was a real problem with wood breakdown. Rot. The floor frame (under the planking) had terrible rot issues. The foundation will have to be replaced:
 
 .. image:: https://www.tightbytes.com/images/projects/garden/Aa-SHStart03.jpg
 
-And, extended. Also, the ag pipe that deals with storm rain-water in the front yard was directed to the frame and - worse yet - the neighbour's fence. It will need to be re-routed to our back yard. Hours and hours of back-breaking work ahead!
+I will extend the foundation to the front fence. Also, the `ag pipe <https://jag.net.au/wp-content/uploads/2016/09/AG-WITH-SOCK-3.jpg>`_ that deals with storm rain-water in the front yard was directed to the frame and - worse yet - the neighbour's fence. It will need to be re-routed to our back yard. Hours and hours of back-breaking work ahead!
 
 
 
-===========
-2022.Apr.20
-===========
+==============
+SH-2022.Apr.20
+==============
 
 You know how when you start getting into a project, it sort-of just grows? We've been having problems with standing water in our front yard during heavy downpours. Whilst the house is built on a slab, we're seeing cracks develop where they just shouldn't. Some time ago we'd engaged some gardening dudes to put down some ag pipe to drain off that water. That ag pipe:
 
@@ -39,22 +40,22 @@ You know how when you start getting into a project, it sort-of just grows? We've
 
 ... yep, those two back plasic pipes are humped over the watertank overflow. Not going to work, is it? Water has issues running uphill, I've been told.
 
-here's wher it used to empty into, towards the mattock (pick):
+here's where it used to empty into, towards the mattock (pick) and the neighbour's fence:
 
 .. image:: https://www.tightbytes.com/images/projects/garden/Ab-SHBase02.jpg
 
-At the bottom of this bed, I'm going to have to reinforce the bottom of the side to keep the soil all drifting out:
+At the bottom of this bed, I'm going to have to reinforce the bottom of the side to keep the soil seeping out - those logs are doing a piss-poor job of holding the soil the the bed:
 
 .. image:: https://www.tightbytes.com/images/projects/garden/Ab-SHBase03.jpg
 
-Actually have a bit of time to update this page as we're have a young visitor - Harriet! - and gave myself the excuse that it was too warm to work on it today. However, it cooled down nicely, and after doing a bit of "blue-ing" on rusty stuff I'm trying to ressurect, I finally got stuck into it and finished pulling the dead stuff out:
+Actually have a bit of time to update this page as we're have a young visitor - Harriet! - and gave myself the excuse that it was too warm to work on it today. However, it cooled down nicely, and after doing a bit of "blue-ing" on rusty stuff I'm trying to "resurrect", I finally got stuck into it and finished pulling the dead stuff out:
 
 .. image:: https://www.tightbytes.com/images/projects/garden/Ab-SHBase09.jpg
 
 
-===========
-2022.Apr.23
-===========
+==============
+SH-2022.Apr.23
+==============
 
 A lot of soil has been "bleeding" out from under the beds. I retrieved over a wheelbarrow-full during this exercise. Some of the beds sinking can probably be attributed to that, the rest, probably the decomposition of the biomass we cover with soil. So, I've placed some 'sacrifical' pieces where a log lived, before:
 
@@ -81,9 +82,10 @@ And now, the hard bit: 'rescuing' the river rock mixed in with this nasty pumice
 Growing Things
 **************
 
-===========
-2022.Apr.18
-===========
+==============
+GT-2022.Apr.18
+==============
+
 And why do all this? For the cuccumbers
 
 .. image:: https://www.tightbytes.com/images/projects/garden/Ab-SHBase05.jpg
@@ -111,9 +113,10 @@ We'll see how we go.
 Footpath Redo
 *************
 
-===========
-2021.May.17
-===========
+==============
+FP-2021.May.17
+==============
+
 We had the footpath around the house worked on a few years back. Sadly, rain and wear-and-tear (and probably also poor design) left things looking a bit worse for wear:
 
 .. image:: https://www.tightbytes.com/images/projects/garden/Ad-Before01.jpg
@@ -129,9 +132,9 @@ and the back of the house had turned into a total disaster:
 .. image:: https://www.tightbytes.com/images/projects/garden/Ad-Before04.jpg
 
 
-===========
-2021.May.27
-===========
+==============
+FP-2021.May.27
+==============
 
 I tore out the rotten timber and sifted out the pumice-like gravel, rescuing what I could of the original river-rock:
 
@@ -152,9 +155,9 @@ and each length was bolted to a piece of treated timber to prevent sagging in th
 The reason I thought it a good idea to attach it diagonally was in order to have a maximum of rock holding the piece down (surface-area thing). We'll see if it works, longterm.
 
 
-===========
-2021.Jul.04
-===========
+==============
+FP-2021.Jul.04
+==============
 
 Here's where things ended up in July (other projects were demanding my attention):
 
@@ -166,9 +169,9 @@ And so things stayed for nine months or so.
 
 
 
-===========
-2022.Apr.22
-===========
+==============
+FP-2022.Apr.22
+==============
 
 Finally making a bit of headway, basically because the garden-bed area I'm working on (for the shadehouse) has river-rock that needs a new home, so it's going here:
 
@@ -179,3 +182,4 @@ I had already placed these timber pieces, but hadn't "tied" them together, and t
 .. image:: https://www.tightbytes.com/images/projects/garden/Ah-FPCont5.jpg
 
 So, now they are all level, and the river-rock rescued from the front has a place to go.
+

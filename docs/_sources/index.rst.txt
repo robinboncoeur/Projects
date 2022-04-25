@@ -11,7 +11,7 @@ Projects - Sharing is Caring
    RSTs/About.rst
    RSTs/Garden.rst
    RSTs/Health.rst
-   RSTs/MacRepair.rst
+   RSTs/Macs.rst
    RSTs/Music.rst
    RSTs/Repose.rst
 
