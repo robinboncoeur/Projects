@@ -51,7 +51,7 @@ The monitor in the foreground - actually an iMac 2009:
 
 .. image:: https://www.tightbytes.com/images/projects/macrepair/Ab-Repairs2.jpg
 
-I found on the Facebook marketplace for $100. The guy *claimed* the OS was installed. No such thing. Thing is: Apple no longer support these devices... too old. Found a `solution to that problem <http://dosdude1.com/catalina/>`_, so it actually has Catalina installed now.
+...which I found on the Facebook marketplace for $100. The guy *claimed* the OS was installed. No such thing. Thing is: Apple no longer support these devices... too old. Found a `solution to that problem <http://dosdude1.com/catalina/>`_, so it actually has Catalina installed now.
 
 And I'm currently working on another Macbook Pro that had been pretty roughly treated: the case had been distorted with the network cable (cat 5) goes in. And grubby-as! but the logic board is fine, needed to replace the keyboard:
 

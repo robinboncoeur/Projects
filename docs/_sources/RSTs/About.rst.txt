@@ -1,0 +1,154 @@
+##############
+About Projects
+##############
+
+*************************
+Why these Projects Pages? 
+*************************
+
+I guess what set it off was trying to upload images to a GMail email I was sending to Martin and Esther on 2022-Apr-15. Got about halfway through and GMail told me I'd exceeded the size limit (25mb). Which seems silly. And there's no video, even... just pictures.
+
+What appeals to me about doing project progress sharing this way is:
+
+	* I can share a LOT of information no-cost
+	
+	* The information is hidden in obscurity of "no-one gives a rat's nether-regions about what I'm doing"... *(just have a look at `Tightbytes <https://www.tightbytes.com/>`_. Visitors? none)*. 
+	
+	* Updating is a lot quicker and easier on GitHub than on Tightbytes... LOTS easier!
+	
+I'm doing this with dates as the sort-of the link key. For example, I'll give whoever I'm writing an email to, as a link, the current entry into a give project page, like so::
+
+	https://robinboncoeur.github.io/Projects/RSTs/Garden.html#apr-23
+	
+Sphinx is really good that way! By the way, the images have been uniformly resized (for the most part) to 1024 x 768 pixels. They are not displayed in that resolution, but right-clicking and choosing "Open image in a New Tab..." will display that image in full resolution. 
+
+
+
+.. raw:: html
+   
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+
+
+
+*************************************
+Reminders [to Myself] of Sphinx Stuff
+*************************************
+
+=============
+Inline images
+=============
+
+For externally-stored images (most will be stored on Tightbytes, for my pages)::
+
+	* .. image:: http://www.tightbytes.com/Music/CReinecke/CReinecke1890.jpg
+
+and for those stored with the data files::
+
+	* .. image:: ../images/blAltRtClick01.png
+
+
+
+==============
+Embedded Video
+==============
+
+This code::
+
+.. raw:: html
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/123xxxXXXyZ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+Should have 11 characters::
+
+	3LbsmS5TJXA
+	123xxxXXXyZ
+
+
+
+==============
+Embedded Audio
+==============
+
+This code::
+
+	.. raw:: html
+
+		<audio controls="controls">
+		  <source src="http://tightbytes.com/music/Sketches/Sketch11.mp3" type="audio/wav">
+		  Your browser does not support the <code>audio</code> element. 
+		</audio>
+
+...produces:
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/Sketch11.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+
+==================
+Creating Dotpoints
+==================
+
+Once you've decided:
+
+  * Select A.
+
+  * Select B. 
+
+  * To identify C.
+
+  * Finally, click on D.
+
+
+Note: *setting things to italics like this makes more impact - these have yielded reasonable results. You will almost certainly find better settings, which is the whole point of sharing this*.
+
+
+
+================
+Links Management
+================
+
+Here's a typical example of embedding a link: Blender-for-Mac users, please refer to the `Mac user help <http://blender.stackexchange.com/questions/6173/where-does-console-output-go>`_ page.
+
+
+
+===============
+Another Example
+===============
+
+As you can see from the example, an example of a fully-qualified path for Linux would be:
+
+   /home/robyn/Documents/Blender/Projects/AllTextures/AllSkin/Antonia/
+
+or, for the Mac:
+
+   /Volumes/500GB/Blender/Projects/AllTextures/AllSkin/Antonia/
+
+or, for Windows:
+
+   E:\\MyRuntime\\runtime\\textures\\VendorName\\ImagesFolder\\Character\\
+
+
+
+==========================
+Horizontal Separator Lines
+==========================
+
+The code is this (minus the '*')::
+
+	* .. raw:: html
+   
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+...which produces this:
+
+.. raw:: html
+   
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
