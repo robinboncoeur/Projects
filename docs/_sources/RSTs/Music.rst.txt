@@ -49,6 +49,10 @@ Sketch 10
     </audio>
 
 
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
 
 =================================
 Sketch 9 - 'A Metaphor of Chooks'
@@ -67,7 +71,15 @@ Bear in mind: they were "rescue hens". They came with co-morbidities, which mani
       Your browser does not support the <code>audio</code> element. 
     </audio>
 
-**Sketch 8 - 'Reflections'**
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+========================
+Sketch 8 - 'Reflections'
+========================
 
 .. raw:: html
 
@@ -76,7 +88,15 @@ Bear in mind: they were "rescue hens". They came with co-morbidities, which mani
       Your browser does not support the <code>audio</code> element. 
     </audio>
 
-**Sketch 7 - 'Souffle des Arbres'**
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+===============================
+Sketch 7 - 'Souffle des Arbres'
+===============================
 
 .. raw:: html
 
@@ -85,7 +105,15 @@ Bear in mind: they were "rescue hens". They came with co-morbidities, which mani
       Your browser does not support the <code>audio</code> element. 
     </audio>
 
-**Sketch 6**
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+========
+Sketch 6
+========
 
 .. raw:: html
 
@@ -94,7 +122,15 @@ Bear in mind: they were "rescue hens". They came with co-morbidities, which mani
       Your browser does not support the <code>audio</code> element. 
     </audio>
 
-**Sketch 5**
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+========
+Sketch 5
+========
 
 .. raw:: html
 
@@ -103,7 +139,15 @@ Bear in mind: they were "rescue hens". They came with co-morbidities, which mani
       Your browser does not support the <code>audio</code> element. 
     </audio>
 
-**Sketch 4**
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+========
+Sketch 4
+========
 
 .. raw:: html
 
@@ -112,7 +156,15 @@ Bear in mind: they were "rescue hens". They came with co-morbidities, which mani
       Your browser does not support the <code>audio</code> element. 
     </audio>
 
-**Sketch 3**
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+========
+Sketch 3
+========
 
 .. raw:: html
 
@@ -121,7 +173,15 @@ Bear in mind: they were "rescue hens". They came with co-morbidities, which mani
       Your browser does not support the <code>audio</code> element. 
     </audio>
 
-**Sketch 2**
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+========
+Sketch 2
+========
 
 .. raw:: html
 
@@ -130,7 +190,15 @@ Bear in mind: they were "rescue hens". They came with co-morbidities, which mani
       Your browser does not support the <code>audio</code> element. 
     </audio>
 
-**Sketch 1**
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+========
+Sketch 1
+========
 
 .. raw:: html
 
@@ -139,7 +207,15 @@ Bear in mind: they were "rescue hens". They came with co-morbidities, which mani
       Your browser does not support the <code>audio</code> element. 
     </audio>
 
-**Sac A Dos - (Backpack)**
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+======================
+Sac A Dos - (Backpack)
+======================
 
 .. raw:: html
 
@@ -149,8 +225,9 @@ Bear in mind: they were "rescue hens". They came with co-morbidities, which mani
     </audio>
 
 
-"Sometimes, the magic works, sometimes it doesn't." 
-Chief Dan George, from the film "Little Big Man".
+	"Sometimes, the magic works, sometimes it doesn't." 
+	
+	*Chief Dan George, from the film 'Little Big Man'*.
 
 
 
