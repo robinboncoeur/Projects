@@ -2,6 +2,15 @@
 Repairing Anything Mac
 ######################
 
+***********
+Quick Links
+***********
+
+`Repair Site <https://bikehike.org/how-much-to-repair-macbook-pro-speakers/>`_.
+
+
+
+
 
 *****************************
 Why Repairs? and why on Macs?
@@ -22,6 +31,7 @@ The machine works beautifully!
 So, that's what got me started.
 
 
+
 ==============
 WR-2021.Sep.25
 ==============
@@ -35,6 +45,7 @@ Julia got those two tables for free from work... they're moving to smaller quart
 .. image:: https://www.tightbytes.com/images/projects/macrepair/Aa-RepairStn2.jpg
 
 The logic board in the Macbook Air (2015) that one can see sitting on the farther desk failed as well. It played up and finally refused to work. Got a replacement on eBay for $250... and the seller gave me $50 back for the non-working board! Win-win!
+
 
 
 ==============
@@ -119,3 +130,12 @@ When installing a new battery, you should calibrate it after installation in ord
 If you notice any unusual behavior or problems after installing your new battery, you may need to reset your MacBook's SMC.
 
 
+*********************
+Current Repair Ledger
+*********************
+
+==============
+RL-2022.Apr.29
+==============
+
+Replaced the speakers on Julia's 2011 Macbook Pro. This was a bit involved, as one speaker sits next to the CPU on the underside of the logic board, and part of the other speaker sits right on the side of the case, so replacing it involves removing the optical drive. Typical repair quote (see above link) currently runs about AUD$300.00 plus parts.
