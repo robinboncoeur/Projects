@@ -152,3 +152,32 @@ The code is this (minus the '*')::
 .. raw:: html
    
    <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+
+
+****************
+Other Conundrums
+****************
+
+=============================
+Transfering Money with PayPal
+=============================
+
+So, here is my approach:
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_PayPal01.png
+
+I already have you as a payee (someone I send money to) but you would normally get:
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_PayPal02.png
+
+...and then, how much. Do $10. What for? None of their freakin' business LOL
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_PayPal04.png
+
+Then, the "How would you like to pay?"...
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_PayPal05.png
+
+you would normally have an account tied to your PayPal account. I have my Savings account (Anz) that I transfer money into. If you haven't done that yet - associated an account to PayPal - you may need to do that.
+
