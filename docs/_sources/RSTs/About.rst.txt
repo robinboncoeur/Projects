@@ -183,7 +183,7 @@ you would normally have an account tied to your PayPal account. I have my Saving
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_PayPal07.png
 
-...and you just click [Send Money Now] - which exercise I did just now, so I could to these screen shots - and I'll get notification:
+...and you just click [Send Money Now] - which exercise I did just now, so I could do these screen shots - and I'll get notification:
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_PayPal08.png
 
