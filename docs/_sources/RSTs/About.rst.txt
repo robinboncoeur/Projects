@@ -31,6 +31,23 @@ Sphinx is really good that way! By the way, the images have been uniformly resiz
 
 
 
+*************************
+My Links for Fun Projects
+*************************
+
+=========================
+Building Our Shed - Cubby
+=========================
+
+
+
+**************
+Video Projects
+**************
+
+
+
+
 *************************************
 Reminders [to Myself] of Sphinx Stuff
 *************************************
@@ -49,9 +66,9 @@ and for those stored with the data files::
 
 
 
-==============
-Embedded Video
-==============
+======================
+Embedded YouTube Video
+======================
 
 This code::
 
@@ -89,6 +106,24 @@ This code::
       <source src="http://tightbytes.com/music/Sketches/Sketch11.mp3" type="audio/wav">
       Your browser does not support the <code>audio</code> element. 
     </audio>
+
+
+
+==========================
+Embedded Non-youtube Video
+==========================
+
+This code::
+
+	.. raw:: html
+
+	   <iframe width="560" height="315" src="https://tightbytes.com/videos/projects/garden/Aj-SHTrench.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+...produces:
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://tightbytes.com/videos/projects/garden/Aj-SHTrench.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

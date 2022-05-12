@@ -141,6 +141,16 @@ RL-2022.Apr.29
 Replaced the speakers on Julia's 2011 Macbook Pro. This was a bit involved, as one speaker sits next to the CPU on the underside of the logic board, and part of the other speaker sits right on the side of the case, so replacing it involves removing the optical drive. Typical repair quote (see above link) currently runs about AUD$300.00 plus parts.
 
 
+
+===========================
+A Note On the Bottom Screws
+===========================
+
+I didn't realise this at first, but the bottom of the 2012 Macbook is actually held on by **three** differeent sets of screws (I thought they were just long and short ones). This bit of advice came from my `GOTO iFixit site <https://www.ifixit.com/Guide/MacBook+Pro+13-Inch+Unibody+Mid+2012+Battery+Replacement/10365>`_ step one - copy this link into your browser::
+
+	https://www.ifixit.com/Guide/MacBook+Pro+13-Inch+Unibody+Mid+2012+Battery+Replacement/10365
+
+
 ****************
 DosDude1 Patcher
 ****************

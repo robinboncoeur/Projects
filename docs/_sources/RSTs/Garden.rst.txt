@@ -153,6 +153,26 @@ I believe this technigue is called "french drainage" except it is commonly appli
 
 
 
+==============
+SH-2022.May.12
+==============
+
+We've been having quite a bit of heavy rain, which has brought a real problem with flooding in the front of the house into focus. I dug a trench - shallow at first, just down to the weed mat - and then we were blessed with some incredibly heavy rainfall:
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://tightbytes.com/videos/projects/garden/Aj-SHTrench.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Outlet right by the lemon tree - hope I don't end up drowning it:
+
+.. image:: https://www.tightbytes.com/images/projects/garden/Ak-SHTrench2.jpg
+
+I do hope the rain will come this arvo as promised and test the drainage pipe I've put in so far:
+
+.. image:: https://www.tightbytes.com/images/projects/garden/Ak-SHTrench3.jpg
+
+
+
 
 **************
 Growing Things
