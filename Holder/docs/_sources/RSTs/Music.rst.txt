@@ -1,0 +1,239 @@
+####################
+Musical Compositions
+####################
+
+********
+Sketches
+********
+
+Below are links to musical sketches, in reverse chronological order. I wrote these to sort-of get an idea how instruments interact, and what they do at different points of the register. For example, a trumpet playing in a higher register is going to have a completely different effect than one playing in the lower registers.
+
+Also, asking a trumpet player to play softly in a higher register is going to be met with some raised left eyebrows and twitching upper lips. This brings up what we can do in a DAW / music notation software versus reality: sure, you can dial down the trumpet playing a high C, but it's not going to sound very realistic.
+
+
+
+=========================
+Sketch 11 - 'La Gioconda'
+=========================
+
+**2022.Feb.19**
+
+In the Louvre hangs a painting most non-french people think of as Mona Lisa. The French call her `La Joconde <https://musescore.com/user/29275325/scores/7603490>`_ which loosely translated means "jovial", a sentiment which I hoped to convey with this little piece. Having first and second woodwinds really did add a lot of richness to the sound: Penne Vodka - an actual real composer - has been making awesome suggestions to improve my efforts at orchestration. I am watching the OrchestrationOnline courseware on YouTube with Thomas Goss: the deeper I get into the tutorial, the more I wonder whatever in the world possessed me to think I could do this!
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/Sketch11.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+=========
+Sketch 10
+=========
+
+**2021.Dec.10**
+
+`Just a bit of fun <https://musescore.com/user/29275325/scores/7247817>`_ for the silly season. I was actually listening to a piece called "Ru Lai Cau Ho" sung by the inimitable Cam Ly - Viet music doesn't stick to twelve tones but sort-of quavers around a fair bit - and this thing grew out of that. No relationship at all... this sounds more like an ethnic dance of some sort.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/Sketch10.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+=================================
+Sketch 9 - 'A Metaphor of Chooks'
+=================================
+
+**2021.Oct.20**
+
+Some time ago, we decided to do the ethically kind thing and provide a home for six "rescue hens" (measure 1 - 8, noble intentions): chickens that had passed most of their lives in small cages. I fenced in our backyard - eventually - to keep them from destroying our entire property - as chooks do - and gave them a lovely little house to live in, even equipping it with a automatic door to keep out undesirables such as foxes and goanas. When the chooks arrived, they looked a bit worse for wear. However, they quickly adapted (measures 9-17) and found their place in the home we gave them, and in our hearts (measures 18-24). `They ran around <https://musescore.com/user/29275325/scores/7074271>`_, pooed everywhere, scratched every square inch of dirt for bugs, turning their domain into Dunkirk after a shelling.
+
+Bear in mind: they were "rescue hens". They came with co-morbidities, which manifested themselves after a while (measures 25-40) which ultimately ended up with four of them, so far, succumbing to those ailments... and those went the way of all flesh, ultimately (measures 41-48).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/Sketch09.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+========================
+Sketch 8 - 'Reflections'
+========================
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/Sketch08.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+===============================
+Sketch 7 - 'Souffle des Arbres'
+===============================
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/Sketch07.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+========
+Sketch 6
+========
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/Sketch06.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+========
+Sketch 5
+========
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/Sketch05.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+========
+Sketch 4
+========
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/Sketch04.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+========
+Sketch 3
+========
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/Sketch03.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+========
+Sketch 2
+========
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/Sketch02.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+========
+Sketch 1
+========
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/Sketch01.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+======================
+Sac A Dos - (Backpack)
+======================
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/SacADos/SacADos.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+	"Sometimes, the magic works, sometimes it doesn't." 
+	
+	*Chief Dan George, from the film 'Little Big Man'*.
+
+
+
+.. raw:: html
+   
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+
+
