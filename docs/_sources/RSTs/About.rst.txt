@@ -67,6 +67,13 @@ Should have 11 characters::
 	3LbsmS5TJXA
 	123xxxXXXyZ
 
+Key to note is the difference in the link in the raw html syntax vs the actual youtube link::
+
+	https://www.youtube.com/embed/123xxxXXXyZ
+	https://www.youtube.com/watch?v=9USTddwNoXU
+
+Basically, "embed/" instead of "watch?v=".
+
 
 
 ==============
@@ -263,7 +270,12 @@ Key Links
 
 The course on filmmaking: `Tomorrow's Filmmakers <https://academy.tomorrowsfilmmakers.com/>`_.
 
-Excellent Youtube channel on budget filmmaking: `Nigel Barros <https://www.youtube.com/channel/UCV_i_0uE8IlSenyJY0yBgdw>`_.
+Excellent Youtube channel on budget filmmaking: `Nigel Barros <https://www.youtube.com/channel/UCV_i_0uE8IlSenyJY0yBgdw>`_. When he hit 100K subscribers, he put out this `excellent video <https://www.youtube.com/watch?v=9USTddwNoXU>`_ on the whole creating content idea that actually can be applied to whatever endeavour one might engage in, whether filmmaking or gardening or bonsai or cardmaking... whatever.
+
+
+.. raw:: html
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/9USTddwNoXU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
