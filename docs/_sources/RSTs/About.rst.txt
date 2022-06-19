@@ -30,6 +30,34 @@ Sphinx is really good that way! By the way, the images have been uniformly resiz
 
 
 
+===================
+A Bit about the Why
+===================
+
+First off, it's about sharing. That was sort-of my primary motivation for `TightBytes <https://tightbytes.com/>`_ - which sees pretty much no visitors ... whatever - and is what drives these pages. As you can tell from the next section, a bit of the reason was so I had a centralised location for reminders and links to stuff and so forth. Getting old bites, and I'll sometimes find myself out and about - away from my PC - trying to do something I absolutely *Know* how to do... yeah, but can't remember **exactly** how to do it.
+
+Perhaps the reason I forget is because I use so many "tools". 
+
+What do I mean by "tools"?
+
+These pages - the one's on Github, currently (2022) - are created (typed) in a program (free) called "Brackets". So, not in MS Word of on Notepad or other text editor, but `Brackets <https://brackets.io/>`_. The reason for that is Brackets is a plain-text editor for programmers: it allows you to include text (and other) formatting code to be included in your text. The formatting codes aren't visible to the person reading the resultant page... thus::
+
+	...here is how I do ** bold** and *italic*...
+
+produces "...here is how I do ** bold** and *italic*...".
+
+These are all mechanisms designed for what these pages are designed for: `Sphinx <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_, which uses reStructuredText as the default plain-text markup 'language'. Just like in other languages, programming 'languages' have certain rules so that you can pretty much get the same results all the time in a given environment. On the web, the most common 'language' is HTML::
+
+	<HTML>
+	
+	<HEAD> header content here
+	</HEAD>
+	
+	<BODY> body of the text here
+	</BODY>
+	
+	</HTML>
+
 
 
 *************************************
@@ -263,12 +291,23 @@ I can unequivocably state: right now in June 2022, I suck at video. Reason: comp
 Worth every penny!
 
 
+==============
+Music for Film
+==============
+
+I'd like to start making the sort of music that fits with film: a sound that helps make more clear what the film is trying to say. So I've started scoring a new piece... it's in B minor, starts in the woodwinds with bass strings providing a sort of heartbeat (pizzicato).
+
+So far, I have this:
+
+.. image:: http://www.tightbytes.com/images/projects/composition/Sk13a.png
+
+It's wintertime in Southeast Queensland. Nights are quite cool - actually feels cold to us. The noise of cars and other machines finally diminish in the evening, for which I'm rather grateful. That's what I'm trying to say with the first few bars of this piece. 
+
+
 
 =========
 Key Links
 =========
-
-The course on filmmaking: `Tomorrow's Filmmakers <https://academy.tomorrowsfilmmakers.com/>`_.
 
 Excellent Youtube channel on budget filmmaking: `Nigel Barros <https://www.youtube.com/channel/UCV_i_0uE8IlSenyJY0yBgdw>`_. When he hit 100K subscribers, he put out this `excellent video <https://www.youtube.com/watch?v=9USTddwNoXU>`_ on the whole creating content idea that actually can be applied to whatever endeavour one might engage in, whether filmmaking or gardening or bonsai or cardmaking... whatever.
 
@@ -278,6 +317,13 @@ Excellent Youtube channel on budget filmmaking: `Nigel Barros <https://www.youtu
    <iframe width="560" height="315" src="https://www.youtube.com/embed/9USTddwNoXU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+The course on filmmaking: `Tomorrow's Filmmakers <https://academy.tomorrowsfilmmakers.com/>`_. Need a membership to access the following links... creme de la creme tutorials.
+
+`Composition <https://academy.tomorrowsfilmmakers.com/products/tomorrow-s-filmmakers/categories/2148929059/posts/2152600929>`_
+
+`Lighting <https://academy.tomorrowsfilmmakers.com/products/tomorrow-s-filmmakers/categories/2148929059/posts/2152600926>`_
+
+`Types of shots <https://academy.tomorrowsfilmmakers.com/products/tomorrow-s-filmmakers/categories/2148929059/posts/2152600917>`_
 
 
 
