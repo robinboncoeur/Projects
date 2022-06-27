@@ -7,9 +7,9 @@ Liver Cleansing
 ***************
 
 
-==========
-Previously
-==========
+====================
+Weight-loss Tracking
+====================
 
 I'd actually started tracking my weight back in November, when I was 113.35 kg (almost 250lbs). Did a dry November which extended into December, had a bit of wine over the holidays and particularly when I retired the first part of January. Julia and I visited some of her Rural Aid volunteers in Eumundi the second weekend in January, after which I stopped all consumption of any fermented (alcoholic) beverages.
 
@@ -23,9 +23,17 @@ At this point, we'd cut back on bread but were still having starch in the form o
 
 .. image:: https://www.tightbytes.com/images/projects/health/03Mar.png
 
-Progress was slow on the weight-loss front. Lots of aches and pains, particularly in the back. And then, Julia went to Orroroo. We both stayed faithful to the plan. Here's April so far:
+Progress was slow on the weight-loss front. Lots of aches and pains, particularly in the back. And then, Julia went to Orroroo. We both stayed faithful to the plan: 
 
-.. image:: https://www.tightbytes.com/images/projects/health/04Apr-WIP.png
+.. image:: https://www.tightbytes.com/images/projects/health/04Apr.png
+
+...for the most part. However, there were "breaks from the action", like days we had fish-n-chips, or kebabs. High in sodium... you can tell from the spikes when this happened:
+
+.. image:: https://www.tightbytes.com/images/projects/health/05May.png
+
+Overall, it **has** been pretty steady (on average). Here's June so far:
+
+.. image:: https://www.tightbytes.com/images/projects/health/06Jun-WIP.png
 
 
 
