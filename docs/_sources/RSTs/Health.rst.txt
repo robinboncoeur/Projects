@@ -44,9 +44,6 @@ Dr Robert Lustig and Dr Dale Bredesen discuss their experiences and findings.
    
    <iframe width="560" height="315" src="https://www.youtube.com/embed/3LbsmS5TJXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
- 
-
 Takeaways:
 
 	1. Four basic causes for this neurological degenerative process
@@ -69,6 +66,10 @@ Takeaways:
 		a. inflammation due to non-enzymatic glycation of protein
 		b. insulin resistance-related toxicity
 		c. trophic processes (brain cell regeneration) *requires* insulin: neurons need insulin as a growth factor, pathology which goes from synapto-plastic state (making new neurons) to a synapto-clastic state (protective signalling driving amyloid-precursor proteins, which is part of the protective mechanism / innate immune response)
+
+.. raw:: html
+
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 		
 
 ===============
@@ -79,8 +80,6 @@ Sugar is Poison
    
    <iframe width="560" height="315" src="https://www.youtube.com/embed/XH6Rg9I858E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
-
 
 Dr. Robert Lustig is a paediatric neuroendocrinologist, New York Times bestselling author, and Professor of Paediatric Endocrinology at the University of California, San Francisco. He’s authored one-hundred twenty-five peer-reviewed articles and seventy-three reviews.
 
@@ -88,6 +87,9 @@ Rob has become a leading public health authority on the impact sugar has on fuel
 
 If you're addicted to sugar or think it's not that bad, you're going to want to watch this!
 
+.. raw:: html
+
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 =========
 Food Tips
