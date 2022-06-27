@@ -47,6 +47,28 @@ Overall, it **has** been pretty steady (on average). Here's June so far:
 Dr Lustig, Our Inspiration
 **************************
 
+=============================
+Why Obesity Isn't the Problem
+=============================
+
+.. raw:: html
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/ld6NB6P2OuY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In this episode of Bulletproof Radio, Robert H. Lustig, M.D., M.S.L., the New York Times bestselling author of several books about the problems caused by sugar, processed food and the health conditions of obesity, shares his expertise and research about metabolic health.
+
+He addresses nutrition, food science, and global health, and explains how by focusing on real food we can reverse chronic disease and promote longevity. He also challenges the current healthcare paradigm and the influence of Big Food, Big Pharma, and Big Government.
+
+Dr. Lustig is a pediatric neuroendocrinologist who’s spent his forty-plus year career treating and finding ways to prevent obesity and diabetes. He’s emeritus professor of pediatrics in the Division of Endocrinology and member of the Institute for Health Policy Studies at the University of California, San Francisco.
+
+He’s authored one-hundred thirty peer-reviewed articles, eighty academic chapters and reviews, and dozens of op-eds for the public. He now has a new book to explain the eight pathologies that underlie all chronic disease and document how processed food has impacted our health, economy, and environment over the past fifty years. - Dave Asprey
+
+.. raw:: html
+
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+
+
 ===============
 Sugar is Poison
 ===============
@@ -61,6 +83,22 @@ Dr. Robert Lustig is a paediatric neuroendocrinologist, New York Times bestselli
 Rob has become a leading public health authority on the impact sugar has on fueling the diabetes, obesity and metabolic syndrome epidemics, and on addressing changes in the food environment to reverse these chronic diseases. He discusses his latest book, Metabolical: The Lure and the Lies of Processed Food, Nutrition, and Modern Medicine.
 
 If you're addicted to sugar or think it's not that bad, you're going to want to watch this!
+
+.. raw:: html
+
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+
+
+============================
+The Bitter Truth about Sugar
+============================
+
+.. raw:: html
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/5GhxradxA9U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The Bitter Truth About Sugar, Calories, and Processed Food with Dr. Robert Lustig, on Commune.
 
 .. raw:: html
 
