@@ -15,6 +15,7 @@ Projects - Sharing is Caring
    RSTs/Music.rst
    RSTs/Repose.rst
    RSTs/Video.rst
+   RSTs/VScripts.rst
 
 
 
