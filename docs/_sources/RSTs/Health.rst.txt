@@ -42,10 +42,35 @@ Overall, it **has** been pretty steady (on average). Here's June so far:
 
 
 
+=======================
+And then, this happened
+=======================
 
-**************************
-Dr Lustig, Our Inspiration
-**************************
+Here's a few observations on events that have happened the past few days. First, though, core concepts that I hold as uncontestable:
+
+	We are created beings: thus, we have a creator. He would not recommend anything that would negatively affect our health, mental or physical.
+	The world is in decline: what we ingest and our environment is growing increasingly toxic. Which calls for prudence / thoughtfulness / situational awareness.
+	Science must be respected, but not revered (i.e., considered gospel). It is not the ultimate truth: though it generally represents the closest thing we have to what we can confirm to be true, based on observation (which is different to faith-based truths).
+
+I have been stepping on the scale every morning upon rising. I know: you're not meant to do that, but it actually tells me a lot. Sudden weight gain or loss - to me, at least - points to fluid retention or loss: one doesn't accumulate (or lose) adipose rapidly.
+
+So, I ask myself: what causes fluid retention? Lustig indicates in one of his discussions that this can be a result of inflammation. Well, there's no question I still have significant inflammation, which very recently expressed itself as severe gout (uric acid production = unhappy liver) in the right foot and tenderness in the left knee. For which I finally took Advil and Tylenol and subsequently went from 96.8 to 99.1kg in a matter of days. Both of those meds are hepatotoxic: that I know. The liver deals with toxins: that we know.
+
+That I should have that profound a response (a 2kg fluid weight gain!) tells me a fair bit about the state of my liver, and sets at question what Lustig said about rapid liver function recovery: apparently restoring a liver back to normal is a longer process than he thought.
+
+
+.. raw:: html
+
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+
+
+**********************
+Robert Lustig, MD, MSL
+**********************
+
+Dr Lustig is a Professor Emeritus of Pediatrics, Division of Endocrinology at the University of Californis in San Francisco, specializing in the field of neuroendocrinology, and dedicated to fostering a global discussion of metabolic health and nutrition.
+
 
 =============================
 Why Obesity Isn't the Problem
