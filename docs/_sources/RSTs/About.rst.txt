@@ -6,7 +6,7 @@ About Projects
 My Projects Pages 
 *****************
 
-I was trying to upload images to a GMail email I was sending to Martin and Esther on 2022-Apr-15. Got about halfway through and GMail told me I would exceeded the size limit (25mb). Which seems silly. And this is without trying to send a video, even. Just pictures.
+I was trying to upload images to a GMail email I was sending to Martin and Esther on 2022-Apr-15. Got about halfway through and GMail told me I would exceeded the size limit (25mb). Which seems silly in this day and age: this was without trying to send a video, even. Just pictures.
 
 What appeals to me about doing project progress sharing this way is:
 
@@ -16,11 +16,13 @@ What appeals to me about doing project progress sharing this way is:
 	
 	* Updating is a lot quicker on GitHub than on Tightbytes: I edit locally, then use Github Desktop to manage the update to my pages.
 	
-You will notice that dates sort-of from the link key. For example, I'll give whoever I'm writing an email to, as a link, the current entry into a give project page, like so::
-
-	https://robinboncoeur.github.io/Projects/RSTs/Garden.html#apr-23
+	* Since the pages are hosted on GitHub, other family and friends could collaborate on this pages, and even add pages of their own.
 	
-Sphinx is really good that way! By the way, the images have been uniformly resized (for the most part) to 1024 x 768 pixels. They are not displayed in that resolution, but right-clicking and choosing "Open image in a New Tab..." will display that image in full resolution. 
+Some section use dates as a sort-of link key. For example, I'll give whoever I'm writing an email to, as a link, the current entry into a give project page, like so:
+
+	`https://robinboncoeur.github.io/Projects/RSTs/Garden.html#apr-23 <https://robinboncoeur.github.io/Projects/RSTs/Garden.html#apr-23>`_
+	
+Sphinx is really cool that way! By the way, the images have been uniformly resized (for the most part) to 1024 x 768 pixels. They are not displayed in that resolution, but right-clicking and choosing "Open image in a New Tab..." will display that image in a somewhat larger resolution. 
 
 
 
@@ -34,7 +36,7 @@ Sphinx is really good that way! By the way, the images have been uniformly resiz
 A Bit about the Why
 ===================
 
-First off, it's about sharing. That was sort-of my primary motivation for `TightBytes <https://tightbytes.com/>`_ - which sees pretty much no visitors ... whatever - and is what drives these pages. As you can tell from the next section, a bit of the reason was so I had a centralised location for reminders and links to stuff and so forth. Getting old bites, and I'll sometimes find myself out and about - away from my PC - trying to do something I absolutely *Know* how to do... yeah, but can't remember **exactly** how to do it.
+First off, it's about sharing. That was sort-of my primary motivation for `TightBytes <https://tightbytes.com/>`_ - which sees pretty much no visitors ... whatever - and is what drives these pages. As you can tell from the next section, a bit of the reason was so I had a centralised location for reminders and links to stuff and so forth. Getting old bites the big one, and I'll sometimes find myself out and about - away from my PC - trying to do something I absolutely *Know* how to do... yeah, but can't remember **exactly** how to do it.
 
 Perhaps the reason I forget is because I use so many "tools". 
 
@@ -58,7 +60,11 @@ These are all mechanisms designed for what these pages are designed for: `Sphinx
 	
 	</HTML>
 
+It is essentially a markup language, meaning you insert the formatting 'tages' - in HTML, it would be words enclosed by lesser-than and greater-than symbols - when you create the document which the interpreter sees as instructions on how the text should look or behave. Being comfortable in that "language" is just a matter of doing it enough, just like any other language.
 
+HTML is just one such "tool". reStructured Text is another - these pages are formatted using reST. VBA is another, Python yet another... and after a while, I end up needing a reference on how certain tasks are performed, particularly if I hadn't done them in a while.
+
+I have another GitHub help page site called `Help Yrself <https://robinboncoeur.github.io/HelpYrself/>`_ that catalogues tasks I sort-of learned to do, but then, since it wasn't something I did every day, needed to be saved somewhere for when I needed that information again. 
 
 *************************************
 Reminders [to Myself] of Sphinx Stuff

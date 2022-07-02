@@ -1,7 +1,7 @@
-.. Projects aster file, created by
+.. Family Projects, the master file, created by
    sphinx-quickstart on Sat Apr 16 16:28:01 2022.
 
-Projects - Sharing is Caring
+Our Projects and Activitiies
 ============================
 
 .. toctree::
