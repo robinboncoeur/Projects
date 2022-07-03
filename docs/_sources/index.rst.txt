@@ -13,6 +13,7 @@ Our Projects and Activitiies
    RSTs/Health.rst
    RSTs/Macs.rst
    RSTs/Music.rst
+   RSTs/MyApps.rst
    RSTs/Repose.rst
    RSTs/Video.rst
    RSTs/VScripts.rst

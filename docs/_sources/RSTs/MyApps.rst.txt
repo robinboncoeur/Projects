@@ -1,0 +1,40 @@
+####################
+Software Development
+####################
+
+***********
+Quick Links
+***********
+
+`Repair Site <https://bikehike.org/how-much-to-repair-macbook-pro-speakers/>`_.
+
+`Find My Mac <https://everymac.com/ultimate-mac-lookup/>`_.
+
+
+
+***************
+Budget Analysis
+***************
+
+**Tools**
+
+	Excel (VBA)
+
+	SQLite3
+
+**Data Set**
+
+	July 2016 through June 2022
+	
+=================
+2022-July Summary
+=================
+
+Quick note: the *'Classes'* I've been using inviolve too many sub-catagories: it's become unwieldy. Also, the naming convention was inconsistent and inflexible. So, I'm going with less catagories:
+
+	DLXxxx = daily living expenses (food, other consumables)
+	
+	HSHxxx = Household (Maintenance, gardening, large purchases)
+	
+	
+
