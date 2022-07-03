@@ -31,12 +31,23 @@ Travels
 
 
 
-`New Zealand <https://tightbytes.com/videos/NZYouGetThere.mp4>`_
+`New Zealand - Getting There <https://tightbytes.com/videos/NZYouGetThere.mp4>`_
 
 .. raw:: html
 
    <iframe width="560" height="315" src="https://tightbytes.com/videos/NZYouGetThere.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+.. raw:: html
+
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
+`New Zealand - Trampin' (Hiking) <https://tightbytes.com/videos/TrampinTheMou.mp4>`_
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://tightbytes.com/videos/TrampinTheMou.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -56,11 +67,37 @@ Travels
 Other, Older Stuff
 ******************
 
+`Tribute <https://tightbytes.com/videos/TributeToDad-n-Mom.mp4>`_
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://tightbytes.com/videos/TributeToDad-n-Mom.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. raw:: html
+
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
 `All Free Stuff <https://tightbytes.com/videos/AllFreeStuff.mp4>`_
 
 .. raw:: html
 
-   <iframe width="560" height="315" src="https://tightbytes.com/videos/AllFreeStuff.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://tightbytes.com/videos/Oct18Update.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. raw:: html
+
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
+`2018 October Update <https://tightbytes.com/videos/Oct18Update.mp4>`_
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://tightbytes.com/videos/Oct18Update.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 .. raw:: html
 
