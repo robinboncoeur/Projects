@@ -2,7 +2,70 @@
 Videos Page
 ###########
 
-Note to Self: *This page provides a centralised location for links to videos stored on tightbytes.com. It's sort-of organised by general topic.*
+
+*******
+Travels
+*******
+
+`Anne is Cooking at Montmartre <https://tightbytes.com/videos/AnneIsCooking.mp4>`_
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://tightbytes.com/videos/AnneIsCooking.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. raw:: html
+
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
+`Devon / Cornwall <https://tightbytes.com/videos/DevonCornwall04.mp4>`_
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://tightbytes.com/videos/DevonCornwall04.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. raw:: html
+
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
+`New Zealand <https://tightbytes.com/videos/NZYouGetThere.mp4>`_
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://tightbytes.com/videos/NZYouGetThere.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+.. raw:: html
+
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+
+
+
+
+
+
+
+******************
+Other, Older Stuff
+******************
+
+`All Free Stuff <https://tightbytes.com/videos/AllFreeStuff.mp4>`_
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://tightbytes.com/videos/AllFreeStuff.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. raw:: html
+
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
 
 ******
 Garden
@@ -10,9 +73,7 @@ Garden
 
 .. _vids-storm-draining:
 
-=========================
-Drainage for the footpath
-=========================
+`Drainage for the Footpath <https://tightbytes.com/videos/projects/garden/Aj-SHTrench.mp4>`_
 
 .. raw:: html
 
@@ -20,17 +81,9 @@ Drainage for the footpath
 
 
 
-*******
-Travels
-*******
-
-=============================
-Anne is Cooking at Montmartre
-=============================
-
 .. raw:: html
 
-   <iframe width="560" height="315" src="https://tightbytes.com/videos/AnneIsCooking.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 
-
+Note to Self: *This page provides a centralised location for links to videos stored on tightbytes.com. It's sort-of organised by general topic.*
