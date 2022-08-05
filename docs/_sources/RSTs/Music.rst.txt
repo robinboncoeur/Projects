@@ -249,7 +249,7 @@ For those who might be slightly interested, here's how things like this progress
    <iframe width="560" height="315" src="https://www.youtube.com/embed/aNG7Aw8ZB14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-(who, in turn, was inspired by Felix Mendelssohn, another of my absolute favourtie composers ever) this could be a 'Tone Poem' when finished. Chronicled by date uploaded:
+(who, in turn, was inspired by Felix Mendelssohn, another of my absolute favourtie composers ever) this could be a 'Tone Poem' when finished. Chronicled by date rendered in Reaper:
 
 
 ==============
@@ -321,5 +321,3 @@ Other Music-Related Links
 
 `Remove Library from Native Access <https://spitfireaudio.zendesk.com/hc/en-us/articles/360009029834-How-to-remove-a-library-from-Native-Access-Mac-OS->`_
 
-
-This lens has moving parts that appear to work smoothly: the workings seem sound. However, some front and rear glass elements have noticable fungus. This is why I'm selling for parts for only, not as a working lenses. Price is for pickup - shipping not included.
