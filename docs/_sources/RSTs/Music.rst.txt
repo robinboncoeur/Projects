@@ -246,15 +246,14 @@ For those who might be slightly interested, here's how things like this progress
 
 .. raw:: html
    
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/aNG7Aw8ZB14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/-gGoCshxfPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-(who, in turn, was inspired by Felix Mendelssohn, another of my absolute favourtie composers ever) this could be a 'Tone Poem' when finished. Chronicled by date rendered in Reaper:
+(who, in turn, was inspired by Felix Mendelssohn, another of my absolute favourite composers ever) this might be a 'Tone Poem' when finished. Or something. Chronicled by date rendered in Reaper:
 
 
-==============
-WIP-2022-07-27
-==============
+
+**WIP-2022-07-27**
 
 .. raw:: html
 
@@ -264,9 +263,7 @@ WIP-2022-07-27
     </audio>
 
 
-==============
-WIP-2022-07-29
-==============
+**WIP-2022-07-29**
 
 .. raw:: html
 
@@ -276,9 +273,7 @@ WIP-2022-07-29
     </audio>
 
 
-==============
-WIP-2022-07-31
-==============
+**WIP-2022-07-31**
 
 .. raw:: html
 
@@ -288,9 +283,7 @@ WIP-2022-07-31
     </audio>
 
 
-==============
-WIP-2022-08-02
-==============
+**WIP-2022-08-02**
 
 .. raw:: html
 
@@ -300,9 +293,7 @@ WIP-2022-08-02
     </audio>
 
 
-==============
-WIP-2022-08-06
-==============
+**WIP-2022-08-06**
 
 .. raw:: html
 
