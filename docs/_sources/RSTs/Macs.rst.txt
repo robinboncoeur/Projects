@@ -2,9 +2,9 @@
 Repairing Anything Mac
 ######################
 
-***********
-Quick Links
-***********
+***************
+Important Links
+***************
 
 `Repair Site <https://bikehike.org/how-much-to-repair-macbook-pro-speakers/>`_.
 
@@ -204,5 +204,26 @@ I will give this a try. thank you.
 **RamosHE**
 
 I had the same problem even when using the latest Catalina patcher version 1.4.4. The "sudo nvram..." command solved the problem of Microsoft office apps, Chrome browser, Edge browser crashing at start up.
+
+
+
+*********
+Mac Links
+*********
+
+https://www.imore.com/how-to-prepare-mac-for-sale#first-steps
+
+https://www.macobserver.com/tips/how-to/securely-erase-macs-ssd/#:~:text=Back%20up%20any%20data%20you%20want%20to%20preserve%20that's%20on,then%20select%20the%20Erase%20option.
+
+https://www.intego.com/mac-security-blog/how-to-securely-erase-data-from-your-mac-and-external-drives/
+
+https://everymac.com/ultimate-mac-lookup/
+
+https://github.com/ablakely/macfand/
+
+https://github.com/pobetiger/macfanpp
+
+https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.2-15-iris-only-mid-2015-retina-display-specs.html
+
 
 

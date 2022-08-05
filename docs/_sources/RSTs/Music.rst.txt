@@ -2,9 +2,11 @@
 Musical Compositions
 ####################
 
-********
-Sketches
-********
+***************************
+Finished Sketches - Sort-Of
+***************************
+
+Is a piece ever truly 'finished'?
 
 Below are links to musical sketches, in reverse chronological order. I wrote these to sort-of get an idea how instruments interact, and what they do at different points of the register. For example, a trumpet playing in a higher register is going to have a completely different effect than one playing in the lower registers.
 
@@ -236,4 +238,88 @@ Sac A Dos - (Backpack)
    <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 
+**************************
+WIPs - Works is a Big Word
+**************************
 
+For those who might be slightly interested, here's how things like this progress. Taking Alice Mary Smith and her Symphony in C, first movement as my inspiration:
+
+.. raw:: html
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/aNG7Aw8ZB14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+(who, in turn, was inspired by Felix Mendelssohn, another of my absolute favourtie composers ever) this could be a 'Tone Poem' when finished. Chronicled by date uploaded:
+
+
+==============
+WIP-2022-07-27
+==============
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/WIPs/Sketch13ai.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+==============
+WIP-2022-07-29
+==============
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/WIPs/Sketch13bb.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+==============
+WIP-2022-07-31
+==============
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/WIPs/Sketch13bd.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+==============
+WIP-2022-08-02
+==============
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/WIPs/Sketch13bf-wip.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+==============
+WIP-2022-08-06
+==============
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/WIPs/Sketch13bg-wip.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+
+
+*************************
+Other Music-Related Links
+*************************
+
+
+`Remove Library from Native Access <https://spitfireaudio.zendesk.com/hc/en-us/articles/360009029834-How-to-remove-a-library-from-Native-Access-Mac-OS->`_
+
+
+This lens has moving parts that appear to work smoothly: the workings seem sound. However, some front and rear glass elements have noticable fungus. This is why I'm selling for parts for only, not as a working lenses. Price is for pickup - shipping not included.

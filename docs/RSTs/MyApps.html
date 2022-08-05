@@ -50,8 +50,10 @@
 <li class="toctree-l2"><a class="reference internal" href="#quick-links">Quick Links</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#budget-analysis">Budget Analysis</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="#july-summary">2022-July Summary</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#sqls-code">SQLs Code</a></li>
 </ul>
 </li>
+<li class="toctree-l2"><a class="reference internal" href="#coding-links">Coding Links</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="Repose.html">Resting from Projects</a></li>
@@ -103,12 +105,84 @@
 </div></blockquote>
 <section id="july-summary">
 <h3>2022-July Summary<a class="headerlink" href="#july-summary" title="Permalink to this heading"></a></h3>
-<p>Quick note: the <em>‘Classes’</em> I’ve been using inviolve too many sub-catagories: it’s become unwieldy. Also, the naming convention was inconsistent and inflexible. So, I’m going with less catagories:</p>
+<p>Quick note: the <em>‘Classes’</em> I’ve been using involve too many sub-catagories: it’s become unwieldy. Also, the naming convention was inconsistent and inflexible. So, I’m going with less catagories:</p>
 <blockquote>
-<div><p>DLXxxx = daily living expenses (food, other consumables)</p>
-<p>HSHxxx = Household (Maintenance, gardening, large purchases)</p>
+<div><p>DLXxxx = daily living expenses (food, other consumables - GREEN)</p>
+<p>HSHxxx = Household (Maintenance, gardening, large purchases - GREEN)</p>
+<p>OTHxxx = Other expenses (Business, transport, donations, hobbies - ORANGE)</p>
+<p>BKxxxxx = Bank-based (fees, charges - GREY)</p>
+<p>HOLxxxx = Holidays - LILAC</p>
+<p>INCxxxx = Revenue (income - BLUE)</p>
+<p>LGLxxxx = Fixed expenses (Tax accountant, other legal - BLUE)</p>
+<p>MORxxxx = Mortgage-related txns - YELLOW</p>
+</div></blockquote>
+<p>The approach was to import transactions from ANZ Savings (259), my personal checking (972), credit card (568), home loan (822) and BeyondBank (647) from July 2016 through June 2022 inclusive into one spreadsheet:</p>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 14%" />
+<col style="width: 20%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Record
+Number</p></th>
+<th class="head"><dl class="simple">
+<dt>Transaction</dt><dd><p>Account</p>
+</dd>
+</dl>
+</th>
+<th class="head"><p>Date</p></th>
+<th class="head"><p>Amount</p></th>
+<th class="head"><p>Transaction
+Description</p></th>
+<th class="head"><p>Transaction
+Code</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>TransNo</p></td>
+<td><p>T-Acct</p></td>
+<td><p>T-Date</p></td>
+<td><p>T-Amt</p></td>
+<td><p>T-Desc</p></td>
+<td><p>TransCode</p></td>
+</tr>
+</tbody>
+</table>
+<p>Final column (TransRelated) is a throw-away, exists as a kludge to make sure each row in the export CSV has equal number of columns.</p>
+<p>Important: <em>prior to export to CSV, to keep SQLite happy with the date field, change dd/mm/yyyy to yyyy-mm-dd</em>.</p>
+</section>
+<section id="sqls-code">
+<h3>SQLs Code<a class="headerlink" href="#sqls-code" title="Permalink to this heading"></a></h3>
+<p>Food items for FY-2016:</p>
+<blockquote>
+<div><p>SELECT TransDate, TransAmt, TransDesc FROM Transactions WHERE TransCode = ‘DLXALI’ AND TransDate BETWEEN ‘2016-07-01’ AND ‘2017-06-31’ ORDER BY TransDate;</p>
+</div></blockquote>
+<p>Classes:</p>
+<blockquote>
+<div><p>SELECT DISTINCT TransCode FROM Transactions ORDER BY TransCode;</p>
 </div></blockquote>
 </section>
+</section>
+<section id="coding-links">
+<h2>Coding Links<a class="headerlink" href="#coding-links" title="Permalink to this heading"></a></h2>
+<p><a class="reference external" href="https://jsonlint.com/">JSON verification site</a></p>
+<p><a class="reference external" href="https://marketplace.visualstudio.com/items?itemName=EXCEEDSYSTEM.vscode-macros">Visual Studio Code SUpport</a></p>
+<p><a class="reference external" href="http://www.cpearson.com/excel/ArraysAndRanges.aspx">C Pearson VBA site</a></p>
+<p><a class="reference external" href="https://stackoverflow.com/questions/10714251/how-to-avoid-using-select-in-excel-vba">Stack Overflow VBA: don’t use Select</a></p>
+<p><a class="reference external" href="https://www.sphinx-doc.org/en/master/usage/restructuredtext/roles.html#ref-role">Sphinx: ‘ref’ usage</a></p>
+<p><a class="reference external" href="https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html#tables">Sphinx: tables</a></p>
+<p><a class="reference external" href="https://code.visualstudio.com/docs/setup/setup-overview">VS Code</a></p>
 </section>
 </section>
 

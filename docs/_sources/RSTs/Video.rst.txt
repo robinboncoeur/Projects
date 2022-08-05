@@ -108,6 +108,28 @@ Other, Older Stuff
 Garden
 ******
 
+RaisedGrowBeds
+`Raised Grow Beds <https://tightbytes.com/videos/RaisedGrowBeds.mp4>`_
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://tightbytes.com/videos/RaisedGrowBeds.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. raw:: html
+
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
+`2018 October Update <https://tightbytes.com/videos/Oct18Update.mp4>`_
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://tightbytes.com/videos/Oct18Update.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 .. _vids-storm-draining:
 
 `Drainage for the Footpath <https://tightbytes.com/videos/projects/garden/Aj-SHTrench.mp4>`_
@@ -124,3 +146,31 @@ Garden
 
 
 Note to Self: *This page provides a centralised location for links to videos stored on tightbytes.com. It's sort-of organised by general topic.*
+
+
+***********
+Video Links
+***********
+
+https://www.patreon.com/m/666637/posts
+
+https://academy.dslrvideoshooter.com/courses/gh5-guide
+
+https://subslikescript.com/series/The_Adventures_of_Sherlock_Holmes-86661/season-2/episode-3-The_Norwood_Builder
+
+https://theartofdocumentary.com/
+
+https://www.ebay.com.au/sch/i.html?_from=R40&_trksid=p2553889.m570.l1313&_nkw=SmallRig+Seamless+Focus+Gear&_sacat=0
+
+https://www.amazon.com.au/s?k=m4%2F3+12mm&i=electronics&page=3&crid=227KZESHH24I2&qid=1657938110&sprefix=m4%2F3+12mm%2Celectronics%2C217&ref=sr_pg_3
+
+https://xcart.hollywoodcamerawork.com/xcart/shot-designer/#buy=undefined
+
+https://www.ephotozine.com/article/tamron-af-70-300mm-f-4-5-6-di-ld-macro-interchangeable-lens-review-13028
+
+https://www.imaging-resource.com/lenses/tamron/70-300mm-f4-5.6-di-ld-macro-1:2-af/specifications/
+
+
+
+
+

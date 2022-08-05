@@ -30,11 +30,74 @@ Budget Analysis
 2022-July Summary
 =================
 
-Quick note: the *'Classes'* I've been using inviolve too many sub-catagories: it's become unwieldy. Also, the naming convention was inconsistent and inflexible. So, I'm going with less catagories:
+Quick note: the *'Classes'* I've been using involve too many sub-catagories: it's become unwieldy. Also, the naming convention was inconsistent and inflexible. So, I'm going with less catagories:
 
-	DLXxxx = daily living expenses (food, other consumables)
+	DLXxxx = daily living expenses (food, other consumables - GREEN)
 	
-	HSHxxx = Household (Maintenance, gardening, large purchases)
+	HSHxxx = Household (Maintenance, gardening, large purchases - GREEN)
 	
+	OTHxxx = Other expenses (Business, transport, donations, hobbies - ORANGE)
 	
+	BKxxxxx = Bank-based (fees, charges - GREY)
+	
+	HOLxxxx = Holidays - LILAC
+	
+	INCxxxx = Revenue (income - BLUE)
+	
+	LGLxxxx = Fixed expenses (Tax accountant, other legal - BLUE)
+	
+	MORxxxx = Mortgage-related txns - YELLOW
+
+The approach was to import transactions from ANZ Savings (259), my personal checking (972), credit card (568), home loan (822) and BeyondBank (647) from July 2016 through June 2022 inclusive into one spreadsheet:
+
++---------+-------------+--------+--------+-------------+-------------+
+| Record  | Transaction | Date   | Amount | Transaction | Transaction |
+| Number  |  Account    |        |        | Description | Code        |
++=========+=============+========+========+=============+=============+
+|         |             |        |        |             |             |
++---------+-------------+--------+--------+-------------+-------------+
+| TransNo |  T-Acct     | T-Date | T-Amt  | T-Desc      | TransCode   |
++---------+-------------+--------+--------+-------------+-------------+
+
+Final column (TransRelated) is a throw-away, exists as a kludge to make sure each row in the export CSV has equal number of columns.
+
+Important: *prior to export to CSV, to keep SQLite happy with the date field, change dd/mm/yyyy to yyyy-mm-dd*.
+
+
+=========
+SQLs Code
+=========
+
+Food items for FY-2016:
+
+	SELECT TransDate, TransAmt, TransDesc FROM Transactions WHERE TransCode = 'DLXALI' AND TransDate BETWEEN '2016-07-01' AND '2017-06-31' ORDER BY TransDate;
+	
+Classes:
+
+	SELECT DISTINCT TransCode FROM Transactions ORDER BY TransCode;
+	
+
+
+************
+Coding Links
+************
+
+`JSON verification site <https://jsonlint.com/>`_
+
+`Visual Studio Code SUpport <https://marketplace.visualstudio.com/items?itemName=EXCEEDSYSTEM.vscode-macros>`_
+
+`C Pearson VBA site <http://www.cpearson.com/excel/ArraysAndRanges.aspx>`_
+
+`Stack Overflow VBA: don't use Select <https://stackoverflow.com/questions/10714251/how-to-avoid-using-select-in-excel-vba>`_
+
+`Sphinx: 'ref' usage <https://www.sphinx-doc.org/en/master/usage/restructuredtext/roles.html#ref-role>`_
+
+`Sphinx: tables <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html#tables>`_
+
+`VS Code <https://code.visualstudio.com/docs/setup/setup-overview>`_
+
+
+
+
+
 
