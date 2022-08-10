@@ -303,6 +303,26 @@ For those who might be slightly interested, here's how things like this progress
     </audio>
 
 
+**WIP-2022-08-08**
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/WIPs/Sketch13bh-wip.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+**WIP-2022-08-10**
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/WIPs/Sketch13bi-wip.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
 
 
 *************************
