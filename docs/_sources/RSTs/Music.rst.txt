@@ -313,7 +313,7 @@ For those who might be slightly interested, here's how things like this progress
     </audio>
 
 
-**WIP-2022-08-10**
+**WIP-2022-08-12**
 
 .. raw:: html
 
@@ -322,7 +322,7 @@ For those who might be slightly interested, here's how things like this progress
       Your browser does not support the <code>audio</code> element. 
     </audio>
 
-
+Current for that above date, here is a link to `the score <https://www.tightbytes.com/music/Scores/Sketch13bi.pdf>`_.
 
 
 *************************
