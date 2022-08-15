@@ -60,7 +60,7 @@ These are all mechanisms designed for what these pages are designed for: `Sphinx
 	
 	</HTML>
 
-It is essentially a markup language, meaning you insert the formatting 'tages' - in HTML, it would be words enclosed by lesser-than and greater-than symbols - when you create the document which the interpreter sees as instructions on how the text should look or behave. Being comfortable in that "language" is just a matter of doing it enough, just like any other language.
+It is essentially a markup language, meaning you insert the formatting 'tags' - in HTML, it would be words enclosed by lesser-than and greater-than symbols - when you create the document which the interpreter sees as instructions on how the text should look or behave. Being comfortable in that "language" is just a matter of doing it enough, just like any other language.
 
 HTML is just one such "tool". reStructured Text is another - these pages are formatted using reST. VBA is another, Python yet another... and after a while, I end up needing a reference on how certain tasks are performed, particularly if I hadn't done them in a while.
 
@@ -90,7 +90,7 @@ Embedded YouTube Video
 
 This code::
 
-.. raw:: html
+   .. raw:: html
    
    <iframe width="560" height="315" src="https://www.youtube.com/embed/123xxxXXXyZ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -177,23 +177,6 @@ Links Management
 
 Here's a typical example of embedding a link: Blender-for-Mac users, please refer to the `Mac user help <http://blender.stackexchange.com/questions/6173/where-does-console-output-go>`_ page.
 
-
-
-===============
-Another Example
-===============
-
-As you can see from the example, an example of a fully-qualified path for Linux would be:
-
-   /home/robyn/Documents/Blender/Projects/AllTextures/AllSkin/Antonia/
-
-or, for the Mac:
-
-   /Volumes/500GB/Blender/Projects/AllTextures/AllSkin/Antonia/
-
-or, for Windows:
-
-   E:\\MyRuntime\\runtime\\textures\\VendorName\\ImagesFolder\\Character\\
 
 
 
