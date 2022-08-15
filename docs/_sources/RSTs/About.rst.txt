@@ -202,38 +202,6 @@ The code is this (minus the '*')::
 Other Help Tips
 ***************
 
-=============================
-Transfering Money with PayPal
-=============================
-
-So, here is my approach:
-
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_PayPal01.png
-
-I already have you as a payee (someone I send money to) but you would normally get:
-
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_PayPal02.png
-
-...and then, how much. Do $10. Leave it at USD: you'll know how huch you've already sent if you're doing it incrememtally.
-
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_PayPal04.png
-
-Then, the "How would you like to pay?"...
-
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_PayPal05.png
-
-you would normally have an account tied to your PayPal account. I have my Savings account (Anz) that I transfer money into. If you haven't done that yet - associated an account to PayPal - you may need to do that. It will do a summary:
-
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_PayPal07.png
-
-...and you just click [Send Money Now] - which exercise I did just now, so I could do these screen shots - and I'll get notification:
-
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_PayPal08.png
-
-... that you sent me money. Easy-peasy. :)
-
-
-
 
 ===========================
 Changing Settings in Chrome
@@ -306,41 +274,12 @@ Excellent Youtube channel on budget filmmaking: `Nigel Barros <https://www.youtu
    <iframe width="560" height="315" src="https://www.youtube.com/embed/9USTddwNoXU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-The course on filmmaking: `Tomorrow's Filmmakers <https://academy.tomorrowsfilmmakers.com/>`_. Need a membership to access the following links... creme de la creme tutorials.
+The course on filmmaking: `Tomorrow's Filmmakers <https://academy.tomorrowsfilmmakers.com/>`_. Need a membership to access the following tutorials.
 
 `Composition <https://academy.tomorrowsfilmmakers.com/products/tomorrow-s-filmmakers/categories/2148929059/posts/2152600929>`_
 
 `Lighting <https://academy.tomorrowsfilmmakers.com/products/tomorrow-s-filmmakers/categories/2148929059/posts/2152600926>`_
 
 `Types of shots <https://academy.tomorrowsfilmmakers.com/products/tomorrow-s-filmmakers/categories/2148929059/posts/2152600917>`_
-
-
-
-*************
-Notes to Self
-*************
-
-=====================
-SSA Finally Happening
-=====================
-
-Dear Sir: Thank you for your email. We have received the packet you sent. We have also cleared and forwarded your application to Baltimore for final processing and approval on May 4. Please allow at least a month or two before you start receiving the payment to your account and the Notice of Award letter. Moreover, we have forwarded the original documents you mailed to us to our mailroom for return to you. You should be receiving it within this week or at most next week. Thank you. Stay safe.
-
-
-====================
-Cairns Property Sale
-====================
-
-From Sarah::
-
-	Sarah McCooey | BJC Law
-	Attachments
-	13:49 (51 minutes ago)
-	to juliadhahn@gmail.com, me
-
-	Hi Julia,
-	We have settlement due 16/05 – bank have accepted the invite just waiting on then accepting the date and time. Once we received settlement figures from the buyers solicitor and will prepare figures and forward to you. I have attached two documents we don’t seem to have received back signed – please put bank details on the trust account authority for your surplus funds to be banked from settlement.
-	Yours faithfully,
-	Sarah McCooey | Senior Conveyancer
 
 
