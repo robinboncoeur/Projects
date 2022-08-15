@@ -12,7 +12,7 @@ What appeals to me about doing project progress sharing this way is:
 
 	* I can share a LOT of information no-cost
 	
-	* The information is hidden in obscurity of "no-one gives a rat's nether-regions about what I'm doing". *Just have a look at `Tightbytes <https://www.tightbytes.com/>`_. Visitors? none*. 
+	* The information is hidden in obscurity of "no-one gives a rat's nether-regions about what I'm doing". *Just have a look at my website:* `Tightbytes.com <https://www.tightbytes.com/>`_. *Visitors? none*. 
 	
 	* Updating is a lot quicker on GitHub than on Tightbytes: I edit locally, then use Github Desktop to manage the update to my pages.
 	
