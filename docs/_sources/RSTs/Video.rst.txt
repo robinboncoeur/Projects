@@ -7,7 +7,7 @@ Videos Page
 Travels
 *******
 
-`Anne is Cooking at Montmartre <https://tightbytes.com/videos/AnneIsCooking.mp4>`_
+`Anne is Cooking <https://tightbytes.com/videos/AnneIsCooking.mp4>`_ at Montmartre 
 
 .. raw:: html
 
