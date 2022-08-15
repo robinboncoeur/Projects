@@ -325,6 +325,20 @@ For those who might be slightly interested, here's how things like this progress
 Current for that above date, here is a link to `the score <https://www.tightbytes.com/music/Scores/Sketch13bi.pdf>`_.
 
 
+**WIP-2022-08-15**
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/WIPs/Sketch13ca.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+Also on offer are `the -ca- score <https://www.tightbytes.com/music/Scores/Sketch13ca.pdf>`_ and the `Musescore file <https://www.tightbytes.com/music/Scores/Sketch13ca.mscz>`_, such as it is. Whilst I seem to have a sort of ending to the thing, finally, I'm not at all thrilled with a lot of it. Unfortunately, in my current - extremely tedious - workflow, I actually have to export to MIDI and import into Reaper to sort-of hear it properly. Apparently MS 4 will support VST3/VSTis **BUT** here's the thing: no articulations as yet. That'll be 4.1 or so. So, I don't see this workflow changing much for the rest of the year.
+
+Whether this is really a 'tone poem': can't really say. It sort-of smells more like sonata-allegro form, maybe. I might just be hiding behing the "Tone Poem" moniker because, in my very limited experience, that term appears to apply to pieces you can't designate another description.
+
+
 *************************
 Other Music-Related Links
 *************************
