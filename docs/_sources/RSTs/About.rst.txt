@@ -46,7 +46,7 @@ These pages - the one's on Github, currently (2022) - are created (typed) in a p
 
 	...here is how I do ** bold** and *italic*...
 
-produces "...here is how I do ** bold** and *italic*...".
+produces "...here is how I do **bold** and *italic*...".
 
 These are all mechanisms designed for what these pages are designed for: `Sphinx <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_, which uses reStructuredText as the default plain-text markup 'language'. Just like in other languages, programming 'languages' have certain rules so that you can pretty much get the same results all the time in a given environment. On the web, the most common 'language' is HTML::
 
