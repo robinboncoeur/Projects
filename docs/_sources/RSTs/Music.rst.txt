@@ -371,7 +371,16 @@ By the way, I can't seem to get MS to include the full score in Landscape mode i
 
 Update: it's now almost two in the arvo, been up since 4am. A few things occur to me: I used to write to the sound produced in Musescore. Writing to Reaper seems similar, although the generated piece has a fair bit more life to it... dynamics, and all that.
 
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/WIPs/Sketch13cc.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
 Still more to do to the end of the thing. Sort-of just ends... legitimately, but almost, a non-event.
+
+
 
 
 *************************
