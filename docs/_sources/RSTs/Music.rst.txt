@@ -227,15 +227,17 @@ Sac A Dos - (Backpack)
     </audio>
 
 
-	"Sometimes, the magic works, sometimes it doesn't." 
+"Sometimes, the magic works, sometimes it doesn't." 
 	
-	*Chief Dan George, from the film 'Little Big Man'*.
+*Chief Dan George, from the film 'Little Big Man'*.
 
 
 
 .. raw:: html
    
    <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+
 
 
 **************************
@@ -249,7 +251,7 @@ For those who might be slightly interested, here's how things like this progress
    <iframe width="560" height="315" src="https://www.youtube.com/embed/-gGoCshxfPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-(who, in turn, was inspired by Felix Mendelssohn, another of my absolute favourite composers ever) this might be a 'Tone Poem' when finished. Or something. Chronicled by date rendered in Reaper:
+(who, in turn, was inspired by Felix Mendelssohn, another of my absolute favourite composers, ever) this might be a 'Tone Poem' when finished. Or something. Chronicled by date rendered in Reaper:
 
 
 
