@@ -413,7 +413,7 @@ Saturday afternoon. Found the missing solution, perhaps, to some of the lines in
    
    <iframe width="560" height="315" src="https://www.youtube.com/embed/jdkYi6mhVyQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I've actually subscribed to `Ryan Leach's YouTube channel <https://www.youtube.com/c/RyanLeach>`_ - reckon it would be worth it to sign up for his course as well. It would go a long way to clearing up some of the muddiness I create - involuntarily - and explain why sometimes the magic work, whilse often it doesn't.
+I've actually subscribed to `Ryan Leach's YouTube channel <https://www.youtube.com/c/RyanLeach>`_ - reckon it would be worth it to sign up for his course as well. It would go a long way to clearing up some of the muddiness I create - involuntarily - and explain why sometimes the magic works, whilse often it doesn't.
 
 
 
