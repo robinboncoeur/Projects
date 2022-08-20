@@ -371,7 +371,9 @@ In this sort of piece - using Alice Mary Smith's First Movement of her C-minor s
 
 By the way, I can't seem to get MS to include the full score in Landscape mode into a PDF. That's a fail. Maybe I need to selet a larger paper format, perhaps? Tried ledger-sized paper: seems to work.
 
-Update A: it's now almost two in the arvo, been up since 4am. A few things occur to me: I used to write to the sound produced in Musescore. Writing to Reaper seems similar, although the generated piece has a fair bit more life to it... dynamics, and all that.
+**Update A**
+
+It's now almost two in the arvo, been up since 4am. A few things occur to me: I used to write to the sound produced in Musescore. Writing to Reaper seems similar, although the generated piece has a fair bit more life to it... dynamics, and all that.
 
 .. raw:: html
 
@@ -382,7 +384,11 @@ Update A: it's now almost two in the arvo, been up since 4am. A few things occur
 
 Still more to do to the end of the thing. Sort-of just ends... legitimately, but almost, a non-event.
 
-Update B: it's now quarter-past nine in the evening. I think I've reached a stopping point.
+
+
+**Update B**
+
+It's now quarter-past nine in the evening. I think I've reached a stopping point.
 
 .. raw:: html
 
@@ -398,6 +404,16 @@ And files:
 	`MS3 -cd- file <https://www.tightbytes.com/music/Scores/Sketch13cd.mscz>`_
 
 It's not done. Closer, though. At least, it doesn't sort-of just end.
+
+**Update C**
+
+Saturday afternoon. Found the missing solution, perhaps, to some of the lines in this piece that "simply don't really work"... that is: it will be worth my while to study a bit of counterpoint.
+
+.. raw:: html
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/jdkYi6mhVyQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I've actually subscribed to `Ryan Leach's YouTube channel <https://www.youtube.com/c/RyanLeach>`_ - reckon it would be worth it to sign up for his course as well. It would go a long way to clearing up some of the muddiness I create - involuntarily - and explain why sometimes the magic work, whilse often it doesn't.
 
 
 
