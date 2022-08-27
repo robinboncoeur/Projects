@@ -434,6 +434,11 @@ Hope you enjoy. Of course, the Reaper version is going to be the better one to l
     </audio>
 
 
+Update: 2022-Aug-24
+The playback will be the same as the Reaper version on my Musescore site, thanks to YouTube. It features SpitFire Studio Woodwinds and Studio Strings (the least expensive versions for now, as I really am only beginning to get my head around Reaper and sound libraries and articulations and instrument ranges and composition in general. The sound: well, significantly more what I wanted it to be.
+
+I recently purchased the Spitfire Studio Brass library (for Reaper) and wow, what a lot of fun. Hence, brass features quite prominently, here (perhaps a bit too much so).
+
 
 *************************
 Other Music-Related Links
