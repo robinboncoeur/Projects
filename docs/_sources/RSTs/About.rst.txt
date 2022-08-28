@@ -278,6 +278,10 @@ you'll be prompted to send invitations to others.
 I'd like you to try set up a meeting, and send me an invitation. When you do so, I can then create the help file on how to save an invitation to your calendar.
 
 
+
+
+
+
 *************
 Film Projects
 *************
