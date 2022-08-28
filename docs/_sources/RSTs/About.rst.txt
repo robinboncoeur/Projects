@@ -235,6 +235,47 @@ Hope this helps.
 
 
 
+=====================
+How to Do Google Meet
+=====================
+
+To make it easier, I tend to use 'Calendar' that comes with GMail.... that way, I don't have to hunt through emails to find an invitation: it's right there in my GMail calendar. This is Gmail Calendar:
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-01.png
+
+It should be visible in the upper right-hand area in your GMail page. As you can see, the get-together we had today is in my calendar. Clicking on this item brings up all the details, including a way to open the whole "Meet" page.
+
+So, here's how I set up our next meeting, for next Tuesday arvo, your time; Wednesday morning, my time. You click on the word "Calendar" near the top of that dialogue (top arrow) and then, select the date.
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-04.png
+
+I have date set up to GMT + 10hrs (which is Brisbane time). I already know that Wednesday morning at seven am is going to be Tuesday afternoon at 2pm your time. So, I add a title - not strictly necessary, but it is helpful - and set the time, and Click on "Add Google Meet video Conference":
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-07.png
+
+I also add a description: great way to share objectives and other thoughts. 
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-09.png
+
+By the way, that "Join With Google Meet" is going to be what brings up the "Meet" page and enables you to join.
+
+Your most-contacted email recipients should appear in a list:
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-10.png
+
+...when you click on "Add Guests" to select participants. 
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-11.png
+
+When you click "Save":
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-12.png
+
+you'll be prompted to send invitations to others.
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-13.png
+
+I'd like you to try set up a meeting, and send me an invitation. When you do so, I can then create the help file on how to save an invitation to your calendar.
 
 
 *************
