@@ -148,7 +148,9 @@ This code::
 
 .. raw:: html
 
-   <iframe width="560" height="315" src="https://tightbytes.com/videos/projects/garden/Aj-SHTrench.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://tightbytes.com/videos/projects/garden/Aj-SHTrench.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+(Note to self: took out  [  autoplay; ] )
 
 
 
@@ -281,7 +283,27 @@ you'll be prompted to send invitations to others.
 
 I'd like you to try set up a meeting, and send me an invitation. When you do so, I can then create the help file on how to save an invitation to your calendar.
 
+**Update**
 
+I've gone ahead and installed Google Calender on my iPad, and created a dummy "Google Meet" for my "r********ahn@gmail.com" gmail account using my "r*****veil@gmail.com" so I can share some screen-shots of what you might see and know what to click on. A pointer that first came up when I set this up read as follows:
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-14.png
+
+In the email on my "Invited" email account - which is typically, usually going to be you since I'll mostly set up these for now until you get the hang of it - you simply click on "Yes:
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-16.png
+
+or here:
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-17.png
+
+That's in your email invitation.
+
+Doing so will add it to your Calendar. It will show up looking like this:
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-18.png
+
+When you click on that event, it will bring up that event, and in the event you'll simply click on the "Join with Google Meet" link, which will bring up Google Meet and you're good to go.
 
 
 
