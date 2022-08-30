@@ -243,7 +243,7 @@ How to Do Google Meet
 
 **Setting up A Meet**
 
-The following instruction are for when YOU ant to set up a Meet, as opposed to joining a Meet soneone else set up (i.e., accepting an invitation). To make it easier, I tend to use 'Calendar' that comes with GMail.... that way, I don't have to hunt through emails to find an invitation: it's right there in my GMail calendar. This is Gmail Calendar:
+The following instruction are for when YOU want to set up a Meet, as opposed to joining a Meet soneone else set up (i.e., accepting an invitation). To make it easier, I tend to use 'Calendar' that comes with GMail.... that way, I don't have to hunt through emails to find an invitation: it's right there in my GMail calendar. The Gmail Calendar has a little 31 in it:
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-01.png
 
