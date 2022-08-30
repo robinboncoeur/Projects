@@ -235,6 +235,10 @@ If you click on the 'Dark theme: On' menu item, it will turn Dark Theme: Off.
 
 Hope this helps.
 
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
 
 
 =====================
@@ -247,11 +251,11 @@ The following instruction are for when YOU want to set up a Meet, as opposed to 
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-01.png
 
-It should be visible in the upper right-hand area in your GMail page. When you click on it, it'll bring up that day's event. As you can see, the get-together we had today is in my calendar. 
+It should be visible in the upper right-hand area in your GMail page. When you click on it, it'll bring up that day's events. As you can see, the get-together we had worked out is in my calendar. 
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-02.png
 
-Clicking on this event brings up all the details, including a way to open the whole "Meet" page - that link to the Meet page is generally in the middle of that event.
+Clicking on this event brings up all the details, including a way to open the "Meet" page - that link to the Meet page is generally in the middle of that event.
 
 For example, here's how I set up our next meeting, for next Tuesday arvo, your time; Wednesday morning, my time. I click on the date under the  word "Calendar" near the top of that dialogue (top arrow) and then, select the date from the miniature pop-up calendar.
 
@@ -265,25 +269,29 @@ I also add a description: great way to share objectives and other thoughts.
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-09.png
 
-By the way, that "Join With Google Meet" is going to be what brings up the "Meet" page and enables you to join.
+Remember, the "Join With Google Meet" brings up the "Meet" page, enabling you to join.
 
-Your most-contacted email recipients should appear in a list:
+When you click on "Add Guests": your most-contacted email recipients should appear in a list:
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-10.png
 
-...when you click on "Add Guests" to select participants. 
+Now, you should see yourself as organiser and the guest list underneath your name. It's going to be truly awesome when we get some of the others onboard with this!
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-11.png
 
-When you click "Save":
+When you click "Save" at the bottom of that event:
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-12.png
 
-you'll be prompted to send invitations to others.
+you'll be prompted to send invitations to to everyone on the guest list - saves you from having to manually send out invitations.
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-13.png
 
-I'd like you to try set up a meeting, and send me an invitation. When you do so, I can then create the help file on how to save an invitation to your calendar.
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
 
 **Accepting an Invitation**
 
@@ -307,6 +315,10 @@ Doing so will add it to your Calendar. It will show up looking like this:
 
 When you click on that event, it will bring up that event, and in the event you'll simply click on the "Join with Google Meet" link, which will bring up Google Meet and you're good to go.
 
+
+.. raw:: html
+   
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 
 
