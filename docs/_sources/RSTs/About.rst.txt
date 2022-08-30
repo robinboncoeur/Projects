@@ -66,6 +66,13 @@ HTML is just one such "tool". reStructured Text is another - these pages are for
 
 I have another GitHub help page site called `Help Yrself <https://robinboncoeur.github.io/HelpYrself/>`_ that catalogues tasks I sort-of learned to do, but then, since it wasn't something I did every day, needed to be saved somewhere for when I needed that information again. 
 
+
+.. raw:: html
+   
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+
+
 *************************************
 Reminders [to Myself] of Sphinx Stuff
 *************************************
@@ -192,7 +199,7 @@ The code is this (minus the '*')::
    
    <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
-...which produces this:
+...which produces the following grey horizonal bar to help separate sctions (like the one below).
 
 .. raw:: html
    
@@ -203,7 +210,6 @@ The code is this (minus the '*')::
 ***************
 Other Help Tips
 ***************
-
 
 ===========================
 Changing Settings in Chrome
@@ -237,7 +243,7 @@ Hope this helps.
 
 .. raw:: html
    
-   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+   <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
 
@@ -250,6 +256,12 @@ How to Do Google Meet
 The following instruction are for when YOU want to set up a Meet, as opposed to joining a Meet soneone else set up (i.e., accepting an invitation). To make it easier, I tend to use 'Calendar' that comes with GMail.... that way, I don't have to hunt through emails to find an invitation: it's right there in my GMail calendar. The Gmail Calendar has a little 31 in it:
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-01.png
+
+By the way (BTW), if you don't see that little icon in your right-sidebar, go down to the bottow of the page and click on:
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-20.png
+
+It'll show up near the top, along with other useful GMail apps.
 
 It should be visible in the upper right-hand area in your GMail page. When you click on it, it'll bring up that day's events. As you can see, the get-together we had worked out is in my calendar. 
 
@@ -322,15 +334,17 @@ When you click on that event, it will bring up that event, and in the event you'
 
 
 
-*************
-Film Projects
-*************
+**************
+Music Projects
+**************
 
-I can unequivocably state: right now in June 2022, I suck at video. Reason: compostion. Which is why I'm taking this course:
+(Note: *formerly "Film Projects"*) I can unequivocably state: right now in June 2022, I suck at video. Reason: compostion. Which is why I'm taking this course:
 
 `Tomorrow's Filmmakers <https://academy.tomorrowsfilmmakers.com/>`_.
 
-Worth every penny!
+Initially, I assessed it at being worth every penny. However, I really am a bit conflicted about the main presenter, who infuses his instruction with, for lack of a better term, 'religiosity'. I mean, the message sounds like he's promoting Christianity - I'm a Christian, and you would think I'd see him as a kindred spirit - but somehow the message seems: off. Like, this is about film-making techniques. If I follow a guide on composition, it would feel equally awkward and forced to keep getting the instructor's religious viewpoints and exhortations. Oh well, it was US$100. You get what you pay for.
+
+I've since signed up for the full "Musescore 
 
 
 ==============
