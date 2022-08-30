@@ -209,7 +209,7 @@ Other Help Tips
 Changing Settings in Chrome
 ===========================
 
-These tips pertain to Chrome for Mac: doesn't matter much with version of the Mac operating system, as far as I can tell. Open the Chrome browser:
+These tips pertain to Chrome for Mac: doesn't matter much which version of the Mac operating system, as far as I can tell. Open the Chrome browser:
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_Chrome-4.png
 
