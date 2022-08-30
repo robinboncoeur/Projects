@@ -241,7 +241,9 @@ Hope this helps.
 How to Do Google Meet
 =====================
 
-To make it easier, I tend to use 'Calendar' that comes with GMail.... that way, I don't have to hunt through emails to find an invitation: it's right there in my GMail calendar. This is Gmail Calendar:
+**Setting up A Meet**
+
+The following instruction are for when YOU ant to set up a Meet, as opposed to joining a Meet soneone else set up (i.e., accepting an invitation). To make it easier, I tend to use 'Calendar' that comes with GMail.... that way, I don't have to hunt through emails to find an invitation: it's right there in my GMail calendar. This is Gmail Calendar:
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-01.png
 
@@ -283,7 +285,7 @@ you'll be prompted to send invitations to others.
 
 I'd like you to try set up a meeting, and send me an invitation. When you do so, I can then create the help file on how to save an invitation to your calendar.
 
-**Update**
+**Accepting an Invitation**
 
 I've gone ahead and installed Google Calender on my iPad, and created a dummy "Google Meet" for my "r********ahn@gmail.com" gmail account using my "r*****veil@gmail.com" so I can share some screen-shots of what you might see and know what to click on. A pointer that first came up when I set this up read as follows:
 
