@@ -2,11 +2,9 @@
 Repairing Anything Mac
 ######################
 
-***************
-Important Links
-***************
-
-`Repair Site <https://bikehike.org/how-much-to-repair-macbook-pro-speakers/>`_.
+*************
+CRUCIAL Links
+*************
 
 `Find My Mac <https://everymac.com/ultimate-mac-lookup/>`_.
 
@@ -211,13 +209,15 @@ I had the same problem even when using the latest Catalina patcher version 1.4.4
 Mac Links
 *********
 
-https://www.imore.com/how-to-prepare-mac-for-sale#first-steps
+`Repair Site <https://bikehike.org/how-much-to-repair-macbook-pro-speakers/>`_.
 
-https://www.macobserver.com/tips/how-to/securely-erase-macs-ssd/#:~:text=Back%20up%20any%20data%20you%20want%20to%20preserve%20that's%20on,then%20select%20the%20Erase%20option.
+`How to prepare a Mac for sale <https://www.imore.com/how-to-prepare-mac-for-sale#first-steps>`_.
 
-https://www.intego.com/mac-security-blog/how-to-securely-erase-data-from-your-mac-and-external-drives/
+`How to securely erase your Mac's SSD' <https://www.macobserver.com/tips/how-to/securely-erase-macs-ssd/#:~:text=Back%20up%20any%20data%20you%20want%20to%20preserve%20that's%20on,then%20select%20the%20Erase%20option>`_.
 
-https://everymac.com/ultimate-mac-lookup/
+`How to securely erase data from your Mac <https://www.intego.com/mac-security-blog/how-to-securely-erase-data-from-your-mac-and-external-drives/>`_
+
+`Ultimate Mac Lookup <https://everymac.com/ultimate-mac-lookup/>`_
 
 https://github.com/ablakely/macfand/
 
