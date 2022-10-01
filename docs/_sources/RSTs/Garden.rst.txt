@@ -157,17 +157,26 @@ I believe this technigue is called "french drainage" except it is commonly appli
 SH-2022.May.12
 ==============
 
-We've been having quite a bit of heavy rain, which has brought a real problem with flooding in the front of the house into focus. I dug a trench - shallow at first, just down to the weed mat - and then we were blessed with some incredibly heavy rainfall. Made a quick-n-dirty video of the rain here: :ref:`vids-storm-draining`.
+We've been having quite a bit of heavy rain, which has brought a real problem with flooding in the front of the house into focus. The key issue is that standing water affects the concrete slab foundation, and is likely also responsible for the bamboo wood floor mold near the window, although that needs further research. 
 
+The trench was shallow at first, just down to the weed mat - and then we were blessed with some incredibly heavy rainfall. Made a quick-n-dirty :ref:`video of the rain here <vids-storm-draining>`.
 
-
-Outlet right by the lemon tree - hope I don't end up drowning it:
+Keeping slope in mind, a massive effort ensued to continue the trench along side the house and all the way down to where the property slopes off markedly towards the back. Drainage pipe was placed in the ground, with a close eye on slope, with the outlet right by the lemon tree. I hope I don't end up drowning it:
 
 .. image:: https://www.tightbytes.com/images/projects/garden/Ak-SHTrench2.jpg
 
 I do hope the rain will come this arvo as promised and test the drainage pipe I've put in so far:
 
 .. image:: https://www.tightbytes.com/images/projects/garden/Ak-SHTrench3.jpg
+
+.. raw:: html
+   
+   <hr style="height:8px;border-width:0;color:gray;background-color:gray">
+
+
+
+
+
 
 
 
@@ -203,31 +212,41 @@ Indeed, I'll probably have to take this approach with any seedlings. I'd planted
 We'll see how we go.
 
 
-*************
-Footpath Redo
-*************
+.. raw:: html
+   
+   <hr style="height:8px;border-width:0;color:gray;background-color:gray">
+
+
+
+
+
+
+
+*****************************
+Footpath over The Storm Drain
+*****************************
 
 ==============
 FP-2021.May.17
 ==============
 
-We had the footpath around the house worked on a few years back. Sadly, rain and wear-and-tear (and probably also poor design) left things looking a bit worse for wear:
+The house featured a footpath around the right side (facing from the street) of the house. As it was in some disrepair, we had it worked on a few years back. Sadly, rain and poor design left things looking a bit worse for wear:
 
-.. image:: https://www.tightbytes.com/images/projects/garden/Ad-Before01.jpg
+.. image:: https://www.tightbytes.com/images/projects/fp/Ad-FP05-17-01.jpg
 
 the retaining timber was actually sticking up (somewhat hidden by the grass) and was a bit of a hazard:
 
-.. image:: https://www.tightbytes.com/images/projects/garden/Ad-Before02.jpg
+.. image:: https://www.tightbytes.com/images/projects/fp/Ad-FP05-17-02.jpg
 
-.. image:: https://www.tightbytes.com/images/projects/garden/Ad-Before03.jpg
+.. image:: https://www.tightbytes.com/images/projects/fp/Ad-FP05-17-03.jpg
 
 and the back of the house had turned into a total disaster:
 
-.. image:: https://www.tightbytes.com/images/projects/garden/Ad-Before04.jpg
+.. image:: https://www.tightbytes.com/images/projects/fp/Ad-FP05-17-04.jpg
 
 ...with sagging retaining timber:
 
-.. image:: https://www.tightbytes.com/images/projects/garden/Ae-FPBegin6.jpg
+.. image:: https://www.tightbytes.com/images/projects/fp/Ae-FP05-27-08.jpg
 
 The worst part was that the pumice-gravel would stick to my shoes, which I would track into the house, risking scratching our bamboo flooring.
 
@@ -237,21 +256,25 @@ FP-2021.May.27
 
 I tore out the rotten timber and sifted out the pumice-like gravel, rescuing what I could of the original river-rock:
 
-.. image:: https://www.tightbytes.com/images/projects/garden/Ae-FPBegin1.jpg
+.. image:: https://www.tightbytes.com/images/projects/fp/Ae-FP05-27-07.jpg
 
-then raked down the crusher-dust under this rock-gravel mix. This stuff was contaminated with dirt, so a perfect medium for growing weeds. I had the evidence from my front garden bed area that weeds will not grow if the river-rock is deep enough so removing this dirty crusher dust was crucial. The replacement timber was painted with two coats of Timber Protecta (to prevent rot) prior to placement:
+then raked down the crusher-dust under this rock-gravel mix. This stuff was contaminated with dirt, which is a perfect medium for growing weeds. I had the evidence from my front garden bed area that weeds will not grow if the river-rock is deep enough so removing this dirty crusher dust was crucial. The replacement timber was painted with two coats of Timber Protecta (to prevent rot) prior to placement and a sort of angle-cut support 2 x 8 was screwed to the bottom of each retaining timber, as in the image:
 
-.. image:: https://www.tightbytes.com/images/projects/garden/Ae-FPBegin4.jpg
+.. image:: https://www.tightbytes.com/images/projects/fp/Ag-FP07-04-01.jpg
 
-The timber lengths are joined together thus:
+The reason I thought it a good idea to attach those short, base 2 x 8 pieces diagonally was in order to have a maximum of rock-holding capacity the attached retaining timber erect (to prevent the inevitable sagging with time and usage). We'll see if it works, longterm.
 
-.. image:: https://www.tightbytes.com/images/projects/garden/Af-FPBegin12.jpg
+At the corner of the house, the retaining timber lengths are joined together with long stove bolts. Most of the lengths are arranged edge-to-edge and held together with metal plates on the inside of the timber:
 
-and each length was bolted to a piece of treated timber to prevent sagging in the future:
+.. image:: https://www.tightbytes.com/images/projects/fp/Al-FP04-25-05.jpg
 
-.. image:: https://www.tightbytes.com/images/projects/garden/Ag-FPBegin1.jpg
+so that on the outside of the retaining timber, all that is visible are bolts:
 
-The reason I thought it a good idea to attach it diagonally was in order to have a maximum of rock holding the piece down (surface-area thing). We'll see if it works, longterm.
+.. image:: https://www.tightbytes.com/images/projects/fp/Al-FP04-25-04.jpg
+
+As is clearly noticable, I purchased the timber from a rather dodgy mob in Cleveland, who refused to let me select the better pieces. They delivered - I don't have a ute - and I reckon they expressly chose the dodgier pieces. Anyway, never mind, I made do. They will remain nameless (rhymes with "Bill") : buyer beware, nevertheless.
+
+A lot of that timber had sappy knots and other defects, some which were so bad I had to trim them off before I painted them with three coats of `Timber Protecta <https://www.bowens.com.au/p/diggers-eco-in-ground-timber-protecta/>`_. The remaining timber still had some warping wich made the edge-joins less than perfect. I reckon with time this slight problem will become less noticable. 
 
 
 ==============
@@ -260,11 +283,9 @@ FP-2021.Jul.04
 
 Here's where things ended up in July (other projects were demanding my attention):
 
-.. image:: https://www.tightbytes.com/images/projects/garden/Ag-FPBegin8.jpg
+.. image:: https://www.tightbytes.com/images/projects/fp/Af-FP06-03-04.jpg
 
-.. image:: https://www.tightbytes.com/images/projects/garden/Ag-FPBegin9.jpg
-
-And so things stayed for nine months or so.
+And so things stayed for nine months or so. Work (like, at the hospital) sort-of gets in the way.
 
 
 
@@ -311,5 +332,13 @@ whereas, that pumice-gravel, even with river-rock underneath it and weedmat, all
 We tried spraying with a vinegar/salt/dish-soap mixture to control the weeds - we have bees, so we're not about to use a off-the-shelf herbicide - and as for the most part it works easily as well as the toxic stuff, it is not a long-term solution.
 
 
+
+==============
+FP-2022.Sep.06
+==============
+
+I have neglected these pages for the past months as projects piled up and updating pages took less and less priority. However, circumstances have changed, which have resulted in forcing me to put physical work on hold... in order to heal.
+
+Long story short: my twenty-five year old brain was dictating utter nonsense to my now seventy year old body, the one with bulging L5-S1 discs and degenerative processes, and because I pushed myself, I am now paying the price. I've developed a bad sciatica for which even a CT-guided nerve-root injection hasn't sort-of done much yet (well, it's early days). End result: forced rest.
 
 
