@@ -189,9 +189,13 @@ In the meantime, we're getting into the whole permaculture thing in a more thoug
    <hr style="height:8px;border-width:1;color:gray;background-color:gray">
 
 
-.. raw:: html
+A `full video collection <https://www.youtube.com/watch?v=uqwWdranB5A&list=RDLVuqwWdranB5A&start_radio=1&rv=uqwWdranB5A>`_ on the subject goes into more detail on what exactly is at stake, and the approaches being proposed under the "permaculture" umbrella. Geoff Lawton has an additional perspective:
    
    <iframe width="560" height="315" src="https://www.youtube.com/embed/7qXgbrIYcFE" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. raw:: html
+   
+   <hr style="height:8px;border-width:1;color:gray;background-color:gray">
 
 We still need sheds building: waiting for Annie (next door neighbour) to finish sorting out the whole covenant issue. Meanwhile, got the chook house ready for new occupants: the roof interior had mostly rotted and so we replaced that with a plastic liner for now. I anticipate having to replace the entire roof structure at some juncture. 
 
