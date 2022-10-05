@@ -182,6 +182,15 @@ In the meantime, we're getting into the whole permaculture thing in a more thoug
 
 .. raw:: html
    
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/uqwWdranB5A" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. raw:: html
+   
+   <hr style="height:8px;border-width:1;color:gray;background-color:gray">
+
+
+.. raw:: html
+   
    <iframe width="560" height="315" src="https://www.youtube.com/embed/7qXgbrIYcFE" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We still need sheds building: waiting for Annie (next door neighbour) to finish sorting out the whole covenant issue. Meanwhile, got the chook house ready for new occupants: the roof interior had mostly rotted and so we replaced that with a plastic liner for now. I anticipate having to replace the entire roof structure at some juncture. 
@@ -193,7 +202,7 @@ We still need sheds building: waiting for Annie (next door neighbour) to finish 
 
 .. raw:: html
    
-   <hr style="height:8px;border-width:0;color:gray;background-color:gray">
+   <hr style="height:8px;border-width:4;color:gray;background-color:gray">
 
 
 
