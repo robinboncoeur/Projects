@@ -141,6 +141,10 @@ This code::
       Your browser does not support the <code>audio</code> element. 
     </audio>
 
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
 
 
 ==========================
@@ -160,6 +164,10 @@ This code::
    <iframe width="560" height="315" src="https://tightbytes.com/videos/projects/garden/Aj-SHTrench.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (Note to self: took out  [  autoplay; ] )
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 
 
@@ -334,9 +342,13 @@ Music Projects
 
 `Tomorrow's Filmmakers <https://academy.tomorrowsfilmmakers.com/>`_.
 
-Initially, I assessed it at being worth every penny. However, I really am a bit conflicted about the main presenter, who infuses his instruction with, for lack of a better term, 'religiosity'. I mean, the message sounds like he's promoting Christianity - I'm a Christian, and you would think I'd see him as a kindred spirit - but somehow the message seems: off. Like, this is about film-making techniques. If I follow a guide on composition, it would feel equally awkward and forced to keep getting the instructor's religious viewpoints and exhortations. Oh well, it was US$100. You get what you pay for.
+Initially, I assessed it at being worth every penny. However, I really am a bit conflicted about the main presenter, who infuses his instruction with, for lack of a better term, 'religiosity'. I mean, the message sounds like he's promoting Christianity - I'm a Christian, and you would think I'd see him as a kindred spirit - but somehow the message seems: *off*.
 
-I've since signed up for the full "Musescore bank of courses... there's `heaps <https://musescore.com/courses>`_. They were having an 85% off sale, so it seemed to be a really good idea. Turns out: it totally is. Remember, Musescore is a free download. You want to write music? this is the way to go.
+Like, this is about film-making techniques. If I follow a guide on composition, it would feel equally awkward and forced to keep getting the instructor's religious viewpoints and exhortations.
+
+Oh well, it was US$100. You get what you pay for.
+
+Speaking of courses, since I use `Musescore <https://musescore.org/en>`_ for composing music, it totally made sense to sign up for the full "Musescore bank of courses"... there's `heaps of really useful informatyion on these pages <https://musescore.com/courses>`_, particularly as they were having an 85% off sale. Turns out: it totally is worth every penny! Remember, Musescore is a free download. You want to write music? this is the way to go.
 
 
 ==============
