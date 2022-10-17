@@ -13,6 +13,36 @@ Below are links to musical sketches, in reverse chronological order. I wrote the
 Also, asking a trumpet player to play softly in a higher register is going to be met with some raised left eyebrows and twitching upper lips. This brings up what we can do in a DAW / music notation software versus reality: sure, you can dial down the trumpet playing a high C, but it's not going to sound very realistic.
 
 
+=========
+Sketch 13
+=========
+
+**2022.Feb.19**
+
+Some time ago I transcribed from a hand-written manuscript a Symphony by a 25 year old (at the time) young lady named Alice Mary Smith. Foolishly, I thought I'd try to write from the heart, as she did, which ended up as this "poeme".
+
+The piece sort-of follows me out the door of nursing to my garden and footpath and storm drain and all sorts of tasks. Years of wearing lead and transfering patients had affected my back, which finally gave out (second timpani roll): this provided the opportunity to re-evaluate what was most important and learned to smell the roses.
+
+===========
+
+
+Some time ago I transcribed from a `hand-written manuscript <https://archive.org/details/GB-Lam_MS1671>`_ a Symphony by a twenty-five year old (at the time) young lady named Alice Mary Smith. Foolishly, I thought I'd try to write from the heart, as she did, which ended up as this "poeme".
+
+The piece sort-of runs blithely away from a career of nursing to gardening and fixing footpaths and stormdrains and other projects. Years of wearing lead (x-rays) and transfering patients had affected my back, which finally gave out (second timpani roll): the injury has provided the opportunity to re-evaluate what was most important and learned to smell the roses.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/Sketch13.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
 
 =========================
 Sketch 11 - 'La Gioconda'
