@@ -62,9 +62,11 @@ These are all mechanisms designed for what these pages are designed for: `Sphinx
 
 It is essentially a markup language, meaning you insert the formatting 'tags' - in HTML, it would be words enclosed by lesser-than and greater-than symbols - when you create the document which the interpreter sees as instructions on how the text should look or behave. Being comfortable in that "language" is just a matter of doing it enough, just like any other language.
 
-HTML is just one such "tool". reStructured Text is another - these pages are formatted using reST. VBA is another, Python yet another... and after a while, I end up needing a reference on how certain tasks are performed, particularly if I hadn't done them in a while.
+HTML is just one such "tool". reStructured Text is another - these pages are formatted using reST. VBA is another, Python yet another... and after a while, I've ended up needing a reference on how do do certain things, particularly if I hadn't done them in a while.
 
-I have another GitHub help page site called `Help Yrself <https://robinboncoeur.github.io/HelpYrself/>`_ that catalogues tasks I sort-of learned to do, but then, since it wasn't something I did every day, needed to be saved somewhere for when I needed that information again. 
+I have another GitHub help page site called `Help Yourself <https://robinboncoeur.github.io/HelpYrself/>`_ that catalogues things I sort-of learnt to do, but then, since they weren't things I did every day, I needed to save the steps somewhere for when I needed that information again.
+
+For example, the next part down - "Reminders [to Myself] of Sphinx Stuff" - is such a key thing I have these reminders in one form or another on most of my "About" pages.
 
 
 .. raw:: html
@@ -278,7 +280,7 @@ The following instruction are for when YOU want to set up a Meet, as opposed to 
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-01.png
 
-By the way (BTW), if you don't see that Calendar icon in your right-sidebar, go down to the bottow of the page and click on:
+By the way (BTW), if you don't see that Calendar icon in your right-sidebar, go down to the bottom of the page and click on:
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-20.png
 
