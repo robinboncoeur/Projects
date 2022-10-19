@@ -106,6 +106,14 @@ Bear in mind: they were "rescue hens". They came with co-morbidities, which mani
 Sketch 8 - 'Reflections'
 ========================
 
+**Uploaded to Musescore on 18th of July, 2021**
+
+Starting off simple, I started reminiscing. About back in the Hawaii, back in France in the 70s... and this sort-of happened. The Andante Moderato was sort-of a nod to my brother, who is the real composer of the family (not me) - he would sit me down and play these lush chords that built and built and well, that was another time. Paris in the 70s... another time. Listening to the Lacrimosa (Mozart) at night and going surfing at barely sunup the next morning and hearing the Lacrimosa in your head as the waves heave and break around you: another time.
+
+As an alternative to listen to, here is the Reaper version. The MS version is sort-of finished, although some bits are a bit less than what I like... perhaps "Amadeus'" Director Orsini-Rosenberg's caution about having "too many notes" might apply here.
+
+Just purchased the `Spitfire Studio Strings <https://www.spitfireaudio.com/spitfire-studio-strings>`_ (because, basically, I could afford this: the `Symphonic Strings <https://www.spitfireaudio.com/spitfire-studio-strings>`_ at $800, actually more like AUD$1278 for me, was a bit too dear) specifically to take advantage of more articulations and, come to find out, although the sound is a fair bit more to my liking, I'm not using a lot of these articulations nearly as much as I thought I would. What I did discover is that what people - those that actually play the notes to record their tracks - use... the mod wheel. This sets up information on cc 01 Mod Wheel MSB in Reaper: plain-ol' drawing in this cc will affect expression and dynamics, which massively changes the quality of the playing. Wow, what a dummy I am! Still learning how to use Kontakt and these libraries and Reaper and Musescore... and just about when I think I'm getting it beaten into submission, they come out with a new version.
+
 .. raw:: html
 
     <audio controls="controls">
