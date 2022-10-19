@@ -136,9 +136,25 @@ Sketch 7 - 'Souffle des Arbres'
    <hr style="height:1px;border-width:0;color:green;background-color:green">
 
 
-========
-Sketch 6
-========
+===================
+Sketch 6 - Serenade
+===================
+
+**Uploaded to `Musescore.com <https://musescore.com/user/29275325/scores/6698255>`_ on 03th-Apr-2021**
+
+My first transcription in Musescore was Dvorak's String Sextet (the Dumka)... a piece and a composer I have always found bewitching. This serenade is my humble scribblings attempting to emulate this great artist.
+
+Caveat: as always, the first upload on [ 02 Mar 2021 ] was, as far as I could tell, pretty much done, but then, when I imported the MIDI files into Reaper (a DAW), certain flaws surfaced which I had to fix. Which meant that the original score wasn't the final one: revisions happen.
+
+Thank you for listening.
+
+**Update: 03rd-Mar-2021**
+
+I made several suggested changes and have engaged in study of strings fingering. Many, many thanks to Penne Vodka!
+
+**Update: 16th-Oct-2022**
+
+The playback is as produced by my DAW: Reaper. It features SpitFire's Studio Woodwinds and Studio Strings. However, I replaced an oboe section with an English Horn, for which I don't have the sample library in `Studio Woodwinds <https://www.spitfireaudio.com/spitfire-studio-woodwinds#whats-included>`_, so I went with the Library that comes with Kontakt 6. For now. I do intend to upgrade to `Studio Woodwinds Professional <https://www.spitfireaudio.com/spitfire-studio-woodwinds-professional>`_... specials are coming in November / December!
 
 .. raw:: html
 
