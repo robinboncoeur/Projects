@@ -187,6 +187,11 @@ Takeaways:
 
    <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 		
+Remember::
+
+	Alle Dinge sind Gift, und nichts ist ohne Gift; allein die Dosis macht, dass ein Ding kein Gift ist. All things are poison, and nothing is without poison; the dosage alone makes it so a thing is not a poison.  —Paracelsus, 1538
+
+
 
 
 =======================================

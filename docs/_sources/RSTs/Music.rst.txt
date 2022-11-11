@@ -494,11 +494,26 @@ Have only just barely started Ryan's course - got stuck into Marc Sabatella's co
 
 
 
-*************************
-Other Music-Related Links
-*************************
+***********
+Music Links
+***********
 
+`Discord Musescore channel <https://discord.com/channels/818804595450445834/818804595450445837>`_
 
 `Remove Library from Native Access <https://spitfireaudio.zendesk.com/hc/en-us/articles/360009029834-How-to-remove-a-library-from-Native-Access-Mac-OS->`_
 
 `Blank sheet music templates (forms) <https://www.musicaneo.com/blank_sheet_music.html>`_.
+
+`Old VSTs <https://shopvst.com/1552>`_
+
+Seventh Sam's `How to create custom reaticulate banks <https://seventhsam.com/blog/blog/how-to-create-custom-reaticulate-banks-for-your-sample-libraries-120a9322-0e24-4db4-b5db-153a7eaf6334>`_
+
+https://seventhsam.com/blog/blog/6791049/how-to-set-up-reaper-s-midi-editor-for-better-workflow
+
+https://seventhsam.com/blog/blog/how-to-use-reaticulate-to-manage-your-sample-library-articulations
+
+
+`Marc Sabatella • Oct 26, 2022 <https://musescore.org/en/node/336143#comment-1146522>`_
+
+In reply to Can't run the beta on linux - *by zabalza.asier* - for Muse Hub, you might need to manually start the helper service - type "sudo muse-hub-service" before running "muse-hub" (no "sudo" needed). 
+
