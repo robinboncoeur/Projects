@@ -12,11 +12,23 @@ Garden Links
 
 `Hydrangea Treehouse <https://hydrangeatreehouse.com/diy-garden-bed-cover/>`_ and
 
-https://www.youtube.com/watch?v=bWGyA_TR7lY
+.. raw:: html
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/bWGyA_TR7lY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
 
 `Huge Mistake <https://www.vidaxl.com.au/e/vidaxl-greenhouse-anthracite-aluminium-3.61-m2/8719883813943.html>`_
 
-https://www.youtube.com/watch?v=vqhkgUQ11R4&list=RDCMUCL_r1ELEvAuN0peKUxI0Umw&index=70
+Is Bamboo okay to plant on your property? Geoff Lawton explains:
+
+.. raw:: html
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/E6i6V_7D6xo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
 
 For wicking beds, `heavy duty black builder's plastic (200um) polythene film <https://discountlandscapesupplies.com.au/product/heavy-duty-black-builders-plastic-200um-polythene-film/>`_.
 
