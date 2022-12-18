@@ -382,6 +382,28 @@ To put your music on your iPhone, you can use the Apple Cloud or Google's Drive.
 Music Projects
 **************
 
+**Update: 2022-Dec-18**
+
+
+Still trying to get this right:
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/WIPs/Sketch13df.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+
+**Update: 2022-Aug-24**
+
+
+Still trying to get this right:
+
+Music
+
+
+
 (Note: *formerly "Film Projects"*) I can unequivocably state: right now in June 2022, I suck at video. Reason: compostion. Which is why I'm taking this course:
 
 `Tomorrow's Filmmakers <https://academy.tomorrowsfilmmakers.com/>`_.
