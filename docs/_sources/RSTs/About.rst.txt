@@ -351,7 +351,7 @@ Make the following changes to these settings:
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Prefs4.png
 
-You will notice your memory stick appear in the left sidebar of 'Finder', under 'Locations'. When you click on that name, the files in that folder will show up in the file browser (the main window):
+You will notice your memory stick appear in the left sidebar of 'Finder', under 'Locations' as soon as you plug it in to the USB slot. When you click on that name, the files in that folder will show up in the file browser (the main window):
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs1.png
 
@@ -368,6 +368,10 @@ I'm going to suggest placing music files in the 'Music' folder, to make it easy 
 The 'Music' will open in a new tab and be the active folder. Press [CMD] [V] to paste your music files into that folder, or optionally right-click and select:
 
 .. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs4.png
+
+Should be good to go.
+
+To put your music on your iPhone, you can use the Apple Cloud or Google's Drive. I don't have an iPhone so I don't know the process, but it should be fairly straight-forward.
 
 .. raw:: html
    
