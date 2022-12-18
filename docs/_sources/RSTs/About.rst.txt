@@ -333,6 +333,46 @@ you'll be prompted to send invitations to to everyone on the guest list - saves 
    <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 
+=================================
+Copying Files from Stick to a Mac
+=================================
+
+To accomplish this, you will use 'Finder', which is the Mac's answer to the Window's 'File Explorer'. May I suggest setting up 'Finder' in the following fashion... makes everything a bit easier.
+
+With 'Finder' selected, go to the menu section at the top of the Mac screen, and on the left-hand side next to the Apple logo, chose 'Finder' and select:
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Prefs1.png
+
+Make the following changes to these settings:
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Prefs2.png
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Prefs3.png
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Prefs4.png
+
+You will notice your memory stick appear in the left sidebar of 'Finder', under 'Locations'. When you click on that name, the files in that folder will show up in the file browser (the main window):
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs1.png
+
+Holding down the [CMD] key - command - and pressing [A] will highlight all the files in that folder:
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs2.png
+
+Note: *make sure that you have actually clicked somewhere on the folder itself to select it before pressing [CMD] [A]*. The names of the files will change colour: mine go blue. Press [CMD] [C] to copy the files.
+
+I'm going to suggest placing music files in the 'Music' folder, to make it easy to find the files. Identify the 'Music folder - I've outlined it in red in the previous image and right-click on it and select:
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs3.png
+
+The 'Music' will open in a new tab and be the active folder. Press [CMD] [V] to paste your music files into that folder, or optionally right-click and select:
+
+.. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs4.png
+
+.. raw:: html
+   
+   <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 
 **************
 Music Projects

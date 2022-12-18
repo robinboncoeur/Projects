@@ -192,6 +192,18 @@ Remember::
 	Alle Dinge sind Gift, und nichts ist ohne Gift; allein die Dosis macht, dass ein Ding kein Gift ist. All things are poison, and nothing is without poison; the dosage alone makes it so a thing is not a poison.  —Paracelsus, 1538
 
 
+Discussion with Dr Rangan Chatterjee on the fact that fructose (outside of fruit) is poisonous:
+
+.. raw:: html
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/zXiQgTZZqPg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+.. raw:: html
+
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+
 
 
 =======================================
