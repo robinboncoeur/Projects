@@ -650,6 +650,41 @@ I had purchased some Pirastro Tonica replacement strings, of which I've replaced
 Music Links
 ***********
 
+========================
+Violin Bits, To Purchase
+========================
+
+Replacement pegs:
+
+`20pcs quality Violin Pegs <https://www.ebay.com.au/itm/304437243880?hash=item46e1dfafe8:g:G~AAAOSwFNBiU0-e>`_
+
+`Ebony Violin Tuning Pegs 4/4 Size New High Quality <https://www.ebay.com.au/itm/181719788625?hash=item2a4f57ec51:g:CKAAAOSwjVVV04Dx>`_
+
+`Ebony 3/4 4/4 Violin Tuning Pegs Black Violin Inlay Boxwood <https://www.ebay.com.au/itm/403290832986?hash=item5de601c05a:g:OUMAAOSw3S5hjaA0>`_
+
+`4x Violin Tuning Pegs Ebony Wood Violin Fiddle Tuning Peg <https://www.ebay.com.au/itm/265985301575?hash=item3dedf59c47:g:HdUAAOSwGU9jbuAR>`_
+
+
+Peg shaper - reamer:
+
+`4/4 Violin Peg Shaver Hole Reamer Steel Blade Luthier Tool <https://www.ebay.com.au/itm/333841339166?hash=item4dba7e931e:g:VoIAAOSwHaFjZcWW>`_
+
+`Shaper Violin pegs repair tool - violin peg shaver for 1/2 to 4/4 Violin <https://www.ebay.com.au/itm/333862204239?hash=item4dbbbcf34f:g:vwEAAOSwvw5gBjUH>`_
+
+Sound post setter:
+
+`Sound Post S setter W/ Rubber grip protector Luthier gold color <https://www.ebay.com.au/itm/284480471458?hash=item423c5b81a2:g:1ZIAAOSwnjpZ0Yh0>`_
+
+`Other violin stuff on AliExpress <https://www.aliexpress.com/premium/violin-luthier-tools.html?initiative_id=AS_20230130005122&dida=y>`_
+
+
+
+
+
+=======================
+Musescore and DAW links
+=======================
+
 `Discord Musescore channel <https://discord.com/channels/818804595450445834/818804595450445837>`_
 
 `Remove Library from Native Access <https://spitfireaudio.zendesk.com/hc/en-us/articles/360009029834-How-to-remove-a-library-from-Native-Access-Mac-OS->`_
@@ -664,12 +699,29 @@ https://seventhsam.com/blog/blog/6791049/how-to-set-up-reaper-s-midi-editor-for-
 
 https://seventhsam.com/blog/blog/how-to-use-reaticulate-to-manage-your-sample-library-articulations
 
-
 `Marc Sabatella • Oct 26, 2022 <https://musescore.org/en/node/336143#comment-1146522>`_
 
 In reply to Can't run the beta on linux - *by zabalza.asier* - for Muse Hub, you might need to manually start the helper service - type "sudo muse-hub-service" before running "muse-hub" (no "sudo" needed). 
 
-Anyway, I posted on that YouTube, which oddly enough didn't save::
+
+===========================
+Instrument Repair/Restoring
+===========================
+
+`Kimon, violin-maker YouTube <https://www.youtube.com/@maestrokimon>`_
+
+`Kevin Lee, luthier Youtube <https://www.youtube.com/@kevinleeluthier>`_
+
+`Julia's Violin Lessons on YouTube <https://www.youtube.com/@Violinspiration>`_
+
+
+
+
+*****************
+Other Music Notes
+*****************
+
+On Keven Lee's YouTube, I posted this, which oddly enough didn't save::
 
 	Thank you for these brilliant videos!
 	I just purchased a violin for AUD$80.00. Before you laugh, it does have an inscription that reads:
@@ -682,4 +734,6 @@ Anyway, I posted on that YouTube, which oddly enough didn't save::
 
 	ETA: the mob at SimplyForStrings suggested this: https://www.simplyforstrings.com.au/products/old-wood-ag-italian-cream-small-50ml-1
 	Will be interested to see how this goes. Will be approaching this with all the deference and caution I can muster. I'll be posting the results on my little projects page: https://robinboncoeur.github.io/Projects/RSTs/Music.html
+
+
 
