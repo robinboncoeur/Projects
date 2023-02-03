@@ -2,6 +2,16 @@
 Efforts in Organised Sound
 ##########################
 
+**Quick note to Self**
+
+Syntax for creating internal links::
+
+	Link pointing to      - :ref:`eg-TheLink`  
+	Link being pointed to - .. _eg-TheLink:
+
+Additions to Repairs and Music
+
+
 ***************************
 Finished Sketches - Sort-Of
 ***************************
@@ -524,196 +534,16 @@ Currently trying to get a "Chorale" right - also struggling with harmonies - tha
 
 
 
-**********
-The Violin
-**********
 
-============================
-2023-01-23 - Day of Purchase
-============================
 
-I've been wanting to play the violin for quite some time, now, and that desire has grown almost unbearable over the past few months. As I do, I've been looking at everything I could find on getting started: instrument pricing, courses on learning how to play the thing, maintenance... everything. I even explored the art of the luthier: violin-making. Looks fascinating!
 
+*******************
+My Violin Adventure
+*******************
 
-I just purchased a violin for AUD$80.00. Before you laugh, it does have an inscription::
+I have a section - :ref:`re-TheViolin` - on the **All Repairs** page that sort-of covers more of the nitty-gritty of costs, progress in terms of fixing up the violins, etc: so I won't rehash that here. I'll jst say that of the first of February, 2023, I now own three (3) violings, all student-grade, in various states of (dis)repair.
 
-	Antonius Stradivarius. Cremonensis
-	Faciebot Anno 1713
-	Made in Czechoslovakia
-
-So, there's that.
-
-I purchased this violin *after* having watched this video:
-
-.. raw:: html
-   
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/_c2s195oDX0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-all with the express purpose of "getting my fingers dirty" restoring a **fine piece of art**: a violin. I did look for the Joha varnish cleaner: all we have here in Australia is `Hill's <https://www.simplyforstrings.com.au/products/hills-cleaning-preparation>`_. I actually ended up getting `this Italian Cream <https://www.simplyforstrings.com.au/products/old-wood-ag-italian-cream-small-50ml-1>`_.
-
-I did start trying to clean it with just using a cloth: 
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin01.jpg
-
-a t-shirt, re-purposed. And it quickly became apparent that I was starting to rub off the polish, whatever it was:
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin02.jpg
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin03.jpg
-
-Was it varnish, or something else? No idea: all I could see was that any rubbing wasn't going to remove the crud as much as dull the polish underneath it. Also, there were these - like - spots:
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin04.jpg
-
-and more spots - looked like mould, almost:
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin05.jpg
-
-I sort-of got the feeling the purfling was painted-on, as opposed to the real deal:
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin06.jpg
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin07.jpg
-
-The bridge would need adjusting:
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin08.jpg
-
-Strange looking neck to the thing:
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin09.jpg
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin10.jpg
-
-Here, you can just make out how rubbing was dulling the polish a bit:
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin11.jpg
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin12.jpg
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin13.jpg
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin15.jpg
-
-So I stopped. The cloth I was using was a brown t-shirt, probably not entirely pure cotton, so it's likely I wasn't removing the rosin residue so much as smearing it around. Going to use white from here on out.
-
-Removed the chinrest (carefully, with a bent clip, so as not to scratch the varnish) and this is the cork and sticky stuff it left on the violin:
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin16.jpg
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin17.jpg
-
-That's been carefully cleaned off, now. Might go with a better chinrest, perhaps. Also, investing in a proper chinrest removal tool (AUD5.00 at JustForStrings).
-
-
-
-
-===========================
-2023-01-25 - First Cleaning
-===========================
-
-Last night, I started using a white cloth (feels like microfibre) to clean the violin - these were sock-like thingies, which were what the lenses I purchased came in. The approach to cleaning was this:
-
-	o breath on a small section
-	
-	o carefully 'polish' away the residue
-	
-	o *"rinse and repeat"* (not literally, no water came anywhere near the violin)
-
-I made a point of not pressing very hard, particularly around the f-holes, which seemed particularly fragile: I would just employ a  frequent movement of my hand, changing the cloth as soon as I saw any residue on it.
-
-Long way to go yet, but I reckon I'm seeing an inprovement!
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AbViolin01.jpg
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AbViolin02.jpg
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AbViolin03.jpg
-
-.. image:: http://www.tightbytes.com/images/projects/violin/AbViolin04.jpg
-
-The area around the f-holes requires extreme caution. It looks like someone worked on the soundpost and wrecked part of the edge. That might need filling in or something.
-
-I also worry about the varnish actually having micro-cracks in it. The cloth seems to snag (horror of horrors!!) especially around the f-holes. I would think this needs addressing, in some fashion.
-
-Although the purchase price of the violin **initially** emboldened me to undertake this cleaning, with time and watching more of `Kevin Lee, Luthier's YouTube channel <https://www.youtube.com/@kevinleeluthier>`_ I've changed my stance to increasingly cautious. 
-
-I had purchased some Pirastro Tonica replacement strings, of which I've replaced the D, A and E so far, changing out the strings one at a time. Going to need to tilt the bridge back (forward?) again but I'm sort-of letting the violin get used to the new strings first. Did the graphite thing on the bridge and nut, as well as applying peg-paste on the pegs. 
-
- 
-
-
-
-
-
-***********
-Music Links
-***********
-
-======================
-Violin Bits and Pieces
-======================
-
------------
-To Purchase
------------
-
-Replacement pegs:
-
-`20pcs quality Violin Pegs <https://www.ebay.com.au/itm/304437243880?hash=item46e1dfafe8:g:G~AAAOSwFNBiU0-e>`_
-
-`Ebony Violin Tuning Pegs 4/4 Size New High Quality <https://www.ebay.com.au/itm/181719788625?hash=item2a4f57ec51:g:CKAAAOSwjVVV04Dx>`_
-
-`Ebony 3/4 4/4 Violin Tuning Pegs Black Violin Inlay Boxwood <https://www.ebay.com.au/itm/403290832986?hash=item5de601c05a:g:OUMAAOSw3S5hjaA0>`_
-
-`4x Violin Tuning Pegs Ebony Wood Violin Fiddle Tuning Peg <https://www.ebay.com.au/itm/265985301575?hash=item3dedf59c47:g:HdUAAOSwGU9jbuAR>`_
-
-
-Peg shaper - reamer:
-
-`4/4 Violin Peg Shaver Hole Reamer Steel Blade Luthier Tool <https://www.ebay.com.au/itm/333841339166?hash=item4dba7e931e:g:VoIAAOSwHaFjZcWW>`_
-
-`Shaper Violin pegs repair tool - violin peg shaver for 1/2 to 4/4 Violin <https://www.ebay.com.au/itm/333862204239?hash=item4dbbbcf34f:g:vwEAAOSwvw5gBjUH>`_
-
-Sound post setter:
-
-`Sound Post S setter W/ Rubber grip protector Luthier gold color <https://www.ebay.com.au/itm/284480471458?hash=item423c5b81a2:g:1ZIAAOSwnjpZ0Yh0>`_
-
-`Other violin stuff on AliExpress <https://www.aliexpress.com/premium/violin-luthier-tools.html?initiative_id=AS_20230130005122&dida=y>`_
-
-
----------
-Purchased
----------
-
-+-----------+----------------------------------+----------+
-| Date      | Item                             |  Amount  |
-+===========+==================================+==========+
-|           | Tuning fork                      |          |
-+-----------+----------------------------------+----------+
-|           | Violin Peg Shaver & Hole Reamer  |          |
-+-----------+----------------------------------+----------+
-|           | Violin bow horsehair             |          |
-+-----------+----------------------------------+----------+
-|           | Leather repair gel (black)       |          |
-+-----------+----------------------------------+----------+
-|           | Tuning pegs * 4                  |          |
-+-----------+----------------------------------+----------+
-|           | Soundpost setter                 |          |
-+-----------+----------------------------------+----------+
-|           | Spruce Sound-Post                |          |
-+-----------+----------------------------------+----------+
-|           | Tightbond Hide Glue              |          |
-+-----------+----------------------------------+----------+
-|           | OldWood Italian Cream            |          |
-+-----------+----------------------------------+----------+
-|           | Peg paste                        |          |
-+-----------+----------------------------------+----------+
-|           | Horse Hair Comb Stainless Steel  |          |
-+-----------+----------------------------------+----------+
-
-
-
+My go-to place for things violin is `SimplyForStrings <https://www.simplyforstrings.com.au/>`_ in Red Hill, QLD. On 31/01/2023, Michael actually examined that second violin - the one made in Czechoslovakia - to see if the pegs needed urgently changing: they are worn, but he reckons they're okay for now. He kindly showed me how to replace a string correctly. I hope to be taking their 'Violin Maintenance" class when they next hold it.
 
 
 

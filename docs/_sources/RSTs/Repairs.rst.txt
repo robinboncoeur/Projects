@@ -6,6 +6,227 @@ This page started out as a **Repairing Macbooks** page, but I'm going to put all
 
 
 
+.. _re-TheViolin:
+
+**********************
+Fixing up My Violin(s)
+**********************
+
+I've been wanting to play the violin for quite some time, now, and that desire has grown almost unbearable over the past few months. 
+
+As I do, I've been looking at everything I could find on getting started: instrument pricing, courses on learning how to play the thing, maintenance... everything. I even explored the art of the luthier: violin-making. Looks fascinating!
+
+
+
+========================
+2023-01-23 - The Stentor
+========================
+
+I purchased a student violin (in Stretton) for AUD$150.00 on Facebook Marketplace: this Stentor was going to be the one I learned to play on. And it has been sitting in my closet pretty much since I bought it.
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaA-Stentor.jpg
+
+======================
+2023-01-23 - The Chech
+======================
+
+--------------------------
+Day of Purchase - Jan 23rd
+--------------------------
+
+To practise restoring/maintenance skills, I found a violin (in Algester) for AUD$80.00 on Facebook Marketplace. It does have the following inscription::
+
+	Antonius Stradivarius. Cremonensis
+	Faciebot Anno 1713
+	Made in Czechoslovakia
+
+So, there's that.
+
+I purchased this violin *after* having watched this video:
+
+.. raw:: html
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/_c2s195oDX0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+...all with the express purpose of "getting my fingers dirty" restoring a **fine piece of art**: a violin. I did look for the Joha varnish cleaner that Kevin Lee was using; however, the only cleaner that appears to be available in Australia is `Hill's <https://www.simplyforstrings.com.au/products/hills-cleaning-preparation>`_. I actually ended up getting `this Italian Cream <https://www.simplyforstrings.com.au/products/old-wood-ag-italian-cream-small-50ml-1>`_.
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaB-Czech.jpg
+
+I did start trying to clean it with just using a cloth (brown t-shirt material, not a good choice, it turns out): 
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin01.jpg
+
+It quickly became apparent that I was starting to rub things wrong, somehow:
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin02.jpg
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin03.jpg
+
+Was it varnish I was removing, or something else? No idea: all I could see was that any rubbing wasn't going to remove the crud as much as dull the polish. Also, there were these *spots*:
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin04.jpg
+
+...which sort-of looked like mould to me:
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin05.jpg
+
+Was the purfling painted-on? (as opposed inlaid):
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin06.jpg
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin07.jpg
+
+The bridge would need adjusting:
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin08.jpg
+
+Strange-looking neck:
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin09.jpg
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin10.jpg
+
+Here, you can just make out how rubbing was dulling the polish a bit, **only just**:
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin11.jpg
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin12.jpg
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin13.jpg
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin15.jpg
+
+So I stopped rubbing. It seemed likely I wasn't removing the rosin residue so much as smearing it around: needing to use white from here on out.
+
+Removed the chinrest (carefully, with a bent clip, so as not to scratch the varnish) and this is the cork and sticky stuff it left on the violin:
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin16.jpg
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaViolin17.jpg
+
+That's been carefully cleaned off, now. Might go with a better chinrest, perhaps. Also, investing in a proper chinrest removal tool (AUD$5.00 at JustForStrings).
+
+
+-------------------------
+First Cleaning - Jan 25th
+-------------------------
+
+Last night, I started using a white cloth (feels like microfibre) to clean the violin - these were sock-like thingies, which were what the lenses I purchased came in. The approach to cleaning was this:
+
+	o breath on a small section
+	
+	o carefully 'polish' away the residue
+	
+	o *"rinse and repeat"* (not literally, no water came anywhere near the violin)
+
+I made a point of not pressing very hard, particularly around the f-holes, which seemed particularly fragile: I would just employ a  frequent movement of my hand, changing the cloth as soon as I saw any residue on it.
+
+Long way to go yet, but I reckon I'm seeing an inprovement!
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AbViolin01.jpg
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AbViolin02.jpg
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AbViolin03.jpg
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AbViolin04.jpg
+
+The area around the f-holes requires extreme caution. It looks like someone worked on the soundpost and wrecked part of the edge. That might need filling in or something.
+
+I also worry about the varnish actually having micro-cracks in it. The cloth seems to snag (horror of horrors!!) especially around the f-holes. I would think this needs addressing, in some fashion.
+
+Although the purchase price of the violin **initially** emboldened me to undertake this cleaning, with time and watching more of `Kevin Lee, Luthier's YouTube channel <https://www.youtube.com/@kevinleeluthier>`_ I've changed my stance to increasingly cautious. 
+
+I had purchased some Pirastro Tonica replacement strings at `Vivace Music <https://www.vivacemusic.com.au/>`_ in Sunnybank Hills for $60, of which I've replaced the D, A and E so far, changing out the strings one at a time. Going to need to tilt the bridge back (forward?) again but I'm sort-of letting the violin get used to the new strings first. Did the graphite thing on the bridge and nut, as well as applying peg-paste on the pegs. 
+
+
+-------------------------
+Peg Adjustment - Jan 31st
+-------------------------
+
+After my chiro appoint, ran up to Red Hill to meet with Michael at SimplyForStrings. He very kindly not only showed my how to revive the rather used-up pegs so they would work for a bit longer, but gave me all sorts of incredibly valuable tips and ideas on violin maintenance and care. When I buy my *real* violin - the one I will be playing the rest of my life - I'll be purchasing it from SimplyForStrings... they have been simply wonderful!
+
+======================
+Violin Bits and Pieces
+======================
+
+-----------
+To Purchase
+-----------
+
+Replacement pegs:
+
+`20pcs quality Violin Pegs <https://www.ebay.com.au/itm/304437243880?hash=item46e1dfafe8:g:G~AAAOSwFNBiU0-e>`_
+
+`Ebony Violin Tuning Pegs 4/4 Size New High Quality <https://www.ebay.com.au/itm/181719788625?hash=item2a4f57ec51:g:CKAAAOSwjVVV04Dx>`_
+
+`Ebony 3/4 4/4 Violin Tuning Pegs Black Violin Inlay Boxwood <https://www.ebay.com.au/itm/403290832986?hash=item5de601c05a:g:OUMAAOSw3S5hjaA0>`_
+
+`4x Violin Tuning Pegs Ebony Wood Violin Fiddle Tuning Peg <https://www.ebay.com.au/itm/265985301575?hash=item3dedf59c47:g:HdUAAOSwGU9jbuAR>`_
+
+
+Peg shaper - reamer:
+
+`4/4 Violin Peg Shaver Hole Reamer Steel Blade Luthier Tool <https://www.ebay.com.au/itm/333841339166?hash=item4dba7e931e:g:VoIAAOSwHaFjZcWW>`_
+
+`Shaper Violin pegs repair tool - violin peg shaver for 1/2 to 4/4 Violin <https://www.ebay.com.au/itm/333862204239?hash=item4dbbbcf34f:g:vwEAAOSwvw5gBjUH>`_
+
+Sound post setter:
+
+`Sound Post S setter W/ Rubber grip protector Luthier gold color <https://www.ebay.com.au/itm/284480471458?hash=item423c5b81a2:g:1ZIAAOSwnjpZ0Yh0>`_
+
+`Other violin stuff on AliExpress <https://www.aliexpress.com/premium/violin-luthier-tools.html?initiative_id=AS_20230130005122&dida=y>`_
+
+
+---------
+Purchased
+---------
+
++-----------+----------------------------------+----------+
+| Date      | Item                             |  Amount  |
++===========+==================================+==========+
+|           | Tuning fork                      | $   4.09 |
++-----------+----------------------------------+----------+
+|           | Violin Peg Shaver & Hole Reamer  | $  58.51 |
++-----------+----------------------------------+----------+
+|           | Violin bow horsehair             | $  17.46 |
++-----------+----------------------------------+----------+
+|           | Leather repair gel (black)       | $  14.88 |
++-----------+----------------------------------+----------+
+|           | Tuning pegs * 4                  | $  10.89 |
++-----------+----------------------------------+----------+
+|           | Soundpost setter                 | $  24.39 |
++-----------+----------------------------------+----------+
+|           | Spruce Sound-Post                | $  17.56 |
++-----------+----------------------------------+----------+
+|           | Tightbond Hide Glue              | $  30.90 |
++-----------+----------------------------------+----------+
+|           | OldWood Italian Cream            | $  30.00 |
++-----------+----------------------------------+----------+
+|           | Pirastro peg paste               | $  23.00 |
++-----------+----------------------------------+----------+
+|           | Violin bow                       | $  60.00 |
++-----------+----------------------------------+----------+
+|           | Pirastro Eudoxa rosin            | $  23.50 |
++-----------+----------------------------------+----------+
+|           | Chinrest key                     | $   4.95 |
++-----------+----------------------------------+----------+
+|           | Violin chinrest (boxwood)        | $  27.50 |
++-----------+----------------------------------+----------+
+|           | Violin shoulder rest             | $  27.95 |
++-----------+----------------------------------+----------+
+|           | Metal practice mute              | $  16.50 |
++-----------+----------------------------------+----------+
+|           | Pirastro Tonica strings          | $  59.50 |
++-----------+----------------------------------+----------+
+|           | Horse Hair Comb Stainless Steel  | $   5.93 |
++-----------+----------------------------------+----------+
+
+Not counting the batting and velvet I got at Lincraft ($17) the subtotal - not including the actual instruments is just shy of $460. 
+
+
+
+
 ***************
 Repairs on Macs
 ***************
