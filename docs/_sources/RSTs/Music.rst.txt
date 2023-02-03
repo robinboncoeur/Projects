@@ -650,9 +650,13 @@ I had purchased some Pirastro Tonica replacement strings, of which I've replaced
 Music Links
 ***********
 
-========================
-Violin Bits, To Purchase
-========================
+======================
+Violin Bits and Pieces
+======================
+
+-----------
+To Purchase
+-----------
 
 Replacement pegs:
 
@@ -676,6 +680,48 @@ Sound post setter:
 `Sound Post S setter W/ Rubber grip protector Luthier gold color <https://www.ebay.com.au/itm/284480471458?hash=item423c5b81a2:g:1ZIAAOSwnjpZ0Yh0>`_
 
 `Other violin stuff on AliExpress <https://www.aliexpress.com/premium/violin-luthier-tools.html?initiative_id=AS_20230130005122&dida=y>`_
+
+
+---------
+Purchased
+---------
+
++-----------+----------------------------------+----------+
+| Date      | Item                             |  Amount  |
++===========+==================================+==========+
+|           | Tuning fork                      |          |
++-----------+----------------------------------+----------+
+|           | Violin Peg Shaver & Hole Reamer  |          |
++-----------+----------------------------------+----------+
+|           | Violin bow horsehair             |          |
++-----------+----------------------------------+----------+
+|           | Leather repair gel (black)       |          |
++-----------+----------------------------------+----------+
+|           | Tuning pegs * 4                  |          |
++-----------+----------------------------------+----------+
+|           | Soundpost setter                 |          |
++-----------+----------------------------------+----------+
+|           | Spruce Sound-Post                |          |
++-----------+----------------------------------+----------+
+|           | Tightbond Hide Glue              |          |
++-----------+----------------------------------+----------+
+|           | OldWood Italian Cream            |          |
++-----------+----------------------------------+----------+
+|           | Peg paste                        |          |
++-----------+----------------------------------+----------+
+|           | Horse Hair Comb Stainless Steel  |          |
++-----------+----------------------------------+----------+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -704,9 +750,9 @@ https://seventhsam.com/blog/blog/how-to-use-reaticulate-to-manage-your-sample-li
 In reply to Can't run the beta on linux - *by zabalza.asier* - for Muse Hub, you might need to manually start the helper service - type "sudo muse-hub-service" before running "muse-hub" (no "sudo" needed). 
 
 
-===========================
-Instrument Repair/Restoring
-===========================
+====================================
+Instrument Repair/Restoring YouTubes
+====================================
 
 `Kimon, violin-maker YouTube <https://www.youtube.com/@maestrokimon>`_
 

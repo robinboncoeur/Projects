@@ -11,9 +11,9 @@ Our Projects and Activitiies
    RSTs/About.rst
    RSTs/Garden.rst
    RSTs/Health.rst
-   RSTs/Macs.rst
    RSTs/Music.rst
    RSTs/MyApps.rst
+   RSTs/Repairs.rst
    RSTs/Repose.rst
    RSTs/Video.rst
    RSTs/VScripts.rst
