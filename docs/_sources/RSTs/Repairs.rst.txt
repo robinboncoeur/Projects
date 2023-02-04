@@ -26,7 +26,7 @@ There was a lot to chose from! After a false start in Arana Hills on 12th of Jan
 2023-01-16 - The Stentor
 ========================
 
-The first student violin (in Stretton) I actually brought home went for AUD$150.00 on Facebook Marketplace: this Stentor was going to be the one I learned to play on. And it has been sitting in my closet pretty much since I bought it.
+The first student violin (purchased in Stretton) I actually brought home went for AUD$150.00 on Facebook Marketplace: this Stentor was going to be the one I learned to play on. And it has been sitting in my closet pretty much since I bought it.
 
 .. image:: http://www.tightbytes.com/images/projects/violin/AaA-Stentor.jpg
 
@@ -60,9 +60,7 @@ I couldn't find what Kevin recommended: Joha varnish cleaner; however, the clean
 
 .. image:: http://www.tightbytes.com/images/projects/violin/AaB-Czech.jpg
 
-Something about the appearance said: "this is what you really want." And so I brought it home, albeit resigned to another project. 
-
-I first started trying to clean it with just using a cloth, cautiously: 
+Something about the appearance said: "this is what you really want." And so I brought it home, albeit resigned to another project. I first started trying to clean it with just using a cloth, cautiously: 
 
 .. image:: http://www.tightbytes.com/images/projects/violin/AaViolin01.jpg
 
@@ -84,7 +82,7 @@ Was it varnish I was removing, or something else? No idea: all I could see was t
 
 .. image:: http://www.tightbytes.com/images/projects/violin/AaViolin07.jpg
 
-The bridge would need adjusting:
+The bridge needed adjusting:
 
 .. image:: http://www.tightbytes.com/images/projects/violin/AaViolin08.jpg
 
@@ -121,15 +119,13 @@ First Cleaning - Jan 25th
 
 Last night, I started using a white cloth (feels like microfibre) to clean the violin - these were sock-like thingies, which were what the lenses I purchased came in. The approach to cleaning was this:
 
-	# breathe on a small section
+	#. breathe on a small section
 	
-	# carefully 'polish' in line with the grain, hopefully removing rosin residue
+	#. carefully 'polish' in line with the grain, hopefully removing rosin residue
 	
-	# *"rinse and repeat"* (not literally, no water came anywhere near the violin)
+	#. *"rinse and repeat"* (not literally, no water came anywhere near the violin)
 
-I made a point of not pressing hard, particularly around the f-holes, which seemed particularly fragile: I would just employ a frequent movement of my hand, changing the cloth as soon as I saw any residue on it.
-
-Long way to go yet, but I reckon I'm seeing an inprovement!
+I made a point of not pressing hard, particularly around the f-holes, which seemed particularly fragile. Long way to go yet, but I reckon I'm seeing an inprovement!
 
 .. image:: http://www.tightbytes.com/images/projects/violin/AbViolin01.jpg
 
@@ -139,27 +135,27 @@ Long way to go yet, but I reckon I'm seeing an inprovement!
 
 .. image:: http://www.tightbytes.com/images/projects/violin/AbViolin04.jpg
 
-The area around the f-holes requires extreme caution. It looks like someone worked on the soundpost and wrecked part of the edge. That might need filling in or something.
+The area around the f-holes required extreme caution. It looked like someone had not-too-carefully adjusted the soundpost and damaged part of the edge. That might need filling in or something.
 
-I also worry about the varnish actually having micro-cracks in it. The cloth seems to snag (horror of horrors!!) noticeably around the f-holes. Pretty sure this needs addressing, in some fashion.
+It seemed that the varnish had like micro-cracks in it. The cloth seems to snag (horror of horrors!!) noticeably around the f-holes. Pretty sure this needs addressing, in some fashion.
 
-Although the purchase price of the violin **initially** emboldened me to undertake polishing this violin, with time and watching more of `Kevin Lee, Luthier's YouTube channel <https://www.youtube.com/@kevinleeluthier>`_ I've changed my stance to being increasingly cautious in my approach to the task. 
+Although the purchase price of the violin **initially** emboldened me to undertake polishing this violin, with time and watching more of `Kevin Lee, Luthier's YouTube channel <https://www.youtube.com/@kevinleeluthier>`_ I've been changing my view on how to approach the task. 
 
-I had purchased some Pirastro Tonica replacement strings at `Vivace Music <https://www.vivacemusic.com.au/>`_ in Sunnybank Hills for $60, of which I've replaced the D, A and E so far, changing out the strings one at a time. Going to need to tilt the bridge back (forward?) again but I'm sort-of letting the violin get used to the new strings first. Did the graphite thing on the bridge and nut, as well as applying peg-paste on the pegs. 
+I had purchased some Pirastro Tonica strings at `Vivace Music <https://www.vivacemusic.com.au/>`_ in Sunnybank Hills for $60 as replacements, of which I've replaced the D, A and E so far, changing out the strings one at a time. Tilted the bridge towards the tailpiece after letting the violin get used to the new strings first. Did the graphite thing on the bridge and nut, as well as applying peg-paste on the pegs. 
 
 
 -------------------------
 Peg Adjustment - Jan 31st
 -------------------------
 
-After my chiro appoint, ran up to Red Hill to meet with Michael at SimplyForStrings. He very kindly not only showed my how to revive the rather used-up pegs so they would work for a bit longer, but gave me all sorts of incredibly valuable tips and ideas on violin maintenance and care. When I buy my *real* violin - the one I will be playing the rest of my life - I'll be purchasing it from SimplyForStrings... they have been simply wonderful!
+After my chiropractor appointment, popped up to Red Hill to meet with Michael at SimplyForStrings. He very kindly not only showed my how to revive the rather used-up pegs so they would work for a bit longer, but gave me all sorts of incredibly valuable tips and ideas on violin maintenance and care. When I buy my *real* violin - the one I will be playing the rest of my life - I'll be purchasing it from SimplyForStrings... they have been simply wonderful!
 
 
 ---------------------------
 Initial Exercises - Feb 1st
 ---------------------------
 
-Michael kindly sent me some exercises to do - just until I sort-of engage a formal instructor. Not trivial, just getting a decent sound out of 'open strings' is a challenge. And yet, achieveable.
+Michael kindly sent me some exercises to do - just until I sort-of engage a formal instructor. Not trivial, these exercises! Just getting a decent sound out of 'open strings' is a challenge. And yet, oddly enough, achieveable, with a bit of work.
 
 
 
