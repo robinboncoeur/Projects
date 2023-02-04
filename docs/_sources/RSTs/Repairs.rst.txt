@@ -209,31 +209,31 @@ Purchased
 
 .. csv-table:: Current Purchases
     :header: "Date", "Item", "Price"
-    :widths: 12, 30, 10
+    :widths: 14, 40, 14
 
-   	07/09/2022,Tuning fork,$    4.09
-	29/01/2023,Violin bow horsehair,$ 17.46
-	29/01/2023,Leather repair gel (black),$ 14.88
-	31/01/2023,Tuning pegs - 4,$ 10.89
-	31/01/2023,Soundpost setter,$ 24.39
-	31/01/2023,Violin Peg Shaver Hole Reamer Steel Blade Luthier Tool,$ 58.51
-	01/02/2023,Violin Column Spruce Sound-Post,$ 17.56
-	01/02/2023,Tightbond Hide Glue,$ 30.90
-	23/01/2023,OldWood Italian Cream,$	30.00
-	23/01/2023,Pirastro peg paste,$	23.00
-	24/01/2023,Violin bow,$	60.00
-	25/01/2023,Pirastro Eudoxa rosin,$	23.50
-	25/01/2023,Chinrest key,$		4.95
-	25/01/2023,Violin chinrest (boxwood),$	27.50
-	25/01/2023,Violin shoulder rest,$	27.95
-	26/01/2023,Metal practice mute,$	16.50
-	31/01/2023,NAOMI Professional Horse Hair Comb Stainless Steel,$		5.93
-	24/01/2023,Pirastro Tonica strings,$60.00
-	29/01/2023,HERDIM HAIR GAUGE Item Code 2812,$34.00
-	04/02/2023,TOTAL,$492.01
+   	07/09/2022, Tuning fork, $4.09
+	29/01/2023, Violin bow horsehair, $17.46
+	29/01/2023, Leather repair gel (black), $14.88
+	31/01/2023, Tuning pegs x 4, 10.89
+	31/01/2023, Soundpost setter, 24.39
+	31/01/2023, Peg Shaver / Hole Reamer, $58.51
+	01/02/2023, Spruce Sound-Post, $17.56
+	01/02/2023, Tightbond Hide Glue, $30.90
+	23/01/2023, OldWood Italian Cream, $30.00
+	23/01/2023, Pirastro peg paste, $23.00
+	24/01/2023, Violin bow (for Czech), $60.00
+	25/01/2023, Pirastro Eudoxa rosin, $23.50
+	25/01/2023, Chinrest key, $4.95
+	25/01/2023, Violin chinrest (boxwood; for Czech) ,$27.50
+	25/01/2023, Violin shoulder rest (for Czech), $27.95
+	26/01/2023, Metal practice mute, $16.50
+	31/01/2023, Professional Horse Hair Comb, $5.93
+	24/01/2023, Pirastro Tonica strings, $60.00
+	29/01/2023, HERDIM HAIR GAUGE (Item Code 2812), $34.00
+	04/02/2023, TOTAL, $492.01
 
 
-Not counting the batting and velvet I got at Lincraft ($17) the subtotal - not including the actual instruments is just shy of $500. 
+Not counting the batting and velvet I got at Lincraft ($17) for The Czech's case, the subtotal - not including the actual instruments - is just shy of $500. Adds up fast, and I haven't even invested in any tools, really.
 
 
 
