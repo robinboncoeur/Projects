@@ -4,13 +4,13 @@ Repairing Anything
 
 This page started out as a **Repairing Macbooks** page, but I'm going to put all repairs I do on things here, just to remind myself how it's done.
 
-
+Update Repairs: violin
 
 .. _re-TheViolin:
 
-**********************
-Fixing up My Violin(s)
-**********************
+*************
+Fix Violin(s)
+*************
 
 I've been wanting to play the violin for quite some time now. I'm now 70, and it's now or never. At the moment, I can't afford an expensive instrument: expensive to me is actually anything over $150. Eventually, I might be able to justify a $5000 to $10,000 instrument, but that time is well in the future.
 
@@ -157,17 +157,18 @@ After my chiro appoint, ran up to Red Hill to meet with Michael at SimplyForStri
 
 
 =======================
-2023-01-23 - The Enrico
+2023-02-01 - The Enrico
 =======================
 
 -------------
 Happy Project
 -------------
 
-This violin hadn't been touched since 1999, so her strings were toast and the soundpost had fallen:
+This violin hadn't been touched since 1999. Her strings were toast and the soundpost has fallen:
 
 .. image:: http://www.tightbytes.com/images/projects/violin/AaC-Enrico.jpg
 
+Going to be a great project!
 
 
 ======================
