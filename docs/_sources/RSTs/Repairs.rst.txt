@@ -12,29 +12,37 @@ This page started out as a **Repairing Macbooks** page, but I'm going to put all
 Fixing up My Violin(s)
 **********************
 
-I've been wanting to play the violin for quite some time, now, and that desire has grown almost unbearable over the past few months. 
+I've been wanting to play the violin for quite some time now. I'm now 70, and it's now or never. At the moment, I can't afford an expensive instrument: expensive to me is actually anything over $150. Eventually, I might be able to justify a $5000 to $10,000 instrument, but that time is well in the future.
 
 As I do, I've been looking at everything I could find on getting started: instrument pricing, courses on learning how to play the thing, maintenance... everything. I even explored the art of the luthier: violin-making. Looks fascinating!
 
+The most obvious place to start looking for a used instrument was Ebay, but I decided that Facebook Marketplace would yield results where the seller was closer to home and I'd save myself the hassle and cost of shipping.
+
+There was a lot to chose from! After a false start in Arana Hills on 12th of January (the violin was a 3/4 size: I needed a 4/4), finally starting to find what I was after.
+
 
 
 ========================
-2023-01-23 - The Stentor
+2023-01-16 - The Stentor
 ========================
 
-I purchased a student violin (in Stretton) for AUD$150.00 on Facebook Marketplace: this Stentor was going to be the one I learned to play on. And it has been sitting in my closet pretty much since I bought it.
+The first student violin (in Stretton) I actually brought home went for AUD$150.00 on Facebook Marketplace: this Stentor was going to be the one I learned to play on. And it has been sitting in my closet pretty much since I bought it.
 
 .. image:: http://www.tightbytes.com/images/projects/violin/AaA-Stentor.jpg
+
+Eventually, we'll have to see where we go with this one.
+
+
 
 ======================
 2023-01-23 - The Czech
 ======================
 
---------------------------
-Day of Purchase - Jan 23rd
---------------------------
+------------------
+A Gem in the Rough
+------------------
 
-To practise restoring/maintenance skills, I found a violin (in Algester) for AUD$80.00 on Facebook Marketplace. It does have the following inscription::
+To practise restoring/maintenance skills, I found a violin (in Algester) for AUD$80.00 on Facebook Marketplace. It has the following inscription::
 
 	Antonius Stradivarius. Cremonensis
 	Faciebot Anno 1713
@@ -42,13 +50,13 @@ To practise restoring/maintenance skills, I found a violin (in Algester) for AUD
 
 So, there's that.
 
-I purchased this violin *after* having watched this video:
+What inspired the purchase of **this** particular this violin was this video:
 
 .. raw:: html
    
    <iframe width="560" height="315" src="https://www.youtube.com/embed/_c2s195oDX0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-...all with the express purpose of "getting my fingers dirty" restoring a **fine piece of art**: a violin. I did look for the Joha varnish cleaner that Kevin Lee was using; however, the only cleaner that appears to be available in Australia is `Hill's <https://www.simplyforstrings.com.au/products/hills-cleaning-preparation>`_. I actually ended up getting `this Italian Cream <https://www.simplyforstrings.com.au/products/old-wood-ag-italian-cream-small-50ml-1>`_. The violin itself hadn't been used in ages, the A-string was missing, and it clearly hadn't been cleaned or tuned in a while. The ad:
+I couldn't find what Kevin recommended: Joha varnish cleaner; however, the cleaner that appears to be available in Australia is `Hill's <https://www.simplyforstrings.com.au/products/hills-cleaning-preparation>`_. I actually ended up getting `this Italian Cream Hg <https://www.simplyforstrings.com.au/products/old-wood-ag-italian-cream-small-50ml-1>`_. The violin itself hadn't been used in ages, the A-string was missing, and it clearly hadn't been cleaned or tuned in a while. The ad didn't really display the issues I discovered later... all I have of that ad is this:
 
 .. image:: http://www.tightbytes.com/images/projects/violin/AaB-Czech.jpg
 
@@ -145,6 +153,22 @@ Peg Adjustment - Jan 31st
 -------------------------
 
 After my chiro appoint, ran up to Red Hill to meet with Michael at SimplyForStrings. He very kindly not only showed my how to revive the rather used-up pegs so they would work for a bit longer, but gave me all sorts of incredibly valuable tips and ideas on violin maintenance and care. When I buy my *real* violin - the one I will be playing the rest of my life - I'll be purchasing it from SimplyForStrings... they have been simply wonderful!
+
+
+
+=======================
+2023-01-23 - The Enrico
+=======================
+
+-------------
+Happy Project
+-------------
+
+This violin hadn't been touched since 1999, so her strings were toast and the soundpost had fallen:
+
+.. image:: http://www.tightbytes.com/images/projects/violin/AaC-Enrico.jpg
+
+
 
 ======================
 Violin Bits and Pieces
