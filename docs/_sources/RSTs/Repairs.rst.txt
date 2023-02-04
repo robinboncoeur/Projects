@@ -141,9 +141,9 @@ Long way to go yet, but I reckon I'm seeing an inprovement!
 
 The area around the f-holes requires extreme caution. It looks like someone worked on the soundpost and wrecked part of the edge. That might need filling in or something.
 
-I also worry about the varnish actually having micro-cracks in it. The cloth seems to snag (horror of horrors!!) especially around the f-holes. I would think this needs addressing, in some fashion.
+I also worry about the varnish actually having micro-cracks in it. The cloth seems to snag (horror of horrors!!) noticeably around the f-holes. Pretty sure this needs addressing, in some fashion.
 
-Although the purchase price of the violin **initially** emboldened me to undertake this cleaning, with time and watching more of `Kevin Lee, Luthier's YouTube channel <https://www.youtube.com/@kevinleeluthier>`_ I've changed my stance to increasingly cautious. 
+Although the purchase price of the violin **initially** emboldened me to undertake polishing this violin, with time and watching more of `Kevin Lee, Luthier's YouTube channel <https://www.youtube.com/@kevinleeluthier>`_ I've changed my stance to being increasingly cautious in my approach to the task. 
 
 I had purchased some Pirastro Tonica replacement strings at `Vivace Music <https://www.vivacemusic.com.au/>`_ in Sunnybank Hills for $60, of which I've replaced the D, A and E so far, changing out the strings one at a time. Going to need to tilt the bridge back (forward?) again but I'm sort-of letting the violin get used to the new strings first. Did the graphite thing on the bridge and nut, as well as applying peg-paste on the pegs. 
 
@@ -207,47 +207,33 @@ Sound post setter:
 Purchased
 ---------
 
-+-----------+----------------------------------+----------+
-| Date      | Item                             |  Amount  |
-+===========+==================================+==========+
-|           | Tuning fork                      | $   4.09 |
-+-----------+----------------------------------+----------+
-|           | Violin Peg Shaver & Hole Reamer  | $  58.51 |
-+-----------+----------------------------------+----------+
-|           | Violin bow horsehair             | $  17.46 |
-+-----------+----------------------------------+----------+
-|           | Leather repair gel (black)       | $  14.88 |
-+-----------+----------------------------------+----------+
-|           | Tuning pegs * 4                  | $  10.89 |
-+-----------+----------------------------------+----------+
-|           | Soundpost setter                 | $  24.39 |
-+-----------+----------------------------------+----------+
-|           | Spruce Sound-Post                | $  17.56 |
-+-----------+----------------------------------+----------+
-|           | Tightbond Hide Glue              | $  30.90 |
-+-----------+----------------------------------+----------+
-|           | OldWood Italian Cream            | $  30.00 |
-+-----------+----------------------------------+----------+
-|           | Pirastro peg paste               | $  23.00 |
-+-----------+----------------------------------+----------+
-|           | Violin bow                       | $  60.00 |
-+-----------+----------------------------------+----------+
-|           | Pirastro Eudoxa rosin            | $  23.50 |
-+-----------+----------------------------------+----------+
-|           | Chinrest key                     | $   4.95 |
-+-----------+----------------------------------+----------+
-|           | Violin chinrest (boxwood)        | $  27.50 |
-+-----------+----------------------------------+----------+
-|           | Violin shoulder rest             | $  27.95 |
-+-----------+----------------------------------+----------+
-|           | Metal practice mute              | $  16.50 |
-+-----------+----------------------------------+----------+
-|           | Pirastro Tonica strings          | $  59.50 |
-+-----------+----------------------------------+----------+
-|           | Horse Hair Comb Stainless Steel  | $   5.93 |
-+-----------+----------------------------------+----------+
+.. csv-table:: Current Purchases
+    :header: "Date", "Item", "Price"
+    :widths: 12, 30, 10
 
-Not counting the batting and velvet I got at Lincraft ($17) the subtotal - not including the actual instruments is just shy of $460. 
+   	07/09/2022,Tuning fork,$    4.09
+	29/01/2023,Violin bow horsehair,$ 17.46
+	29/01/2023,Leather repair gel (black),$ 14.88
+	31/01/2023,Tuning pegs - 4,$ 10.89
+	31/01/2023,Soundpost setter,$ 24.39
+	31/01/2023,Violin Peg Shaver Hole Reamer Steel Blade Luthier Tool,$ 58.51
+	01/02/2023,Violin Column Spruce Sound-Post,$ 17.56
+	01/02/2023,Tightbond Hide Glue,$ 30.90
+	23/01/2023,OldWood Italian Cream,$	30.00
+	23/01/2023,Pirastro peg paste,$	23.00
+	24/01/2023,Violin bow,$	60.00
+	25/01/2023,Pirastro Eudoxa rosin,$	23.50
+	25/01/2023,Chinrest key,$		4.95
+	25/01/2023,Violin chinrest (boxwood),$	27.50
+	25/01/2023,Violin shoulder rest,$	27.95
+	26/01/2023,Metal practice mute,$	16.50
+	31/01/2023,NAOMI Professional Horse Hair Comb Stainless Steel,$		5.93
+	24/01/2023,Pirastro Tonica strings,$60.00
+	29/01/2023,HERDIM HAIR GAUGE Item Code 2812,$34.00
+	04/02/2023,TOTAL,$492.01
+
+
+Not counting the batting and velvet I got at Lincraft ($17) the subtotal - not including the actual instruments is just shy of $500. 
 
 
 
