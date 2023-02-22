@@ -6,6 +6,11 @@ This page started out as a **Repairing Macbooks** page, but I'm going to put all
 
 Update Repairs: violin
 
+.. raw:: html
+   
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+
 .. _re-TheViolin:
 
 *************
@@ -20,6 +25,10 @@ The most obvious place to start looking for a used instrument was Ebay, but I de
 
 There was a lot to chose from! After a false start in Arana Hills on 12th of January (the violin was a 3/4 size: I needed a 4/4), finally starting to find what I was after.
 
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
 
 
 ========================
@@ -31,6 +40,10 @@ The first student violin (purchased in Stretton) I actually brought home went fo
 .. image:: http://www.tightbytes.com/images/projects/violin/AaA-Stentor.jpg
 
 Eventually, we'll have to see where we go with this one.
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 
 
@@ -193,6 +206,23 @@ Whilst it is recommended to keep your violin in its case, I'm defying those inst
 ...only just because having the violin **visible** reminds me to practice.
 
 
+---------------------
+Practising - Feb 22nd
+---------------------
+
+Self-teaching is actually a very hard way to go. Having an instructor would indeed make things significantly more consistent and would accelerate my progress, but it's not in the cards at the moment. I have been practising simple open-string bowing, trying to get the bow-hold right, stop the chattering (seems to be a down-bow phenomenon) and scratching and just get nice, even sounds.
+
+It's slowly actually happening, though - the sound is slowly improving.
+
+I do clean my violin before I put it away, and am still noticing a bit of thread-grabbing around the f-holes. Wondering if sanding - perish the thought! - or polishing or indeed **what** would make this less of a problem. Might try polishing. 
+
+Am signed up for a `violin maintenance workshop at Simply for Strings <https://www.simplyforstrings.com.au/>`_ taking place of the 14th of April.
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
 
 =======================
 2023-02-01 - The Enrico
@@ -212,6 +242,10 @@ Initial Cleaning - Feb 4th
 --------------------------
 
 Did a bit of a 'dry' polish tonight, and 'discovered' that the base may be coming off. Which means: removing the whole thing, sanding carefully and re-glueing. Wow, am I really ready for this? I di sign up for a Violin Maintenance course for April 14th ath SimplyForStrings: might have a word to them as to the advisability of embarking on such an adventure.
+
+.. raw:: html
+   
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 
 
@@ -278,6 +312,12 @@ Purchased
 
 
 Not counting the batting and velvet I got at Lincraft ($17) for The Czech's case, the subtotal - not including the actual instruments - is just shy of $500. Adds up fast, and I haven't even invested in any tools, really.
+
+
+
+.. raw:: html
+   
+   <hr style="height:8px;border-width:0;color:gray;background-color:gray">
 
 
 
