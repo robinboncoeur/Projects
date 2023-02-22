@@ -251,7 +251,7 @@ This violin hadn't been touched since 1999. Her strings were toast and the sound
 Initial Cleaning - Feb 4th
 --------------------------
 
-Did a bit of a 'dry' polish tonight, and 'discovered' that the base may be coming off. Which means: removing the whole thing, sanding carefully and re-glueing. Wow, am I really ready for this? I di sign up for a Violin Maintenance course for April 14th ath SimplyForStrings: might have a word to them as to the advisability of embarking on such an adventure.
+Did a bit of a 'dry' polish tonight, and *discovered* that the **base** is likely coming away from the rest of the body. Which means: removing the whole thing, sanding carefully and re-glueing. Wow, am I really ready for this? I did sign up for a Violin Maintenance course for April 14th at `Simply for Strings <https://www.simplyforstrings.com.au/>`_: might have a word to them as to the advisability of embarking on such an adventure.
 
 .. raw:: html
    
@@ -322,6 +322,24 @@ Purchased
 
 
 Not counting the batting and velvet I got at Lincraft ($17) for The Czech's case, the subtotal - not including the actual instruments - is just shy of $500. Adds up fast, and I haven't even invested in any tools, really.
+
+Considering that the Stentor was $150, the Czech $80 and the Enrico $40, plus the other stuff::
+
+	* $492.00
+	* $150.00
+	* $ 80.00
+	* $ 40.00
+	* $ 17.00
+	* -------
+	* $779.00
+	
+About $100 away from `this violin <https://www.simplyforstrings.com.au/products/rondo-violin-outfit-4-4>`_:
+
+.. image:: .. image:: http://www.tightbytes.com/images/projects/violin/AaD-Rondo.png
+
+{{{{sigh}}}}
+
+Penny-wise, pound-foolish.
 
 
 
