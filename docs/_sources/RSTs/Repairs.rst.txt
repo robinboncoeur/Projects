@@ -335,7 +335,7 @@ Considering that the Stentor was $150, the Czech $80 and the Enrico $40, plus th
 	
 About $100 away from `this violin <https://www.simplyforstrings.com.au/products/rondo-violin-outfit-4-4>`_:
 
-.. image:: .. image:: http://www.tightbytes.com/images/projects/violin/AaD-Rondo.png
+.. image:: http://www.tightbytes.com/images/projects/violin/AaD-Rondo.png
 
 {{{{sigh}}}}
 
