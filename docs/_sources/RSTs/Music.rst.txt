@@ -531,8 +531,13 @@ Have only just barely started Ryan's course - got stuck into Marc Sabatella's co
 
 Currently trying to get a "Chorale" right - also struggling with harmonies - that is far less light-hearted. Not sure I'd ever put it on Musescore.com: it's fraught with unhappy messages that might invoke controversy.
 
+**Update: 2023-02-27**
 
+The .reabanks for Spitfire Studio Woodwinds had flaws: they have been fixed and the updates uploaded to the Reaper forum and the Reaticulate github page. The Spitfire Studio Brass (Standard and Professional) are also done and uploaded to both sites.
 
+And I've made a start on the Strings: the Base, Core Techniques and Legato patches for Standard are done and work.
+
+Practising my violin: this is definitely uphill work. The bow wants to chatter and involve more than on string at a time: typical "gremmy" stuff. Good job I got the mute for it!
 
 
 
