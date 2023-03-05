@@ -10,6 +10,7 @@ Our Projects and Activitiies
    
    RSTs/About.rst
    RSTs/Garden.rst
+   RSTs/Foodie.rst
    RSTs/Health.rst
    RSTs/Music.rst
    RSTs/MyApps.rst
