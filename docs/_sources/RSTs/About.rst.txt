@@ -156,12 +156,18 @@ This code::
 	.. raw:: html
 
 	   <iframe width="560" height="315" src="https://tightbytes.com/videos/projects/garden/Aj-SHTrench.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	   
+	   |
+	   
 
 ...produces:
 
 .. raw:: html
 
    <iframe width="560" height="315" src="https://tightbytes.com/videos/projects/garden/Aj-SHTrench.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
+   |
+
 
 (Note to self: took out  [  autoplay; ] )
 

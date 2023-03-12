@@ -4,7 +4,7 @@ Repairing Anything
 
 This page started out as a **Repairing Macbooks** page, but I'm going to put all repairs I do on things here, just to remind myself how it's done.
 
-Update Repairs: violin
+
 
 
 .. raw:: html
@@ -284,6 +284,7 @@ Peg shaper - reamer:
 
 `Shaper Violin pegs repair tool - violin peg shaver for 1/2 to 4/4 Violin <https://www.ebay.com.au/itm/333862204239?hash=item4dbbbcf34f:g:vwEAAOSwvw5gBjUH>`_
 
+
 Sound post setter:
 
 `Sound Post S setter W/ Rubber grip protector Luthier gold color <https://www.ebay.com.au/itm/284480471458?hash=item423c5b81a2:g:1ZIAAOSwnjpZ0Yh0>`_
@@ -333,19 +334,41 @@ Considering that the Stentor was $150, the Czech $80 and the Enrico $40, plus th
 	* -------
 	* $779.00
 	
-About $100 away from `this violin <https://www.simplyforstrings.com.au/products/rondo-violin-outfit-4-4>`_:
 
-.. image:: http://www.tightbytes.com/images/projects/violin/AaD-Rondo.png
+---------------------------
+Ready to Upgrade - Mar 12th
+---------------------------
 
-{{{{sigh}}}}
+I've been trying to leaarn to play, and am actually just doing open strings. To dilute the sound a bit and make the process a bit more fun, I've written this piece:
 
-Penny-wise, pound-foolish.
+.. raw:: html
 
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/exercises/OpenStrings-Ag.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
 
+All it does is surround the second violins - the part I actually play - with something sort-of interesting. We'll see what folks think. All this mucking about has convinced me - well, others have emphasised this! - that I really need to get a **real violin**! So, I'm hoping to sell video lighting equipment (part of a Swedish death-clean strategy) and put the proceeds towards `this one <https://www.simplyforstrings.com.au/products/gliga-vasile-professional-series-violin-dark-antique-model-4-4>`_. The idea being, of course, that if you haven't used or loved something in a long time, it's become an anchor. I'm actually considering doing the same with my GH5 and lenses.
 
 .. raw:: html
    
    <hr style="height:8px;border-width:0;color:gray;background-color:gray">
+
+
+GitHub Note:
+
+	Update Repairs: violin
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -573,6 +596,7 @@ Manage the Mac
 Running Linux on Mac devices, `controlling the SMC <https://github.com/pobetiger/macfanpp>`_
 
 
+
 ------------
 IFixit Pages
 ------------
@@ -599,6 +623,8 @@ MrMacintosh's `MacOS download site <https://mrmacintosh.com/macos-ventura-13-ful
 GitHub `Dortana Patcher (a) <https://github.com/dortania/OpenCore-Legacy-Patcher/releases>`_
 
 GitHub `Dortana Patcher (b) <https://dortania.github.io/OpenCore-Legacy-Patcher/START.html>`_
+
+MrMacintosh's page on `downloading full installers for older versions of MacOS <https://mrmacintosh.com/how-to-download-macos-catalina-mojave-or-high-sierra-full-installers/>`_
 
 
 -----------------------
