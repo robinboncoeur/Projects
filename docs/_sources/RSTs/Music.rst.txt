@@ -166,6 +166,24 @@ Just purchased the `Spitfire Studio Strings <https://www.spitfireaudio.com/spitf
 Sketch 7 - 'Souffle des Arbres'
 ===============================
 
+**Uploaded to** `Musescore-Sketch VII <https://musescore.com/user/29275325/scores/6784400>`_ **on 22nd-May-2021**
+
+From instruments I've added to my usual list of suspects, one might be able to discern I've been having a long, quite admiring look at Mendelssohn's work of late, most particularly the instrumental opening of the Elijah. Yeah, so a timpani. Actually plunked down a fair bit of change just for a really good library (for Reaper) just for this one instrument.
+
+So, I can say "inspired by" but there the resemblance certainly ends. The tempo never changes... sort-of like wind in the trees, a bit like they're breathing, which the title sort-of means.
+
+Thank you for listening, commenting and having listen to the Reaper version, which I have a much better control over and which I can get to sound the way I want. The Musescore version still isn't what I'm after, sadly, very likely due to ignorance on my part.
+
+ETA: had to re-upload (several times) as I'd sort-of messed up the synthesizer settings. I did try the Symphonic Sounds soundfont, but am not familiar on how to optimise the settings - did change the instruments in Mixer to (I think) the correct ones - and made a royal hash of the sound, so reverted back to the Musescore_General_HQ.sf3 font. Also, thank you for spotting those issues, which I've corrected (and found some others: thought I'd gone over this with a fine-toothed comb).
+
+**Added 19-Nov-2021**
+
+I've had the extreme fortune to be able to obtain the Spitfire Studio Strings and Studio Brass libraries when they were on special and replaced the NI legacy instrument library with these superb libraries in Reaper. I'm not an audiophile but even I can hear the difference. Very, very much looking forward to Musescore 4, where I can avail myself of these libraries. Musescore 4 is so totally going to be a game-changer!
+
+**Update: 2022-Aug-24**
+
+The playback is a Reaper rendition hosted on YouTube. It features SpitFire's Studio Woodwinds, Strings and Brass.
+
 .. raw:: html
 
     <audio controls="controls">
@@ -183,7 +201,7 @@ Sketch 7 - 'Souffle des Arbres'
 Sketch 6 - Serenade
 ===================
 
-**Uploaded to** `Musescore.com <https://musescore.com/user/29275325/scores/6698255>`_ **on 03th-Apr-2021**
+**Uploaded to** `Musescore-Sketch VI <https://musescore.com/user/29275325/scores/6698255>`_ **on 03th-Apr-2021**
 
 My first transcription in Musescore was Dvorak's String Sextet (the Dumka)... a piece and a composer I have always found bewitching. This serenade is my humble scribblings attempting to emulate this great artist.
 
@@ -216,6 +234,16 @@ The playback is as produced by my DAW: Reaper. It features SpitFire's Studio Woo
 Sketch 5
 ========
 
+**Uploaded to** `Musescore-Sketch V <https://musescore.com/user/29275325/scores/6609464>`_ **on 13th-Feb-2021**
+
+One of the influential composers in my experience was Alan Hovhaness: perhaps the listener can pick up his minimalist approach to harmony. Oh yeah, a bit of French cinema ambiance here, too. French films have this sound, right? Something I find irresistible.
+
+I so wish that there was a place for WIPs. I'll be polishing this over the next weeks. Don't even know if that's cool.
+
+ETA: there will likely be more tweaks, but overall I'm at a point to call it sort-of done. 
+
+ETA #2: sped it up a bit, remembering the wise counsel of Penne Vodka... and he's right, it DOES sound better. Also, astute listeners - if there are any... this little piece has seen a grand total of 6 pairs of eyeballs - may notice a bit of disparity between the MS score and the Reaper "performance" and may be wondering why I don't reconcile the score to match. Actually, that exercise sort-of doesn't work, because to do so will ultimately make the MS version sound, well, at best meh, at worst, much worse. Until the MS software starts supporting more elaborate sound libraries, the Reaper flavour will always see significant modifications.
+
 .. raw:: html
 
     <audio controls="controls">
@@ -232,6 +260,17 @@ Sketch 5
 ========
 Sketch 4
 ========
+
+**Uploaded to** `Musescore-Sketch IV <https://musescore.com/user/29275325/scores/6534804>`_ **on 3rd-Jan-2021**
+
+I had been watching a fair bit of ZeFrank1's "Today we learn about..." botany lessons on YouTube which featured Telemann music in the background, and so, that sort-of got me going. I haven't even a skerrick of Telemann's magic in this little sketch... let's just say it was inspired by.
+The title originally had a sort-of footnote: "Still in B minor". Can't seem to get away from B minor, for some reason. Is it an organic thing? do our cells sort-of resonate in a certain key signatures at some point in our lives? Imponderable-ponderables.
+
+BTW, these are all "sketches" for a reason... I'm not pretending or supposing or having any delusion of grandeur that these are compositions. Nope. Just sketches. Like: what happens when you double an oboe with a recorder (sort-of). Or, can a recorder-player actually do this sort of jumping-flea dance? (flute, yeah, but recorder?) So, no, not a composer by any stretch of the imagination.
+
+Maybe, someday.
+
+ETA: I've got real concerns about the range of the recorder. Since the only instrument I ever played reasonably well was the french horn, I've had to learn about other instruments by trial and error. In Musescore, the range for the recorder is probably a bit more liberal than in a DAW: bringing this piece into Reaper left a lot of notes playing silence, so I had to sort-of replace the recorder with the piccolo flute for the time being. Oh, and sped it up again... always playing stuff too slowly.
 
 .. raw:: html
 
@@ -250,6 +289,12 @@ Sketch 4
 Sketch 3
 ========
 
+**Uploaded to** `Musescore-Sketch III <https://musescore.com/user/29275325/scores/6534804>`_ **on 21st-Nov-2020**
+
+Nothing serious, just a bit of fun.
+
+Initially, I was thinking "String Quartet" - however, that didn't seem to work... too strident, in the upper strings. However, the sound is a bit more likeable played by the mandolin. Apologies for changing midstream... the characteristics of the melody simply isn't string quartet material.
+
 .. raw:: html
 
     <audio controls="controls">
@@ -267,6 +312,14 @@ Sketch 3
 Sketch 2
 ========
 
+**Uploaded to** `Musescore-Sketch II <https://musescore.com/user/29275325/scores/6534804>`_ **on 30th-Oct-2020**
+
+This piece is a bit of "Scott Joplin kid brother hanging with Bach's much brighter sister" - well, brighter than Scott Joplin's kid brother, anyway. Not going into more than that. You might hear her influence in the middle bit. Perhaps.
+
+I have found the piano an incredibly versatile instrument - I can readily see why real composers are quite fond of it. This little ditty just tinkles merrily along... something that would be cool to hear being played at those old pianos sitting in airport lobbies.
+
+Hope you enjoy.
+
 .. raw:: html
 
     <audio controls="controls">
@@ -283,6 +336,12 @@ Sketch 2
 ========
 Sketch 1
 ========
+
+**Uploaded to** `Musescore-Sketch I <https://musescore.com/user/29275325/scores/6534804>`_ **on 6th-Sep-2020**
+
+This "piece", such as it is, sort-of organically grew out of a chord progression I was playing with, which then turned into an exploration of doubling or pairing of instruments... some of which definitely don't work. I don't know that it will ever be a finished piece, but oh well... I'm still learning.
+
+I'm going to have to admit: my rendition in MS is suboptimal. To be honest, what I do in Musescore is truly "sketch it out"... what happens in Reaper is a lot closer to what I'm after, even though it's certainly still quite rough, a lot of it. So, if the listener detects a disparity between what they see in Musescore vs what they hear in Reaper, my apologies in advance... Reaper reflects more what I was trying to do, and to go back to Musescore to reconcile the score with the piece seems like I'm reverse-engineering.
 
 .. raw:: html
 
