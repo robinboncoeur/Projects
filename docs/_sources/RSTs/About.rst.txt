@@ -6,7 +6,7 @@ About Projects
 My Projects Pages 
 *****************
 
-I was trying to upload images to a GMail email I was sending to Martin and Esther on 2022-Apr-15. Got about halfway through and GMail told me I would exceeded the size limit (25mb). Which seems silly in this day and age: this was without trying to send a video, even. Just pictures.
+I was trying to upload images to an email I was sending to Martin and Esther on 2022-Apr-15. Got about halfway through and Gmail told me I would exceed the size limit (25mb). Which seems silly in this day and age: this was without trying to send a video, even. Just pictures.
 
 What appeals to me about doing project progress sharing this way is:
 
@@ -18,7 +18,7 @@ What appeals to me about doing project progress sharing this way is:
 	
 	* Since the pages are hosted on GitHub, other family and friends could collaborate on this pages, and even add pages of their own.
 	
-Some section use dates as a sort-of link key. For example, I'll give whoever I'm writing an email to, as a link, the current entry into a give project page, like so:
+Some sections use dates as a sort-of link key. For example, I'll give whoever I'm writing an email to, as a link, the current entry into a given project page, like so:
 
 	`https://robinboncoeur.github.io/Projects/RSTs/Garden.html#apr-23 <https://robinboncoeur.github.io/Projects/RSTs/Garden.html#apr-23>`_
 	
@@ -36,33 +36,29 @@ Sphinx is really cool that way! By the way, the images have been uniformly resiz
 A Bit about the Why
 ===================
 
-First off, it's about sharing. That was sort-of my primary motivation for `TightBytes <https://tightbytes.com/>`_ - which sees pretty much no visitors ... whatever - and is what drives these pages. As you can tell from the next section, a bit of the reason was so I had a centralised location for reminders and links to stuff and so forth. Getting old bites the big one, and I'll sometimes find myself out and about - away from my PC - trying to do something I absolutely *Know* how to do... yeah, but can't remember **exactly** how to do it.
-
-Perhaps the reason I forget is because I use so many "tools". 
+First off, it's about sharing. That was sort-of my primary motivation for `TightBytes <https://tightbytes.com/>`_ - which sees pretty much no visitors ... whatever - and is what drives these pages. As you can tell from the next section, a bit of the reason was so I had a centralised location for reminders and links to stuff and so forth. Getting old makes one a bit forgetful, and I'll sometimes find myself out and about - away from my PC - trying to do something I absolutely *Know* how to do... yeah, but can't remember **exactly** how. Perhaps the reason I forget is because I use so many "tools". 
 
 What do I mean by "tools"?
 
-These pages - the one's on Github, currently (2022) - are created (typed) in a program (free) called "Brackets". So, not in MS Word of on Notepad or other text editor, but `Brackets <https://brackets.io/>`_. The reason for that is Brackets is a plain-text editor for programmers: it allows you to include text (and other) formatting code to be included in your text. The formatting codes aren't visible to the person reading the resultant page... thus::
+These pages - the one's on Github, currently (2022) - are created (typed) in a program (free) called "Brackets". So, not in MS Word or on Notepad or other text editor, but `Brackets <https://brackets.io/>`_. The reason for that is Brackets is a plain-text editor for programmers: it allows you to include text (and other) formatting code to be included in your text. The formatting codes aren't visible to the person reading the resultant page... thus::
 
 	...here is how I do ** bold** and *italic*...
 
 produces "...here is how I do **bold** and *italic*...".
 
-These are all mechanisms designed for what these pages are designed for: `Sphinx <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_, which uses reStructuredText as the default plain-text markup 'language'. Just like in other languages, programming 'languages' have certain rules so that you can pretty much get the same results all the time in a given environment. On the web, the most common 'language' is HTML::
+These are all mechanisms designed for what these pages are designed for: `Sphinx <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_, which uses a markup language called **reStructuredText** as the default. Just like in other languages, programming 'languages' have certain rules so that you can pretty much get the same results all the time in a given environment. On the web, the most common 'language' is HTML::
 
 	<HTML>
-	
 	<HEAD> header content here
 	</HEAD>
 	
 	<BODY> body of the text here
 	</BODY>
-	
 	</HTML>
 
-It is essentially a markup language, meaning you insert the formatting 'tags' - in HTML, it would be words enclosed by lesser-than and greater-than symbols - when you create the document which the interpreter sees as instructions on how the text should look or behave. Being comfortable in that "language" is just a matter of doing it enough, just like any other language.
+A markup language allows you to insert formatting 'tags' right into the text itself. For example, in HTML the markup bit would be words enclosed by lesser-than and greater-than symbols. When you create the document the interpreter sees that as instructions on how the rest of the text should look or behave. Being comfortable in that "language" is just a matter of doing it enough, just like any other language.
 
-HTML is just one such "tool". reStructured Text is another - these pages are formatted using reST. VBA is another, Python yet another... and after a while, I've ended up needing a reference on how do do certain things, particularly if I hadn't done them in a while.
+HTML is just one such "tool". reStructuredText is another - these pages are formatted using reStructuredText. VBA is another, Python yet another... and after a while, I've ended up needing a reference on how do do certain things, particularly if I hadn't done them in a while.
 
 I have another GitHub help page site called `Help Yourself <https://robinboncoeur.github.io/HelpYrself/>`_ that catalogues things I sort-of learnt to do, but then, since they weren't things I did every day, I needed to save the steps somewhere for when I needed that information again.
 
