@@ -15,7 +15,7 @@ Intervals
 While it must be supposed that the elements of musical science are familiar to everyone about to take up the art of composition, I deem it advisable to preface my treatise on Harmony with a short review of the subject of intervals, as any uncertain conceptions on this ground might easily prove a hindrance to a thorough knowledge of Harmony. The term "Interval" represents the mutual relation of the tones with regard to their position in the scale. The lower tone of an interval is called the 'fundamental' tone. The names of the intervals have their derivation in the Latin Ordinals, designating numerically the steps between fundamental tone and upper tone.
 
 
-.. image:: http://www.tightbytes.com/images/ptojects/harmony/Aa-Intervals01.png
+.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals01.png
 
 
 The raising or lowering of a tone of an interval causes no change in its name, while the distance between the two tones is widened or shortened. To obtain a clear view of such alterations of intervals, we will arrange the latter into two groups.
@@ -27,7 +27,7 @@ Minor intervals are half a tone smaller than major intervals; augmented interval
 
 Let us now ascertain the number of whole and semi-tones contained in each of these intervals, thus establishing a scale or medium of comparison for all intervals:
 
-.. image:: http://www.tightbytes.com/images/ptojects/harmony/Aa-Intervals02.png
+.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals02.png
 
 
 Having then obtained a knowledge of the various kinds of intervals and the means of gauging them, we are enabled to constitute exactly any relation between two given tones. To illustrate the aforesaid, we will construct a table of all the intervals baving C for their fundamental tone:
@@ -43,12 +43,12 @@ Having then obtained a knowledge of the various kinds of intervals and the means
 
 Thus, we learn that a major or a pure Interval is converted into a minor, diminished or augmented Interval by lowering or raising the upper tone - or, the latter remaining unchanged, by raising or lowering the fnndamental tone. For instance: 
 
-.. image:: http://www.tightbytes.com/images/ptojects/harmonyAa-Intervals03.png
+.. image:: http://www.tightbytes.com/images/projects/harmonyAa-Intervals03.png
 
 
 Intervals exceeding the octave are but repetitions of the relations existing within the limits of an octave; the "Ninth" alone has an independent significance in harmony. 
 
-.. image:: http://www.tightbytes.com/images/ptojects/harmony/Aa-Intervals04.png
+.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals04.png
 
 
 The inversion of Intervals is effected by transposing the upper tone into the octave below or the fundamental tone into the octave above. The relations thus arising may be expressed by the following figures...
@@ -63,12 +63,12 @@ The inversion of Intervals is effected by transposing the upper tone into the oc
 
 The inverted Prime becomes an Octave, the Second a Seventh, the Third a Sixth, the Fourth a Fifth, the Fifth a Fourtb, the Sixth a Third, the Seventh a Second, the Octave a Prime. 
 
-.. image:: http://www.tightbytes.com/images/ptojects/harmony/Aa-Intervals05.png
+.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals05.png
 
 
 Major intervals become minor, while minor intervals become major; augmented intervals become diminished, diminished intervals augmented; pure intervals however remain pure. 
 
-.. image:: http://www.tightbytes.com/images/ptojects/harmony/Aa-Intervals06.png
+.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals06.png
 
 
 According to the manner in which they affect the ear, intervals are separated into *Consonances* and *Dissonances*. The former are complete in themselves, as they express a certain *repose*; the latter, however, convey the element of motion and demand a goal or solution in the following interval.
