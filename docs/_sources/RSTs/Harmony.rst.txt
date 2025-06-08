@@ -26,8 +26,8 @@ Original text::
 
 The raising or lowering of a tone of an interval causes no change in its name, while the distance between the two tones is widened or shortened. To obtain a clear view of such alterations of intervals, we will arrange the latter into two groups.
 
-  * Group I comprising: large (major), small (minor), augmented and diminished intervals; (to which belong Seconds, Thirds, Sixths and Sevenths)
-  * Group II comprising: perfect, augmented and diminished intervals; (to which belong: Primes, Octaves, Fifths and Fourths) 
+  1. Large (major), small (minor), augmented and diminished intervals; (to which belong Seconds, Thirds, Sixths and Sevenths)
+  2. perfect, augmented and diminished intervals; (to which belong: Primes, Octaves, Fifths and Fourths) 
   
 Minor intervals are half a tone smaller than major intervals; augmented intervals are half a tone !arger than either major or perfect ones; while diminished intervals are half a tone smaller than minor or perfect intervals. All intervals having for tbeir fundamental tone the first degree of the major scale are either major or perfect.
 
