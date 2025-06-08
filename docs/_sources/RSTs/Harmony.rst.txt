@@ -12,9 +12,9 @@ Introduction
 Intervals
 =========
 
-Before we dive into the study of Harmony, it's important to make sure we're all on the same page when it comes to the basics. Even though it’s assumed that anyone starting composition already has a solid understanding of music theory, it’s still a good idea to begin with a quick review of intervals. If your understanding of intervals is a little shaky, it can make learning harmony more difficult than it needs to be.
+Before we dive into the study of Harmony, it's important to make sure we're all on the same page when it comes to the basics. Even though it’s assumed that anyone starting the study of composition already has a solid understanding of music theory, it’s still a good idea to begin with a quick review of intervals. If your understanding of intervals is a little shaky, it can make learning harmony more difficult than it needs to be.
 
-An interval is simply the relationship between two notes, based on where they sit in the scale. The lower of the two notes is called the root or fundamental tone. The names we give to intervals come from Latin ordinal numbers—like second, third, fourth—which count the number of steps from the lower note to the higher one.
+An interval is simply the relationship between two notes, based on where they sit in the scale. The lower of the two notes is called the root (or historically, "fundamental") tone. The names we give to intervals come from Latin ordinal numbers—like second, third, fourth—which count the number of steps from the lower note to the higher one.
 
 Original text::
 
