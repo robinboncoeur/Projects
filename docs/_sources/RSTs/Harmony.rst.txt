@@ -12,7 +12,13 @@ Introduction
 Intervals
 =========
 
-While it must be supposed that the elements of musical science are familiar to everyone about to take up the art of composition, I deem it advisable to preface my treatise on Harmony with a short review of the subject of intervals, as any uncertain conceptions on this ground might easily prove a hindrance to a thorough knowledge of Harmony. The term "Interval" represents the mutual relation of the tones with regard to their position in the scale. The lower tone of an interval is called the 'fundamental' tone. The names of the intervals have their derivation in the Latin Ordinals, designating numerically the steps between fundamental tone and upper tone.
+Before we dive into the study of Harmony, it's important to make sure we're all on the same page when it comes to the basics. Even though it’s assumed that anyone starting composition already has a solid understanding of music theory, it’s still a good idea to begin with a quick review of intervals. If your understanding of intervals is a little shaky, it can make learning harmony more difficult than it needs to be.
+
+An interval is simply the relationship between two notes, based on where they sit in the scale. The lower of the two notes is called the root or fundamental tone. The names we give to intervals come from Latin ordinal numbers—like second, third, fourth—which count the number of steps from the lower note to the higher one.
+
+Original text::
+
+  While it must be supposed that the elements of musical science are familiar to everyone about to take up the art of composition, I deem it advisable to preface my treatise on Harmony with a short review of the subject of intervals, as any uncertain conceptions on this ground might easily prove a hindrance to a thorough knowledge of Harmony. The term "Interval" represents the mutual relation of the tones with regard to their position in the scale. The lower tone of an interval is called the 'fundamental' tone. The names of the intervals have their derivation in the Latin Ordinals, designating numerically the steps between fundamental tone and upper tone.
 
 
 .. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals01.png
