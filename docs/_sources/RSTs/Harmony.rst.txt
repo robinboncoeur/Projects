@@ -142,12 +142,9 @@ Consonant chords--Triads
 
 *§ 3*. The triad, or common chord consists of three tones, separated each from the other by the interval of a Third. 
 
-
-.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals07.png
-    :width: 500px
+.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals06n.png
     :alt: Fig. 7
     :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples07.mscz
-
 
 The lowest tone is called: *Fundamental tone*, or *Base* - the intermediate tone: the *Third* - and the higbest tone: the *Fifth* of the triad. Triads are divided, according to the kinds of Thirds and Fiftbs tbat compose tbem. A large or *major triad* is a chord composed of a major Third and a perfect Fifth (a). Minor Third and perfect Fifth constitute a *minor triad* (b); minor Third and diminished Fifth a *diminished triad* (c). 
 
