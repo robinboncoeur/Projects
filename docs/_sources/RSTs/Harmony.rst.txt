@@ -73,7 +73,7 @@ Having then obtained a knowledge of the various kinds of intervals and the means
 
 Thus, we learn that a major or a pure Interval is converted into a minor, diminished or augmented Interval by lowering or raising the upper tone - or, the latter remaining unchanged, by raising or lowering the fnndamental tone. For instance: 
 
-.. image:: http://www.tightbytes.com/images/projects/harmonyAa-Intervals03.png
+.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals03.png
     :width: 880px
     :alt: Fig. 3
     :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples03.mscz
