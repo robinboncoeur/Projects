@@ -4,17 +4,28 @@ Study of Harmony
 
 **Original Document by Pyotr Illich Thaikovsky**
 
-************
-Introduction
-************
-
-==============
+**************
 Revision Notes
-==============
+**************
 
 *This is a living document. The main focus is to make this great and important study of harmony by one of the greatest composers of all time - Pyotr Ilich Tchaikovsky - somewhat more accessible, in language a bit easier to absorb than the translated-from-the-German version.*
 
-*All examples - shown as images - are links to Musescore files, downloadable by right-clicking the image and from the dropdown menu, select* "**Save Link As**". *Please note: you will need a copy of the* `Musescore <https://musescore.org/en>`_ *software in order to play the examples*.
+*All examples - shown as images - are links to Musescore files, downloadable by right-clicking the image and from the dropdown menu, selecting* "**Save Link As**". *Please note: you will need a current copy of the* `Musescore <https://musescore.org/en>`_ *software in order to play the examples*.
+
+
+.. raw:: html
+   
+   <hr style="height:4px;border-width:2;color:blue;background-color:blue">
+
+
+
+
+
+
+
+************
+Introduction
+************
 
 =========
 Intervals
