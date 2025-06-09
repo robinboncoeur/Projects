@@ -8,6 +8,14 @@ Study of Harmony
 Introduction
 ************
 
+==============
+Revision Notes
+==============
+
+*This is a living document. The main focus is to make this great and important study of harmony by one of the greatest composers of all time - Pyotr Ilich Tchaikovsky - somewhat more accessible, in language a bit easier to absorb than the translated-from-the-German version.*
+
+*All examples - shown as images - are links to Musescore files, downloadable by clicking the image. Please note: you will need a copy of the* `Musescore <https://musescore.org/en>`_ *software in order to play the examples*.
+
 =========
 Intervals
 =========
@@ -22,6 +30,9 @@ Original text::
 
 
 .. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals01.png
+    :width: 880px
+    :alt: Fig. 1
+    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples01.mscz
 
 
 The raising or lowering of a tone of an interval causes no change in its name, while the distance between the two tones is widened or shortened. To obtain a clear view of such alterations of intervals, we will arrange the latter into two groups.
@@ -34,7 +45,9 @@ Minor intervals are half a tone smaller than major intervals; augmented interval
 Let us now ascertain the number of whole and semi-tones contained in each of these intervals, thus establishing a scale or medium of comparison for all intervals:
 
 .. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals02.png
-
+    :width: 880px
+    :alt: Fig. 2
+    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples02.mscz
 
 Having then obtained a knowledge of the various kinds of intervals and the means of gauging them, we are enabled to constitute exactly any relation between two given tones. To illustrate the aforesaid, we will construct a table of all the intervals baving C for their fundamental tone:
 
@@ -50,12 +63,16 @@ Having then obtained a knowledge of the various kinds of intervals and the means
 Thus, we learn that a major or a pure Interval is converted into a minor, diminished or augmented Interval by lowering or raising the upper tone - or, the latter remaining unchanged, by raising or lowering the fnndamental tone. For instance: 
 
 .. image:: http://www.tightbytes.com/images/projects/harmonyAa-Intervals03.png
-
+    :width: 880px
+    :alt: Fig. 3
+    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples03.mscz
 
 Intervals exceeding the octave are but repetitions of the relations existing within the limits of an octave; the "Ninth" alone has an independent significance in harmony. 
 
 .. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals04.png
-
+    :width: 880px
+    :alt: Fig. 4
+    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples04.mscz
 
 The inversion of Intervals is effected by transposing the upper tone into the octave below or the fundamental tone into the octave above. The relations thus arising may be expressed by the following figures...
 
@@ -70,17 +87,63 @@ The inversion of Intervals is effected by transposing the upper tone into the oc
 The inverted Prime becomes an Octave, the Second a Seventh, the Third a Sixth, the Fourth a Fifth, the Fifth a Fourtb, the Sixth a Third, the Seventh a Second, the Octave a Prime. 
 
 .. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals05.png
-
+    :width: 880px
+    :alt: Fig. 5
+    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples05.mscz
 
 Major intervals become minor, while minor intervals become major; augmented intervals become diminished, diminished intervals augmented; pure intervals however remain pure. 
 
 .. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals06.png
-
+    :width: 880px
+    :alt: Fig. 6
+    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples06.mscz
 
 According to the manner in which they affect the ear, intervals are separated into *Consonances* and *Dissonances*. The former are complete in themselves, as they express a certain *repose*; the latter, however, convey the element of motion and demand a goal or solution in the following interval.
 
 Pure Primes, Octaves and Fifths as well as major and minor Thirds and Sixtbs are consonances, the first three being termed *perfect consonances*, and the major and minor Thirds and Sixths *imperfect consonances*. Seconds, Sevenths and all augmented and diminished intervals are dissonances. The pure Fourth partakes of the nature of both consonance and dissonance, inclining rather to the latter class.
 
+.. raw:: html
+   
+   <hr style="height:4px;border-width:2;color:blue;background-color:blue">
+
+
+
+
+
+
+*******
+Harmony
+*******
+
+*§ 1*. Musical tones are combined in two different ways: first by allowing them to sound *separately* one after the other, then again by subjecting them to a *simultaneous concordance*. The first combination is named "Melody", the second: "Harmony". These two elements, together with the element of rhythm, (which reguIates them in their relation to the time or measure) constitute the Material of the art of music. The subject of this treatise shall be the simultaneous concordance of tones: Harmony. 
+
+
+==========
+First Part
+==========
+
+*§ 2*. The simultaneous sounding of three, four or five tones, separated from one another by the interval of a third, is called a *chord*. The simplest and at the same time most important chord is the *Triad*, which, as its name indicates, consists of three tones. Being composed of two consonant intervals (third and fifth) its effect on the musical ear is satisfying, in contrast to that of chords consisting of four or five tones, which contain dissonant intervals and hence cannot appear independently, but must be supported by or resolved into a consonating chord or triad. 
+
+
+========================
+Consonant chords--Triads
+========================
+
+*§ 3*. The triad, or common chord consists of three tones, separated each from the other by the interval of a Third. 
+
+
+.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals07.png
+    :width: 500px
+    :alt: Fig. 7
+    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples07.mscz
+
+
+The lowest tone is called: *Fundamental tone*, or *Base* - the intermediate tone: the *Third* - and the higbest tone: the *Fifth* of the triad. Triads are divided, according to the kinds of Thirds and Fiftbs tbat compose tbem. A large or *major triad* is a chord composed of a major Third and a perfect Fifth (a). Minor Third and perfect Fifth constitute a *minor triad* (b); minor Third and diminished Fifth a *diminished triad* (c). 
+
+
+.. raw:: html
+   
+   <hr style="height:4px;border-width:2;color:blue;background-color:blue">
 
 
 
@@ -89,6 +152,69 @@ Pure Primes, Octaves and Fifths as well as major and minor Thirds and Sixtbs are
 
 
 
+*********
+Chapter I
+*********
+
+======================
+The Major Scale Triads
+======================
+
+*§ 4*. If we construct a triad on each successive degree of the diatonic major scale, we obtain the following chords:
+
+
+.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals08.png
+    :width: 500px
+    :alt: Fig. 7
+    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples08.mscz
+
+
+On the 1st, 4th and 5th degree we find major triads: 
+
+
+img 9
+
+
+These triads, representing the most essential constituents of the major scale, bear the names of those degrees of the scale, on which they are based:
+
+    * The triad on the 1st degree is termed the Tonic triad
+    * The triad on the 4th degree is termed the Subdominant triad
+    * The triad on the 5th degree is termed the Dominant triad 
+
+**[§ 5]** We’ve just mentioned that the three major triads built on the 1st, 4th, and 5th degrees of the major scale are the most important chords in that key. Together, these chords use all the notes of the major scale, and because they are so closely related, they clearly establish the key. They’re also enough to harmonize any melody that stays within that key.
+
+These triads are strongly connected because of how closely related their home keys are. Specifically, the chords on the 4th (Subdominant) and 5th (Dominant) degrees of a key are also the tonic (I) chords in their own respective keys. And these keys happen to be the closest neighbors to the original key in the **Circle of Fifths**.
+
+*Therefore, the close relationship between these three major triads (I, IV, V) in any key reflects the close relationship between their keys in the Circle of Fifths. Their similarity is even clearer when you realise they share many of the same notes — especially in their tetrachords (four-note scale fragments).*
+
+Original Text::
+
+     It has just been said that these three major triads form the most essential constituents of the rn'.tjor scale. Verily they contain all the diatonic degrees of the scale; and, being most closely related to one another, they indicate clearly and unmistakeably the key and further suffice for the barmonic aecompaniment of any melody that does not surpass the limits of the key in question. Their mutual affinity is easily demonstrated by the degree of relation existing between the several scales to whieh they belong.
+
+    The triads on the 4th and 5th degrees, while tbey are respectively the Subdominant and Dominant in the harmony of the given key, are at the same time the tonic triads of those keys, which, in the so-called "Circle of Fifths" are nearest to the given key. *So that the inner relationship of the three major triads in the harmony of the major scrtle is in directproportion to the degree of relationship of the fhree successive keys in the Circle of EVths (their Tetrachords being common).*
+
+§ 6. In the major scale minor triads are also found, namely on the 2nd, 3rd and 6th degrees. The minor Third imparts to tbese triads a soft, weakened character; hence they cannot command the importance possessed by the major triads" However, they furnish us with a beautiful contrast to the latter, emphasizing their strength! Their mutual afflnity is the same as that of the major triads, as they possess the same proximity in the Circle of Fifths. 
+
+
+img 10
+
+
+Of the degree of their relationship to the major triads we may say it is the same as that existing hetween parallel keys; for the chords on the 1st and 6th degrees, the 5th and 3rd degree and the 4th and 2nd degree respectively are separated by a minor third.
+
+
+img 11
+
+
+The whole mass of major and minor triads may be grouped into three sets of two triads each:
+    a) The tonic group viz: the triads on the 1st and 6th degrees
+    b) The duminant group viz: the triads on the 5th and 3rd degrees and
+    c) The subdominant group viz: the triads on the 4th and 2nd degrees
+
+§ 7. In marked contrast to the other triads stands the diminished triad on the 7th degree, because of its dissonant character. We shall return to this chord later on, having first entirely mastered the connection of the other six triads. 
+
+.. raw:: html
+   
+   <hr style="height:4px;border-width:2;color:blue;background-color:blue">
 
 
 
@@ -97,6 +223,59 @@ Pure Primes, Octaves and Fifths as well as major and minor Thirds and Sixtbs are
 
 
 
+**********
+Chapter II
+**********
+
+================================
+Connection of Major Scale Triads
+================================
+
+§ 8. In music chords are either used in masses, that is with manifold repetitions of one and the same interval -- as is the case in compositions for orchestra and Pianoforte -- or they are set for several, single, distinct voices. "Four-voiced-writing" is the commonest and most normal form, as it denotes the four different human voices, namely: Soprano, Alto, Tenor and Bass. So, in our study of Harmony we shall keep to this disposition of the voices. The highest voice, Soprano -- and the deepest voice -- Bass, are called the two outer voices. The two intermediate voices: Alto and Tenor: the two inner voices.
+
+§ 9. Turning now to the practical application of the above treated chords, we will begin with placing the fundamental tone in the Bass. In the higbest voice any of the three tones of the chord, the fundamental tone, the Tbird or the Fifth may be used. For the two inner voices we will use respectively the intervals of the triad nearest to the Soprano. The C major triad would thus appear as follows: 
+
+
+img 12
+
+
+These three cases are called the *positions* of the chord. According to the interval of the triad which appears in the Soprano, these positions are called the fundamental position or position of the octave, the position of the Third, and the position of the Fifth.
+
+§ 10. From the above example we see that in each of the three positions the fundamental tone is used twice, while the third and fifth appear but once. Shall this always be the case? By no means! In a free leading of the voices the composer may double any tone of the chord at will. For the present, however, we cannot avail ourselves of this liberty, since according to § 9, we must place the inner voices as close as possible to the upper voice. Indeed, the doubling of the fundamental tone will always be the most common, as it is most natural to the triad [1].
+
+§ 11. We have already mentioned (§ 6) the internal relationship of the triads of the scale. Now, there is still another and purely external connection of these triads, growing out of the tones they have in common.
+
+The triads c, e, g and g, b, d for instance have the tone g in common, while the triad f, a, c shares the tone c with the triad c, e, g. In fact, each triad has one or two tones in common with every other triad constructed on steps of the same scale, except in the case where the fundamentals are directly succeeding steps. So, the triad on C has no tone in common with the triads on b and d; the triad on d, none with the triads on c and e, and so on. The mutual relationship of the triads with regard to their external connection is shown in the following table: 
+
+
+img 13
+
+
+To effect a connection of two triads at once correct and satisfying to the ear, it is necessary to retain the common tone of the triads in the same voice. Conscientious application of this rule imparts fluency, euphony and unity to the harmony; moreover it enables the pupil to avoid many grave errors, which, otherwise, he would of necessity commit. Take for instance the triad on c in the octave position, and let us connect it successively with other triads containing tones in common with it. Which positions of the new chords must we then choose? Obviously those which enable us to retain the oom- mon tone, or tones in the same voice. Consequently the G major triad must appear in position of the third, F major in the position of the fifth, A minor in position of the third and E minor again in position of the fifth.
+
+
+img 14
+
+
+The progression and position, therefore, of the three upper voices is influenced by the common tones. Meanwhile the Bass may progress upward or downward at liberty. Should we have to choose between a skip of a sixth and one of a third, we prefer the latter [2].
+
+Footnotes:
+  
+  [1] The major triads are indicated by capital letter; minor triads by small letters
+
+  [2] Having a purely practical aim in this work, we shall avoid minute explanations and justifications of the different rules. It were well for the pupil to search out instinctively, as it were, the justification of the several rules. For this purpose he should thoroughly test them by ear on the piano. A true musical instinct will at once convince him, that all these rules originated in the demands of his own ear. 
+
+
+img 15
+
+
+I Remark. In addition to these examples, which consist in supplying the remaining three voices to a given bass, it is very beneficia! to construct a table, which shall contain all the possible connections of all triads with one another, in every position. To this end the example (M 13) begun in this paragraph on C should be carried on further. The pupil must not be disheartened, when he finds that at the very beginning of his study, 20 chords must be written out in one key alone. In the first place the labor is merely a mechanical one, and in the second place it is important that by thoroughgoing explanations of the rudiments we should dispel at the start the superstitious awe that prevails regarding the so-called "Theory" or "Thorough Bass"
+
+II. Remark: In harmonizing a bass, care should be taken not to lead the voices too high; therefore one must not choose too high a position of the tonic triad at the start. 
+
+.. raw:: html
+   
+   <hr style="height:4px;border-width:2;color:blue;background-color:blue">
 
 
 
@@ -104,6 +283,81 @@ Pure Primes, Octaves and Fifths as well as major and minor Thirds and Sixtbs are
 
 
 
+
+***********
+Chapter III
+***********
+
+===========================================
+Connection of Triads, no external agreement
+===========================================
+
+§ 12. Jn the preceding chapter we spoke of the beauty of harmonies connected by common tones. This absolute completeness in chord-connection, however, does not exclude the admissibility of certain connections, which, while perhaps less pleasing, satisfy us by very reason of their sharpness or coarseness. This we can understand if we consider the aim of Music, which is, to picture the many various emotions of the soul: and these cannot always be expressed by dulcet soothing means. For this reason Harmony admits also such chord-connections, which show no outer relationship - though they may bear an inner relationship to one another. (§ 5 ).
+
+§ 13. Should we not, when connecting two chords not outwardly related chose again those positions, that permit a melodious, fluent leading of the voices? Should we not, to avoid jumps, lead eMh voice info the nearest interval, a second up or down? For instance as follows: 
+
+
+img 16
+
+
+Before answering these questions, however, let us see, what different kinds of voice-motions there are.
+
+We perceive the three following kinds:
+    1) Parallel motion (motus rectus), in which two voices progress in one and the same direction, that is, upwards or downwards 
+
+
+img 17
+
+
+    2) Oblique motion (motus obliquus), in which one voice remains stationary, while the other moves onward: 
+
+
+img 18
+
+
+    3) Contrmy motion (motus contrarius); one voice progresses upwards, the other downwards. 
+
+
+img 19
+
+
+All these various motions are admissible in every succession of harmonies. Observe, however, the so-called Parallelisms occurring in the motus rectus; these are progressions, in which the two voices move not only in the same direction, but also in the same interval; for instance: when two voices progress upward or downward in Seconds or Fourths.
+
+
+img 20
+
+
+Some of these Parallelisms are indeed very euphonious and, therefore, like the other motions, entirely permissible. Others, however, are to be avoided partly because they do not satisfy the musical ear and again, because they counteract the independent movement of the voices. Such forbidden progressions are Parallel Fifths and Octaves.
+
+
+img 21
+
+
+Remark. To comprehend clearly the reason for prohibiting parallel Fifths and Octaves, it must be borne in mind that we have to deal not with the massive harmonization of orchestra or piano composition, but with 4 separate independent voices, which do not permit of extensive doubling. Should the question arise whether only parallel octaves and fifths are forbidden, and parallel dissonant intervals permitted, we may add, that for the present we are familiar only with tone-combinations, in which such progressions do not occur. Once for all, then, let it be said that in Harmony progressions of parallel fifths and octaves are prohibited.
+
+Now only are we in a position to answer the question put at the beginning of this paragraph. lf we wish to connect two triads having no external relationship, we can not lead all the voices a second upwards or downwards, as parallel fifths and octaves would arise. 
+
+
+img 22
+
+
+To avoid this fault we must employ contrary motion, without, however, proceeding in great skips. The fault is by no means corrected, if we replace the step of a second by a skip of a seventh in the opposite direction (contrary motion), as in that case the fifths and octaves really remain. 
+
+
+img 23
+
+
+Moreover, we obtain a very unmelodious skip of a seventh in the Bass.
+
+So we will allow the Bass to retain its melodious step of a second, and, employing contrary motion, lead each of the other voices into the nearest interval of the following chord:
+
+
+img 24
+
+
+We have now learned, how to connect, within its own limits, all the consonant chords of the major scale in all positions. Besides working out the following written exercises, we chould advise the pupil to form at the piano all manners of chord-combinations in all the keys, in order to master them more thoroughly. 
+
+Exercises:
 
 
 
