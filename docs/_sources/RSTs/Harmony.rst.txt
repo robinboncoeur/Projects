@@ -4,14 +4,60 @@ Study of Harmony
 
 **Original Document by Pyotr Ilyich Thaikovsky**
 
-**************
-Revision Notes
-**************
+*******************
+Revisionist's Notes
+*******************
 
-*This is a living document. The main focus is to make this great and important study of harmony by one of the greatest composers of all time - Pyotr Ilyich Tchaikovsky - somewhat more accessible, in language a bit easier to absorb than the translated-from-the-German version.*
+========
+Overview
+========
 
-*All examples - shown as images - are links to Musescore files, downloadable by right-clicking the image and from the dropdown menu, selecting* "**Save Link As**". *Please note: you will need a current copy of the* `Musescore <https://musescore.org/en>`_ *software in order to play the examples*.
+This is a **living document**. The main focus is to make this great and important study of harmony by one of the greatest composers of all time - **Pyotr Ilyich Tchaikovsky** - somewhat more accessible, in language a bit easier to absorb than the translated-from-the-German version.
 
+
+
+=========================
+Features of this Document
+=========================
+
+All examples - shown as images - are links to Musescore files, downloadable by right-clicking the image and from the dropdown menu selecting "**Save Link As**". Please note: *you will need a current copy of the* `Musescore <https://musescore.org/en>`_ *software in order to play / hear the examples*.
+
+
+
+===========
+Methodology
+===========
+
+**June 10, 2025**
+
+This **completely personal, unofficial** revision was performed using AI. We ran the gemma3:12b model in the Gradio UI to assist in the revision. It had been translated - back in 1900 - from the German. I personally found the style confrontingly formal and unnecessarily laborious to read. The valuable information on harmony needed to be more accessible; hence, this document. Any changes we made are marked with "♫" before the revised text - a copy of the original can be found on `IMSLP <https://imslp.org/wiki/Guide_to_the_Practical_Study_of_Harmony%2C_TH_255_(Tchaikovsky%2C_Pyotr)>`_ - we found the *optimised* version easier to work with.  
+
+The template used in Ollama/Gradio was the following (the bit that's in bold was the query; the bit in quotes, text to be revised):
+
+    **Please convert the following sentence into a simpler to understand English, but preserving the rules of music theory**: "Minor intervals are half a tone smaller than major intervals; augmented intervals are half a tone larger than either major or perfect ones; while diminished intervals are half a tone smaller than minor or perfect intervals. All intervals having for their fundamental tone the first degree of the major scale are either major or perfect."
+
+The result offered by the LLM was accompanied by its logic, viz:
+
+    Here's a simpler version, aiming for clarity while still respecting music theory concepts:
+
+    "A minor interval is a half-step smaller than a major interval. An augmented interval is a half-step larger than a major or perfect interval. A diminished interval is a half-step smaller than a minor or perfect interval. If an interval starts on the first note of a major scale, it will be either a major or a perfect interval."
+
+    **Here’s why these changes were made, focusing on the balance between simplicity and accuracy:**
+
+        *   **Removed "A" at the beginning of each sentence:** Starting each sentence with "A" felt repetitive and unnecessarily formal.
+        *   **Kept "half-step":** While "a little smaller/larger" is more conversational, "half-step" is a specific, important musical term that accurately describes the difference. Eliminating it would lose precision.
+        *   **Maintained "major or perfect interval":** This accurately represents the possibilities and avoids oversimplification.
+        *   **Replaced "starts on" with "If an interval starts on":** This clarifies the conditional nature of the final statement.
+
+    The goal here was to prioritize accurate musical terminology alongside improved readability.
+
+LLMs are pretty amazing, particularly when they share their approach to a problem. However, they can still miss the mark occasionally... so please read the original document (`the one on IMSLP <https://imslp.org/wiki/Guide_to_the_Practical_Study_of_Harmony%2C_TH_255_(Tchaikovsky%2C_Pyotr)>`_) and use this document as an additional perspective.
+
+-------
+Finally
+-------
+
+Please review and if you discover any glaring discrepancies, feel free to leave a comment on my **Projects** `Issues Page <https://github.com/robinboncoeur/Projects/issues>`_.
 
 .. raw:: html
    
@@ -31,13 +77,9 @@ Introduction
 Intervals
 =========
 
-Before we dive into the study of Harmony, it's important to make sure we're all on the same page when it comes to the basics. Even though it’s assumed that anyone starting the study of composition already has a solid understanding of music theory, it’s still a good idea to begin with a quick review of intervals. If your understanding of intervals is a little shaky, it can make learning harmony more difficult than it needs to be.
+♫ Before we dive into the study of Harmony, it's important to make sure we're all on the same page when it comes to the basics. Even though it’s assumed that anyone starting the study of composition already has a solid understanding of music theory, it’s still a good idea to begin with a quick review of intervals. If your understanding of intervals is a little shaky, it can make learning harmony more difficult than it needs to be.
 
 An interval is simply the relationship between two notes, based on where they sit in the scale. The lower of the two notes is called the root (or historically, "fundamental") tone. The names we give to intervals come from Latin ordinal numbers—like second, third, fourth—which count the number of steps from the lower note to the higher one.
-
-Original text::
-
-  While it must be supposed that the elements of musical science are familiar to everyone about to take up the art of composition, I deem it advisable to preface my treatise on Harmony with a short review of the subject of intervals, as any uncertain conceptions on this ground might easily prove a hindrance to a thorough knowledge of Harmony. The term "Interval" represents the mutual relation of the tones with regard to their position in the scale. The lower tone of an interval is called the 'fundamental' tone. The names of the intervals have their derivation in the Latin Ordinals, designating numerically the steps between fundamental tone and upper tone.
 
 
 .. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals01.png
@@ -45,22 +87,19 @@ Original text::
     :alt: Fig. 1
     :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples01.mscz
 
-
-The raising or lowering of a tone of an interval causes no change in its name, while the distance between the two tones is widened or shortened. To obtain a clear view of such alterations of intervals, we will arrange the latter into two groups.
+♫ Changing how high or low an interval sounds doesn't change what we call it. It just makes the distance between the notes bigger or smaller. To understand this better, we're going to organize these intervals into two different groups.
 
   1. Large (major), small (minor), augmented and diminished intervals; (to which belong Seconds, Thirds, Sixths and Sevenths)
   2. perfect, augmented and diminished intervals; (to which belong: Primes, Octaves, Fifths and Fourths) 
   
-Minor intervals are half a tone smaller than major intervals; augmented intervals are half a tone !arger than either major or perfect ones; while diminished intervals are half a tone smaller than minor or perfect intervals. All intervals having for tbeir fundamental tone the first degree of the major scale are either major or perfect.
-
-Let us now ascertain the number of whole and semi-tones contained in each of these intervals, thus establishing a scale or medium of comparison for all intervals:
+♫ A minor interval is a half-step smaller than a major interval. An augmented interval is a half-step larger than a major or perfect interval. A diminished interval is a half-step smaller than a minor or perfect interval. If an interval starts on the first note of a major scale, it will be either a major or a perfect interval. Now, let's find out how many whole and half steps are in each of these intervals. This will give us a way to compare all intervals to each other:
 
 .. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals02.png
     :width: 880px
     :alt: Fig. 2
     :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples02.mscz
 
-Having then obtained a knowledge of the various kinds of intervals and the means of gauging them, we are enabled to constitute exactly any relation between two given tones. To illustrate the aforesaid, we will construct a table of all the intervals baving C for their fundamental tone:
+♫ Now that we understand different types of musical intervals and how to measure them, we can create any relationship we want between two notes. To show you how, we'll make a table showing all the intervals that start with the note C:
 
   * A major Second  contains 1      whole tone
   * A major Third   contains 2      whole tones
@@ -71,21 +110,21 @@ Having then obtained a knowledge of the various kinds of intervals and the means
   * A pure  Octave  contains 6      whole tones
   * A pure  Prime   contains 0      whole tones
 
-Thus, we learn that a major or a pure Interval is converted into a minor, diminished or augmented Interval by lowering or raising the upper tone - or, the latter remaining unchanged, by raising or lowering the fnndamental tone. For instance: 
+♫ This shows us that a major or perfect interval can become a minor, diminished, or augmented interval by either raising or lowering the higher note. Alternatively, we can change the interval by raising or lowering the lower note, while keeping the higher note the same. For example: 
 
 .. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals03.png
     :width: 880px
     :alt: Fig. 3
     :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples03.mscz
 
-Intervals exceeding the octave are but repetitions of the relations existing within the limits of an octave; the "Ninth" alone has an independent significance in harmony. 
+♫ Intervals larger than an octave are just repeats of the relationships found within an octave. The 'ninth' is the only interval that has a unique and important role in harmony. 
 
 .. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals04.png
     :width: 880px
     :alt: Fig. 4
     :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples04.mscz
 
-The inversion of Intervals is effected by transposing the upper tone into the octave below or the fundamental tone into the octave above. The relations thus arising may be expressed by the following figures...
+♫ An interval's inversion is created by moving the higher note down an octave or moving the lower note up an octave. The resulting relationships is shown in the following graph.
 
 +-------------------------------------------------------------------------------+
 |                                                                               |
