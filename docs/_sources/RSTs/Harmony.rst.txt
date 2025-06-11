@@ -2,7 +2,7 @@
 Study of Harmony
 ################
 
-**Original Document by Pyotr Ilyich Thaikovsky**
+`Original Document by Pyotr Ilyich Thaikovsky <https://imslp.org/wiki/Guide_to_the_Practical_Study_of_Harmony%2C_TH_255_(Tchaikovsky%2C_Pyotr)>`_
 
 *******************
 Revisionist's Notes
@@ -12,7 +12,7 @@ Revisionist's Notes
 Overview
 ========
 
-This is a **living document**. The main focus is to make this great and important study of harmony by one of the greatest composers of all time - **Pyotr Ilyich Tchaikovsky** - somewhat more accessible, in language a bit easier to absorb than the translated-from-the-German version.
+This readability revision is a **living document**. Its main focus is to make this great and important study of harmony by one of the greatest composers of all time - **Pyotr Ilyich Tchaikovsky** - somewhat more accessible, in language a bit easier to grasp - at least, for me - than the *translated-from-German* version.
 
 
 
@@ -20,7 +20,7 @@ This is a **living document**. The main focus is to make this great and importan
 Features of this Document
 =========================
 
-All examples - shown as images - are links to Musescore files, downloadable by right-clicking the image and from the dropdown menu selecting "**Save Link As**". Please note: *you will need a current copy of the* `Musescore <https://musescore.org/en>`_ *software in order to play / hear the examples*.
+All examples - shown as images - are links to playable Musescore files. To download, right-click the image and from the dropdown menu select "**Save Link As**". Please note: *you will need a current copy (freeware download) of the* `Musescore <https://musescore.org/en>`_ *software to play the examples*.
 
 
 
@@ -30,9 +30,9 @@ Methodology
 
 **June 10, 2025**
 
-This **completely personal, unofficial** revision was performed using AI. We ran the gemma3:12b model in the Gradio UI to assist in the revision. It had been translated - back in 1900 - from the German. I personally found the style confrontingly formal and unnecessarily laborious to read. The valuable information on harmony needed to be more accessible; hence, this document. Any changes we made are marked with "♫" before the revised text - a copy of the original can be found on `IMSLP <https://imslp.org/wiki/Guide_to_the_Practical_Study_of_Harmony%2C_TH_255_(Tchaikovsky%2C_Pyotr)>`_ - we found the *optimised* version easier to work with.  
+This **completely personal, unofficial** revision was performed using AI. We ran the text through the gemma3:12b model in the Gradio UI to assist in the revision. The `original document <https://imslp.org/wiki/Guide_to_the_Practical_Study_of_Harmony%2C_TH_255_(Tchaikovsky%2C_Pyotr)>`_ had been translated back in 1900 from the German: I personally found the style confrontingly formal and unnecessarily laborious to read. The valuable information on harmony needed to be more accessible; hence, this document. Any changes we made are marked with "♫" before the revised text - a copy of the original can be found on `IMSLP <https://imslp.org/wiki/Guide_to_the_Practical_Study_of_Harmony%2C_TH_255_(Tchaikovsky%2C_Pyotr)>`_ - we found the *optimised* version easier to work with.  
 
-The template used in Ollama/Gradio was the following (the bit that's in bold was the query; the bit in quotes, text to be revised):
+The template used in Ollama/Gradio was the following (the bit that's in bold was the query; the bit in quotes, an example of text to be revised):
 
     **Please convert the following sentence into a simpler to understand English, but preserving the rules of music theory**: "Minor intervals are half a tone smaller than major intervals; augmented intervals are half a tone larger than either major or perfect ones; while diminished intervals are half a tone smaller than minor or perfect intervals. All intervals having for their fundamental tone the first degree of the major scale are either major or perfect."
 
@@ -51,7 +51,7 @@ The result offered by the LLM was accompanied by its logic, viz:
 
     The goal here was to prioritize accurate musical terminology alongside improved readability.
 
-LLMs are pretty amazing, particularly when they share their approach to a problem. However, they can still miss the mark occasionally... so please read the original document (`the one on IMSLP <https://imslp.org/wiki/Guide_to_the_Practical_Study_of_Harmony%2C_TH_255_(Tchaikovsky%2C_Pyotr)>`_) and use this document as an additional perspective.
+Large language models (LLMs) these days are pretty amazing, particularly when they share their approach to solving a problem, as gemma3 does. However, an LLM can still miss the mark occasionally. I proof-read each revision, but more eyes = better accuracy, so please read the original document (`the one on IMSLP <https://imslp.org/wiki/Guide_to_the_Practical_Study_of_Harmony%2C_TH_255_(Tchaikovsky%2C_Pyotr)>`_) and use this document as an additional perspective.
 
 The steps taken to build this document are:
 
@@ -61,7 +61,7 @@ The steps taken to build this document are:
     * Run obscure / unclear text through gemma3:12b
     * Build document using Sphinx-build, upload to github page using Git Desktop
 
-Note: only statements that we found unclear or awkward were run through gemma3 for readability, and prefaced by the little notes icon "♫".
+Note: only statements that we found unclear or awkward were run through gemma3 for readability: the revised paragraph is prefaced in the document by the little notes icon "♫".
 
 -------
 Finally
@@ -92,10 +92,12 @@ Intervals
 ♫ An interval is simply the relationship between two notes, based on where they sit in the scale. The lower of the two notes is called the root (or historically, "fundamental") tone. The names we give to intervals come from Latin ordinal numbers—like second, third, fourth—which count the number of steps from the lower note to the higher one.
 
 
-.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals01.png
+.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals001.png
     :width: 880px
     :alt: Fig. 1
-    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples01.mscz
+    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples001.mscz
+
+[ Fig. 1 ]
 
 ♫ Changing how high or low an interval sounds doesn't change what we call it. It just makes the distance between the notes bigger or smaller. To understand this better, we're going to organize these intervals into two different groups.
 
@@ -104,10 +106,13 @@ Intervals
   
 ♫ A minor interval is a half-step smaller than a major interval. An augmented interval is a half-step larger than a major or perfect interval. A diminished interval is a half-step smaller than a minor or perfect interval. If an interval starts on the first note of a major scale, it will be either a major or a perfect interval. Now, let's find out how many whole and half steps are in each of these intervals. This will give us a way to compare all intervals to each other:
 
-.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals02.png
+
+.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals002.png
     :width: 880px
     :alt: Fig. 2
-    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples02.mscz
+    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples002.mscz
+
+[ Fig. 2 ]
 
 ♫ Now that we understand different types of musical intervals and how to measure them, we can create any relationship we want between two notes. To show you how, we'll make a table showing all the intervals that start with the note C:
 
@@ -122,17 +127,23 @@ Intervals
 
 ♫ This shows us that a major or perfect interval can become a minor, diminished, or augmented interval by either raising or lowering the higher note. Alternatively, we can change the interval by raising or lowering the lower note, while keeping the higher note the same. For example: 
 
-.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals03.png
+
+.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals003.png
     :width: 880px
     :alt: Fig. 3
-    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples03.mscz
+    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples003.mscz
+
+[ Fig. 3 ]
 
 ♫ Intervals larger than an octave are just repeats of the relationships found within an octave. The 'ninth' is the only interval that has a unique and important role in harmony. 
 
-.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals04.png
+
+.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals004.png
     :width: 880px
     :alt: Fig. 4
-    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples04.mscz
+    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples004.mscz
+
+[ Fig. 4 ]
 
 ♫ An interval's inversion is created by moving the higher note down an octave or moving the lower note up an octave. The resulting relationships is shown in the following graph.
 
@@ -146,17 +157,23 @@ Intervals
 
 The inverted Prime becomes an Octave, the Second a Seventh, the Third a Sixth, the Fourth a Fifth, the Fifth a Fourtb, the Sixth a Third, the Seventh a Second, the Octave a Prime. 
 
-.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals05.png
+
+.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals005.png
     :width: 880px
     :alt: Fig. 5
-    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples05.mscz
+    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples005.mscz
+
+[ Fig. 5 ]
 
 Major intervals become minor, while minor intervals become major; augmented intervals become diminished, diminished intervals augmented; pure intervals however remain pure. 
 
-.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals06.png
+
+.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals006.png
     :width: 880px
     :alt: Fig. 6
-    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples06.mscz
+    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples006.mscz
+
+[ Fig. 6 ]
 
 ♫ Depending on how they sound, intervals are categorized as *Consonances* and *Dissonances*. Consonances sound complete and create a sense of rest. Dissonances, on the other hand, create a feeling of movement and need to be resolved by the next interval.
 
@@ -191,9 +208,12 @@ Consonant chords--Triads
 
 **§ 3**. The triad, or common chord consists of three tones, separated each from the other by the interval of a Third. 
 
-.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals06n.png
+
+.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals007.png
     :alt: Fig. 7
-    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples07.mscz
+    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples007.mscz
+
+[ Fig. 7 ]
 
 ♫ In a triad, the lowest note is called the *fundamental tone* or *bass*, the middle note is the *third*, and the highest note is the *fifth*. Triads are classified based on the types of thirds and fifths they contain. A *major* triad consists of a major third and a perfect fifth (a). A *minor* triad is made up of a minor third and a perfect fifth (b); a *diminished* triad contains a minor third and a diminished fifth (c). 
 
@@ -220,11 +240,12 @@ The Major Scale Triads
 *§ 4*. If we construct a triad on each successive degree of the diatonic major scale, we obtain the following chords:
 
 
-.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals08.png
+.. image:: http://www.tightbytes.com/images/projects/harmony/Aa-Intervals008.png
     :width: 880px
-    :alt: Fig. 7
-    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples08.mscz
+    :alt: Fig. 8
+    :target: http://www.tightbytes.com/images/projects/harmony/mscz/Examples008.mscz
 
+[ Fig. 8 ]
 
 On the 1st, 4th and 5th degree we find major triads: 
 
