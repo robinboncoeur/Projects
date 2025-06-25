@@ -2,9 +2,19 @@
 Resting from Projects
 #####################
 
-***************
-Out Into Nature
-***************
+*********************
+Best of the Best 2024
+*********************
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.tightbytes.com/videos/Family/HarriGirl2024.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+*********************
+Older-Out Into Nature
+*********************
 
 Whilst doing all these projects feels great - getting stuff **DONE**! - there is no question one needs downtime.
 
@@ -34,10 +44,3 @@ Then for a 5k bike ride. Gotta start somewhere... better than sitting all day.
 
 
 
-****************
-Best of the Best
-****************
-
-.. raw:: html
-
-   <iframe width="560" height="315" src="https://www.tightbytes.com/videos/Family/HarriGirl2024.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
