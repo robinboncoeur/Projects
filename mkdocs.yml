@@ -40,7 +40,6 @@ nav:
     - music/index.md
     - Harmony: music/Harmony.md
     - Sketches: music/Sketches.md
-  - Home: index.md
   - Family:
     - family/index.md
     - Pappa's Account: family/pappa1.md
@@ -52,10 +51,11 @@ nav:
     - Repose: other/Repose.md
   - Tech:
     - tech/index.md
-    - MyApps: tech/MyApps.md
+    - Linux: tech/Linux.md
     - Ostuff: tech/OStuff.md
-    - Repairs: tech/Repairs.md
-    - Video: tech/Video.md
+    - Python: tech/Python.md
+    - Repair: tech/Repair.md
+    - Videos: tech/Videos.md
     - VScripts: tech/VScripts.md
 
 

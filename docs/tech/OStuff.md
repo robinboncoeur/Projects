@@ -57,6 +57,18 @@ Slide Show
 
 
 
+## Github Setup
+
+On my Mac, in the main user folder - sort-of like the "Home/Username" folder in Linux - there is an AllHelp folder containing subfolders for each product, as well as a folder in AllHelp/GitPages, where all build files end up. If a new product's users would benefit from some sort of help system for that product, the product get a folder in that AllHelp folder. Any product with users will have a repository for that product on GitHub.
+
+Using as an example a document called "KeysToLife", the following approach more-or-less seems to get the job done. You will need two instances of Terminal running: one for Sphinx to build html from .rst files, the other, to talk to github.
+
+I now use [Github Desktop](https://desktop.github.com) which makes the process infinitely simpler, particularly when I stuff things up: it suggests solutions, which the commandline approach doesn't do.
+
+
+
+
+
 ## Other Help Tips
 
 ### Changing Settings in Chrome

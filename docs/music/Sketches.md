@@ -284,7 +284,7 @@ I'm going to have to admit: my rendition in MS is suboptimal. To be honest, what
 	
 *Chief Dan George, from the film 'Little Big Man'*.
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
 
@@ -588,21 +588,52 @@ In reply to Can't run the beta on linux - *by zabalza.asier* - for Muse Hub, you
 
 
 
-## Other Music Notes
+## Musescore Composers Suggestions
 
-On Keven Lee's YouTube, I posted this, which oddly enough didn't save.
+Good on ya, mate. I noticed you have a classical approach to material and rhythm (which is fine). There is a baroque-ish type intensity with those busy 16th note patterns against the monolithic chords. I know that you are taking a step by step approach to orchestrating. With that said I think you'll find better blends when you pair your winds.
 
-Thank you for these brilliant videos!  
-I just purchased a violin for AUD$80.00. Before you laugh, it does have an inscription that reads:  
-Antonius Stradivarius. Cremonensis  
-Faciebot Anno 1713  
-Made in Czechoslovakia  
+From your arrangements I think you'll know how. After all, there are many composer styles to look into - as long as you match it with your material. For example, (assuming you still want this type of input) in this style there is straight-forward doubling. You have ended up with several simultaneous bass lines (between Cb, vc, trbn, bsn) in several places. The uniformity of bass line at m 26 sounds more solid, though you do not need the vla on that line.
 
-So, there's that.
+The stylistic solution would be divide into 4 parts:
 
-All fun aside, I had purchased this violin *after* having watched this video with the express purpose of "getting my fingers dirty" restoring a fine piece of art: a violin. I did look for the Joha varnish cleaner: all we have here in Australia is [Hill's](https://www.simplyforstrings.com.au/products/hills-cleaning-preparation) - hoping this is a reasonable alternative. I'm trying to be careful with the rubbing, but the varnish appears to be quite fragile: it seems to want to rub off more quickly than the rosin... as quickly as this became apparent, I stopped rubbing. I never used any fluid, although I did breathe on it, hoping the moisture in my breath might prove effective in getting at the spots a bit. I did check my cloth frequently as suggested in the video, and the rosin never appeared to come off dark, always more a lighter colour, which I'm worried might be partly the varnish.
+- Fl,Ob, Cl, Bsn 	
+- double 	
+- Vln 1, Vln2, Cla and CB/VC. 
+	
+You can reinforce certain lines intermittently with brass (as you did in m29 etc). This would result in "clarity of line", important especially in this style. You have done well to break up the texture now and then. By the way, all recommend - including [Thomas Goss, an online favorite of many](https://orchestrationonline.com/bio/) - to not have a key signature with horns in F. Usually the horns and trumpets, cornets do not have a key signature.
 
-As this is not, per my completely novice assessment, an expensive instrument, I feel this is a good starting point: however, I am *treating* it as though it were such, exercising as much caution as I would something significantly more valuable.
+I've been away a while and now I'm getting caught up. I put some new NP renditions up which might support your opinion of NP. I've heard they're waffling a bit on NP support, or it may come later than sooner. Don't know.
 
-ETA: the mob at SimplyForStrings suggested [this](https://www.simplyforstrings.com.au/products/old-wood-ag-italian-cream-small-50ml-1).
-Will be interested to see how this goes. Will be approaching this with all the deference and caution I can muster. I'll be posting the results on my [little projects page](https://robinboncoeur.github.io/Projects/RSTs/Music.html)
+Good work.
+
+Penne Vodka (Joe DiRienzo, New York)
+
+
+<hr style="height:8px;border-width:0;color:gray;background-color:gray">
+
+
+
+
+
+### Key Links
+
+[Seventh Sam Reaticulate Page](https://seventhsam.com/music)
+
+[Creating Library for Decent Samplers](https://www.decentsamples.com/blog/)
+
+[Legato Passages for Decent Sampler <https://www.youtube.com/watch?v=uLPBcbsT6cU)
+
+[Free Samples Libraries](https://theremin.music.uiowa.edu/MIS.html)
+
+[Thomas Goss' Orchestration Online](https://orchestrationonline.com/services/composer/)
+
+[AdmiralBumblebee's Reaper Scripts](https://www.admiralbumblebee.com/ReaperScripts.html#reaticulate---website)
+
+[How to use Reaticulate](https://seventhsam.com/blog/blog/how-to-use-reaticulate-to-manage-your-sample-library-articulations)
+
+[Mark Gotham's free Orchestrating from Piano Tutorial](https://viva.pressbooks.pub/openmusictheory/chapter/transcription-from-piano/)
+
+[Counterpoint](https://viva.pressbooks.pub/openmusictheory/chapter/species-counterpoint/)
+
+[Five Species of Counterpoint - cantus firmus johann joseph fux](https://wwnorton.com/college/music/musictheory/premium/webfacts/ch08a.html)
+
