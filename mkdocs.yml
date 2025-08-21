@@ -1,0 +1,94 @@
+site_name: Projects
+site_url: https://projects.tightbytes.com
+# edit_uri: 'http://127.0.0.1:8000/docs/'
+theme:
+  name: material
+  palette:
+    # Light mode
+    - scheme: default
+      primary: pink
+      accent: red
+      toggle:
+        icon: material/weather-night # indigo
+        name: Switch to Dark Mode
+      accent: pink
+#extra_css:
+#  - assets/stylesheets/custom.css
+
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: pink
+      toggle:
+        icon: material/weather-sunny # indigo
+        name: Switch to Light Mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Music:
+    - music/index.md
+    - Harmony: music/Harmony.md
+    - Sketches: music/Sketches.md
+  - Home: index.md
+  - Family:
+    - family/index.md
+    - Pappa's Account: family/pappa1.md
+  - Other:
+    - other/index.md
+    - Foodie: other/Foodie.md
+    - Garden: other/Garden.md
+    - Health: other/Health.md
+    - Repose: other/Repose.md
+  - Tech:
+    -tech/index.md
+    - MyApps: tech/MyApps.md
+    - Repairs: tech/Repairs.md
+    - Video: tech/Video.md
+    - VScripts: tech/VScripts.md
+
+
+plugins:
+  - search
+  - tags
+  
+validation:
+  links:
+    absolute_links: relative_to_docs
+    anchors: warn
+    unrecognized_links: warn
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - attr_list
+  - admonition
+  - footnotes
+  - def_list
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.blocks.caption
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - md_in_html
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://www.tightbytes.com/index.html
+    - icon: fontawesome/brands/bluesky
+      link: https://bluesky.com/robynsveil
