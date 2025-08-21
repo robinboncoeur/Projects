@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 site/
 .DS_Store
 *.pyc
 /OldDOCs/
 /site/
+=======
+
+.DS_Store
+>>>>>>> 1dd9a8aab7669bf9688142bd1222c62fb49d6986
