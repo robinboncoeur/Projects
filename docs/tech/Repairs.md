@@ -220,147 +220,7 @@ This violin hadn't been touched since 1999. Her strings were toast and the sound
 
 Did a bit of a 'dry' polish tonight, and *discovered* that the **base** is likely coming away from the rest of the body. Which means: removing the whole thing, sanding carefully and re-glueing. Wow, am I really ready for this? I did sign up for a Violin Maintenance course for April 14th at [Simply for Strings](https://www.simplyforstrings.com.au/): might have a word to them as to the advisability of embarking on such an adventure.
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
-
-
-
-======================
-Violin Bits and Pieces
-======================
-
------------
-To Purchase
------------
-
-Replacement pegs:
-
-[20pcs quality Violin Pegs](https://www.ebay.com.au/itm/304437243880?hash=item46e1dfafe8:g:G~AAAOSwFNBiU0-e)
-
-[Ebony Violin Tuning Pegs 4/4 Size New High Quality](https://www.ebay.com.au/itm/181719788625?hash=item2a4f57ec51:g:CKAAAOSwjVVV04Dx)
-
-[Ebony 3/4 4/4 Violin Tuning Pegs Black Violin Inlay Boxwood](https://www.ebay.com.au/itm/403290832986?hash=item5de601c05a:g:OUMAAOSw3S5hjaA0)
-
-[4x Violin Tuning Pegs Ebony Wood Violin Fiddle Tuning Peg](https://www.ebay.com.au/itm/265985301575?hash=item3dedf59c47:g:HdUAAOSwGU9jbuAR)
-
-
-Peg shaper - reamer:
-
-[4/4 Violin Peg Shaver Hole Reamer Steel Blade Luthier Tool](https://www.ebay.com.au/itm/333841339166?hash=item4dba7e931e:g:VoIAAOSwHaFjZcWW)
-
-[Shaper Violin pegs repair tool - violin peg shaver for 1/2 to 4/4 Violin](https://www.ebay.com.au/itm/333862204239?hash=item4dbbbcf34f:g:vwEAAOSwvw5gBjUH)
-
-
-Sound post setter:
-
-[Sound Post S setter W/ Rubber grip protector Luthier gold color](https://www.ebay.com.au/itm/284480471458?hash=item423c5b81a2:g:1ZIAAOSwnjpZ0Yh0)
-
-[Other violin stuff on AliExpress](https://www.aliexpress.com/premium/violin-luthier-tools.html?initiative_id=AS_20230130005122&dida=y)
-
-
----------
-Purchased
----------
-
-.. csv-table:: Current Purchases
-    :header: "Date", "Item", "Price"
-    :widths: 14, 40, 14
-
-``` cvs
-07/09/2022, Tuning fork, $4.09
-29/01/2023, Violin bow horsehair, $17.46
-29/01/2023, Leather repair gel (black), $14.88
-31/01/2023, Tuning pegs x 4, 10.89
-31/01/2023, Soundpost setter, 24.39
-31/01/2023, Peg Shaver / Hole Reamer, $58.51
-01/02/2023, Spruce Sound-Post, $17.56
-01/02/2023, Tightbond Hide Glue, $30.90
-23/01/2023, OldWood Italian Cream, $30.00
-23/01/2023, Pirastro peg paste, $23.00
-24/01/2023, Violin bow (for Czech), $60.00
-25/01/2023, Pirastro Eudoxa rosin, $23.50
-25/01/2023, Chinrest key, $4.95
-25/01/2023, Violin chinrest (boxwood; for Czech) ,$27.50
-25/01/2023, Violin shoulder rest (for Czech), $27.95
-26/01/2023, Metal practice mute, $16.50
-31/01/2023, Professional Horse Hair Comb, $5.93
-24/01/2023, Pirastro Tonica strings, $60.00
-29/01/2023, HERDIM HAIR GAUGE (Item Code 2812), $34.00
-04/02/2023, TOTAL, $492.01
-```
-
-Not counting the batting and velvet I got at Lincraft ($17) for The Czech's case, the subtotal - not including the actual instruments - is just shy of $500. Adds up fast, and I haven't even invested in any tools, really.
-
-Considering that the Stentor was $150, the Czech $80 and the Enrico $40, plus the other stuff:
-
-* $492.00
-* $150.00
-* $ 80.00
-* $ 40.00
-* $ 17.00
-* -------
-* $779.00
-	
-
-### Ready to Upgrade - Mar 12th
-
-I've been trying to learn to play, and am actually just doing open strings. To dilute the sound a bit and make the process a bit more fun, I've written this little piece around bow circles:
-
-<audio controls="controls">
-  <source src="http://tightbytes.com/music/exercises/OpenStrings-Ag.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
-
-All it does is surround the second violins - the part I actually play - with something sort-of interesting. You can have a look at the [score - such as it is - here](http://tightbytes.com/music/exercises/OpenStrings-Ag.pdf). We'll see what folks think. All this mucking about has convinced me - well, others have emphasised this! - that I really need to get a **real violin**! So, I'm hoping to sell video lighting equipment (part of a Swedish death-clean strategy) and put the proceeds towards [this one](https://www.simplyforstrings.com.au/products/gliga-vasile-professional-series-violin-dark-antique-model-4-4):
-
-![Image](http://www.tightbytes.com/images/projects/violin/Ad-GligaVasile-Pro.png)
-
-The idea being, of course, that if you haven't used or loved something in a long time, it's become an anchor. I'm actually considering doing the same with my GH5 and lenses.
-
-
-### Selling to Get Cash - Mar 12th
-
-In order to fund this violin, am going to need to sell stuff. Here's the list:
-
-2022-05-19: [Godox SL60w](https://www.amazon.com.au/gp/product/B07B7L7DQJ/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-
-that I purchased back on the [19th of May, 2022](https://www.amazon.com.au/gp/your-account/order-details/ref=ppx_yo_dt_b_order_details_o01?ie=UTF8&orderID=249-2194020-5263852), along with a log profile for the GH5. Purchased for AUD$135.15. Selling for $110.
-
-2019-10-30: from ZestAds (FB) [DroneX Pro](https://techjury.net/reviews/drone-x-pro-review/#gref) purchased for AUD$161.06. Selling for $95.
-
-(For GH5: Panasonic DMW-SFU1GU V-Log Profile Code for AUD$149.00)
-
-
-
-
-### It Gets Real, Now - Mar 14th
-
-I've done it: went and purchased My Violin. I'm going to be out less than I thought, but I still need to sell stuff.
-
-
-Godox has sold - March 16th
----------------------------
-
-So, now I owe my own account:
-
-$  970.00 - The Gliga II
--$ 500.00 - transfer from ING savings
--$  65.00 - labour on the iMac 2011
--$ 100.00 - sale of the Godox
-=========
-$  305.00
-	
-Still a ways to go. If the stabiliser sells, this is sorted!
-
-<hr style="height:8px;border-width:0;color:gray;background-color:gray">
-
-
-
-
-
-
-
-
-
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -423,7 +283,7 @@ And I'm currently working on another Macbook Pro that had been pretty roughly tr
 
 ... so we'll see what ends up happening to this machine.
 
-
+---
 
 
 ### Replacing a Battery in a Macbook Pro
@@ -474,22 +334,22 @@ When installing a new battery, you should calibrate it after installation in ord
 
 If you notice any unusual behavior or problems after installing your new battery, you may need to reset your MacBook's SMC.
 
+---
+
 
 
 ### Current Repair Ledger
 
---------------
-RL-2022.Apr.29
---------------
+**RL-2022.Apr.29**
 
 Replaced the speakers on Julia's 2011 Macbook Pro. This was a bit involved, as one speaker sits next to the CPU on the underside of the logic board, and part of the other speaker sits right on the side of the case, so replacing it involves removing the optical drive. Typical repair quote (see above link) currently runs about AUD$300.00 plus parts.
 
 
----------------------------
-A Note On the Bottom Screws
----------------------------
+**A Note On the Bottom Screws**
 
 I didn't realise this at first, but the bottom of the 2012 Macbook is actually held on by **three** differeent sets of screws (I thought they were just long and short ones). This bit of advice came from my [GOTO iFixit site](https://www.ifixit.com/Guide/MacBook+Pro+13-Inch+Unibody+Mid+2012+Battery+Replacement/10365) step one - copy this link into your browser: https://www.ifixit.com/Guide/MacBook+Pro+13-Inch+Unibody+Mid+2012+Battery+Replacement/10365
+
+---
 
 
 
@@ -543,6 +403,10 @@ I had the same problem even when using the latest Catalina patcher version 1.4.4
 
 
 
+
+
+
+
 ### Mac Repair Links
 
 **CRUCIAL** [Find My Mac](https://everymac.com/ultimate-mac-lookup/). Also, [Ultimate Mac Lookup](https://everymac.com/ultimate-mac-lookup/)
@@ -550,9 +414,7 @@ I had the same problem even when using the latest Catalina patcher version 1.4.4
 [2015 Specs](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.2-15-iris-only-mid-2015-retina-display-specs.html)
 
 
---------------
-Manage the Mac
---------------
+**Manage the Mac**
 
 [Repair Site](https://bikehike.org/how-much-to-repair-macbook-pro-speakers/).
 

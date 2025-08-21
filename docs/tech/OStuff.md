@@ -1,43 +1,21 @@
-# About Projects
+# Other Projects
 
 ## My Projects Pages 
 
-I was trying to upload images to an email I was sending to Martin and Esther on 2022-Apr-15. Got about halfway through and Gmail told me I would exceed the size limit (25mb). Which seems silly in this day and age: this was without trying to send a video, even. Just pictures.
-
-What appeals to me about doing project progress sharing this way is:
-
-	* I can share a LOT of information no-cost
-	
-	* The information is hidden in obscurity of "no-one gives a rat's nether-regions about what I'm doing". *Just have a look at my website:* `Tightbytes.com <https://www.tightbytes.com/>`_. *Visitors? none*. 
-	
-	* Updating is a lot quicker on GitHub than on Tightbytes: I edit locally, then use Github Desktop to manage the update to my pages.
-	
-	* Since the pages are hosted on GitHub, other family and friends could collaborate on this pages, and even add pages of their own.
-	
-Some sections use dates as a sort-of link key. For example, I'll give whoever I'm writing an email to, as a link, the current entry into a given project page, like so:
-
-	`https://robinboncoeur.github.io/Projects/RSTs/Garden.html#apr-23 <https://robinboncoeur.github.io/Projects/RSTs/Garden.html#apr-23>`_
-	
-Sphinx is really cool that way! By the way, the images have been uniformly resized (for the most part) to 1024 x 768 pixels. They are not displayed in that resolution, but right-clicking and choosing "Open image in a New Tab..." will display that image in a somewhat larger resolution. 
-   
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
-
-
-
-## A Bit about the Why
-
-First off, it's about sharing. That was sort-of my primary motivation for `TightBytes <https://tightbytes.com/>`_ - which sees pretty much no visitors ... whatever - and is what drives these pages. As you can tell from the next section, a bit of the reason was so I had a centralised location for reminders and links to stuff and so forth. Getting old makes one a bit forgetful, and I'll sometimes find myself out and about - away from my PC - trying to do something I absolutely *Know* how to do... yeah, but can't remember **exactly** how. Perhaps the reason I forget is because I use so many "tools". 
+It's about sharing. That was sort-of my primary motivation for [TightBytes](https://tightbytes.com) - which sees pretty much no visitors ... whatever - and is what drives these pages. As you can tell from the next section, a bit of the reason was so I had a centralised location for reminders and links to stuff and so forth. Getting old makes one a bit forgetful, and I'll sometimes find myself out and about - away from my PC - trying to do something I absolutely *Know* how to do... yeah, but can't remember **exactly** how. Perhaps the reason I forget is because I use so many "tools". 
 
 What do I mean by "tools"?
 
-These pages - the one's on Github, currently (2022) - are created (typed) in a program (free) called "Brackets". So, not in MS Word or on Notepad or other text editor, but `Brackets <https://brackets.io/>`_. The reason for that is Brackets is a plain-text editor for programmers: it allows you to include text (and other) formatting code to be included in your text. The formatting codes aren't visible to the person reading the resultant page... thus::
+These pages - the one's on Github, currently (2022) - were created (typed) in a program (free) called "Brackets". Note: *I've since moved on to [Phoenix Code](https://phcode.io/#/home)*. So, not in MS Word or on Notepad. The reason for that these apps are plain-text editors for programmers, which include some nice bells and whistles for programmers. The formatting codes aren't visible to the person reading the resultant page... thus::
 
-	...here is how I do ** bold** and *italic*...
+```
+	here is how I do ** bold** and *italic*
+```
 
-produces "...here is how I do **bold** and *italic*...".
+produces: here is how I do **bold** and *italic*
 
-These are all mechanisms designed for what these pages are designed for: `Sphinx <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_, which uses a markup language called **reStructuredText** as the default. Just like in other languages, programming 'languages' have certain rules so that you can pretty much get the same results all the time in a given environment. On the web, the most common 'language' is HTML::
-
+The mechanisms used to use to write pages with were designed for [Sphinx](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html), which uses a markup language called **reStructuredText** as the default. Like in any language, programming 'languages' have certain rules so that you can pretty much get the same results all the time in a given environment. On the web, the most common 'language' is HTML::
+```
 	<HTML>
 	<HEAD> header content here
 	</HEAD>
@@ -45,14 +23,11 @@ These are all mechanisms designed for what these pages are designed for: `Sphinx
 	<BODY> body of the text here
 	</BODY>
 	</HTML>
+```
 
 A markup language allows you to insert formatting 'tags' right into the text itself. For example, in HTML the markup bit would be words enclosed by lesser-than and greater-than symbols. When you create the document the interpreter sees that as instructions on how the rest of the text should look or behave. Being comfortable in that "language" is just a matter of doing it enough, just like any other language.
 
-HTML is just one such "tool". reStructuredText is another - these pages are formatted using reStructuredText. VBA is another, Python yet another... and after a while, I've ended up needing a reference on how do do certain things, particularly if I hadn't done them in a while.
-
-I have another GitHub help page site called `Help Yourself <https://robinboncoeur.github.io/HelpYrself/>`_ that catalogues things I sort-of learnt to do, but then, since they weren't things I did every day, I needed to save the steps somewhere for when I needed that information again.
-
-For example, the next part down - "Reminders [to Myself] of Sphinx Stuff" - is such a key thing I have these reminders in one form or another on most of my "About" pages.
+HTML is just one such markup language. reStructuredText is another. The current pages are formatted using markdown (MkDocs). I also write in VBA and Python... after a while, I've ended up needing a reference on how to do certain things in a language I hadn't used in a while.
 
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
@@ -64,17 +39,22 @@ For example, the next part down - "Reminders [to Myself] of Sphinx Stuff" - is s
 
 Grid for two simple layouts
 
-https://www.youtube.com/watch?v=r1IitKbJRFE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r1IitKbJRFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 
 Slide Show
 
-https://www.youtube.com/watch?v=WJERnXiFFug
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WJERnXiFFug" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://ishadeed.com/article/conditional-css-has-nth-last-child/?utm_source=convertkit&utm_medium=email&utm_campaign=Why+people+use+CSS+frameworks%20-%2010872019
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-AstroDocs
+[Why people use CSS frameworks](https://ishadeed.com/article/conditional-css-has-nth-last-child/?utm_source=convertkit&utm_medium=email&utm_campaign=Why+people+use+CSS+frameworks%20-%2010872019)
 
-https://docs.astro.build/en/editor-setup/
+[AstroDocs](https://docs.astro.build/en/editor-setup/)
+
+
 
 
 ## Other Help Tips
@@ -83,47 +63,48 @@ https://docs.astro.build/en/editor-setup/
 
 These tips pertain to Chrome for Mac: doesn't matter much which version of the Mac operating system, as far as I can tell. Open the Chrome browser:
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_Chrome-4.png
+![Chrome](http://www.tightbytes.com/images/projects/conundrums/Cm_Chrome-4.png)
 
 Mine is already open which is why I've got a white dot to the left of it. A key link on your Chrome browser is the one to your settings page. This is in the upper right-hand corner of the browser:
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_Chrome-5.png
+![Chrome](http://www.tightbytes.com/images/projects/conundrums/Cm_Chrome-5.png)
 
 When you click on this, you get the following menu, from which you select 'Settings':
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_Chrome-6.png
+![Chrome](http://www.tightbytes.com/images/projects/conundrums/Cm_Chrome-6.png)
 
 However, to turn off 'dark mode' in Chrome, you actually go to a new search page:
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_Chrome-1.png
+![Chrome](http://www.tightbytes.com/images/projects/conundrums/Cm_Chrome-1.png)
 
 At the bottom right-hand corner is another settings link:
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_Chrome-2.png
+![Chrome](http://www.tightbytes.com/images/projects/conundrums/Cm_Chrome-2.png)
 
 If you click on the 'Dark theme: On' menu item, it will turn Dark Theme: Off.
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Cm_Chrome-3.png
+![Chrome](http://www.tightbytes.com/images/projects/conundrums/Cm_Chrome-3.png)
+
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
 
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
 
 ### Thanks, Emily [ChatGPT]
 
-
 In Visual Studio Code, you can use the following steps to select all the text between two instances of text:
 
-Open the file you want to work with in Visual Studio Code.
-Press Ctrl + F or Cmd + F to open the Find widget.
-Enter the starting instance of the text you want to select in the Find input box. For example, if you want to select all the text between "start" and "end," enter "start" in the Find input box.
-Press Enter to find the first instance of the text.
-Once the first instance is found, press Ctrl + F2 or Cmd + F2 to select all instances of the text in the file.
-Use the Ctrl + D or Cmd + D shortcut repeatedly to move the cursor to the next instance of the text.
-Keep pressing Ctrl + D or Cmd + D until you reach the second instance of the text you want to select. This will select all the text between the two instances.
-If you accidentally went beyond the second instance, press Ctrl + U or Cmd + U to deselect the last selection and continue with step 7.
-Once you have selected all the text you want, you can perform operations like copying, cutting, or formatting on the selected text.
+- Open the file you want to work with in Visual Studio Code.
+- Press Ctrl + F or Cmd + F to open the Find widget.
+- Enter the starting instance of the text you want to select in the Find input box. For example, if you want to select all the text between "start" and "end," enter "start" in the Find input box.
+- Press Enter to find the first instance of the text.
+- Once the first instance is found, press Ctrl + F2 or Cmd + F2 to select all instances of the text in the file.
+- Use the Ctrl + D or Cmd + D shortcut repeatedly to move the cursor to the next instance of the text.
+- Keep pressing Ctrl + D or Cmd + D until you reach the second instance of the text you want to select. This will select all the text between the two instances.
+- If you accidentally went beyond the second instance, press Ctrl + U or Cmd + U to deselect the last selection and continue with step 7.
+- Once you have selected all the text you want, you can perform operations like copying, cutting, or formatting on the selected text.
+
 By following these steps, you can easily select all the text between two instances in Visual Studio Code.
 
 
@@ -135,68 +116,73 @@ By following these steps, you can easily select all the text between two instanc
 
 In the email on my "Invited" email account - which is typically, usually going to be you since I'll mostly set up these for now until you get the hang of it - you simply click on "Yes:
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-16.png
+![Meet](http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-16.png)
 
 or here:
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-17.png
+![Meet](http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-17.png)
 
 That's in your email invitation. Doing so will add it to your Calendar, which will look like this:
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-18.png
+![Meet](http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-18.png)
 
 When you click on that event, it will bring up that event, and in the event you'll simply click on the "Join with Google Meet" link, which will bring up Google Meet, activating video and you're good to go.
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
+
 **Setting up A Meet**
 
 The following instruction are for when YOU want to set up a Meet, as opposed to joining a Meet someone else set up (i.e., accepting an invitation). To make it easier, I tend to use 'Calendar' that comes with GMail.... that way, I don't have to hunt through emails to find an invitation: it's right there in my GMail calendar. The Gmail Calendar has a little 31 in it:
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-01.png
+![Meet](http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-01.png)
 
 By the way (BTW), if you don't see that Calendar icon in your right-sidebar, go down to the bottom of the page and click on:
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-20.png
+![Meet](http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-20.png)
 
 Then, it will appear up near the top of the right sidebar, along with other useful GMail apps. When you click on the icon, it'll bring up that day's events. As you can see, the get-together we had worked out a few days back is displayed in my calendar. 
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-02.png
+![Meet](http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-02.png)
 
 Double-clicking on this event brings up all the details, including a link to the "Meet" page, generally visible in the middle of that event.
 
 For example, here's how I set up our next meeting, for next Tuesday arvo, your time; Wednesday morning, my time. I click on the date under the  word "Calendar" near the top of that dialogue (top arrow) and then, select the date from the pop-up calendar.
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-04.png
+![Meet](http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-04.png)
 
 I have date set up to GMT + 10hrs (which is Brisbane time) in my GMail settings. I already know that Wednesday morning at seven am is going to be Tuesday afternoon at 2pm your time. So, I add a title - not strictly necessary, but it is helpful - and set the time, and Click on "Add Google Meet video Conference":
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-07.png
+![Meet](http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-07.png)
 
 I also add a description: this is a great way to share objectives and other thoughts. 
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-09.png
+![Meet](http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-09.png)
 
 Remember, the "Join With Google Meet" brings up the "Meet" page, enabling you to join.
 
 When you click on "Add Guests": your most-contacted email recipients should appear in a list:
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-10.png
+![Meet](http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-10.png)
 
 Now, you should see yourself as organiser and the guest list underneath your name. It's going to be truly awesome when we get some of the others onboard with this!
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-11.png
+![Meet](http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-11.png)
 
 When you click "Save" at the bottom of that event:
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-12.png
+![Meet](http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-12.png)
 
 you'll be prompted to send invitations to to everyone on the guest list - saves you from having to manually send out invitations.
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-13.png
+![Meet](http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-13.png)
 
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+
+
+
 
 
 ### Copying Files from Stick to a Mac
@@ -205,63 +191,58 @@ To accomplish this, you will use 'Finder', which is the Mac's answer to the Wind
 
 With 'Finder' selected, go to the menu section at the top of the Mac screen, and on the left-hand side next to the Apple logo, chose 'Finder' and select:
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Prefs1.png
+![Copy Files](http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Prefs1.png)
 
 Make the following changes to these settings:
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Prefs2.png
+![Copy Files](http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Prefs2.png)
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Prefs3.png
+![Copy Files](http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Prefs3.png)
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Prefs4.png
+![Copy Files](http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Prefs4.png)
 
 You will notice your memory stick appear in the left sidebar of 'Finder', under 'Locations' as soon as you plug it in to the USB slot. When you click on that name, the files in that folder will show up in the file browser (the main window):
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs1.png
+![Copy Files](http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs1.png)
 
 Holding down the [CMD] key - command - and pressing [A] will highlight all the files in that folder:
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs2.png
+![Copy Files](http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs2.png)
 
 Note: *make sure that you have actually clicked somewhere on the folder itself to select it before pressing [CMD] [A]*. The names of the files will change colour: mine go blue. Press [CMD] [C] to copy the files.
 
 I'm going to suggest placing music files in the 'Music' folder, to make it easy to find the files. Identify the 'Music folder - I've outlined it in red in the previous image and right-click on it and select:
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs3.png
+![Copy Files](http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs3.png)
 
 The 'Music' will open in a new tab and be the active folder. Press [CMD] [V] to paste your music files into that folder, or optionally right-click and select:
 
-.. image:: http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs4.png
+![Copy Files](http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs4.png)
 
 Should be good to go.
 
 To put your music on your iPhone, you can use the Apple Cloud or Google's Drive. I don't have an iPhone so I don't know the process, but it should be fairly straight-forward.
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
 
 
 
 
 
 
-Music Projects
-**************
+
+
+## Video Projects
 
 **Update: 2022-Dec-18**
 
-
 Still trying to get this right:
 
-.. raw:: html
-
-    <audio controls="controls">
-      <source src="http://tightbytes.com/music/Sketches/WIPs/Sketch13df.mp3" type="audio/wav">
-      Your browser does not support the <code>audio</code> element. 
-    </audio>
-
+<audio controls="controls">
+  <source src="http://tightbytes.com/music/Sketches/WIPs/Sketch13df.mp3" type="audio/wav"> 
+</audio>
 
 **Update: 2022-Aug-24**
-
 
 (Note: *formerly "Film Projects"*) I can unequivocably state: right now in June 2022, I suck at video. Reason: composition. Which is why I **was** taking the Tomorrow's Filmmakers course ... but sort-of lost interest. Initially, I assessed it at being worth every penny. However, I really am a bit conflicted about the main presenter, who infuses his instruction with, for lack of a better term, 'religiosity'. I mean, the message sounds like he's promoting Christianity - I'm a Christian, and you would think I'd see him as a kindred spirit - but somehow the message seems... *off*.
 
@@ -269,51 +250,51 @@ Like, it is supposed to be about film-making techniques. If I follow a guide on 
 
 Oh well, it was US$100. You get what you pay for.
 
-Speaking of courses, since I use `Musescore <https://musescore.org/en>`_ for composing music, it totally made sense to sign up for the full "Musescore bank of courses"... there's `heaps of really useful informatyion on these pages <https://musescore.com/courses>`_, particularly as they were having an 85% off sale. Turns out: it totally is worth every penny! Remember, Musescore is a free download. You want to write music? this is the way to go.
+Speaking of courses, since I use [Musescore](https://musescore.org/en) for composing music, it totally made sense to sign up for the full "Musescore bank of courses"... there's heaps of really useful information on [these pages](https://musescore.com/courses), particularly as they were having an 85% off sale. Turns out: it totally is worth every penny! Remember, Musescore is a free download. You want to write music? this is the way to go.
 
 
-==============
-Music for Film
-==============
+
+
+### Music for Film
 
 I'd like to start making the sort of music that fits with film: a sound that helps make more clear what the film is trying to say. So I've started scoring a new piece... it's in B minor, starts in the woodwinds with bass strings providing a sort of heartbeat (pizzicato).
 
 So far, I have this:
 
-.. image:: http://www.tightbytes.com/images/projects/composition/Sk13a.png
+![Music](http://www.tightbytes.com/images/projects/composition/Sk13a.png)
 
 It's wintertime in Southeast Queensland. Nights are quite cool - actually feels cold to us. The noise of cars and other machines finally diminish in the evening, for which I'm rather grateful. That's what I'm trying to say with the first few bars of this piece. 
 
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
 
 
-=========
-Key Links
-=========
+
+
+
+## Key Links
 
 Excellent Youtube channel on budget filmmaking: 
 <video width="384" height="384" controls>
 <source src="https://www.youtube.com/channel/UCV_i_0uE8IlSenyJY0yBgdw" type="video/mp4">
 </video>
 
-
-
 When he hit 100K subscribers, he put out this excellent video:
 
-<video width="384" height="384" controls>
-<source src="https://www.youtube.com/watch?v=9USTddwNoXU" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9USTddwNoXU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ...on the whole creating content idea that actually can be applied to whatever endeavour one might engage in, whether filmmaking or gardening or bonsai or cardmaking... whatever.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9USTddwNoXU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
 
 
 
 
 
-### Excellent Summary
+
+## Excellent Summary
 
 Done with the Bullshit?
 
@@ -360,6 +341,8 @@ Thank you Nate White.
 BTW: 
 Scientists don’t *think* (assume) anything, they make no assumptions. Science is evidence-driven. There is a fallacy in this assertion.
 
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+
 
 
 
@@ -371,19 +354,25 @@ Scientists don’t *think* (assume) anything, they make no assumptions. Science 
 
 In Visual Studio Code, you can use regular expressions (regex) to select all text between specific markers like "startstart" and "endend". Here's how you can do it:
 
-Open the file in Visual Studio Code.
-Press Ctrl + F (or Cmd + F on macOS) to open the search box.
-Click on the icon with the three dots (⋯) to expand the search options.
-Enable the regex mode by clicking on the .* icon or by pressing Alt + R.
-In the search box, enter the following regex pattern: startstart([\s\S]*?)endend.
-startstart and endend are the markers you want to use to select the text in between.
-[\s\S]*? matches any character (including line breaks) between the start and end markers, non-greedily.
-Press Enter to start the search.
-Visual Studio Code will highlight the matched text. To select all the occurrences, click on the "Select All" button or press Ctrl + Shift + L (or Cmd + Shift + L on macOS).
-You can now modify, delete, or copy the selected text as needed.
-Note: Make sure your document doesn't contain nested instances of the start and end markers. If you have nested markers, the regex pattern may not work as intended.
+- Open the file in Visual Studio Code.
+- Press Ctrl + F (or Cmd + F on macOS) to open the search box.
+- Click on the icon with the three dots (⋯) to expand the search options.
+- Enable the regex mode by clicking on the .* icon or by pressing Alt + R.
+- In the search box, enter the following regex pattern: startstart([\s\S]*?)endend.
+- startstart and endend are the markers you want to use to select the text in between.
+- [\s\S]*? matches any character (including line breaks) between the start and end markers, non-greedily.
+- Press Enter to start the search.
+
+Visual Studio Code will highlight the matched text. To select all the occurrences, click on the "Select All" button or press Ctrl + Shift + L (or Cmd + Shift + L on macOS). You can now modify, delete, or copy the selected text as needed.
+
+Note: *Make sure your document doesn't contain nested instances of the start and end markers. If you have nested markers, the regex pattern may not work as intended.* 
 
 Remember to exercise caution when modifying or deleting text using regex, as it can have unintended consequences. Always make sure to have a backup of your file before performing such operations.
+
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+
+
+
 
 
 
@@ -401,3 +390,4 @@ F# major: F# major is the major key that is a semitone above B minor. It provide
 
 These are just a few examples of keys that complement the B minor key. Ultimately, the choice of complementary keys will depend on the musical context and the desired emotional effect.
 
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">

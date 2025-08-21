@@ -1,14 +1,8 @@
-################
-Scripts to Study
-################
+# Movie Scripts
 
-******************************
-Sherlock Holmes / Jeremy Brett
-******************************
+## Sherlock Holmes / Jeremy Brett
 
-====================
-The Solitary Cyclist
-====================
+### The Solitary Cyclist
 
 HOLMES:
 Watson.
@@ -1199,13 +1193,8 @@ Well, let me think.
 
 
 
+### THE NORWOOD BUILDER
 
-
-
-
-===================
-THE NORWOOD BUILDER
-===================
 
 MCU: Door of tobacconist
 

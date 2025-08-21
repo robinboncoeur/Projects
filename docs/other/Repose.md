@@ -31,6 +31,3 @@ and along the water...
 
 
 Then for a 5k bike ride. Gotta start somewhere... better than sitting all day.
-
-
-

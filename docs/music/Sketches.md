@@ -476,6 +476,12 @@ And I've made a start on the Strings: the Base, Core Techniques and Legato patch
 
 Practising my violin: this is definitely uphill work. The bow wants to chatter and involve more than on string at a time: typical "gremmy" stuff. Good job I got the mute for it!
 
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
 
 
 
@@ -572,6 +578,9 @@ In reply to Can't run the beta on linux - *by zabalza.asier* - for Muse Hub, you
 [AMS-Musicshop: Learn to Play the Violin -- Complete Collection](https://www.amsmusicshop.com/learn-to-play-the-violin-books-1-3-complete-collection-download-only/).
 
 [Key Signatures](https://www.schoolofcomposition.com/how-to-easily-remember-all-key-signatures/).
+
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+
 
 
 

@@ -2,9 +2,13 @@
 
 ## Quick Links
 
-[Repair Site](https://bikehike.org/how-much-to-repair-macbook-pro-speakers/).
+[BikeHike Repair Site](https://bikehike.org/how-much-to-repair-macbook-pro-speakers/).
 
-[Find My Mac](https://everymac.com/ultimate-mac-lookup/).
+[Find My Mac-EveryMac](https://everymac.com/ultimate-mac-lookup/).
+
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+
+
 
 
 
@@ -19,7 +23,12 @@ SQLite3
 **Data Set**
 
 July 2016 through June 2022
-	
+
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+
+
+
+
 
 
 ## 2022-July Summary
@@ -52,6 +61,9 @@ The approach was to import transactions from ANZ Savings (259), my personal chec
 *	TransCode - Transaction Code
 
 Final column (TransRelated) is a throw-away, exists as a kludge to make sure each row in the export CSV has equal number of columns. Important: *prior to export to CSV, to keep SQLite happy with the date field, change dd/mm/yyyy to yyyy-mm-dd*.
+
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+
 
 
 

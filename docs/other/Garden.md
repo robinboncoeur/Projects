@@ -4,8 +4,9 @@ I hope to cover anything going on outside the house, including growbeds, footpat
 
 Be sure to turn on 'night-time' mode (it's the little moon icon next to the search field at the top of the page) in order to see the pictures a bit better.
 
-
 <hr style="height:8px;border-width:0;color:navy;background-color:navy">
+
+
 
 
 
@@ -52,7 +53,7 @@ Basil, flowers (so Harri-girl has something to pick) and more margoram.
 
 ![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-11.jpg)
 
-The coffee <em>bush</em> (breynia oblongifolia) is considered an invasive weed by Brisbane City Council. They're not the same thing as the coffee <em>plant</em> (coffea arabica). The council just next to Brisbane City Council - Redlands Council, in which we live - used to have instructions on how to grow your own coffee plants. Those instructions seem to have been taken down.
+The coffee **bush** (breynia oblongifolia) is considered an invasive weed by Brisbane City Council. They're not the same thing as the coffee *plant* (coffea arabica). The council just next to Brisbane City Council - Redlands Council, in which we live - used to have instructions on how to grow your own coffee plants. Those instructions seem to have been taken down.
 
 As you can see, they're happy little self-seeding plants, so I get why environmental types are a bit cautious. They tend to feel the same way about blackberry bushes and guava trees.{{{sigh}}}
 
@@ -90,16 +91,17 @@ Harvested and ready to be smooshed in the morter and pestle. The pulp goes in th
 
 ![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-24.jpg)
 
-Then, we dry them - for <em>AGES!</em>
+Then, we dry them - for **AGES**!
 
 ![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-25.jpg)
 
 
 ![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-26.jpg)
 
-
 <hr style="height:8px;border-width:0;color:navy;background-color:navy">
-   
+
+
+
 
 
 
@@ -131,6 +133,11 @@ So, we're going to try this approach - protecting the stumps until they get goin
 Indeed, I'll probably have to take this approach with any seedlings. I'd planted a whole bunch of broccoli and beetroot seedlings and the whole lot got decimated by some critter. Very frustrating!
 
 We'll see how we go.
+
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+
+
+
 
 
 
@@ -283,18 +290,17 @@ In the meantime, we're getting into the whole permaculture thing in a more thoug
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uqwWdranB5A" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-   <hr style="height:2px;border-width:1;color:gray;background-color:gray">
+<hr style="height:2px;border-width:1;color:gray;background-color:gray">
 
 
-A `full video collection <https://www.youtube.com/watch?v=uqwWdranB5A&list=RDLVuqwWdranB5A&start_radio=1&rv=uqwWdranB5A>`_ on the subject goes into more detail on what exactly is at stake, and the approaches being proposed under the "permaculture" umbrella. Geoff Lawton has an additional perspective:
-   
-.. raw:: html
+
+A [full video collection](https://www.youtube.com/embed/uqwWdranB5A) on the subject goes into more detail on what exactly is at stake, and the approaches being proposed under the "permaculture" umbrella. Geoff Lawton has an additional perspective:
+
+
 	
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/7qXgbrIYcFE" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7qXgbrIYcFE" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. raw:: html
-   
-   <hr style="height:2px;border-width:1;color:gray;background-color:gray">
+<hr style="height:2px;border-width:1;color:gray;background-color:gray">
 
 We still need sheds building: waiting for Annie (next door neighbour) to finish sorting out the whole covenant issue. Meanwhile, got the chook house ready for new occupants: the roof interior had mostly rotted and so we replaced that with a plastic liner for now. I anticipate having to replace the entire roof structure at some juncture. 
 
@@ -310,11 +316,7 @@ Whilst this isn't so much about the shadehouse/greenhouse, Julia is picking up s
 
 should keep the girls dry this year, which promises to be a rather wet year. I'll probably need to come up with a more robust, permanent solution as even the roof bits will likely rot in time and will need to be replaced. Yes, the house is "cute", but buyer beware: it wasn't built to last, by any stretch of the imagination. I reckon the shadehouse isn't much better.
 
-
-
-.. raw:: html
-   
-   <hr style="height:8px;border-width:4;color:gray;background-color:gray">
+<hr style="height:8px;border-width:4;color:gray;background-color:gray">
 
 
 

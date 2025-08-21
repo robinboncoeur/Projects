@@ -51,8 +51,9 @@ nav:
     - Health: other/Health.md
     - Repose: other/Repose.md
   - Tech:
-    -tech/index.md
+    - tech/index.md
     - MyApps: tech/MyApps.md
+    - Ostuff: tech/OStuff.md
     - Repairs: tech/Repairs.md
     - Video: tech/Video.md
     - VScripts: tech/VScripts.md

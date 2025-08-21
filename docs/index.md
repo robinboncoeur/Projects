@@ -2,7 +2,6 @@
 
 ## Foreword
 
-
 I was trying to upload images to an email I was sending to Martin and Esther on 2022-Apr-15. Got about halfway through and Gmail told me I would exceed the size limit (25mb). Which seems silly in this day and age: this was without trying to send a video, even. Just pictures.
 
 What appeals to me about doing project progress sharing this way is:
