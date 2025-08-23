@@ -8,7 +8,7 @@ What appeals to me about doing project progress sharing this way is:
 
   * I can share a LOT of information no-cost
 
-  * The information is hidden in obscurity of "no-one gives a rat's nether-regions about what I'm doing". *Just have a look at my website:* `Tightbytes.com <https://www.tightbytes.com/>`_. *Visitors? none*. 
+  * The information is hidden in obscurity of "no-one gives a rat's nether-regions about what I'm doing". *Just have a look at [my website: Tightbytes.com](https://www.tightbytes.com). *Visitors? none*. 
 
   * Updating is a lot quicker on GitHub than on Tightbytes: I edit locally, then use Github Desktop to manage the update to my pages.
 
@@ -16,11 +16,11 @@ What appeals to me about doing project progress sharing this way is:
 	
 Some sections use dates as a sort-of link key. For example, I'll give whoever I'm writing an email to, as a link, the current entry into a given project page, like so:
 
-  `https://robinboncoeur.github.io/Projects/RSTs/Garden.html#apr-23 <https://robinboncoeur.github.io/Projects/RSTs/Garden.html#apr-23>`_
-	
+  [https://robinboncoeur.github.io/Projects/RSTs/Garden.html#apr-23](https://robinboncoeur.github.io/Projects/RSTs/Garden.html#apr-23)
+
 Sphinx is really cool that way! By the way, the images have been uniformly resized (for the most part) to 1024 x 768 pixels. They are not displayed in that resolution, but right-clicking and choosing "Open image in a New Tab..." will display that image in a somewhat larger resolution. 
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
 
 
 
