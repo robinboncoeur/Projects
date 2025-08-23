@@ -11,7 +11,15 @@ Be sure to turn on 'night-time' mode (it's the little moon icon next to the sear
 
 
 
-## 2025 - Coffee and Successes
+## 2025 - What Seems to Work
+
+### Aug 21
+
+**Path works**
+
+We've had a persistent weed problem at certain spots around our garden beds out the front. My 'frog' - Eat-The-Frog - has been getting that sorted. It was a project I was planning for the cooler months, and now with winter almost gone again, I realised it was time to 'pull the finger out'. The beds next to the living room are going away.
+
+### Aug 6
 
 Might show you failures as well, but for now, just what we've been successful at growing.
 
