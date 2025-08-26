@@ -13,11 +13,42 @@ Be sure to turn on 'night-time' mode (it's the little moon icon next to the sear
 
 ## 2025 - What Seems to Work
 
+### Aug 26
+
+The least fun one can have is shovelling rocks. The mob at... well, I won't say a name but they're a prominent landscape supplier around here, sold me really muddy river-rock. The point to the river-rock as a footpath is to eliminate having to weed. Weeds need: water, soil (or even dirt) and sunlight. Make the bed of **clean** river-rock deep enough, you've taken away light and soil. Water? Well, can't do much about that... rains here a fair bit.
+
+<hr style="height:2px;border-width:0;color:navy;background-color:navy">
+
+
+
 ### Aug 21
 
 **Path works**
 
-We've had a persistent weed problem at certain spots around our garden beds out the front. My 'frog' - Eat-The-Frog - has been getting that sorted. It was a project I was planning for the cooler months, and now with winter almost gone again, I realised it was time to 'pull the finger out'. The beds next to the living room are going away.
+<img src="/assets/images/garden/25-08-21/frontbeds-01.jpg" alt="Footpath works" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
+		
+<img src="/assets/images/garden/25-08-21/frontbeds-02.jpg" alt="Footpath works" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
+
+We've had a persistent weed problem at certain spots around our garden beds out the front. My 'frog' - [Eat-The-Frog](https://www.todoist.com/productivity-methods/eat-the-frog) - has been getting that sorted. It was a project I was planning for the cooler months, and now with winter almost gone again, I realised it was time to 'pull the finger out'. 
+
+The beds next to the living room are going away, to be replaced by a sandpit for the little ones to play in. Julia's likely going: "Yeah, *that'll* happen." 🤭
+
+Besides the footpath, there was one bed I hadn't lined... this one:
+
+<img src="/assets/images/garden/25-08-21/frontbeds-04.jpg" alt="Footpath works" style="float: right; width: 600px;
+        margin-left: 20px; margin-bottom: 10px;" />
+
+We were growing thyme, margoram and this amazing perpetual spinach - that big-leafed thing hanging on for dear life - that I hope to rescue. The taste is just amazing: you just barely show it any heat, and it turns into PopEye food!
+
+Okay, the consistency (*think: mouth-feel*) isn't the greatest - a bit like munching on an uncooked *escargot* (snail) - but the flavour more than makes up for it.
+
+As you can see, the timber is slowly decaying, hence the need for a liner. I'll use some left-over banners from Julia's Rural Aid days... we don't throw much. Working with soil is actually fun, almost relaxing. Working with rocks? Not so much. Still, hope to get it all done before the real heat starts.
+
+<hr style="height:2px;border-width:0;color:navy;background-color:navy">
+
+
 
 ### Aug 6
 
