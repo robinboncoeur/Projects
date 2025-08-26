@@ -434,7 +434,7 @@ Long story short: my twenty-five year old brain was dictating utter nonsense to 
 
 Here's where things ended up in June/July (other projects were demanding my attention):
 
-<img src="/assets/images/garden/22-07-04/fp1.jpg" alt="Footpath" style="width: 900px;"/>
+<img src="/assets/images/garden/21-07-04/fp1.jpg" alt="Footpath" style="width: 900px;"/>
 
 And so things stayed for nine months or so. Work (like, at the hospital) sort-of gets in the way.
 
@@ -448,22 +448,22 @@ I can totally tell I'm approaching 70. Progress is slow... much slower than I'd 
 
 I might, at this juncture, go a bit into what I am trying to accomplish, and why. Here's an idea what the footpath is meant to look like when it's done:
 
-<img src="/assets/images/garden/22-06-10/fp6.jpg" alt="Footpath" style="width: 900px;"/>
+<img src="/assets/images/garden/21-06-10/fp6.jpg" alt="Footpath" style="width: 900px;"/>
 
 And here is what it looked like a year ago:
 
-<img src="/assets/images/garden/22-06-10/fp1.jpg" alt="Footpath" style="width: 900px;"/>
+<img src="/assets/images/garden/21-06-10/fp1.jpg" alt="Footpath" style="width: 900px;"/>
 
 
 The main challenge with the use of crusher-dust and pumice-gravel was that weeds would pretty much grow right through, and ultimately take over the footpath. As soon as dust accumulates in the pumice-gravel, it sinks down to the crusher-dust level, giving what should be an inert mineral base into a substrate for weed growth. Additionally, the person that Julia had engaged to redo the footpaths thought putting down *cardboard* - as in: container boxes - under the gravel as a weed deterrent was a good idea (it wasn't: cardboard breaks down quickly, and weeds aren't picky what they grow in) and chose that horrid pumic-gravel to cover the existing river-rock. I've been trying to filter out the river-rock to reuse it: not a trival task. I have been able to demonstrate that if the river-rock layer is deep enough, weeds will not grow:
 
-<img src="/assets/images/garden/22-06-10/fp2.jpg" alt="Footpath" style="width: 900px;"/>
+<img src="/assets/images/garden/21-06-10/fp2.jpg" alt="Footpath" style="width: 900px;"/>
 
-<img src="/assets/images/garden/22-06-10/fp3.jpg" alt="Footpath" style="width: 900px;"/>
+<img src="/assets/images/garden/21-06-10/fp3.jpg" alt="Footpath" style="width: 900px;"/>
 
 whereas, that pumice-gravel, even with river-rock underneath it and weedmat, allowed weeds to grow. I'm all for weeds, but do want to control where they grow:
 
-<img src="/assets/images/garden/22-06-10/fp4.jpg" alt="Footpath" style="width: 900px;"/>
+<img src="/assets/images/garden/21-06-10/fp4.jpg" alt="Footpath" style="width: 900px;"/>
 
 We tried spraying with a vinegar/salt/dish-soap mixture to control the weeds - we have bees, so we're not about to use a off-the-shelf herbicide - and as for the most part it works easily as well as the toxic stuff, it is not a long-term solution.
 
