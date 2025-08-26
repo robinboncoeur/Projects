@@ -1,6 +1,6 @@
 # Our Garden At Seabrae
 
-I hope to cover anything going on outside the house, including growbeds, footpath and how we finally got rid of (re-purposed) all that nasty pumice gravel. I'll try to remember to put the newer stuff at the top of this page.
+This page is about things we're doing around the house, including growbeds, footpaths and how we finally got rid of (re-purposed) all that nasty pumice gravel. The page is in reverse order, with more recent stuff nearer the top of the page.
 
 Be sure to turn on 'night-time' mode (it's the little moon icon next to the search field at the top of the page) in order to see the pictures a bit better.
 
@@ -11,17 +11,19 @@ Be sure to turn on 'night-time' mode (it's the little moon icon next to the sear
 
 
 
-## 2025 - What Seems to Work
+## 2025
 
-### Aug 26
+### August 26
 
-The least fun one can have is shovelling rocks. The mob at... well, I won't say a name but they're a prominent landscape supplier around here, sold me really muddy river-rock. The point to the river-rock as a footpath is to eliminate having to weed. Weeds need: water, soil (or even dirt) and sunlight. Make the bed of **clean** river-rock deep enough, you've taken away light and soil. Water? Well, can't do much about that... rains here a fair bit.
+The least fun one can have is shovelling rocks. The mob at... well, I won't say their name but they're a prominent landscape supplier. They sold me *really* **muddy** river-rock. The point to the river-rock as a footpath is to eliminate having to weed. Weeds need: water, soil (or even dirt) and sunlight. Make the bed of **clean** river-rock deep enough, you've taken away light and soil. Water? Well, can't do much about that... rains here a fair bit.
+
+Anyway, the hard yakka has been sieving / washing away the mud out of the rock. Talk about a slow, painful process. It'll get there, but not without a HUGE effort!
 
 <hr style="height:2px;border-width:0;color:navy;background-color:navy">
 
 
 
-### Aug 21
+### August 21
 
 **Path works**
 
@@ -50,92 +52,90 @@ As you can see, the timber is slowly decaying, hence the need for a liner. I'll 
 
 
 
-### Aug 6
+### August 6
 
 Might show you failures as well, but for now, just what we've been successful at growing.
 
-![Herbs](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-01.jpg)
+<img src="/assets/images/garden/25-08-06/renewbed-01.jpg" alt="Thyme" style="width: 900px;"/>
 
 We've lined most of the garden beds, to prevent the timber from rotting. I've got one more to line: this clump of 'common' thyme is from the adjoining bed yet to be lined.
 
-![Herbs](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-02.jpg)
+<img src="/assets/images/garden/25-08-06/renewbed-02.jpg" alt="Margoram" style="width: 900px;"/>
 
 This tiny clump is my pride-and-joy: Margoram!! Can't even get it in the shops anymore here in Oz... but it's an essential for Italian dishes.
 
-![Herbs](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-03.jpg)
+<img src="/assets/images/garden/25-08-06/renewbed-03.jpg" alt="More thyme" style="width: 900px;"/>
 
-I believe these little battlers are lemon thyme. We'll see how they do in spring... nothing is really going crazy growing now.
+I believe these little battlers are lemon thyme. We'll see how they do in spring... nothing is really going crazy growing now (end of 'winter').
 
-![Herbs](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-04.jpg)
+<img src="/assets/images/garden/25-08-06/renewbed-04.jpg" alt="Strawberries" style="width: 900px;"/>
 
-3 strawberry plants with flowers. So far, so good. Going to be putting coffee pucks (spent coffee ground pucks) near them to discourage slugs and such. The marigolds are also meant to ward off pests, all except perhaps the 'bin chooks': 
+3 strawberry plants with flowers. So far, so good. Going to be putting coffee pucks (spent coffee grounds) near them to discourage slugs and such. The marigolds are also meant to ward off most pests, except perhaps the 'bin chooks': 
 
-!['bin chooks'](https://www.tightbytes.com/images/projects/garden/2025/Australian_Ibis.jpg)
+<img src="/assets/images/garden/25-08-06/Australian_Ibis.jpg" alt="Ibis" style="width: 900px;"/>
 
-...(threskiornis molucca) as we call them (bin=rubbish bin;chook=chicken). They don't actually eat the plants, but they tend to trample on the young plants and crush them... hence the sticks in the ground. Actually seems to work.
+...(threskiornis molucca) as we call them (bin=rubbish bin;chook=chicken). They don't actually eat the plants, but they trample on the young plants as they dig around for slugs... hence the sticks in the ground. Actually seems to work.
 
-![Herbs](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-05.jpg)
+<img src="/assets/images/garden/25-08-06/renewbed-05.jpg" alt="Shallots" style="width: 900px;"/>
 
 We call these 'spring onions'. When we buy a bunch at Woolies (like Safeway) I whack off the bottom 3-4 inches - the bit with the roots - and stick that into the ground. So, we have tons of that. Behind that, you can make out the parsley (transplanted successfully from the adjoining, now-replenished bed in the background) and the rosemary, also transplanted. I've tried to transplant rosemary before but failed. I'm delighted this one has done so well!
 
-![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-06.jpg)
+<img src="/assets/images/garden/25-08-06/renewbed-06.jpg" alt="Coffee" style="width: 900px;"/>
 
 A couple of coffee plants with marigold and parsley. I expect these will take off in the spring. I'll have to keep them trimmed back - they tend to grow quite tall.
 
-![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-07.jpg)
+<img src="/assets/images/garden/25-08-06/renewbed-07.jpg" alt="Spinach" style="width: 900px;"/>
 
 Perpetual spinach. Julia isn't fussed on the taste, but I love it. And it just grows and grows. BTW, this is the bed that I'll be emptying and putting a liner into.
 
-![Herbs](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-08.jpg)
+<img src="/assets/images/garden/25-08-06/renewbed-08.jpg" alt="Basil" style="width: 900px;"/>
 
 Basil, flowers (so Harri-girl has something to pick) and more margoram.
 
-![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-11.jpg)
+<img src="/assets/images/garden/25-08-06/coffeeplant-01.jpg" alt="Coffee plants" style="width: 900px;"/>
 
 The coffee **bush** (breynia oblongifolia) is considered an invasive weed by Brisbane City Council. They're not the same thing as the coffee *plant* (coffea arabica). The council just next to Brisbane City Council - Redlands Council, in which we live - used to have instructions on how to grow your own coffee plants. Those instructions seem to have been taken down.
 
 As you can see, they're happy little self-seeding plants, so I get why environmental types are a bit cautious. They tend to feel the same way about blackberry bushes and guava trees.{{{sigh}}}
 
-![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-12.jpg)
+<img src="/assets/images/garden/25-08-06/coffeeplant-02.jpg" alt="Coffee plants" style="width: 900px;"/>
 
 Almost all of those little wide-leaf plants on the ground are young coffee plants. I'm going to leave some and transplant others.  
 
-![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-13.jpg)
+<img src="/assets/images/garden/25-08-06/coffeeplant-03.jpg" alt="Coffee plants" style="width: 900px;"/>
 
 A full-grown coffee plant. I'll be chopping it back later this year.
 
-![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-14.jpg)
+<img src="/assets/images/garden/25-08-06/coffeeplant-04.jpg" alt="Coffee plants" style="width: 900px;"/>
 
 Coffee 'cherries' - been a really good year!
 
-![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-15.jpg)
+<img src="/assets/images/garden/25-08-06/coffeeplant-05.jpg" alt="Coffee plants" style="width: 900px;"/>
 
 I'll probably leave this one alone for now, until the others get established.
 
-![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-16.jpg)
+<img src="/assets/images/garden/25-08-06/coffeeplant-06.jpg" alt="Coffee plants" style="width: 900px;"/>
 
 Gotta lift up the branches to find where they're hiding.
 
-![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-17.jpg)
+<img src="/assets/images/garden/25-08-06/coffeeplant-07.jpg" alt="Coffee cherries" style="width: 900px;"/>
 
 Some folks use the pulpy bit and make jam from it. Aren't they gorgeous!
 
-![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-22.jpg)
+<img src="/assets/images/garden/25-08-06/process-01.jpg" alt="Picked cherries" style="width: 900px;"/>
 
 Harvested and ready to be smooshed in the morter and pestle. The pulp goes in the compost, and the beans go:
 
-![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-23.jpg)
+<img src="/assets/images/garden/25-08-06/process-02.jpg" alt="Fermentation" style="width: 900px;"/>
 
 ...here, to ferment for a week.
 
-![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-24.jpg)
+<img src="/assets/images/garden/25-08-06/process-03.jpg" alt="Ready to hull" style="width: 900px;"/>
 
 Then, we dry them - for **AGES**!
 
-![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-25.jpg)
+<img src="/assets/images/garden/25-08-06/process-04.jpg" alt="Ready to hull" style="width: 900px;"/>
 
-
-![Coffee](https://www.tightbytes.com/images/projects/garden/2025/Coffee2025-26.jpg)
 
 <hr style="height:8px;border-width:0;color:navy;background-color:navy">
 
@@ -147,7 +147,7 @@ Then, we dry them - for **AGES**!
 
 
 
-## 2022 - ReDoing the Footpath
+## 2022 - The Footpath
 
 ### April 18
 
