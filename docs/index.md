@@ -80,3 +80,18 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 
 <hr style="height:8px;border-width:0;color:black;background-color:black">
 
+
+
+## Template for page metatdata
+
+---
+title: Home Networking Checklist
+description: Step-by-step guide to setting up and maintaining Windows 11 file sharing at home.
+tags:
+  - networking
+  - windows11
+  - home
+last_updated: 2025-08-28
+status: active   # active | needs-review | obsolete
+author: Robyn Hahn
+---
