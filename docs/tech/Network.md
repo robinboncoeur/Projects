@@ -1,21 +1,8 @@
 # Networking Essentials
 
----
-title: Home Networking Checklist
-description: Step-by-step guide to setting up and maintaining Windows 11 file sharing at home.
-tags:
-  - networking
-  - windows11
-  - home
-last_updated: 2025-08-28
-status: active   # active | needs-review | obsolete
-author: Robyn Hahn
----
+## Everyday Home Network Checklist
 
-
-## 🖥️ Everyday Home Network Checklist
-
-**Windows 11**
+**Windows 11** 🖥️
 
 🌸 Here’s a neat **Everyday Home Network Checklist** you can keep handy — it’s the “dogs-body’s guide” to keeping Julias2025 and your PC friendly without having to wrestle Windows every time.
 
@@ -45,7 +32,7 @@ author: Robyn Hahn
 * On your PC, open File Explorer → type in the bar:
 
   ```
-  \\Jules2025\SharedDocs
+  \\Julias2025\SharedDocs
   ```
 
   or (if names act up):
@@ -54,7 +41,7 @@ author: Robyn Hahn
   \\192.168.x.x\SharedDocs
   ```
 
-  *(replace with Jules2025’s actual IP, found via `ipconfig`)*
+  *(replace with Julias2025’s actual IP, found via `ipconfig`)*
 
 ---
 
@@ -64,7 +51,7 @@ author: Robyn Hahn
 
   * Right-click **This PC** → **Map network drive…**
   * Choose a letter (say `Z:`).
-  * Folder = `\\Jules2025\SharedDocs`.
+  * Folder = `\\Julias2025\SharedDocs`.
   * Tick **Reconnect at sign-in**.
 
 ➡️ Now it’ll appear as a normal drive every time you log in.
@@ -77,8 +64,8 @@ author: Robyn Hahn
 * **If prompted for credentials again:**
 
   * Go to *Control Panel → User Accounts → Credential Manager → Windows Credentials*
-  * Delete any `Jules2025` entries.
-  * Retry with `\\Jules2025\SharedDocs`.
+  * Delete any `Julias2025` entries.
+  * Retry with `\\Julias2025\SharedDocs`.
 * **If name lookup fails:** use the IP address.
 * **If still stubborn:** run `net use * /delete` in Command Prompt to flush connections.
 
@@ -90,12 +77,9 @@ author: Robyn Hahn
 
   * Turn *Password-protected sharing* back ON.
   * Create a simple local account (e.g. `ShareUser`) with its own password just for sharing.
-  * Then use `Jules2025\ShareUser` when prompted.
+  * Then use `Julias2025\ShareUser` when prompted.
 
----
 
-That’s it — with this, you’ll be able to get to your shared folders without headaches, and if Windows forgets itself (as it sometimes does), you’ll know exactly which knobs to reset.
+<hr style="height:8px;border-width:0;color:black;background-color:black">
 
----
 
-Would you like me to **make this into a tidy one-page PDF “cheat sheet”** for you, so you can just keep it on your desktop for quick reference?
