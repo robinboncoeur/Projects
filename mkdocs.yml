@@ -12,9 +12,6 @@ theme:
         icon: material/weather-night # indigo
         name: Switch to Dark Mode
       accent: pink
-#extra_css:
-#  - assets/stylesheets/custom.css
-
     # Dark mode
     - scheme: slate
       primary: indigo
@@ -33,6 +30,9 @@ theme:
     - search.highlight
     - content.tabs.link
     - content.code.copy
+
+extra_css:
+  - assets/css/custom.css
 
 nav:
   - Home: index.md
