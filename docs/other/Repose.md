@@ -1,17 +1,20 @@
-# Resting from Projects
+# Rest
 
 ## Best of the Best 2024
 
 <iframe width="560" height="315" src="https://www.tightbytes.com/videos/Family/HarriGirl2024.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
 
 
 ## Out Into Nature
 
-Whilst doing all these projects feels great - getting stuff **DONE**! - there is no question one needs downtime.
-
 ### 2022.Apr.16
 
+Whilst doing all these projects feels great - getting stuff **DONE**! - there is no question one needs downtime.  
 Went for a 3k walk on the Jack Gordon path along the water at Redland Bay. Here's the start... that's my little 2014 Hyundai i20. Still in pretty good nick for a 8 year-old car. The weather was perfect for walking:
 
 ![Image](https://www.tightbytes.com/images/projects/repose/SabWalk01.jpg)
@@ -31,3 +34,5 @@ and along the water...
 
 
 Then for a 5k bike ride. Gotta start somewhere... better than sitting all day.
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">

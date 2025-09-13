@@ -8,7 +8,7 @@ Anne is Cooking at Montmartre
 <source src="https://tightbytes.com/videos/AnneIsCooking.mp4" type="video/mp4">
 </video>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 
 Devon / Cornwall 
@@ -18,7 +18,7 @@ Devon / Cornwall
 <source src="https://tightbytes.com/videos/DevonCornwall04.mp4" type="video/mp4">
 </video>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -28,7 +28,7 @@ New Zealand - Getting There
 <source src="https://tightbytes.com/videos/NZYouGetThere.mp4" type="video/mp4">
 </video>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -38,7 +38,7 @@ New Zealand - Trampin' (Hiking) the Mou
 <source src="https://tightbytes.com/videos/TrampinTheMou.mp4" type="video/mp4">
 </video>
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -56,7 +56,7 @@ Tribute to Mom and Dad
 <source src="https://tightbytes.com/videos/TributeToDad-n-Mom.mp4.mp4" type="video/mp4">
 </video>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -66,7 +66,7 @@ All Free Stuff
 <source src="https://tightbytes.com/videos/AllFreeStuff.mp4" type="video/mp4">
 </video>
 
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<hr style="height:1px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -76,7 +76,7 @@ All Free Stuff
 <source src="https://tightbytes.com/videos/Oct18Update.mp4" type="video/mp4">
 </video>
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -90,7 +90,7 @@ RaisedGrowBeds
 <source src="https://tightbytes.com/videos/RaisedGrowBeds.mp4" type="video/mp4">
 </video>
 
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<hr style="height:1px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -100,7 +100,7 @@ Drainage for the Footpath
 <source src="https://tightbytes.com/videos/projects/garden/Aj-SHTrench.mp4" type="video/mp4">
 </video>
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 Note to Self: *This page provides a centralised location for links to videos stored on tightbytes.com. It's sort-of organised by general topic.*

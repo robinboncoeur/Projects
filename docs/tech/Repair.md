@@ -19,7 +19,7 @@ And the machine worked beautifully!
 
 So, that's what got me started.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -207,7 +207,7 @@ I had the same problem even when using the latest Catalina patcher version 1.4.4
 
 ### Mac Repair Links
 
-**CRUCIAL** [Find My Mac](https://everymac.com/ultimate-mac-lookup/). Also, [Ultimate Mac Lookup](https://everymac.com/ultimate-mac-lookup/)
+**CRUCIAL** [Find My Mac](https://everymac.com/ultimate-mac-lookup/).
 
 [2015 Specs](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.2-15-iris-only-mid-2015-retina-display-specs.html)
 
@@ -218,7 +218,7 @@ I had the same problem even when using the latest Catalina patcher version 1.4.4
 
 [How to prepare a Mac for sale](https://www.imore.com/how-to-prepare-mac-for-sale#first-steps).
 
-[Securely erase a Mac's SSD'](https://www.macobserver.com/tips/how-to/securely-erase-macs-ssd).
+[Securely erase a Mac's SSD](https://www.macobserver.com/tips/how-to/securely-erase-macs-ssd).
 
 [Securely erase data from your Mac](https://www.intego.com/mac-security-blog/how-to-securely-erase-data-from-your-mac-and-external-drives/)
 
@@ -260,7 +260,7 @@ I had the same problem even when using the latest Catalina patcher version 1.4.4
 
 ### Other Mac-related Pages
 
-[Jaycar](https://www.jaycar.com.au/tool-set-repair-kit-iphone/p/TD2115)
+[Jaycar](https://www.jaycar.com.au/)
 
 [The TestDisk page](https://www.g2.com/products/testdisk/reviews#survey-response-1504028)
 

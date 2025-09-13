@@ -1,87 +1,35 @@
-# Linux Tips
+# Managing My OSes
 
+## Windows 11
 
-## Networking Pointers
+### TPM2 vs CPU
 
-### Quick Web Server
+**2025-09-12**  
 
-In Terminal:
+Thanks to the looming Windows10 expiry date, I've had to update all our Windows PCs to 11. For some, thanks to them being of recent manufacture, this was reasonably trivial. TPM2.0 was already on the motherboard or in the CPU, so it was a matter of upgrading the OS.
 
-```bash
-    python3 -m http.server 7050
-```
+In the case of one machine in particular, however, the issue with why it wouldn't accept the upgrade was a bit harder to nut out. I had ended up getting Julia a current-model CPU/motherboard (and even case) and installed Win 11 from scratch. Everything is on a terrabyte board-mounted SSD—no spinning disks, no 2.5 drives: just all on one drive.
 
-...where "7050" is an arbitrary port number.
+Thought I'd have a look at her 'old' motherboard. It's a [Gigabyte GA-A320M-S2H](https://www.gigabyte.com/Motherboard/GA-A320M-S2H-rev-1x#kf)—(AMD processors). As you can see, no mention of a TPM slot. However, when I examined the board itself, lo and behold: a TPM pinout! WTF? Well, I thought, "cool, I'll go ahead and upgrade this to Win 11 and flog it." Win 10 installed no dramas at all. Win 11? Nope. Tried the [Windows 11 workaround](https://www.youtube.com/watch?v=Yd3isXSBTUs) and it still would work!
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+So, I figured out the reason. Finally. I think. I **hope**! The CPU is not supported: it needs to be a series 2000 AMD processor or newer. So, I've ordered a R5-2600 Processor 6 Cores 3.4GHz Base 3.9GHz Turbo 19MB Cache AM4 Socket CPU from Alibaba for AUD$40. Worth a try, anyway.
 
-
-
-
-### Renewing IP Address
-
-Often when you’re having Wi-Fi issues, this is because there are issues with your IP address, the set of numbers that identifies your location online. The reasons for this can be any of dozens, but thankfully the fix is always the same, namely resetting your IP address.
-
-To do so, you first need to know your current IP address. You can do so using the following command:
-
-```bash
-  ip address
-```
-
-Alternatively, some Linux distros will allow you to do this within the desktop environment, check out our article on how to find your IP address in Ubuntu. Though it’s not necessary, you may want to take note of this IP address as after we’re done we need to check that it’s been changed.
-
-Next, we need to request a new IP address through your DHCP server. We have a full explainer on what DHCP is, but the short version is that it’s a protocol that handles IP assignments. It usually does this on a daily basis, so your network gets a new IP every 24 hours. What we’re going to do is ask if we can renew it now.
-
-To do so you need a program called dhclient, which is installed by default on Linux systems. Run it to find out what your system is running now, using the “verbose” command (-v) to make sure you get some output:
-
-```bash
-  sudo dhclient -v
-```
-
-This lets you know what IP was requested (DHCPREQUEST) and when it will expire, in my case 40157 seconds from now, which is about 11 hours. Now, we need to release the IP address, which means we ask dhclient to trash it. This is done with the -r command, and I recommend you add another “verbose” command to see what’s happening:
-
-```bash
-  sudo dhclient -v -r
-```
-
-With that done, now request a new IP address, with the same command as before:
-
-```bash
-  sudo dhclient
-```
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:8px;border-width:0;color:green;background-color:green">
 
 
 
 
 
-### Resetting Network Settings
-
-Sometimes renewing the IP address isn’t enough, though. The next thing you can try is to reset your network interface entirely in the hope that whatever setting is causing the issue is returned to its default state. To do so, we’re going to use a program called ip. This is a very powerful tool that lets you control networking on your device. We have a full guide on using the ip command, though for now we only need three commands.
-
-The first is to show the interfaces present on your device. For that, type this:
-
-```bash
-  ip link show
-```
-
-You’ll get a list of interfaces. For most people it’s the second one (enp0s3 in my case), so let’s try resetting that first. To do so, you need to switch the interface off:
-
-```bash
-  sudo ip link set <interface_name> down
-```
-
-That turns it off, you can check with the “link show” command from earlier. Now you can turn the interface back on again:
-
-```bash
-  sudo ip link set <interface_name> up
-```
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
 
+
+
+
+
+
+
+## Linux
 
 ### Grub-Customising
 
@@ -134,7 +82,9 @@ and you should be good.
 
 [WHV5M3XPNX]
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:green;background-color:green">
+
+
 
 
 
@@ -152,4 +102,4 @@ For **immediate** results, Run (try as normal user and root):
     source /etc/environment && export PATH
 ```
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:8px;border-width:0;color:green;background-color:green">

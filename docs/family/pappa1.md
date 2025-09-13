@@ -29,7 +29,7 @@
   </div>
 </div>
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -73,13 +73,13 @@
     <p></p>
     <p><b>Gemma3: </b><em>Notes on the Translation: I've translated "Urbaier" as "typical Bavarian tourist" to convey the intended meaning. I’ve tried to maintain the slightly informal and conversational tone of the original German.</em></p>
     <hr>  
-      <p><b>Me: </b>Fail. Nice try, though, Gemma.</p>
+      <p><b>Me: Fail.</b> Nice try, though, Gemma.</p>
   </div>
 </div>
 
 ![P1.jpg](http://www.tightbytes.com/images/lafamille/pappa/P1.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -120,7 +120,7 @@
 ![P3.jpg](http://www.tightbytes.com/images/lafamille/pappa/P3.jpg){width=80}
 ![P3p.jpg](http://www.tightbytes.com/images/lafamille/pappa/P3p.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -176,7 +176,7 @@
 ![P4.jpg](http://www.tightbytes.com/images/lafamille/pappa/P4.jpg){width=80}
 ![P4p.jpg](http://www.tightbytes.com/images/lafamille/pappa/P4p.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -199,7 +199,7 @@
 
 ![P5.jpg](http://www.tightbytes.com/images/lafamille/pappa/P5.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -228,7 +228,7 @@
 ![P6.jpg](http://www.tightbytes.com/images/lafamille/pappa/P6.jpg){width=80}
 ![P7.jpg](http://www.tightbytes.com/images/lafamille/pappa/P7.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -280,7 +280,7 @@
 ![P8.jpg](http://www.tightbytes.com/images/lafamille/pappa/P8.jpg){width=80}
 ![P8+.jpg](http://www.tightbytes.com/images/lafamille/pappa/P8p.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -303,7 +303,7 @@
 
 ![P9.jpg](http://www.tightbytes.com/images/lafamille/pappa/P9.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -328,7 +328,7 @@
 
 ![P10.jpg](http://www.tightbytes.com/images/lafamille/pappa/P10.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -357,7 +357,7 @@
 ![P11.jpg](http://www.tightbytes.com/images/lafamille/pappa/P11.jpg){width=80}
 ![P11+.jpg](http://www.tightbytes.com/images/lafamille/pappa/P11p.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -382,7 +382,7 @@
 ![P12.png](http://www.tightbytes.com/images/lafamille/pappa/P12.png){width=80}
 ![P12.png](http://www.tightbytes.com/images/lafamille/pappa/P12a.png){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -409,7 +409,7 @@
 
 ![P13.jpg](http://www.tightbytes.com/images/lafamille/pappa/P13.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -446,7 +446,7 @@
 ![P14.jpg](http://www.tightbytes.com/images/lafamille/pappa/P14.jpg){width=80}
 ![P14+.jpg](http://www.tightbytes.com/images/lafamille/pappa/P14p.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -472,7 +472,7 @@
 
 ![P15.png](http://www.tightbytes.com/images/lafamille/pappa/P15a.png){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -502,7 +502,7 @@
 ![P16.jpg](http://www.tightbytes.com/images/lafamille/pappa/P16.jpg){width=80}
 ![P16+.jpg](http://www.tightbytes.com/images/lafamille/pappa/P16p.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -528,7 +528,7 @@
 
 ![P17.jpg](http://www.tightbytes.com/images/lafamille/pappa/P17.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -553,7 +553,7 @@
 
 ![P18.jpg](http://www.tightbytes.com/images/lafamille/pappa/P18.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -580,7 +580,7 @@
 
 ![P19.jpg](http://www.tightbytes.com/images/lafamille/pappa/P19.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -606,7 +606,7 @@
 
 ![P20.jpg](http://www.tightbytes.com/images/lafamille/pappa/P20.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -637,7 +637,7 @@
 ![P21.jpg](http://www.tightbytes.com/images/lafamille/pappa/P21.jpg){width=80}
 ![P21p.jpg](http://www.tightbytes.com/images/lafamille/pappa/P21p.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -661,7 +661,7 @@
 ![P22.png](http://www.tightbytes.com/images/lafamille/pappa/P22.png){width=80}
 ![P22+.png](http://www.tightbytes.com/images/lafamille/pappa/P22plus.png){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -690,7 +690,7 @@
 
 ![P23.jpg](http://www.tightbytes.com/images/lafamille/pappa/P23.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -713,7 +713,7 @@
 
 ![P24.jpg](http://www.tightbytes.com/images/lafamille/pappa/P24.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -742,7 +742,7 @@
 
 ![P25.jpg](http://www.tightbytes.com/images/lafamille/pappa/P25.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -765,7 +765,7 @@
 ![P26.png](http://www.tightbytes.com/images/lafamille/pappa/P26.png){width=80}
 ![P26+.png](http://www.tightbytes.com/images/lafamille/pappa/P26plus.png){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -788,7 +788,7 @@
 
 ![P27.jpg](http://www.tightbytes.com/images/lafamille/pappa/P27.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -813,7 +813,7 @@
 
 ![P28.jpg](http://www.tightbytes.com/images/lafamille/pappa/P28.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -836,7 +836,7 @@
 
 ![P29.jpg](http://www.tightbytes.com/images/lafamille/pappa/P29.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -865,7 +865,7 @@
 
 ![P30.jpg](http://www.tightbytes.com/images/lafamille/pappa/P30.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -887,11 +887,11 @@
 
 ![P31.jpg](http://www.tightbytes.com/images/lafamille/pappa/P31.jpg){width=80}
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 ---
 
-<hr style="height:8px;border-width:0;color:gray;background-color:gray">
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
 
 
 

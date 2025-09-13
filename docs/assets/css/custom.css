@@ -33,7 +33,7 @@
 .md-header {
   position: fixed;          /* was: relative */
   top: 0; left: 0; right: 0;
-  z-index: 20;              /* keep it above content/sidebars */
+  z-index: 40;              /* keep it above content/sidebars */
   background: url("../images/header-bg.jpg") center/cover no-repeat;
 }
 

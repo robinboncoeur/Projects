@@ -6,16 +6,16 @@ It's about sharing. That was sort-of my primary motivation for [TightBytes](http
 
 What do I mean by "tools"?
 
-These pages - the one's on Github, currently (2022) - were created (typed) in a program (free) called "Brackets". Note: *I've since moved on to [Phoenix Code](https://phcode.io/#/home)*. So, not in MS Word or on Notepad. The reason for that these apps are plain-text editors for programmers, which include some nice bells and whistles for programmers. The formatting codes aren't visible to the person reading the resultant page... thus::
+These pages - the one's on Github, currently (2022) - were created (typed) in a program (free) called "Brackets". Note: *I've since moved on to [Phoenix Code](https://phcode.io/#/home)*. So, not in MS Word or on Notepad. The reason for that these apps are plain-text editors for programmers, which include some nice bells and whistles for programmers. The formatting codes aren't visible to the person reading the resultant page... thus:
 
-```
+```bash
 	here is how I do ** bold** and *italic*
 ```
 
 produces: here is how I do **bold** and *italic*
 
-The mechanisms used to use to write pages with were designed for [Sphinx](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html), which uses a markup language called **reStructuredText** as the default. Like in any language, programming 'languages' have certain rules so that you can pretty much get the same results all the time in a given environment. On the web, the most common 'language' is HTML::
-```
+The mechanisms used to use to write pages with were designed for [Sphinx](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html), which uses a markup language called **reStructuredText** as the default. Like in any language, programming 'languages' have certain rules so that you can pretty much get the same results all the time in a given environment. On the web, the most common 'language' is HTML:
+```html
 	<HTML>
 	<HEAD> header content here
 	</HEAD>
@@ -29,7 +29,7 @@ A markup language allows you to insert formatting 'tags' right into the text its
 
 HTML is just one such markup language. reStructuredText is another. The current pages are formatted using markdown (MkDocs). I also write in VBA and Python... after a while, I've ended up needing a reference on how to do certain things in a language I hadn't used in a while.
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -41,18 +41,24 @@ Grid for two simple layouts
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r1IitKbJRFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 
 Slide Show
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJERnXiFFug" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 [Why people use CSS frameworks](https://ishadeed.com/article/conditional-css-has-nth-last-child/?utm_source=convertkit&utm_medium=email&utm_campaign=Why+people+use+CSS+frameworks%20-%2010872019)
 
 [AstroDocs](https://docs.astro.build/en/editor-setup/)
+
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+
+
+
+
 
 
 
@@ -64,6 +70,9 @@ On my Mac, in the main user folder - sort-of like the "Home/Username" folder in 
 Using as an example a document called "KeysToLife", the following approach more-or-less seems to get the job done. You will need two instances of Terminal running: one for Sphinx to build html from .rst files, the other, to talk to github.
 
 I now use [Github Desktop](https://desktop.github.com) which makes the process infinitely simpler, particularly when I stuff things up: it suggests solutions, which the commandline approach doesn't do.
+
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+
 
 
 
@@ -97,7 +106,11 @@ If you click on the 'Dark theme: On' menu item, it will turn Dark Theme: Off.
 
 ![Chrome](http://www.tightbytes.com/images/projects/conundrums/Cm_Chrome-3.png)
 
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
 
 
 
@@ -118,6 +131,13 @@ In Visual Studio Code, you can use the following steps to select all the text be
 - Once you have selected all the text you want, you can perform operations like copying, cutting, or formatting on the selected text.
 
 By following these steps, you can easily select all the text between two instances in Visual Studio Code.
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
 
 
 
@@ -140,7 +160,7 @@ That's in your email invitation. Doing so will add it to your Calendar, which wi
 
 When you click on that event, it will bring up that event, and in the event you'll simply click on the "Join with Google Meet" link, which will bring up Google Meet, activating video and you're good to go.
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -190,7 +210,11 @@ you'll be prompted to send invitations to to everyone on the guest list - saves 
 
 ![Meet](http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-13.png)
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
 
 
 
@@ -264,6 +288,10 @@ Oh well, it was US$100. You get what you pay for.
 
 Speaking of courses, since I use [Musescore](https://musescore.org/en) for composing music, it totally made sense to sign up for the full "Musescore bank of courses"... there's heaps of really useful information on [these pages](https://musescore.com/courses), particularly as they were having an 85% off sale. Turns out: it totally is worth every penny! Remember, Musescore is a free download. You want to write music? this is the way to go.
 
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
 
 
 
@@ -278,6 +306,12 @@ So far, I have this:
 It's wintertime in Southeast Queensland. Nights are quite cool - actually feels cold to us. The noise of cars and other machines finally diminish in the evening, for which I'm rather grateful. That's what I'm trying to say with the first few bars of this piece. 
 
 <hr style="height:8px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
 
 
 
@@ -300,6 +334,10 @@ When he hit 100K subscribers, he put out this excellent video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9USTddwNoXU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr style="height:8px;border-width:0;color:blue;background-color:blue">
+
+
+
+
 
 
 
@@ -360,8 +398,6 @@ Scientists don’t *think* (assume) anything, they make no assumptions. Science 
 
 
 
-
-
 ### VSCode Search Tip
 
 In Visual Studio Code, you can use regular expressions (regex) to select all text between specific markers like "startstart" and "endend". Here's how you can do it:
@@ -382,6 +418,8 @@ Note: *Make sure your document doesn't contain nested instances of the start and
 Remember to exercise caution when modifying or deleting text using regex, as it can have unintended consequences. Always make sure to have a backup of your file before performing such operations.
 
 <hr style="height:8px;border-width:0;color:blue;background-color:blue">
+
+
 
 
 
