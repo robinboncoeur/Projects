@@ -141,8 +141,26 @@
       <p>K. hörte Fritchen kommen. Sein Schritt war leicht einen Anderen zu untersch(ieden?). Fritz hatte eine Beinverletzung vom Kreig und zog das eine Bein etwas nach. Schweigsam ging [mua?] auf ein gewißen Ziel. Die letzten Tage waren sie immer zu seinen Kartoffel Acker bevorzugt gegangen und hatten fein säuberlich eine Furche nach defr Anderen die Kartoffeln geerntet.</p>
       <p>Es war eine warme Herbstnacht. Die Sterne blichten auf sie herab. Als sie näher zum Gebiet ihren Tätigkeit kamen, ein Hund mit wedeln der Ruhe entgegen. K. kniete sofort um beßer zu können was hier angeht. Zur selben Zeit nahm er den Kopf des Hundes und streichelte ihn. Fritz und I. waren sehr still und horchten was diese eigenartige Geräusch war was da aus dem Kartoffleacker kam. Nun es war der Bauer der seine Kartoffeln gemeindsam mit seinem Hunde bewuchte. K. streichelte den Hund and Fritz nahm seine Säcke um sie zu füllen mit Kartoffeln. Natürlich K. streichelte immernoch diesen Köder. Dieser armer Hundevie hätte womöglich von seinen sturen Bauren immer nur Prügel bekommen. Ein angenehmes Schnurren entrang sich Seiner Dienst.</p>
     </div>
-  <div class="column">
+    
+    <div class="column">
     <p><b>[ English Version ]</b></p>
+    <p><b>Faithful translation</b></p>
+      <p>An autumn of hunger. O dear reader, do you know what hunger is? My Hunger is written with a capital letter. It pulls through your guts. Yes, hunger hurts. It is a pain very close to your soul.</p>
+
+      <p>“Give us this day our daily bread.” There isn’t even a single crust. In the morning you get up and first have to sit on the edge of the bed. It goes black before your eyes and it takes a while before you can stand. The shirt sticks to your body. From the nights you’ve sweated. Whoever has ever eaten his bread with tears, whoever sat weeping through sorrowful nights on his bed—he does not know you, you heavenly powers.</p>
+
+      <p>Yes, those were the good old days. They still had bread. What remained to us were only tears and this accursed hunger. K. had already been waiting ten minutes for his friend Fritz. It was two o’clock at night. Both worked a forty-eight-hour week. With what they earned the two of them couldn’t buy the food they needed. So at night they had to steal what they simply lacked for ordinary nourishment.</p>
+
+      <p><b>Literary rendering</b></p>
+
+      <p>An autumn of hunger. Dear reader, do you know what hunger is? Mine deserves a capital letter. It winds through your guts. Hunger hurts—a pain pressed right up against your soul.</p>
+
+      <p>“Give us this day our daily bread.” Not even a crust remains. In the morning you heave yourself upright only to sit on the edge of the bed. The world goes black; it takes a while before you can stand. Your shirt clings to your skin—you’ve sweated through the night. “Whoever has eaten his bread with tears, whoever has spent sorrowful nights weeping on his bed—he does not know you, you heavenly powers.”</p>
+
+      <p>Yes—those were the so-called good old days; at least they had bread. All that’s left to us are tears and this damned hunger. K. had already been waiting ten minutes for his friend Fritz. It was two in the morning. Both worked forty-eight hours a week, yet on their wages they couldn’t buy enough to eat. So, by night, they stole what they needed simply to survive.</p>
+
+      <p><i>Translator’s note: the quoted lines echo Goethe’s famous verse (“Wer nie sein Brot mit Tränen aß …”), though here it’s recalled imperfectly. If you’d like, I can normalise the quotation or keep it as-is for authenticity.</i></p>
+    
     <p></p>
   </div>
 </div>
