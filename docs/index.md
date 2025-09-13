@@ -2,23 +2,25 @@
 
 ## Foreword
 
+**Originally:**  
 I was trying to upload images to an email I was sending to Martin and Esther on 2022-Apr-15. Got about halfway through and Gmail told me I would exceed the size limit (25mb). Which seems silly in this day and age: this was without trying to send a video, even. Just pictures.
 
-What appeals to me about doing project progress sharing this way is:
+So, what solutions are out there?
 
-- I can share a LOT of information no-cost
+Well, now-a-days, GMail will upload your >25mB file to your Google Drive (you get 15 gig for free on any GMail account), creates a link in your email and... done. But, back in '22, that all had to be done manually. So, I set up tightbytes.com to act as my public file server. What appealed about doing project progress sharing this way was:
 
-- The information is hidden in obscurity of "no-one gives a rat's nether-regions about what I'm doing". Have a look at [my website: Tightbytes.com](https://www.tightbytes.com). Visitors? none. 
+- I could share a LOT of information about projects quickly
 
-- Updating is a lot quicker on GitHub than on Tightbytes: I edit locally, then use Github Desktop to manage the update to my pages.
+- The information was hidden in obscurity of "no-one gives a rat's nether-regions about what I'm doing". Have a look at [my website: Tightbytes.com](https://www.tightbytes.com). Visitors? none. 
 
-- Since the pages are hosted on GitHub, other family and friends could collaborate on this pages, and even add pages of their own.
-	
-Some sections use dates as a sort-of link key. For example, I'll give whoever I'm writing an email to, as a link, the current entry into a given project page, like so:
+- Updating was a lot quicker on GitHub than on Tightbytes: I would edit locally in Brackets, then use Sphinx/Make-the-Docs to make the static HTML pages, and Github Desktop to manage the update to GithubPages.
 
-  [https://robinboncoeur.github.io/Projects/RSTs/Garden.html#apr-23](https://robinboncoeur.github.io/Projects/RSTs/Garden.html#apr-23)
+- Since the pages were hosted on GitHub, other family and friends could collaborate on this pages, and even add pages of their own.
 
-To format pages into websites, I was using restructured text (Sphinx), which was really cool, but a bit time consuming. It was more for code documentation, so ease-of-use wasn't a big priority. I'm now using markdown, which is much easier to use. Fun fact: *HTML is actually a markdown language - you enter the formatting tags as you write the page.* Cool thing about markdown: you can combine HTML with markdown, which I do quite a bit, like, for the videos below.   
+---
+
+**2025-Sept**  
+Time has moved on, and so have I: from Sphinx/Make-The_Docs. I'm now migrating pages from *Projects* and *HelpYrSelf* into this one **Projects** set of pages. At this point,things are organised a bit... differently. Latest posts are [on the top](http://127.0.0.1:8000/other/Garden/), for some pages. Others will be removed for lack of relevancy.
 
 <hr style="height:8px;border-width:0;color:blue;background-color:blue">
 
@@ -82,7 +84,15 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 
 
 
-## Template for page metatdata
+
+
+
+
+## Odds-n-Sods
+
+### Template for page metatdata
+
+**Suggested by Emily (ChatGPT5)**
 
 ---
 title: Home Networking Checklist
