@@ -3,6 +3,60 @@
 
 ## Finished Sketches - Sort-Of
 
+
+
+### Sketch 15
+
+**2024.Sep.30**
+
+The film "Portrait de la Jeune Fille en Feu" by Celine Sciamma is living rent-free in my head. All sorts of side stories have emerged: I'm actually even writing a screenplay (which, like most screenplays, will never be seen on a director's chair) and have even engaged ChatGPT4o - I call her Emily - to give me historic perspective for those stories.  
+This piece was suggested by those stories. I'm not going to pretend the style is from the 18th century, any more than the servant-girl costume of the lass by the waterfall is authentic. It doesn't really matter, does it? It's like a Georgette Heyer novel: it's all about where you are transported, if only for a brief moment.  
+I hope you enjoy.
+
+25.04.20: ETA... Just to make a point, I'm posting a link here to The Reaper Version, the point being, if your composition plays no faster than this piece, MuseSounds does okay. It's those pesky 1/8th notes and faster, and tuplets and stuff like that which does quite come out right yet, in MuseSounds. I'm confident it will happen, of course, as well as articulation management and other cool stuff.  
+25.08.15:ETA... I've invested in the Spitfire Symphonic Strings and Woodwinds, which, I'm a bit aghast to say, make Reaper and all my high-cost libraries less and less relevant. No, Musescore Studio still isn't a DAW, but - like AI - it is rapidly approaching that point.
+
+
+<audio controls="controls">
+  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
+  Your browser does not support the <code>audio</code> element. 
+</audio>
+
+<hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+
+
+
+
+
+
+### Sketch 14
+
+**2023.Sep.02**
+
+I so envy the real composers I follow on MS and elsewhere: they create melodies. Mozart once said something to the tune of "the melody is everything". Yeah, so I don't hear melodies, much. For me, harmonies are a melody. Which makes for weird compositions and strained listening, I know.
+This is why I'm still doing "Sketches"... in this one, I've actually - FINALLY - sort-of cobbled together a wee melody. The romance period theme is suggested by the an image no longer in the title, an image I generated in Stable Diffusion / ComfyUI.
+
+ETA: although this is probably not the right thing to do - I always seem to do those not-right-to-do things - I simply couldn't leave well-enough alone and changed a few things: whether for the better isn't really my call. Using the vastly-improved MuseSounds instead of the DAW render.
+Thanks for listening.
+
+ETA: I've reviewed this score. I found glaring issues (not all, clearly) which I've corrected. This is a long way from being what I had intended... oh well.
+
+
+<audio controls="controls">
+  <source src="http://tightbytes.com/music/Sketches/Sketch14.mp3" type="audio/wav">
+  Your browser does not support the <code>audio</code> element. 
+</audio>
+
+<hr style="height:1px;border-width:0;color:green;background-color:green">
+
+
+
+
+
+
+
 ### Sketch 13
 
 **2022.Sep.01**
