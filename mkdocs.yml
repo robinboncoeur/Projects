@@ -6,7 +6,7 @@ theme:
   palette:
     # Light mode
     - scheme: default
-      primary: pink
+      primary: indigo
       accent: red
       toggle:
         icon: material/weather-night # indigo

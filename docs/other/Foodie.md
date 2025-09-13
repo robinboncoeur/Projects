@@ -1,28 +1,8 @@
 # Food Ideas
 
-## Foodie: 2023-03-01
+## Foodie: 2025-09-13
 
-Facebook does this thing where they show TikTok videos, as well as videos from Instagram. They will show you more of the same if you *LIKE* a video. I've started collecting a whole slew of French TikTok-ers who have come up with some amazing recipes to try.
-
-So, the videos are in French. Time to brush up on your French. I'm going to simply post them first, and as I try them and work out the ingredients and process, I'll make some notes and an ingredient list. 
-
-Sound fun?
-
-
-
-### Really Easy
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z-husjZkxHw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-
-
-### A Bit More Involved
-   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z-husjZkxHw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr style="height:8px;border-width:0;color:gray;background-color:gray">
+So, I'm going to review this page... a lot of the links no longer work, so I might have to ash-can it.
 
 
 
