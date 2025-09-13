@@ -161,7 +161,15 @@
 
       <p><i>Translator’s note: the quoted lines echo Goethe’s famous verse (“Wer nie sein Brot mit Tränen aß …”), though here it’s recalled imperfectly. If you’d like, I can normalise the quotation or keep it as-is for authenticity.</i></p>
     
+      <p></p>
+      
+      <p><i>Thought for 57s</i></p>
+
+      <p>K. heard Fritchen coming. His step was easy to [distinguish?] from another’s. Fritz had a leg injury from the war and dragged one leg a little. Silent, [mua?] went toward a certain aim. In the last days they had always preferred going to his potato field and had neatly harvested the potatoes, one furrow after the other.</p>
+
+      <p>It was a warm autumn night. The stars looked down on them. As they came nearer to the area of their activity, a dog, tail wagging, came toward the calm. K. knelt at once to be better able [to see] what is going on here. At the same time he took the dog’s head and stroked it. Fritz and I. were very quiet and listened to what this peculiar noise was that was coming out of the potato field. Well, it was the farmer who was watching over his potatoes together with his dog. K. petted the dog and Fritz took his sacks to fill them with potatoes. Of course K. was still stroking this “bait” [sic]. This poor dog-beast had possibly always got nothing but beatings from his stubborn farmer. A pleasant purring escaped his [throat?].</p>
     <p></p>
+
   </div>
 </div>
 
