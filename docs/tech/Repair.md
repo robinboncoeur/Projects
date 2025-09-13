@@ -2,7 +2,7 @@
 
 This page started out as a **Repairing Macbooks** page, but I'm going to put all repairs I do on things here, just to remind myself how it's done.
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 ## Repairs on Macs
@@ -13,13 +13,17 @@ And realised that doing this was fun.
 
 Then Julia dropped her 2011 Macbook Pro, one I'd purchased for $500. The keyboard was what had suffered the most damage, interestingly. Replacing the keyboard on the unibody meant pulling *everything* out. And having this repair done would have cost well over $200.
 
-Too daunting.
+Well, pulling a Macbook completely apart was a bit too daunting, at first. However, I finally screwed up the courage and pulled the machine down from the cupboard - where it had been sitting for almost two years - and ever-so-carefully took it apart. I had purchased a new keyboard on eBay for $35. The bit with the keyboard was a nightmare—55 screws the size of a midgie. Got the thing done, anyway.
 
-Well, I finally pulled the machine down from the cupboard - where it had been sitting for almost two years - and pulled it apart. Purchased a new keyboard on eBay for $35 and did the replacement.
-
-The machine works beautifully!
+And the machine worked beautifully!
 
 So, that's what got me started.
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
 
 
 
@@ -58,7 +62,12 @@ And I'm currently working on another Macbook Pro that had been pretty roughly tr
 
 ... so we'll see what ends up happening to this machine.
 
----
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
 
 
 ### Replacing a Battery in a Macbook Pro
@@ -109,7 +118,12 @@ When installing a new battery, you should calibrate it after installation in ord
 
 If you notice any unusual behavior or problems after installing your new battery, you may need to reset your MacBook's SMC.
 
----
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
 
 
 
@@ -124,7 +138,12 @@ Replaced the speakers on Julia's 2011 Macbook Pro. This was a bit involved, as o
 
 I didn't realise this at first, but the bottom of the 2012 Macbook is actually held on by **three** differeent sets of screws (I thought they were just long and short ones). This bit of advice came from my [GOTO iFixit site](https://www.ifixit.com/Guide/MacBook+Pro+13-Inch+Unibody+Mid+2012+Battery+Replacement/10365) step one - copy this link into your browser: https://www.ifixit.com/Guide/MacBook+Pro+13-Inch+Unibody+Mid+2012+Battery+Replacement/10365
 
----
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
 
 
 
@@ -175,6 +194,10 @@ I will give this a try. thank you.
 **RamosHE**
 
 I had the same problem even when using the latest Catalina patcher version 1.4.4. The "sudo nvram..." command solved the problem of Microsoft office apps, Chrome browser, Edge browser crashing at start up.
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
 
 
 
@@ -248,3 +271,7 @@ I had the same problem even when using the latest Catalina patcher version 1.4.4
 [Mount Mac APFS in Linux](https://linuxnewbieguide.org/how-to-mount-macos-apfs-disk-volumes-in-linux/)
 
 [Not really for Mac, but a Linux guide to JACK](http://www.tedfelix.com/linux/linux-midi.html)
+
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
