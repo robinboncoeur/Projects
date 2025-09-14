@@ -1,4 +1,4 @@
-# Music and Harmmony
+# Introduction
 
 I sort-of don't really see my little efforts as real "compositions". And although some are sort-of done, is a piece ever truly *finished*?
 

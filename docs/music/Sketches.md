@@ -3,11 +3,18 @@
 
 ## Finished Sketches - Sort-Of
 
+<style>
+  .columnA {float: left; padding-right: 20px;}
+  .left {width: 40%;}
+  .right {width: 60%;}
+</style>
 
-
-### Sketch 15
+### Sketch 15—Waterfall
 
 **2024.Sep.30**
+
+<img src="/assets/images/sketches/Sk15-Waterfall16.jpg" alt="Waterfall" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
 The film "Portrait de la Jeune Fille en Feu" by Celine Sciamma is living rent-free in my head. All sorts of side stories have emerged: I'm actually even writing a screenplay (which, like most screenplays, will never be seen on a director's chair) and have even engaged ChatGPT4o - I call her Emily - to give me historic perspective for those stories.  
 This piece was suggested by those stories. I'm not going to pretend the style is from the 18th century. It doesn't really matter, does it? It's like a Georgette Heyer novel: it's all about where you are transported, if only for a brief moment.  
@@ -31,14 +38,17 @@ I hope you enjoy.
 
 
 
-### Sketch 14
+### Sketch 14—Northwind
 
 **2023.Sep.02**
 
-I so envy the real composers I follow on MS and elsewhere: they create melodies. Mozart once said something to the tune of "the melody is everything". Yeah, so I don't hear melodies, much. For me, harmonies are a melody. Which makes for weird compositions and strained listening, I know.
-This is why I'm still doing "Sketches"... in this one, I've actually - FINALLY - sort-of cobbled together a wee melody. The romance period theme is suggested by the an image no longer in the title, an image I generated in Stable Diffusion / ComfyUI.
+<img src="/assets/images/sketches/Sk14-Northwind31.jpg" alt="North Wind" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-ETA: although this is probably not the right thing to do - I always seem to do those not-right-to-do things - I simply couldn't leave well-enough alone and changed a few things: whether for the better isn't really my call. Using the vastly-improved MuseSounds instead of the DAW render.
+I so envy the real composers I follow on MS and elsewhere: they create melodies. Mozart once said something to the tune of "the melody is everything". Yeah, so I don't hear melodies, much. For me, harmonies are a melody. Which makes for weird compositions and strained listening, I know.  
+This is why I'm still doing "Sketches"... [in this one](https://musescore.com/user/29275325/scores/12033163), I've actually - FINALLY - sort-of cobbled together a wee melody. The romance period theme is suggested by the an image no longer in the title, an image I generated in Stable Diffusion / ComfyUI.
+
+ETA: although this is probably not the right thing to do - I always seem to do those not-right-to-do things - I simply couldn't leave well-enough alone and changed a few things: whether for the better isn't really my call. Using the vastly-improved MuseSounds instead of the DAW render.  
 Thanks for listening.
 
 ETA: I've reviewed this score. I found glaring issues (not all, clearly) which I've corrected. This is a long way from being what I had intended... oh well.
@@ -56,15 +66,23 @@ ETA: I've reviewed this score. I found glaring issues (not all, clearly) which I
 
 
 
-
 ### Sketch 13
 
-**2022.Sep.01**
+**2022.Sep.01**  
 
+<img src="/assets/images/sketches/Sk13-Retraite40.jpg" alt="Happy Place" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
+
+[Debut de la Retraite](https://musescore.com/user/29275325/scores/8516261).  
 Some time ago I transcribed from a [hand-written manuscript](https://archive.org/details/GB-Lam_MS1671) a Symphony by a twenty-five year old (at the time) young lady named Alice Mary Smith. Foolishly, I thought I'd try to write from the heart, as she did, which ended up as this "poeme".
 
-The piece sort-of runs blithely away from a career of nursing to gardening and fixing footpaths and stormdrains and other projects. Years of wearing lead (x-rays) and transfering patients had affected my back, which finally gave out (second timpani roll): the injury has provided the opportunity to re-evaluate what was most important and learned to smell the roses.
+In broad strokes, the piece sort-of follows me out the door of post-op recovery to the garden beds and footpath and storm drain and well, hard physical labour. I was going from full-time nursing career to frenetic hard 'yakka', which brought into focus that my health was not optimal. Years of wearing lead and transfering patients had exacted a toll. Despite steps we took to preserve (and improve) what health we enjoyed, which included removing processed foods from the diet (particularly anything with sugar - thank you, Dr Robert Lustig) the years had betrayed me. I let my twenty-five year-old brain dictate utter nonsense to my 70yo body and my back finally gave out. You'll appreciate the point that the injury took place (second timpani roll), subsequently followed by reflection upon ones own mortality. The grandchildren are the fun run-around bit right before the end where I learn to smell the roses.
 
+Hope you enjoy.
+
+Update: I've managed to sort-of do what others have been able to accomplish—at least to some degree—using the YouTube feature: the audio you now hear IS the Reaper version.
+
+BTW, needed to mention: that strange way of writing what amounts to a dotted half-note (3 beats) was to force Musescore to do the note-length sort-of crescendo/decrescendo. As it turned out, the effect wasn't used all that much, but I sort-of left the notation the way I did out of laziness, I suppose. In the case of actually getting this played by actual performers, I'd change it to something more conventional. 
 
 <audio controls="controls">
   <source src="http://tightbytes.com/music/Sketches/Sketch13.mp3" type="audio/wav">
@@ -76,12 +94,19 @@ The piece sort-of runs blithely away from a career of nursing to gardening and f
 
 
 
-### Sketch 12
+
+
+### Sketch 12—Chorale
 
 **2023.Jan.15**
 
-I have agonised over whether to even publish this piece, for a number of reasons. The piece does not reflect the best in solid chord progressions: likely I will post an update at some point as something more fitting - something more what I wanted to say - suggests itself.  
-But what truly gives me pause is the realisation that what inspired the piece back in October was going to be a red flag for some. Back in October, I realised that what happened on May 24th of last year was going to create a heartache for the affected families on December 25th.  
+<img src="/assets/images/sketches/Sk12-Chorale01.jpg" alt="Melancholy" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
+
+I agonise over whether to even [publish this Chorale](https://musescore.com/user/29275325/scores/9511855), for a number of reasons. The piece does not reflect the best in solid chord progressions: likely I will post an update at some point as something more fitting - something more what I wanted to say - suggests itself.
+
+But what truly gives me pause is the realisation that what inspired the piece back in October was going to be a red flag for some. Back in October, I realised that what happened on May 24th of last year was going to create a heartache for the affected families on December 25th.
+
 True to form, the media was no longer interested. The public had "moved on". But the heartache those families experienced was very real, to me. As a reasonable "new" grandparent, the precious existence of my children and their children brought the plight of these unfortunate families in Uvalde into sharp focus.
 
 This is not a happy piece. Nor is it completely done. It's one I've struggled with now for some time, and it's actually not done yet. But it's where thing are now. I pray I offend no caring souls with it and hope that I speak for the children.
@@ -96,7 +121,10 @@ This is not a happy piece. Nor is it completely done. It's one I've struggled wi
 
 
 
-### Sketch 11 - 'La Gioconda'
+
+
+
+### Sketch 11—La Gioconda
 
 **2022.Feb.19**
 
@@ -112,7 +140,9 @@ In the Louvre hangs a painting most non-french people think of as Mona Lisa. The
 
 
 
-### Sketch 10
+
+
+### Sketch 10—Bit Of Fun
 
 **2021.Dec.10**
 
@@ -128,7 +158,7 @@ In the Louvre hangs a painting most non-french people think of as Mona Lisa. The
 
 
 
-### Sketch 9 - 'A Metaphor of Chooks'
+### Sketch 9—Metaphor of Chooks
 
 **2021.Oct.20**
 
@@ -146,7 +176,7 @@ Bear in mind: they were "rescue hens". They came with co-morbidities, which mani
 
 
 
-### Sketch 8 - 'Reflections'
+### Sketch 8—Reflections
 
 **Uploaded to Musescore on 18th of July, 2021**
 
@@ -166,7 +196,7 @@ Just purchased the [Spitfire Studio Strings](https://www.spitfireaudio.com/spitf
 
 
 
-### Sketch 7 - 'Souffle des Arbres'
+### Sketch 7—Souffle des Arbres
 
 **Uploaded to** [Musescore-Sketch VII](https://musescore.com/user/29275325/scores/6784400) **on 22nd-May-2021**
 
@@ -196,7 +226,7 @@ The playback is a Reaper rendition hosted on YouTube. It features SpitFire's Stu
 
 
 
-### Sketch 6 - Serenade
+### Sketch 6—Serenade
 
 **Uploaded to** [Musescore-Sketch VI](https://musescore.com/user/29275325/scores/6698255) **on 03th-Apr-2021**
 
@@ -309,7 +339,7 @@ Hope you enjoy.
 
 ### Sketch 1
 
-**Uploaded to** [Musescore-Sketch I[(https://musescore.com/user/29275325/scores/6534804) **on 6th-Sep-2020**
+**Uploaded to** [Musescore-Sketch I](https://musescore.com/user/29275325/scores/6534804) **on 6th-Sep-2020**
 
 This "piece", such as it is, sort-of organically grew out of a chord progression I was playing with, which then turned into an exploration of doubling or pairing of instruments... some of which definitely don't work. I don't know that it will ever be a finished piece, but oh well... I'm still learning.
 
