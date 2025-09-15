@@ -1,7 +1,12 @@
 
-# Organised Sounds
+# Sketching with Notes
 
-## Finished Sketches - Sort-Of
+## Sketched So Far
+
+All images on this page are originals, created in [ComfyUI](https://www.comfy.org/gallery), in [Flux1](https://flux1ai.com/dev) or some similar model. I do hope they reflect the music to some degree.
+
+2025-Sep-15:  
+I've been re-visiting La Giaconda (Sketch 11). Several 'things' have made that happen: a new *sound* from  Musescore/Musesounds lets me see my music differently. Dare I say: better? I'm still "writing for the orchestra" but I do feel like I'm getting a better representation of what the notes on the page would produce played live. Also, most likely due to my mismanagement of uploading, it is no longer in my 'Sketches' list on [my pages](https://musescore.com/robynsveil). To be honest, it's one of my better imaginations, really... just, the orchestration and publishing sucked. I've added brass—horns, and alto and bass trombone—and am going to swap things around a bit better.
 
 <style>
   .columnA {float: left; padding-right: 20px;}
@@ -46,12 +51,13 @@ I hope you enjoy.
         margin-left: 20px; margin-bottom: 10px;" />
 
 I so envy the real composers I follow on MS and elsewhere: they create melodies. Mozart once said something to the tune of "the melody is everything". Yeah, so I don't hear melodies, much. For me, harmonies are a melody. Which makes for weird compositions and strained listening, I know.  
-This is why I'm still doing "Sketches"... [in this one](https://musescore.com/user/29275325/scores/12033163), I've actually - FINALLY - sort-of cobbled together a wee melody. The romance period theme is suggested by the an image no longer in the title, an image I generated in Stable Diffusion / ComfyUI.
+This is why I'm still doing "Sketches": [in Northwind](https://musescore.com/user/29275325/scores/12033163), I've actually-**FINALLY**-sort-of cobbled together a wee melody. The romance period theme is suggested by the another image long ago replaced, an image I generated in ComfyUI. Which this one is, as well.
 
 ETA: although this is probably not the right thing to do - I always seem to do those not-right-to-do things - I simply couldn't leave well-enough alone and changed a few things: whether for the better isn't really my call. Using the vastly-improved MuseSounds instead of the DAW render.  
+
 Thanks for listening.
 
-ETA: I've reviewed this score. I found glaring issues (not all, clearly) which I've corrected. This is a long way from being what I had intended... oh well.
+ETA: I've reviewed this score. I found glaring issues (not all, clearly) which I've corrected. This is a long way from being what I had intended... oh well. The issues appear to 'surface' after exporting to MIDI and importing into a DAW using more sophisticated instrument libraries. It almost feels like my ear had been tricked to believing what I was hearing was 'correct'. I shudder to think what it would sound like, played by an actual ensemble.
 
 
 <audio controls="controls">
@@ -128,7 +134,16 @@ This is not a happy piece. Nor is it completely done. It's one I've struggled wi
 
 **2022.Feb.19**
 
-In the Louvre hangs a painting most non-french people think of as Mona Lisa. The French call her [La Joconde](https://musescore.com/user/29275325/scores/7603490) which loosely translated means "jovial", a sentiment which I hoped to convey with this little piece. Having first and second woodwinds really did add a lot of richness to the sound: Penne Vodka - an actual real composer - has been making awesome suggestions to improve my efforts at orchestration. I am watching the OrchestrationOnline courseware on YouTube with Thomas Goss: the deeper I get into the tutorial, the more I wonder whatever in the world possessed me to think I could do this!
+<img src="/assets/images/sketches/Sk11-Giaconda05.jpg" alt="Glee Club" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
+
+In the Louvre hangs a painting most non-french people think of as Mona Lisa. The French call her [La Joconde](https://musescore.com/user/29275325/scores/7603490) which loosely translated means "jovial", a sentiment which I hoped to convey with this little piece.
+
+Penne Vodka - an actual real composer - has been making awesome suggestions to improve my efforts at orchestration. Spreading out harmonic threads over first and second woodwind instruments added a lot of richness.
+
+I've also been watching the [OrchestrationOnline](https://www.youtube.com/@OrchestrationOnline) courseware on YouTube with Thomas Goss. Interestingly, the deeper I got into the lessons, the more I wondered whatever in the world possessed me to think I could do this! There were aspects that gelled quickly, whereas others left me with a feeling I should probably get back to doing counterpoint or even basic harmony.
+
+Edited to add (2025-Sept-15): I'm revisiting this piece—the recording below is an older one. The published version appears to have disappeared from my site on [Musescore.com](https://musescore.com/robynsveil). The Spitfire Strings and Woodwinds for MuseSounds dynamics are quite different to the standard MuseSounds, so I'm going to have to change articulation tags. 
 
 <audio controls="controls">
   <source src="http://tightbytes.com/music/Sketches/Sketch11.mp3" type="audio/wav">
