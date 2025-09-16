@@ -26,10 +26,14 @@ About those rocks... here's where I am, progress-wise. Here's **BEFORE** ...
 <img src="/assets/images/garden/25-09-16/01-Before.jpg" alt="Footpath works" style="float: right; width: 400px;
         margin-left: 20px; margin-bottom: 10px;" />
 
-First, the rock and dirt had to be raked out... this gets chucked into the sieve to salvage the rock. We're going on the principle that weeds need three things to flourish: rain, sunshine and soil (or even dirt). So, after the rocky soil's been removed, a plastic banner (any sheet of scrap plastic will do here) is put down—the sunshine has been eliminated. Then, **clean** river rock is filled in—the soil has been eliminated. Of course, leaves and other debris will slowly accumulate, but as it breaks down, it will go down to the bottom of the rocky bed, which is hopefully going to be deep enough to discourage weed growth.  
+First, the rock and dirt had to be raked out... this gets chucked into the sieve to salvage the rock. We're going on the principle that weeds need three things to flourish: rain, sunshine and soil (or even dirt).
+
+*Rain, you can't do much about*.
+
+**Soil and Sunshine, you can**. After the rocky soil's been removed, a plastic banner (any sheet of scrap plastic will do here) is put down—the sunshine has been eliminated. Then, **clean** river rock is filled in—the soil has been eliminated. Of course, leaves and other debris will slowly accumulate, but as it breaks down, it will go down to the bottom of the rocky bed, which is hopefully going to be deep enough to discourage weed growth.  
 BTW, that's the sieve on the right: bane of my existence.
 
-... and here's **CURRENTLY**
+... and here's **CURRENTLY**:
 
 <img src="/assets/images/garden/25-09-16/02-After.jpg" alt="Footpath works" style="float: left; width: 400px;
         margin-right: 20px; margin-bottom: 10px;" />

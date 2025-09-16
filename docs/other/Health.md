@@ -1,8 +1,26 @@
-# Health Maintenance
+# Health
 
-## Covid-19 and Vaccination
+## Mental Health
 
-### Does the covid vaccine affect people’s health?
+### Dad's 'Diary'
+
+Martin recently sent me some images of documents our Dad created about his experiences during the war (WWII) and beyond. Martin and I—and Jessica—felt the reflections our Dad had would be useful. I would take it one step further: I feel the perspective he offered would be enlightening to us living in the 21st century as to what to expect from an increasingly authoritarian regime: they lived through that in the late 1940s. It did not go well for most folks. Hunger was real, it was horrific. The promises of the 3rd Reich were not delivered. There are lessons to learn from this.
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Vaccines
+
+### Covid-19 and Vaccination
 
 The death rate from the vaccine (the mRNA vaccines) is about 0.0001%.
 
