@@ -1,18 +1,27 @@
 
 # Sketching with Notes
 
-## Sketched So Far
-
-All images on this page are originals, created in [ComfyUI](https://www.comfy.org/gallery), in [Flux1](https://flux1ai.com/dev) or some similar model. I do hope they reflect the music to some degree.
+## Log
 
 2025-Sep-15:  
-I've been re-visiting La Giaconda (Sketch 11). Several 'things' have made that happen: a new *sound* from  Musescore/Musesounds lets me see my music differently. Dare I say: better? I'm still "writing for the orchestra" but I do feel like I'm getting a better representation of what the notes on the page would produce played live. Also, most likely due to my mismanagement of uploading, it is no longer in my 'Sketches' list on [my pages](https://musescore.com/robynsveil). To be honest, it's one of my better imaginations, really... just, the orchestration and publishing sucked. I've added brass—horns, and alto and bass trombone—and am going to swap things around a bit better.
+I've been re-visiting La Giaconda (Sketch 11). Several 'things' have made that happen: a new *sound* from  Musescore/Musesounds lets me see my music differently. Dare I say: better?  
+I'm still writing for the "orchestra" but I do feel like I'm getting a better representation of what the notes on the page would produce played live. Also, most likely due to my mismanagement of uploading, it is no longer in my 'Sketches' list on [my pages](https://musescore.com/robynsveil). To be honest, it's one of my better imaginings, really... just, the orchestration and publishing sucked. I've added brass—horns, and alto and bass trombone—and am going to swap things around a bit better.
 
 <style>
   .columnA {float: left; padding-right: 20px;}
   .left {width: 40%;}
   .right {width: 60%;}
 </style>
+
+<hr style="height:6px;border-width:0;color:green;background-color:green">
+
+
+
+
+
+## Sketched So Far
+
+All images on this page are originals, created in [ComfyUI](https://www.comfy.org/gallery), in [Flux1](https://flux1ai.com/dev) or some similar model. I do hope they reflect the music to some degree.
 
 ### Sketch 15—Waterfall
 

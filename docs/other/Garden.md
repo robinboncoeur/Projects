@@ -15,6 +15,37 @@ Be sure to turn on 'night-time' mode (it's the little moon icon next to the sear
 
 ## 2025
 
+### September 15
+
+About those rocks... here's where I am, progress-wise. Here's **BEFORE** ...
+
+<img src="/assets/images/garden/25-09-16/00-Before.jpg" alt="Footpath works" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
+        
+		
+<img src="/assets/images/garden/25-09-16/01-Before.jpg" alt="Footpath works" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
+
+First, the rock and dirt had to be raked out... this gets chucked into the sieve to salvage the rock. We're going on the principle that weeds need three things to flourish: rain, sunshine and soil (or even dirt). So, after the rocky soil's been removed, a plastic banner (any sheet of scrap plastic will do here) is put down—the sunshine has been eliminated. Then, **clean** river rock is filled in—the soil has been eliminated. Of course, leaves and other debris will slowly accumulate, but as it breaks down, it will go down to the bottom of the rocky bed, which is hopefully going to be deep enough to discourage weed growth.  
+BTW, that's the sieve on the right: bane of my existence.
+
+... and here's **CURRENTLY**
+
+<img src="/assets/images/garden/25-09-16/02-After.jpg" alt="Footpath works" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
+		
+<img src="/assets/images/garden/25-09-16/03-After.jpg" alt="Footpath works" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
+
+
+Where before we had a rocky weed patch, we will only have rock, so things will remain tidy. Hopefully. The people who sometimes offer to help tend to be a little less than mindful of the principles at work here, but oh well. Since we have to line one of the garden beds (so there will be soil being carted around) I might leave things as they are until that's been done and focus on the very front of the footpath that still looks like this:
+
+<img src="/assets/images/garden/25-09-16/04-Weeds.jpg" alt="Footpath works" style="width: 900px;"/>
+
+
+
+---
+
 ### August 26
 
 The least fun one can have is shovelling rocks. The mob at... well, I won't say their name but they're a prominent landscape supplier. They sold me *really* **muddy** river-rock. The point to the river-rock as a footpath is to eliminate having to weed. Weeds need: water, soil (or even dirt) and sunlight. Make the bed of **clean** river-rock deep enough, you've taken away light and soil. Water? Well, can't do much about that... rains here a fair bit.
