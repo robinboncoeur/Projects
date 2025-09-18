@@ -18,7 +18,10 @@ Just like writing, AI-generated stuff is quickly identifiable. In pictures of pe
 
 
 
-### Imaging using Words
+## Imaging using Words
+
+
+### 2025 September
 
 Here is an example of what is now—2025—possible with the technology. These videos are about the music for a story I'm writing, bit of an explore, that one:
 

@@ -5,33 +5,24 @@
 Anne is Cooking at Montmartre
 
 <!-- Public embed for f16255e78c021b7a0e5fae66ae554133 -->
+
 <div style="position:relative;padding-top:56.25%">
-  <iframe
-    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe
-         ?poster=https%3A%2F%2Fcustomer-ze4n45l8rqsb9yse.cloudflarestream.com%2Ff16255e78c021b7a0e5fae66ae554133%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D5s%26height%3D720"
-    allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture"
-    allowfullscreen
-    style="border:none;position:absolute;inset:0;width:100%;height:100%">
-  </iframe>
+  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe"
+          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
+          allowfullscreen
+          style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
 </div>
 
 
-```html
-<video width="560" height="315" controls>
-<source src="https://tightbytes.com/videos/AnneIsCooking.mp4" type="video/mp4">
-</video>
-
-<hr style="height:2px;border-width:0;color:blue;background-color:blue">
-```
 
 Devon / Cornwall 
 
-
-<video width="560" height="315" controls>
-<source src="https://tightbytes.com/videos/DevonCornwall04.mp4" type="video/mp4">
-</video>
-
-<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+<div style="position:relative;padding-top:56.25%">
+  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/5f29e47ff0a7328344be195faa51f932/iframe"
+          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
+          allowfullscreen
+          style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
+</div>
 
 
 
