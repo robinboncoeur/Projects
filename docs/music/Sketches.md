@@ -154,6 +154,8 @@ I've also been watching the [OrchestrationOnline](https://www.youtube.com/@Orche
 
 Edited to add (2025-Sept-15): I'm revisiting this piece—the recording below is an older one. The published version appears to have disappeared from my site on [Musescore.com](https://musescore.com/robynsveil). The Spitfire Strings and Woodwinds for MuseSounds dynamics are quite different to the standard MuseSounds, so I'm going to have to change articulation tags. 
 
+http://musescore.com/user/29275325/scores/7603490
+
 <audio controls="controls">
   <source src="http://tightbytes.com/music/Sketches/Sketch11.mp3" type="audio/wav">
   Your browser does not support the <code>audio</code> element. 

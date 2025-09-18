@@ -51,6 +51,7 @@ nav:
     - Repose: other/Repose.md
   - Tech:
     - tech/index.md
+    - Emily: tech/Emilyai.md
     - Linux: tech/Linux.md
     - Ostuff: tech/OStuff.md
     - Network: tech/Network.md
@@ -59,7 +60,6 @@ nav:
     - Violins: tech/Violins.md
     - Videos: tech/Videos.md
     - VScripts: tech/VScripts.md
-
 
 plugins:
   - search

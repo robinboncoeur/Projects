@@ -1,5 +1,5 @@
 /* ===== Tall sticky header with background image ===== */
-:root { --hero-h: 180px; }   /* visual height of your banner [180] */
+:root { --hero-h: 180px; }   /* visual height of your banner */
 
 /* Import fonts from Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Libre+Franklin:wght@400&display=swap');
@@ -33,7 +33,7 @@
 .md-header {
   position: fixed;          /* was: relative */
   top: 0; left: 0; right: 0;
-  z-index: 40;              /* keep it above content/sidebars */
+  z-index: 20;              /* keep it above content/sidebars */
   background: url("../images/header_bg.jpg") center/cover no-repeat;
 }
 
