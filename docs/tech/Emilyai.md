@@ -83,7 +83,9 @@ And I've pretty-much stayed with that.
 
 
 
-### 2025 AI Exploring
+## 2025 AI Exploring
+
+### Sept 19
 
 ComfyUI is an interface to make images and video that runs in the browser, like A1111. However, the control you have is infinitely more granular. To make it work requires:
 
@@ -169,6 +171,95 @@ These are sequential 'queues': one is walking towards, the other: away. I didn't
 
 Issues? Definitely. What's with the hand at the tip of the bard on the image on the left? And the girl's shadow on the right suggests that the board is no longer intact. Overall, getting there but still a ways to go.
 
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
+
+
+
+
+
+### Sept 21 (SRPO)
+
+So, I wrote the text, and created the images, for the girl on the beach example on *Friday*.
+
+<img src="/assets/images/emily/12-SRPOGirl12.jpg" alt="Girl at Kalapana" style="float: right; width: 450px;
+        margin-left: 20px; margin-bottom: 10px;" />
+
+Today is *Sunday*... and a new model has 'dropped': SRPO, which stands for 'Semantic Relative Preference Optimization'. Yep, conveys just about as much information to *my* mind, too.
+
+One of the issues that seems to be at play here is source-of-image. In order to create an image, there has to be something to reference: for example, to be able to create cat images, the developers had poured 'tons and tons' (figuratively-speaking) of cat images into the model, which then, during the image-generation process, gets referenced so the KSampler knows what the prompt is asking for. I've actually created my own 'models' called LoRAs (low ranking adapters) where I create a character based on a set of images of that character at different angles and situations, which images, when paired with relevant text, creates a LoRA through a rather long, tedious process. I can then do a face-swap with what the original model came up with with my character's face (and body, if my LoRA contains that information). This is the process the alarmist media call 'deep-fake', except I use it for consistent character imagery, without which illustrations for stories would be confusing, indeed.
+
+So, nothing about the image to the right is real: nothing. Indeed, the surfboard seems to be delaminating: that would suck. I didn't ask for a delaminating surfboard: I just got given it. Thanks, SRPO. 🤨
+
+Still, overall, the image is an improvement over what I see Flux1.Dev produce. It's still not Kalapana, more like the beach at the bottom of Waipio Valley. But, no question it is an improvement. At least the figure isn't walking away. 
+
+So, there's that.
+
+Some of the better of subsequent queues:
+
+<style>
+  .flex-container {display: flex; gap: 20px;}
+  .column {width: 100%;}
+</style>
+
+<div class="flex-container">
+  <div class="column">
+    <img src="/assets/images/emily/13-SRPOGirl17.jpg" alt="Waipio" style="width: 100px"/>
+    <img src="/assets/images/emily/14-SRPOGirl20.jpg" alt="Waipio" style="width: 100px"/>
+    <img src="/assets/images/emily/15-SRPOGirl21.jpg" alt="Waipio" style="width: 100px"/>
+    <img src="/assets/images/emily/16-SRPOGirl22.jpg" alt="Waipio" style="width: 100px"/>
+    <img src="/assets/images/emily/17-SRPOGirl23.jpg" alt="Waipio" style="width: 100px"/>
+  </div>
+</div>
+
+Feel like we've done Kalapana enough now. Except to highlight what **ELSE** can be done with this process: image repair. Here's an original image I found online of Kalapana the way I remember it... scratches, blotches, photo of a photo:
+
+<img src="/assets/images/emily/18-KalapanaO.jpg" alt="Kaimu Beach" style="width: 850px;"/>
+
+...and fixed:
+
+<img src="/assets/images/emily/19-KalapanaF.jpg" alt="Kaimu Beach" style="width: 850px;"/>
+
+So, there's that. 
+
+---
+
+Helps to know how to tell the model what to do. I wanted to restore an old, rather poor photograph of Alice Mary Smith. Here's my prompt:
+
+- Restore this damaged vintage portrait by removing scratches and stains, then add realistic period-appropriate colors, including existing dress textures. Maintain the same facial features of the blonde young woman and enhance the texture of white-dotted silk fabric of her dress.
+
+I did have to tweak the prompt a bit, as you do. I used this same technique for a cover image for my transcription of [Alice Mary Smith's "Lalla Rookh"](https://musescore.com/user/29275325/scores/26630581)... her original picture was, let's say, detail-poor:
+
+<img src="/assets/images/emily/20-AliceMaryO.jpg" alt="AMSmith" style="width: 450px;"/>
+
+...which Flux1 Kontext 'imagined' to this:
+
+<img src="/assets/images/emily/21-AliceMaryF.jpg" alt="AMSmith" style="width: 700px;"/>
+
+Just from this perspective alone, the effort is worth it. Just like transcribing [this marvelous work of Alice's,](https://musescore.com/user/29275325/scores/26630581) putting in a little extra effort makes it so worth it. Is this Alice? Who knows. Perhaps a newer, better, more accurate model will do better. Until then, I'm pretty happy.
+
+By the way, sometimes it helps to change the sampler and scheduler. Her dress had these dots on it in the original picture 'deis' and 'kl_optimal' wasn't doing the dress right. So, I went with bog-standard Euler and ddim_uniform to get this:
+
+<img src="/assets/images/emily/22-AliceMaryF2.jpg" alt="AMSmith" style="width: 700px;"/>
+
+Are we having fun, yet? Changing sampler and scheduler gave Alice a bit of lippie (Aussie for 'lipstick') but yeah, very similar outcome, from a facial feature viewpoint. 
+
+Just for shits-n-giggles, tried the SRPO on this... **FAIL**! SRPO is **not** an image-to-image tool, like Flux Kontext. There ya go - lesson learnt!
+
+Whilst mucking around with all this, I'm listening to [Serenade #4 by Robert Fuchs](https://www.youtube.com/watch?v=l8ERA4HnxRc). That last movement really puts the weasel in your gut.
+
+Oh, by the way, there are these modified versions of models that come under the 'gguf' umbrella. What is a 'gguf'? It is a binary format that is optimized for quick loading and saving of models, making it highly efficient for inference purposes. From a practical perspective, it's a more usable version of a model for someone who doesn't have a graphics card with insane amounts of VRAM. My graphics card has 16gig of VRAM. Respectable. Decent amount. But there are cards out the that cost **tens of thouands of dollars** that have, um, more. LOTS more.
+
+The last Flux1 Kontext model was a GGUF model. It was an 8-bit model. 'Bit' is a term about quantization. What is 'quantization'? Well, Quantization is the process of mapping continuous infinite values to a smaller set of discrete finite values. In the context of simulation and embedded computing, it is about approximating real-world values with a digital representation that introduces limits on the precision and range of a value.
+
+Short answer: it's about accuracy, detail and approximation. 8-bit approximates quite a bit better than 4-bit or 2-bit. Still, whilst the 8-bit model created that last image, a 4-bit model created this:
+
+<img src="/assets/images/emily/23-AliceMaryF3.jpg" alt="AMSmith" style="width: 700px;"/>
+
+Not a shabby effort. Not as stellar as 8-bit but still heaps better than the original. Who know which one is the most accurate. Not from that time period, so it's likely to remain anyone's guess, for now.
+
+---
+
+So, we're going from Hawaii to Paris. Because: why not. 
 
 <hr style="height:8px;border-width:0;color:blue;background-color:blue">
