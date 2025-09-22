@@ -195,7 +195,7 @@ Still, overall, the image is an improvement over what I see Flux1.Dev produce. I
 
 So, there's that.
 
-Some of the better of subsequent queues:
+Here are some of the better of subsequent queues: to see a larger version, right-click the image and select 'Open Image in New Tab'...
 
 <style>
   .flex-container {display: flex; gap: 20px;}
@@ -212,11 +212,13 @@ Some of the better of subsequent queues:
   </div>
 </div>
 
-Feel like we've done Kalapana enough now. Except to highlight what **ELSE** can be done with this process: image repair. Here's an original image I found online of Kalapana the way I remember it... scratches, blotches, photo of a photo:
+Feel like we've done Kalapana enough now.
+
+I would like to highlight what **ELSE** can be done with this process: image repair. Here's an original image I found online of Kalapana (the way I remember it, actual **Kaimu**)... an image with scratches, artifact blotches, a really poor photo of a photo:
 
 <img src="/assets/images/emily/18-KalapanaO.jpg" alt="Kaimu Beach" style="width: 850px;"/>
 
-...and fixed:
+...and here is how it looks, AI-fixed:
 
 <img src="/assets/images/emily/19-KalapanaF.jpg" alt="Kaimu Beach" style="width: 850px;"/>
 
@@ -224,11 +226,11 @@ So, there's that.
 
 ---
 
-Helps to know how to tell the model what to do. I wanted to restore an old, rather poor photograph of Alice Mary Smith. Here's my prompt:
+Helps to know how to tell the model what to do... it's all in the 'prompt'. I wanted to restore an old, rather poor photograph of Alice Mary Smith for my transcription of her work. Here's my prompt:
 
-- Restore this damaged vintage portrait by removing scratches and stains, then add realistic period-appropriate colors, including existing dress textures. Maintain the same facial features of the blonde young woman and enhance the texture of white-dotted silk fabric of her dress.
+- *Restore this damaged vintage portrait by removing scratches and stains, then add realistic period-appropriate colors, including existing dress textures. Maintain the same facial features of the blonde young woman and enhance the texture of white-dotted silk fabric of her dress*.
 
-I did have to tweak the prompt a bit, as you do. I used this same technique for a cover image for my transcription of [Alice Mary Smith's "Lalla Rookh"](https://musescore.com/user/29275325/scores/26630581)... her original picture was, let's say, detail-poor:
+I did have to tweak the prompt a bit, as you do. I used this technique for a cover image for my transcription of [her "Lalla Rookh"](https://musescore.com/user/29275325/scores/26630581)... the original picture was, let's say, detail-poor:
 
 <img src="/assets/images/emily/20-AliceMaryO.jpg" alt="AMSmith" style="width: 450px;"/>
 
@@ -238,13 +240,13 @@ I did have to tweak the prompt a bit, as you do. I used this same technique for 
 
 Just from this perspective alone, the effort is worth it. Just like transcribing [this marvelous work of Alice's,](https://musescore.com/user/29275325/scores/26630581) putting in a little extra effort makes it so worth it. Is this Alice? Who knows. Perhaps a newer, better, more accurate model will do better. Until then, I'm pretty happy.
 
-By the way, sometimes it helps to change the sampler and scheduler. Her dress had these dots on it in the original picture 'deis' and 'kl_optimal' wasn't doing the dress right. So, I went with bog-standard Euler and ddim_uniform to get this:
+By the way, sometimes it helps to change the sampler and scheduler. Her dress had these dots on it in the original picture, and the 'deis' sampler and 'kl_optimal' scheduler wasn't doing the dress right. So, I went with bog-standard euler sampler and ddim_uniform scheduler to get this:
 
 <img src="/assets/images/emily/22-AliceMaryF2.jpg" alt="AMSmith" style="width: 700px;"/>
 
 Are we having fun, yet? Changing sampler and scheduler gave Alice a bit of lippie (Aussie for 'lipstick') but yeah, very similar outcome, from a facial feature viewpoint. 
 
-Just for shits-n-giggles, tried the SRPO on this... **FAIL**! SRPO is **not** an image-to-image tool, like Flux Kontext. There ya go - lesson learnt!
+Just for shits-n-giggles, tried the SRPO on this... and ended up with a massive **FAIL**! As in, a completely blurry horrid blob of nothing recognisable. Conclusion: **SRPO** is **not** an image-to-image tool, like Flux Kontext.
 
 Whilst mucking around with all this, I'm listening to [Serenade #4 by Robert Fuchs](https://www.youtube.com/watch?v=l8ERA4HnxRc). That last movement really puts the weasel in your gut.
 
@@ -261,5 +263,52 @@ Not a shabby effort. Not as stellar as 8-bit but still heaps better than the ori
 ---
 
 So, we're going from Hawaii to Paris. Because: why not. 
+
+<img src="/assets/images/emily/24-Paris01.jpg" alt="Paris" style="float: right; width: 350px;
+        margin-left: 20px; margin-bottom: 10px;"/>
+
+So, for the past months I was a total 'Flux.1Dev' fan: the images it produced were, in terms of accuracy and believability, so far superior to what went before it made former models almost irrelevant. Almost, because I would still use SDXL models for image-to-image (i2i) projects.
+
+Oh, that takes me back.
+
+Started in Automatic1111 (A1111) using Stable Diffusion 1.5. Then, along came SDXL and SD 1.5 just sort-of ended up on the skids, as in: I never use it anymore. The base 1.5 models were over 4.5 gig in size, but one could find what were called 'Merge' models that offered improvements and were only a 2.2 gig download. 
+
+Yes, gig. Gigabyte. Which is why you really need a decent internet connection. We have fibre to the premises, fortunately.
+
+The original SDXL models weighed in at over 12 gig, but then, no one used the originals: everyone ran 'Merge' models that produced specialised art styles: wanna do Manga? there's an SDXL model for that. Archie-cartoon? yep, can help you with that. All for 6.6 gig. Realistic images were... okay.
+
+Yes, they were much better than SD 1.5... but now, with Flux and SRPO (which is based on Flux) they really are basically okay.
+
+---
+
+<img src="/assets/images/emily/25-Paris02.jpg" alt="Paris" style="float: left; width: 350px;
+        margin-right: 20px; margin-bottom: 10px;"/>
+
+SDXL was my go-to for ages. To be honest, at the time the improvements over SD 1.5 *were* actually incredible. By now, AI-imaging had made Poser and Blender as tools for illustrations *completely irrelevant*. You type a few words (the prompt) and run queues until you get your desired result. Those results made truly **EVERYTHING** you did in 3D software laughably poor.
+
+Here's the thing: once you have purchased [that rather expensive graphics card](https://www.umart.com.au/pc-parts/computer-parts/graphics-cards-gpu-610?brand=5-61-313&mystock=1-6-7&filter_attr=0.120940-179291-115184.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0), there's nothing else to purchase. For Poser (and even Blender) I would suddenly 'need' certain 'assets': clothing and hair for your figures, sets for the scenes, etc. None of that is even a thing now.
+
+Of course, nothing is perfect in life. AI art is no different. In this SRPO-based image, hands are great, hair is great, clothing is good, houses and cars and... wait, what about that bicycle? Something about it is... odd.
+
+The instructions (the prompt) for these images was actually created by another AI tool: a large-language model called '[llama-joycaption-beta-one hf-llama:Q4_K_M](https://huggingface.co/mradermacher/llama-joycaption-beta-one-hf-llava-GGUF)'. This incredible model can 'look' at a picture and describe it. 
+
+In words, in English... **it will create a prompt for you**! The approach I have been taking, then, is to either 'google' or 'pinterest' for a specific image containing the general setting I'm after. Of course, I could just type out a prompt, but LLMs generally do a much better job at this. If it misses the mark (introducing elements I don't want or just plain getting it wrong), I just run the query again. And again and again until it's close.
+
+Eventually, I'll make a few manual changes to the text of the prompt and run a few more queues. Each queue (with the SRPO model) now takes about 5 minutes or so. I usually run at least two or three before I do any adjustments to the prompt and re-run the queue. Rinse and repeat. You can see how time would fly by. The secret sauce is in the prompt: get that right, and you're 'home-n-hosed'.
+
+<img src="/assets/images/emily/26-Paris03.jpg" alt="Paris" style="float: right; width: 350px;
+        margin-left: 20px; margin-bottom: 10px;"/>
+  
+For these images, the prompt reads as follows...
+
+- This photograph captures a young woman standing on an Parisian street corner at a Metro entrance, leaning against a black metal railing with bicycles parked beside her. She has brown hair in a loose chignon and is wearing a dark navy blue overcoat, gray turtleneck sweater, and light blue skinny jeans. One hand rests on wrought-iron railing while she holds a smartphone to her ear with the other hand.
+
+- The background features a row of classic Parisian-style buildings with beige facades, tall windows, and wrought iron balconies. A red and black "METRO" sign is prominently visible in the upper center of the image. The sky above is overcast, creating a muted light that casts soft shadows on the scene. The street below has a crosswalk and some distant pedestrians. The overall color palette includes neutral tones from the woman's clothing and buildings, contrasted by the bright red Metro sign and bicycles. The photo has a slightly desaturated, almost painterly quality due to the selective use of color and lighting, giving it a timeless urban feel. The composition directs focus toward the woman while incorporating the surrounding cityscape elements.
+
+---
+
+You might have noticed that the person in these images (and indeed in the 'Kalapana' images as well) all seem to be of the same person. When you do illustrations, having a persistent character is desirable. At this point, doing single-figure persistent characters is almost a no-brainer.
+
+My next challenge: having not only two or more persistent figures, but have them interact. Watch this space.
 
 <hr style="height:8px;border-width:0;color:blue;background-color:blue">
