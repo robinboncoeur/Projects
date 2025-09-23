@@ -309,6 +309,17 @@ For these images, the prompt reads as follows...
 
 You might have noticed that the person in these images (and indeed in the 'Kalapana' images as well) all seem to be of the same person. When you do illustrations, having a persistent character is desirable. At this point, doing single-figure persistent characters is almost a no-brainer.
 
-My next challenge: having not only two or more persistent figures, but have them interact. Watch this space.
+My next challenge: having not only two or more persistent figures, but have them interact. Watch this space. 
 
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+In the meantime, adventures suggest themselves.
+
+<img src="/assets/images/emily/27-Distress48.jpg" alt="Paris" style="float: left; width: 650px;
+        margin-right: 20px; margin-bottom: 10px;"/>
+
+<img src="/assets/images/emily/28-Distress46.jpg" alt="Paris" style="float: left; width: 650px;
+        margin-right: 20px; margin-bottom: 10px;"/>
+
+
+
+
+<hr style="height:1px;border-width:0;color:blue;background-color:blue">
