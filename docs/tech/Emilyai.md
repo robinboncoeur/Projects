@@ -313,11 +313,17 @@ My next challenge: having not only two or more persistent figures, but have them
 
 In the meantime, adventures suggest themselves.
 
-<img src="/assets/images/emily/27-Distress48.jpg" alt="Paris" style="float: left; width: 650px;
-        margin-right: 20px; margin-bottom: 10px;"/>
 
-<img src="/assets/images/emily/28-Distress46.jpg" alt="Paris" style="float: left; width: 650px;
-        margin-right: 20px; margin-bottom: 10px;"/>
+<div class="flex-container">
+  <div class="column">
+    <img src="/assets/images/emily/27-Distress48.jpg" alt="Where" style="width: 100px"/>
+    <img src="/assets/images/emily/28-Distress46.jpg" alt="Do" style="width: 100px"/>
+    <img src="/assets/images/emily/29-Boxcar08.jpg" alt="We" style="width: 100px"/>
+    <img src="/assets/images/emily/30-Destiny12.jpg" alt="Go" style="width: 100px"/>
+    <img src="/assets/images/emily/31-Destiny23.jpg" alt="From" style="width: 100px"/>
+    <img src="/assets/images/emily/32-Destiny20.jpg" alt="From" style="width: 100px"/>
+  </div>
+</div>
 
 
 
