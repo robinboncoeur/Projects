@@ -99,7 +99,7 @@ Q: What are your future plans?
 
 ## 2025 AI Exploring
 
-### September 19
+### Sept 19 Hardware
 
 ComfyUI is an interface to make images and video that runs in the browser, like A1111. However, the control you have is infinitely more granular. To make it work requires:
 
@@ -120,7 +120,7 @@ However, the rest of the PC is older, inexpensive tech. You don't need an expens
 
 
 
-### September 20
+### Sept 20 The Start
 
 The language for AI to 'generate' images and video and text is called a "prompt". Prompting is very much a model-specific thing: I "talk" to Emily in a completely different manner, using different sentence structure and syntax, than the language I use in a prompt for an image. And even prompting for that... imaging... has changed over the past years, and even months. 
 
@@ -130,29 +130,44 @@ Stable Diffusion and SDXL need to be told what **NOT** to show as well as what t
 
 <img src="/assets/images/emily/03-Screenshot.jpg" alt="Basic workflow" style="width: 800px;"/>
 
-The ComfyUI interface is made up of 'nodes': each node performs a specific function and is connected to other nodes using 'noodles'. For example, the 'Load Checkpoint' node loads the imaging model, which in this case is 'Realistic Vision version 5.1'. There are literally **thousands** of imaging models out there, downloadable for free from a variety of websites, the best of which is [HuggingFace](https://huggingface.co/models).
+The ComfyUI interface is made up of 'nodes': each node performs a specific function and is connected to other nodes using 'noodles' in a collection or 'graph'. This collection is called a 'workflow'. For example, the 'Load Checkpoint' node loads the imaging model, which in this case is 'Realistic Vision version 5.1'. There are literally **thousands** of imaging models out there, downloadable for free from a variety of websites, the best of which is [HuggingFace](https://huggingface.co/models).
 
 The green and 'red' nodes are the text encode prompts: 'green' for what I **want** to see, and 'red' for what I **DO NOT** want to see.
 
-The empty latent image node is a bit difficult to explain... it is basically random 'noise' which is essentially what gets turned into a viewable image by the KSampler, which is sort-of the heart of the thing. It uses the model, the positive and negative prompts and the latent image (as well as other bits-n-bobs) to create an image:
+The empty latent image node is a bit difficult to explain... it is basically random 'noise' which is essentially what gets turned into a viewable image by the KSampler, which is sort-of the heart of the thing.
 
-<img src="/assets/images/emily/04-ComfyUI_1.jpg" alt="Purple Galaxy"/>
+<img src="/assets/images/emily/04-ComfyUI_1.jpg" alt="Purple Galaxy" style="float: right; width: 350px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-Yay!
+It uses the model, the positive and negative prompts and the latent image (as well as other bits-n-bobs) to create an image.
 
-So, how is this useful? Well, paradoxically, the reason I wanted to be able to do this is to prevent copyright-infringement issues when using images to illustrate a book, or a webpage or whatever. *Incidently, it's why I started writing my own music as well, so I'd have licence-free music for my videos.* I want to be able to create illustrations easily and quickly for whatever I need it for. I needed an image of a waterfall for the cover page of my little piece [Waterfall](https://musescore.com/user/29275325/scores/20905957). Yep: AI came through. Oh, I generated almost a dozen before I had something I liked.
+Yay. 🥱
 
-Illustrations for a story is a bit trickier. So, a bit of background...
+So, how is this useful? 🥴 
 
-I wanted to write a period piece, set in the Victorian era or before. The images (referred to as 'queues' in ComfyUI, I guess because it's assumed you're going to be generating images one after the other until you get something you like) I created in A1111 were pretty much all rubbish, or extremely poor. I've deleted them now: not worth the hard-disk space. *BTW, doing the same thing with all my Poser stuff: it's embarassing now how awful that stuff was*!
+Well, paradoxically, the reason I wanted to be able to do this is to prevent copyright-infringement issues when using images to illustrate a book, or a webpage or whatever. *Incidently, it's why I started writing my own music as well, so I'd have licence-free music for my videos.* I want to be able to create illustrations easily and quickly for whatever I need it for. I needed an image of a waterfall for the cover page of my little piece [Waterfall](https://musescore.com/user/29275325/scores/20905957). 
 
-Early days in ComfyUI quickly got complicated. Here's a workflow from then:
+AI / ComfyUI was able to provide the image. I did have to generate almost a dozen waterfall images before I had something I liked.
 
-<img src="/assets/images/emily/05-Screenshot.jpg" alt="Workflow"/>
+Illustrations for a story is a bit trickier. So, a bit of background... I wanted to write a period piece, set in the Victorian era or before. By the way, image-making is referred to as 'queue' in ComfyUI. I suppose that might be as it is assumed you're going to be generating a **LOT** of images—one after the other, i.e., **queue**—until you get something you like. I had created a lot of images in A1111, but they were pretty much all rubbish, or so extremely poor they were not really worth saving: I've deleted them. *Not worth the hard-disk space. By the way, did the same to all my Poser stuff: it's embarassing now how awful that was*!
 
-and the prompt:
+---
 
-<img src="/assets/images/emily/06-Screenshot.jpg" alt="Positive prompt"/>
+<img src="/assets/images/emily/05-Screenshot.jpg" alt="Workflow" style="float: right; width: 360px;
+        margin-left: 20px; margin-bottom: 10px;" />
+
+The idea was to create characters. Um, people. 
+
+Early days: ComfyUI quickly got complicated. Here's a workflow from then (right-click and open in a new tab for a closer look). I know: a dog's breakfast. 🥴 
+
+By the way, that *workflow*—that bunch of interconnected nodes—was actually **STORED** within an image file! Yes, when you queue an image, it actually stores all that information on how it was made within the image itself. Wild, huh? So, say someone liked how you created an image (and had a working copy of ComfyUI), you could simply send them the image and they would drop it into ComfyUI and magically your whole workflow would be there.  
+Pretty neat, huh?
+
+---
+
+Here's the prompt from that workflow:
+
+<img src="/assets/images/emily/06-Screenshot.jpg" alt="Positive prompt" style="width: 600px;"/>
 
 to get this:
 
@@ -162,13 +177,21 @@ So, wonky left leg, right hand has 3 fingers, nonsensical text on signs... and w
 
 Yeah, not perfect. But the tech very, very quickly improved. ComfyUI itself dramatically improved. Everything has become better, faster, more accurate, more flexible offering more possibilities... and it is all free. Yes: no-cost. Once you have purchased your graphics card, you're good to go.
 
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
-I would like to highlight what **ELSE** can be done with this process: image repair. Here's an original image I found online of Kalapana (the way I remember it, actual **Kaimu**)... an image with scratches, artifact blotches, a really poor photo of a photo:
+
+
+
+
+
+### Sept 21 Kaimu
+
+I would like to highlight what **ELSE** can be done with this process: image repair. Here's an original image I found online of Kalapana (the way I remember it, the original **Kaimu Beach**). This image has scratches, artifact blotches... in short, it's a really poor photograph (or possibly scan) of an old photograph:
 
 <img src="/assets/images/emily/18-KalapanaO.jpg" alt="Kaimu Beach" style="width: 850px;"/>
 
-...and here is how it looks, AI-fixed:
+...and here is how it looks, after ComfyUI fixed it:
 
 <img src="/assets/images/emily/19-KalapanaF.jpg" alt="Kaimu Beach" style="width: 850px;"/>
 
@@ -176,27 +199,38 @@ So, there's that.
 
 ---
 
+<img src="/assets/images/emily/20-AliceMaryO.jpg" alt="AMSmith" style="float: right; width: 250px;
+        margin-left: 20px; margin-bottom: 10px;" />
+
 Helps to know how to tell the model what to do... it's all in the 'prompt'. I wanted to restore an old, rather poor photograph of Alice Mary Smith for my transcription of her work. Here's my prompt:
 
 - *Restore this damaged vintage portrait by removing scratches and stains, then add realistic period-appropriate colors, including existing dress textures. Maintain the same facial features of the blonde young woman and enhance the texture of white-dotted silk fabric of her dress*.
 
-I did have to tweak the prompt a bit, as you do. I used this technique for a cover image for my transcription of [her "Lalla Rookh"](https://musescore.com/user/29275325/scores/26630581)... the original picture was, let's say, detail-poor:
+I did have to tweak the prompt a bit, as you do. I used this technique for a cover image of Alice for my transcription of [her "Lalla Rookh"](https://musescore.com/user/29275325/scores/26630581)... the original picture was, let's say, detail-poor. There are so few photographs of this accomplished composer, so I decided to try to work [with this image](https://en.wikipedia.org/wiki/Alice_Mary_Smith).
 
-<img src="/assets/images/emily/20-AliceMaryO.jpg" alt="AMSmith" style="width: 450px;"/>
+Earlier this year, January 11th, to be exact, I tried to 'fix' this image. I was using this state-of-the-art tech at the time called 'SUPIR'. 
 
-...which Flux1 Kontext 'imagined' to this:
+<img src="/assets/images/emily/20-AliceMaryBW.jpg" alt="AMSmith" style="width: 400px;"/>
 
-<img src="/assets/images/emily/21-AliceMaryF.jpg" alt="AMSmith" style="width: 700px;"/>
+Overall, it seems pretty accurate, although the left eye still seems a bit off. Of course, the whole ComfyUI technology has moved on. No mention is made about SUPIR anymore on the ComfyUI subreddit. After all, SUPIR relied on SDXL tech, and we're now—Sept '25—in the Flux era. *Actually, even the Flux era appears to be waning*. This time, using the *original image* as input, Flux1 Kontext yielded this:
 
-Just from this perspective alone, the effort is worth it. Just like transcribing [this marvelous work of Alice's,](https://musescore.com/user/29275325/scores/26630581) putting in a little extra effort makes it so worth it. Is this Alice? Who knows. Perhaps a newer, better, more accurate model will do better. Until then, I'm pretty happy.
+<img src="/assets/images/emily/21-AliceMaryF.jpg" alt="AMSmith" style="width: 400px;"/>
 
-By the way, sometimes it helps to change the sampler and scheduler. Her dress had these dots on it in the original picture, and the 'deis' sampler and 'kl_optimal' scheduler wasn't doing the dress right. So, I went with bog-standard euler sampler and ddim_uniform scheduler to get this:
+The difference between the original, the SUPIR version and the Flux Kontext version is what keeps me addicted to this tech. No, it isn't perfect, but 🌟 **MY STARS** ✨ it is *head, shoulders and belly-button* above even expensive pay-for tech like [Topaz Labs](https://www.topazlabs.com/topaz-photo), which used to be a stand-alone installed program on your PC, but which they have now made an 'app'. Interestingly, the hardware requirements are virtually the same, so you are 'renting' their node-system for $17-$21 a month.
 
-<img src="/assets/images/emily/22-AliceMaryF2.jpg" alt="AMSmith" style="width: 700px;"/>
+All of which I get for free, because I took the time to learn the tech. Being lazy tends to be expensive. Just like transcribing [this marvelous work of Alice's,](https://musescore.com/user/29275325/scores/26630581) putting in a little extra effort makes it so worth it.
 
-Are we having fun, yet? Changing sampler and scheduler gave Alice a bit of lippie (Aussie for 'lipstick') but yeah, very similar outcome, from a facial feature viewpoint. 
+So, is this what Alice actually looked like? Who knows. Perhaps a newer, better, more accurate model will do better. Until then, I'm pretty happy.
 
-Just for shits-n-giggles, tried the SRPO on this... and ended up with a massive **FAIL**! As in, a completely blurry horrid blob of nothing recognisable. Conclusion: **SRPO** is **not** an image-to-image tool, like Flux Kontext.
+By the way, sometimes it helps to change the sampler and scheduler. Her dress had these dots on it in the original picture, and the **deis** sampler and **kl_optimal** scheduler wasn't doing the dress right. So, I went with bog-standard **euler** sampler and **ddim_uniform** scheduler to get this:
+
+<img src="/assets/images/emily/22-AliceMaryF2.jpg" alt="AMSmith" style="width: 400px;"/>
+
+And today (Sept 26th), as I revisit my workflows to convert them all to 'Sub-Graphs', I tried the **deis** sampler and **beta** scheduler and got this:
+
+<img src="/assets/images/emily/23-AliceMaryF4.jpg" alt="AMSmith" style="width: 500px;"/>
+
+Just for shits-n-giggles, tried the SRPO on this... and ended up with a massive **FAIL**! As in, a completely blurry horrid blob of nothing recognisable. Conclusion: **SRPO** is **not** the same sort of image-to-image tool as Flux Kontext. The key is in the word 'Kontext', I believe.
 
 Whilst mucking around with all this, I'm listening to [Serenade #4 by Robert Fuchs](https://www.youtube.com/watch?v=l8ERA4HnxRc). That last movement really puts the weasel in your gut.
 
@@ -206,16 +240,45 @@ The last Flux1 Kontext model was a GGUF model. It was an 8-bit model. 'Bit' is a
 
 Short answer: it's about accuracy, detail and approximation. 8-bit approximates quite a bit better than 4-bit or 2-bit. Still, whilst the 8-bit model created that last image, a 4-bit model created this:
 
-<img src="/assets/images/emily/23-AliceMaryF3.jpg" alt="AMSmith" style="width: 700px;"/>
+<img src="/assets/images/emily/23-AliceMaryF3.jpg" alt="AMSmith" style="width: 400px;"/>
 
 Not a shabby effort. Not as stellar as 8-bit but still heaps better than the original. Who know which one is the most accurate. Not from that time period, so it's likely to remain anyone's guess, for now.
 
 ---
 
-Note: *I'm going to continue documenting progress in ComfyUI [on my blog](../other/Blog25.md/#exploring-comfyui) on this site.*
+Note: *I'm going to continue documenting my little exploring with SRPO [on my blog](../other/Blog25.md/#exploring-comfyui).*
 
 See [Blog 25][b25] for other things I'm up to.
 
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+### Sept 26 Sub Graphs
+
+Hope a bit of a deep-dive might prove beneficial at this stage. At the outset of this exploration of ComfyUI, I mentioned *nodes*. Allow me to explain what a node is: it is basically a visual representation of code that performs a specific function. To load an image into a workflow, for example, I need the *Load Image* node. The code for that node lives in a file called "nodes.py", which is a core part of ComfyUI. The file extension '.py' gives a clue as to the code's language: **Python**.
+
+The node collection on a graph called a *workflow* can become quite complex. Even my own little workflows got fairly messy after a while: it was a challenge to remember what values of which nodes to tweak. I used colour to indicate which nodes I should look at, but it was still a mess.
+
+Then, the bright minds at ComfyUI came up with the concept of **Sub-Graph**. The name doesn't really do the magic justice. Consider this workflow (right-click and open in new tab to see it properly) :
+
+<img src="/assets/images/emily/33-SDXL-i2i.jpg" alt="SDXL WkFl" style="width: 950px;"/>
+
+Of course, this did a lot back in the SDXL days. But it was a nightmare to navigate.
+
+That same workflow has, through the magic of *Sub Graph*, been simplified to this:
+
+<img src="/assets/images/emily/34-SDXL-i2i-SG.jpg" alt="SDXL SG" style="width: 950px;"/>
+
+Whole-buncha-nodes into 1 node. Boom.
+
+And everything I might want to change right out front. Whiz.
+
+**Sub Graph** is still in development, so I look forward to improvements from here, even. No telling what will come out next month, next week, tomorrow or a few hours from now!
 
 
 <hr style="height:12px;border-width:0;color:blue;background-color:blue">
