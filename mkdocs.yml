@@ -45,11 +45,11 @@ nav:
     - Pappa's Account: family/pappa1.md
   - Other:
     - other/index.md
+    - Blog25: other/Blog25.md
     - Foodie: other/Foodie.md
     - Garden: other/Garden.md
     - Health: other/Health.md
     - Matter: other/Matter.md
-    - Repose: other/Repose.md
   - Tech:
     - tech/index.md
     - Emily: tech/Emilyai.md
