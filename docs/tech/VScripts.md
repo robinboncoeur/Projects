@@ -1,8 +1,10 @@
 # Movie Scripts
 
-## Sherlock Holmes / Jeremy Brett
+## Sherlock Holmes
 
 ### The Solitary Cyclist
+
+Picture Jeremy Brett in the role of Holmes: I do.
 
 HOLMES:
 Watson.
@@ -19,26 +21,25 @@ Excellent, the tobacco millionaire, shall I take notes?
 HOLMES:
 No, I will dictate in the fullness of time.
 
-
+MRS HUDSON:
 There's a young lady wishes to see you, Mr. Holmes.
 
 HOLMES:
 This is not a convenient moment!
 
-
+MRS HUDSON:
 She's very well spoken, a genuine lady.
-
 
 HOLMES:
 No doubt.
 
+MRS HUDSON:
 And persistent, too.
-
 
 HOLMES:
 Mrs. Hudson, I, too, am extremely persistent, especially when I'm working.
 
-
+VIOLET SMITH:
 It is a matter of great urgency, Mr. Holmes, or I would not be troubling you on a Saturday evening.
 
 WATSON:
@@ -50,10 +51,12 @@ Very well.
 WATSON:
 Do sit down, Miss, uh?
 
+VIOLET SMITH:
 Violet Smith.
 
 WATSON:
 Dr. Watson.
+
 
 Thank you Mrs. Hudson.
 
@@ -62,13 +65,14 @@ A genuine lady, I told you.
 WATSON:
 Oh, please.
 
+VIOLET SMITH:
 Um, thank you, I'll be quite happy here.
 
 
 HOLMES:
 Very well, Miss Smith, you must tell us your matter of great urgency. It is obviously not your health. So ardent a bicyclist must be full of energy.
 
-
+VIOLET SMITH:
 Yes, I bicycle a good deal.
 
 WATSON:
@@ -77,39 +81,37 @@ Slight roughening on the side of the soles caused by the friction of the pedals.
 HOLMES:
 Excellent, Watson. The marks on your shoes.
 
-
+VIOLET SMITH:
 Oh, yes! Even if I have to travel a long way, I take my bicycle on the train with me as I did today.
 
 
 HOLMES:
 You will excuse me, but it is my business. Yes, I nearly fell into the error of supposing you earned a living by typewriting, but of course, it is obviously music. You will observe, Watson, the spatulate finger ends, which is common to both professions. There is a spirituality about the face, however, which the typewriter does not generate. This lady is a musician.
 
-
+VIOLET SMITH:
 Why, yes, Mr. Holmes, I teach music!
 
 
 HOLMES:
 In the country, I presume, from your complexion.
 
-
+VIOLET SMITH:
 Near Farnham on the borders of Surrey! But please, let me explain why I am here.
 I am an only child, and my father died some years ago.
-
 
 HOLMES:
 His name and profession?
 
-
+VIOLET SMITH:
 James Smith, he conducted the orchestra at the old lmperial Theater.
 
 WATSON:
 Ah, the old lmperial, Holmes.
 
-
 HOLMES:
 Yes. Please continue.
 
-
+VIOLET SMITH:
 My mother and I were left without a relation in the world except for one uncle, Ralph Smith, who went to Africa fifteen years ago, and we have not had a word from him since, despite our Christmas cards and photographs.
 Mr. Holmes, I have to tell you that...
 
@@ -117,27 +119,24 @@ Mr. Holmes, I have to tell you that...
 HOLMES:
 I think you wish to tell me that you and your mother are very poor, not withstanding your obvious grace, dignity and talent.
 
-
+VIOLET SMITH:
 We were very poor.
 
 
 HOLMES:
 Ah.
 
-
+VIOLET SMITH:
 About four months ago, in February, we were told there was an advertisement in the Times, inquiring for our whereabouts. You can imagine how excited we were, for we thought that someone had left us a fortune.
 I went at once to the lawyers whose name was given in the paper.
 
 
 Now, this is Miss Violet Smith.
 
-The solicitor introduced me to two men, a Mr. Carruthers and a Mr. Woodley. They were on a visit from South Africa.
-
-I wish I could tell you your uncle left you a vast fortune, but as I said...
-
-He died in extreme poverty.
-
-However, I myself am not without means. My mother and I never sought charity.
+The solicitor introduced me to two men, a Mr. Carruthers and a Mr. Woodley. They were on a visit from South Africa.  
+I wish I could tell you your uncle left you a vast fortune, but as I said...  
+He died in extreme poverty.  
+However, I myself am not without means. My mother and I never sought charity.  
 
 No, nor do I offer it.
 
@@ -173,27 +172,25 @@ Yes.
 HOLMES:
 Approximately double the market price, I think.
 
+VIOLET SMITH:
 Oh, at least!
-
 
 HOLMES:
 Which you obviously accepted, or you wouldn't be here now.
 
-Yes.
-
-I accepted the offer. Mr. Carruthers agreed that I should go home every weekend to my mother in town.
-
+VIOLET SMITH:
+Yes. I accepted the offer. Mr. Carruthers agreed that I should go home every weekend to my mother in town.
 
 HOLMES:
 So this is one of your weekend visits to London?
 
+VIOLET SMITH:
 It is.
-
 
 HOLMES:
 Tell me about your life at Chiltern Grange.
 
-
+VIOLET SMITH:
 For a while, it was quite perfect. Every Monday morning I would take the train to Farnham and then bicycle from the station to the house. The little girl's name was Sarah, and she was delightful, as well as being a very good pupil.
 
 
@@ -203,32 +200,31 @@ May I try it again?
 
 Of course, that's why we're here.
 
-
+VIOLET SMITH:
 Mr. Carruthers was appreciative of my work, and an extremely kind and considerate host.
-
 
 HOLMES:
 Sounds idyllic.
 
+VIOLET SMITH:
 It was.
-
 
 HOLMES:
 What happened to spoil it?
 
+VIOLET SMITH:
 A visitor.
-
 
 HOLMES:
 Mr. Woodley.
 
+VIOLET SMITH:
 However did you guess, Mr. Holmes?
-
 
 HOLMES:
 Miss Smith, I never guess. Tell me about his visit.
 
-
+VIOLET SMITH:
 He arrived and was to stay for a week. But to me it seemed like three months. Oh, that odious red mustache! One evening after dinner, Mr. Carruthers had to leave us for a minute to see somebody at the door.
 
 A gentleman to see you, sir.
@@ -1193,7 +1189,7 @@ Well, let me think.
 
 
 
-### THE NORWOOD BUILDER
+### The Norwood Builder
 
 
 MCU: Door of tobacconist

@@ -1,5 +1,50 @@
 # About Projects
 
+## Temporary TOC
+
+Until I get the banner working properly in portable-media mode (phones and tablets), here's links to the main pages.
+
+[Music](/music/index.md/)  
+[--Harmony](/music/Harmony)  
+[--Sketches](/music/Sketches)
+
+---
+
+[Family](/family/index.md/)  
+[--Pappa's Account](/family/pappa1)
+
+---
+
+[Other](/other/index.md/)  
+[--Blogposts 2025](/other/Blog25)  
+[--Foodle](/other/Foodie)  
+[--Garden](/other/Garden)  
+[--Health](/other/Health)  
+[--Stuff that Matters](/other/Matter)
+
+---
+
+[Tech](/tech/index.md/)  
+[--AI](/tech/Emilyai)  
+[--Linux](/tech/Linux)  
+[--Miscellanae](/tech/Ostuff)  
+[--Network](/tech/Network)  
+[--Python](/tech/Python)  
+[--PC Repair](/tech/Repair)  
+[--Violin Care](/tech/Violins)  
+[--Videography](/tech/Videos)  
+[--Video Scripts](/tech/VScripts)
+
+
+<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+
 ## Foreword
 
 **Originally:**  
@@ -23,6 +68,7 @@ Well, now-a-days, GMail will upload your >25mB file to your Google Drive (you ge
 Time has moved on, and so have I: from Sphinx/Make-The_Docs. I'm now migrating pages from *Projects* and *HelpYrSelf* into this one **Projects** set of pages. At this point,things are organised a bit... differently. Latest posts are [on the top](http://127.0.0.1:8000/other/Garden/), for some pages. Others will be removed for lack of relevancy.
 
 <hr style="height:8px;border-width:0;color:blue;background-color:blue">
+
 
 
 
