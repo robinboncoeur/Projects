@@ -5,35 +5,35 @@
 Until I get the banner working properly in portable-media mode (phones and tablets), here's links to the main pages.
 
 [Music](/music/index.md/)  
-[--Harmony](/music/Harmony)  
-[--Sketches](/music/Sketches)
+[--Harmony](/music/Harmony.md)  
+[--Sketches](/music/Sketches.md)
 
 ---
 
 [Family](/family/index.md/)  
-[--Pappa's Account](/family/pappa1)
+[--Pappa's Account](/family/pappa1.md)
 
 ---
 
 [Other](/other/index.md/)  
-[--Blogposts 2025](/other/Blog25)  
-[--Foodle](/other/Foodie)  
-[--Garden](/other/Garden)  
-[--Health](/other/Health)  
-[--Stuff that Matters](/other/Matter)
+[--Blogposts 2025](/other/Blog25.md)  
+[--Foodle](/other/Foodie.md)  
+[--Garden](/other/Garden.md)  
+[--Health](/other/Health.md)  
+[--Stuff that Matters](/other/Matter.md)
 
 ---
 
 [Tech](/tech/index.md/)  
-[--AI](/tech/Emilyai)  
-[--Linux](/tech/Linux)  
-[--Miscellanae](/tech/Ostuff)  
-[--Network](/tech/Network)  
-[--Python](/tech/Python)  
-[--PC Repair](/tech/Repair)  
-[--Violin Care](/tech/Violins)  
-[--Videography](/tech/Videos)  
-[--Video Scripts](/tech/VScripts)
+[--AI](/tech/Emilyai.md)  
+[--Linux](/tech/Linux.md)  
+[--Miscellanae](/tech/OStuff.md)  
+[--Network](/tech/Network.md)  
+[--Python](/tech/Python.md)  
+[--PC Repair](/tech/Repair.md)  
+[--Violin Care](/tech/Violins.md)  
+[--Videography](/tech/Videos.md)  
+[--Video Scripts](/tech/VScripts.md)
 
 
 <hr style="height:8px;border-width:0;color:blue;background-color:blue">

@@ -4,7 +4,7 @@ I'll be entering whatever I'm head-down/bum-up working on on these pages, with *
 
 **List of Groups**
 
-[Exploring ComfyUI](#Exploring ComfyUI)  
+[Exploring ComfyUI](#exploring-comfyui)  
 [Best of the Best 2024](#best-of-the-best-2024)  
 [Out Into Nature 2022](#out-into-nature)  
 
