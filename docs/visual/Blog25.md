@@ -2,6 +2,14 @@
 
 I'll be entering whatever I'm head-down/bum-up working on on these pages, with *GROUPS* in **SORT_OF** reverse chronological order, with newest **GROUP** nearer the top. 
 
+<style>
+  .flex-container {display: flex; display-direction: row;}
+  .columnA {float: left; padding-right: 20px;}
+  .columnB {padding-left: 20px;}
+  .left {width: 40%;}
+  .right {width: 60%;}
+</style>
+
 **List of Groups**
 
 [Exploring ComfyUI](#exploring-comfyui)  
@@ -18,23 +26,36 @@ What else can ComfyUI do? Let's find out!
 
 ### Sept 19 Kalapana
 
-A lot of the improvement has been in model development. Flux has fixed a lot of issues with distorted, missing or excess anatomy although it still happens. What really helps is patience: you simply fix the prompt and re-queue. 
+A lot of the improvement has been in model development. Flux has fixed a lot of issues with distorted, missing or excess anatomy although it still happens. What really helps is patience: you simply fix the prompt and re-queue. And modifying the prompt again, and re-queueing. So, I was hoping for Kalapana back in the day. Is it? no way. Feels more like MacKenzie Park with palm trees instead of ironwoods. And those coconuts... really?
 
-<img src="/assets/images/emily/08-Flux1D25.jpg" alt="Girl at Kalapana" style="width: 450px;"/>
+<div class="row">
+  <div class="columnA">
+    <img src="/assets/images/emily/08-Flux1D25.jpg" alt="Girl at Kalapana" style="width: 350px;"/>
+    <br>
+    [ Girl at Kalapana 01 ]
+  </div><p>
+  <div class="columnB">
+    <p>Here's the prompt:</p>
+    <p>- This photograph captures a solitary beautiful woman walking towards the viewer on a dark, volcanic black sand beach. She is positioned slightly off-center to the right, facing towards the camera. The woman has long brown hair and wears a black one-piece lycra swimsuit and is carrying a surboard under her arm. She walks barefoot towards the viewer, leaving small footprints in the wet sand near the shoreline.
+    <br>- The background features a dense cluster of tall, lush palm trees with green fronds and some golden-brown leaves, indicating the tropical location. Under the trees are a few small fallen coconuts, dead coconut tree fronds and black sand, NO shrubs or bushes. The sky above is clear and dark blue, suggesting it is morning with good weather conditions. The black sand contrasts sharply with the white surf at the water's edge on the left side of the image.
+    <br>- The overall composition emphasizes the natural beauty of the beach setting, combining the dark volcanic sand with the vibrant greenery and tall palm trees in the background. The photograph uses bright, vivid colors to enhance the tropical atmosphere and highlights the solitude of the woman amidst the serene environment.</p>
+  </div>
+</div>
 
-And modifying the prompt again, and re-queueing. So, I was hoping for Kalapana back in the day. Is it? no way. Feels more like MacKenzie Park with palm trees instead of ironwoods. And those coconuts... really? Here's the prompt:
+<div class="row">
+  <div class="columnA">
+    <img src="/assets/images/emily/09-Flux1D33.jpg" alt="Girl at Kalapana" style="width: 350px;" />
+    <br>
+    [ Girl at Kalapana 02 ]
+  </div><p>
+  <div class="columnB">
+    <img src="/assets/images/emily/10-Flux1D34.jpg" alt="Girl at Kalapana" style="width: 350px;" />
+    <br>
+    [ Girl at Kalapana 03 ]
+  </div>
+</div>
 
-- This photograph captures a solitary beautiful woman walking towards the viewer on a dark, volcanic black sand beach. She is positioned slightly off-center to the right, facing towards the camera. The woman has long brown hair and wears a black one-piece lycra swimsuit and is carrying a surboard under her arm. She walks barefoot towards the viewer, leaving small footprints in the wet sand near the shoreline.
-
-- The background features a dense cluster of tall, lush palm trees with green fronds and some golden-brown leaves, indicating the tropical location. Under the trees are a few small fallen coconuts, dead coconut tree fronds and black sand, NO shrubs or bushes. The sky above is clear and dark blue, suggesting it is morning with good weather conditions. The black sand contrasts sharply with the white surf at the water's edge on the left side of the image.
-
-- The overall composition emphasizes the natural beauty of the beach setting, combining the dark volcanic sand with the vibrant greenery and tall palm trees in the background. The photograph uses bright, vivid colors to enhance the tropical atmosphere and highlights the solitude of the woman amidst the serene environment. 
-
-<img src="/assets/images/emily/09-Flux1D33.jpg" alt="Girl at Kalapana" style="float: left; width: 450px;
-        margin-right: 20px; margin-bottom: 10px;" />
-		
-<img src="/assets/images/emily/10-Flux1D34.jpg" alt="Girl at Kalapana" style="float: right; width: 450px;
-        margin-left: 20px; margin-bottom: 10px;" />
+---
 
 The prompt is a lot more verbose (wordy). You can add a lot of descriptors. However, it all comes down to what the model wants to do. And will it obey? At times yes, at times no. As they say: YMMV (your mileage may vary).
 

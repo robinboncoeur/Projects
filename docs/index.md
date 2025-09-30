@@ -4,8 +4,6 @@
 
 This is a temporary measure for access to the site for readers on a phone or tablet. I need to get the banner resizing properly. Hopefully soon: in the meantime, here's links to the main pages.
 
-[Music](/music/index.md/)  🌸🌸 🌸🌸  [ ⇨ Harmony](/music/Harmony.md)  🌸🌸 🌸🌸  [ ⇨ Sketches](/music/Sketches.md) 🌸🌸 🌸🌸 [ ⇨ Violin Care](/music/Violins.md)
-
 ---
 
 [Family](/family/index.md/)  
@@ -13,15 +11,35 @@ This is a temporary measure for access to the site for readers on a phone or tab
 
 ---
 
-[Visual Arts](/visual/index.md) 🌼🌼🌼 [ ⇨ Blogposts 2025](/visual/Blog25.md) 🌼🌼🌼 [ ⇨ AI](/visual/Emilyai.md) 🌼🌼🌼 [ ⇨ Videography](/visual/Videos.md) 🌼🌼🌼 [ ⇨ Video Scripts](/visual/VScripts.md)
+[Music](/music/index.md/)  
+🌸🌸🌹 [ ⇨ Harmony](/music/Harmony.md)  
+🌸🌹🌸 [ ⇨ Sketches](/music/Sketches.md)  
+🌹🌸🌸 [ ⇨ Violin Care](/music/Violins.md)
 
 ---
 
-[Other](/other/index.md/) 🌼🌼🌼  [ ⇨ Foodle](/other/Foodie.md) 🌼🌼🌼  [ ⇨ Garden](/other/Garden.md) 🌼🌼🌼 [ ⇨ Health](/other/Health.md) 🌼🌼🌼 [ ⇨ Stuff that Matters](/other/Matter.md) 
+[Visual Arts](/visual/index.md)  
+🌹🌼🌹 [ ⇨ Blogposts 2025](/visual/Blog25.md)  
+🌼🌹🌼 [ ⇨ AI](/visual/Emilyai.md)  
+🌹🌼🌹 [ ⇨ Videography](/visual/Videos.md)  
+🌼🌹🌼 [ ⇨ Video Scripts](/visual/VScripts.md)  
 
 ---
 
-[Tech](/tech/index.md/) 💻 💻 💻 💻 [ ⇨ Linux](/tech/Linux.md) 💻 💻 💻 💻 [ ⇨ Miscellanae](/tech/OStuff.md) 💻 💻 💻 💻 [ ⇨ Network](/tech/Network.md) 💻 💻 💻 💻 [ ⇨ Python](/tech/Python.md) 💻 💻 💻 💻 [ ⇨ PC Repair](/tech/Repair.md)
+[Other](/other/index.md/)  
+🌸🌹🌸 [ ⇨ Foodle](/other/Foodie.md)  
+🌹🌸🌹 [ ⇨ Garden](/other/Garden.md)  
+🌼🌹🌼 [ ⇨ Health](/other/Health.md)  
+🌹🌼🌹 [ ⇨ Stuff that Matters](/other/Matter.md)  
+
+---
+
+[Tech](/tech/index.md/)  
+💻 💻 💻 [ ⇨ Linux](/tech/Linux.md)  
+💻 💻 💻 [ ⇨ Miscellanae](/tech/OStuff.md)  
+💻 💻 💻 [ ⇨ Network](/tech/Network.md)  
+💻 💻 💻 [ ⇨ Python](/tech/Python.md)  
+💻 💻 💻 [ ⇨ PC Repair](/tech/Repair.md)  
 
 <hr style="height:8px;border-width:0;color:blue;background-color:blue">
 
