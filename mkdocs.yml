@@ -40,27 +40,35 @@ nav:
     - music/index.md
     - Harmony: music/Harmony.md
     - Sketches: music/Sketches.md
+    - Violins: music/Violins.md
+
+  - Visual Art:
+    - visual/index.md
+    - Blog 2025: visual/Blog25.md
+    - AI & Emily: visual/Emilyai.md
+    - Videos: visual/Videos.md
+    - VScripts: visual/VScripts.md
+
+
+
   - Family:
     - family/index.md
     - Pappa's Account: family/pappa1.md
+
   - Other:
     - other/index.md
-    - Blog25: other/Blog25.md
     - Foodie: other/Foodie.md
     - Garden: other/Garden.md
     - Health: other/Health.md
     - Matter: other/Matter.md
+
   - Tech:
     - tech/index.md
-    - Emily: tech/Emilyai.md
     - Linux: tech/Linux.md
     - Miscellanae: tech/OStuff.md
     - Network: tech/Network.md
     - Python: tech/Python.md
     - Repair: tech/Repair.md
-    - Violins: tech/Violins.md
-    - Videos: tech/Videos.md
-    - VScripts: tech/VScripts.md
 
 plugins:
   - search
