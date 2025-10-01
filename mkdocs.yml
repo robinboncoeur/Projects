@@ -81,9 +81,10 @@ validation:
     unrecognized_links: warn
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - toc:
       permalink: true
-  - attr_list
   - admonition
   - footnotes
   - def_list
@@ -96,7 +97,6 @@ markdown_extensions:
   - pymdownx.blocks.caption
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - md_in_html
 
 extra:
   social:

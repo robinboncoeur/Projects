@@ -1,6 +1,8 @@
 # Family Projects 
 
-## Foreword
+## Pappa's Account
+
+### Foreword
 
 This is, for the time being, a living document. As such, it will change pretty much *daily* as the process continues.
 
@@ -9,6 +11,13 @@ The idea of having these pages worked on in the image order simply makes sense..
 For my part, I will work on transcribing the words on the images - handwritten and typed - into this document as accurately as I can. The chapter headings will be the names of the original image files - e.g., 'P8.png'. I've attached a .jpg version at the bottom of each section: simply right-click and select "Open Image in a New Tab" to see the full-sized version.
 
 I would suggest keeping Dad's account as written in **German** as part of the book for future reference.
+
+<hr style="height:4px;border-width:0;color:black;background-color:black">
+
+
+
+
+
 
 ### Project Notes
 
@@ -36,6 +45,10 @@ Additional steps will include:
 
 We will have to subsequently realign the document pages into some sort of logical order. This will require a collaborative effort.
 
+<hr style="height:4px;border-width:0;color:black;background-color:black">
+
+
+
 
 
 
@@ -43,7 +56,7 @@ We will have to subsequently realign the document pages into some sort of logica
 **[ 5 Jul 2025 ]**  
 Some images are over-exposed through the scanning process. The bright light of the scanner makes both sides of the page visible in the resulting .png image: this affects legibility. Also, the typed documents (P1.png through P3.png) were not centred properly when they were scanned and so portions of words are missing.
 
-
+---
 
 **[ 6 Jul 2025 ]**   
 
@@ -51,6 +64,8 @@ Some images are over-exposed through the scanning process. The bright light of t
 * Case in point: **P12.png** cannot be read at all. It will need to be photographed, not scanned. Both sides show up on one surface (both sides are visible in the image). Together with Dad's unclear handwriting, the document is too difficult to decipher.  
 * The first images (P1, P2, P3 and P3plus) are all typed. However, the scan was not well-centred and cut off words on the right margin. Below, I have noted which words appear to be cut off with "-[cut-off word]".  
 * Issues with P14 and P14plus, cut-off words and scanned text hard to make out. Needs to be photographed, and centred properly.
+
+---
 
 **[ 7 Jul 2025 ]**   
 Tried a translation of **P1.png** using the Gemma3 LLM. I've surrounded the document with my observations of the process. I'm going to leave those notes as an example of what's involved in translating - well, a rather small example, to be honest. We really need to collaborate on context and intent. I've underlined words that raised questions:
@@ -67,16 +82,18 @@ At least Gemma tries to explain her reasoning, which is a step up from the hallu
 **[ 8 Jul 2025 ]**   
 I've decided the image downloads would be quicker - and the page would *'weigh'* less if I converted the .pngs to .jpgs. I'll put the originals in a 'Origs' subfolder in case someone wants to see the original scanned image.  
 
----
-Page 17 (P17.png) seems to be a fragment.
+- Page 17 (P17.png) seems to be a fragment.
 
----
-Pages 22 and 22plus need to be photographed (vs scanned): enhancing the text brings out the text from the other side of the page, making it impossible to read.
+- Pages 22 and 22plus need to be photographed (vs scanned): enhancing the text brings out the text from the other side of the page, making it impossible to read.
 
----
-Pages 35 through 46 appear at first blush to be private correspondence between Dad and Mom... not sure how appropriate it would be to enter this private stuff. Even the stuff on P31 is a bit... iffy.  
+- Pages 35 through 46 appear at first blush to be private correspondence between Dad and Mom... not sure how appropriate it would be to enter this private stuff. Even the stuff on P31 is a bit... iffy.  
 I'm going to start with running some of these entries through Gemma3 after reviewing them again. I've taken to surrounding words I'm not sure about with square brackets: '[ ]'. I've also replaced most of the .pngs with .jpgs for faster load times.
 
+---
 
+**[ 1 Oct 2025 ]**
 
------------------------------------------------------------------------------------------------------------------
+In receipt of the physical documents. I have begun restructuring the translation page to reflect chronology vs image sequence. Some of the chronology of events we will have to determine contextually: we probably won't know exact dates for certain entries.
+
+<hr style="height:8px;border-width:0;color:black;background-color:black">
+

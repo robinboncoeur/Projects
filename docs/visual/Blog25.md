@@ -16,7 +16,36 @@ I'll be entering whatever I'm head-down/bum-up working on on these pages, with *
 [Best of the Best 2024](#best-of-the-best-2024)  
 [Out Into Nature 2022](#out-into-nature)  
 
----
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+## Pappa's Experiences
+
+### Sept 30 Receipt
+
+Martin's "letter" arrived today. US $66.20 to ship this little document! WTF? That's extortionary. Is that UPS wanker still running USPS?
+
+My Panasonic Lumix G5 is "cactus" (won't focus, will need to be repaired) so I'll be doing the photography with my phone, which is more than up to the job. Here's the project as I see it...
+
+Stage 1: photos of the pages.  
+Stage 2: transcription.  
+Stage 3: translation.  
+Stage 4: Collaborative analysis and text tweaking before we ...  
+Stage 5: organise pages chronologically (as best we can) and insert the text into a book. My vote is to put the original German and the translation side by side, in columns.
+
+To be understood: stages 3 and 4 will be a process in a bit of a loop, and this is where I will need input from "the willing". The idea is to do these memoirs justice. That will remain a key objective.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
 
 
 ## Exploring ComfyUI
@@ -30,7 +59,7 @@ A lot of the improvement has been in model development. Flux has fixed a lot of 
 
 <div class="row">
   <div class="columnA">
-    <img src="/assets/images/emily/08-Flux1D25.jpg" alt="Girl at Kalapana" style="width: 350px;"/>
+    <img src="/assets/images/emily/08-Flux1D25.jpg" alt="Girl at Kalapana" style="width: 280px;"/>
     <br>
     [ Girl at Kalapana 01 ]
   </div><p>
@@ -42,14 +71,16 @@ A lot of the improvement has been in model development. Flux has fixed a lot of 
   </div>
 </div>
 
+---
+
 <div class="row">
   <div class="columnA">
-    <img src="/assets/images/emily/09-Flux1D33.jpg" alt="Girl at Kalapana" style="width: 350px;" />
+    <img src="/assets/images/emily/09-Flux1D33.jpg" alt="Girl at Kalapana" style="width: 280px;" />
     <br>
     [ Girl at Kalapana 02 ]
   </div><p>
   <div class="columnB">
-    <img src="/assets/images/emily/10-Flux1D34.jpg" alt="Girl at Kalapana" style="width: 350px;" />
+    <img src="/assets/images/emily/10-Flux1D34.jpg" alt="Girl at Kalapana" style="width: 280px;" />
     <br>
     [ Girl at Kalapana 03 ]
   </div>
