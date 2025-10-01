@@ -1,5 +1,7 @@
 # Other Projects
 
+[Back to the Main Page](../index.md)
+
 ## Update Log
 
 Update 2025.08.24: In my previous Sphinx-based help files - reminding myself how to do techie and other stuff - I had a 'Projects' site and a 'Help Yourself' site. I'm merging the two to just 'Projects.'

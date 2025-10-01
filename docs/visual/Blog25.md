@@ -1,5 +1,7 @@
 # Blog Posts 2025
 
+[Back to the Main Page](../index.md)
+
 I'll be entering whatever I'm head-down/bum-up working on on these pages, with *GROUPS* in **SORT_OF** reverse chronological order, with newest **GROUP** nearer the top. 
 
 <style>

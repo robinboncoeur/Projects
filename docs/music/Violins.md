@@ -1,5 +1,7 @@
 # The Violin
 
+[Back to the Main Page](../index.md)
+
 ## Fix 
 
 I've been wanting to play the violin for quite some time now. I'm now 70, and it's now or never. At the moment, I can't afford an expensive instrument: expensive to me is actually anything over $150. Eventually, I might be able to justify a $5000 to $10,000 instrument, but that time is well in the future.

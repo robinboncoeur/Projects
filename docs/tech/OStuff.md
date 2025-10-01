@@ -227,33 +227,33 @@ To accomplish this, you will use 'Finder', which is the Mac's answer to the Wind
 
 With 'Finder' selected, go to the menu section at the top of the Mac screen, and on the left-hand side next to the Apple logo, chose 'Finder' and select:
 
-![Copy Files](http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Prefs1.png)
+![Copy Files](/assets/images/copyfiles/Prefs1.jpg)
 
 Make the following changes to these settings:
 
-![Copy Files](http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Prefs2.png)
+![Copy Files](/assets/images/copyfiles/Prefs2.jpg)
 
-![Copy Files](http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Prefs3.png)
+![Copy Files](/assets/images/copyfiles/Prefs3.jpg)
 
-![Copy Files](http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Prefs4.png)
+![Copy Files](/assets/images/copyfiles/Prefs4.jpg)
 
 You will notice your memory stick appear in the left sidebar of 'Finder', under 'Locations' as soon as you plug it in to the USB slot. When you click on that name, the files in that folder will show up in the file browser (the main window):
 
-![Copy Files](http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs1.png)
+![Copy Files](/assets/images/copyfiles/Procs1.jpg)
 
 Holding down the [CMD] key - command - and pressing [A] will highlight all the files in that folder:
 
-![Copy Files](http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs2.png)
+![Copy Files](/assets/images/copyfiles/Procs2.jpg)
 
 Note: *make sure that you have actually clicked somewhere on the folder itself to select it before pressing [CMD] [A]*. The names of the files will change colour: mine go blue. Press [CMD] [C] to copy the files.
 
 I'm going to suggest placing music files in the 'Music' folder, to make it easy to find the files. Identify the 'Music folder - I've outlined it in red in the previous image and right-click on it and select:
 
-![Copy Files](http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs3.png)
+![Copy Files](/assets/images/copyfiles/Procs3.jpg)
 
 The 'Music' will open in a new tab and be the active folder. Press [CMD] [V] to paste your music files into that folder, or optionally right-click and select:
 
-![Copy Files](http://www.tightbytes.com/images/projects/conundrums/CopyFiles/Procs4.png)
+![Copy Files](/assets/images/copyfiles/Procs4.jpg)
 
 Should be good to go.
 

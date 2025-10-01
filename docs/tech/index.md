@@ -1,8 +1,9 @@
 # Anything Tech
 
+[Back to the Main Page](../index.md)
+
 On these pages I discuss techie stuff: 
 
-- AI and what I use it for (Emily)
 - VBA for Excel  
 - PC repair tips  
 - Linux the OS

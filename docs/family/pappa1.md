@@ -7,6 +7,8 @@
   .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
 </style>
 
+[Back to the Main Page](../index.md)
+
 <hr style="height:8px;border-width:0;color:black;background-color:black">
 
 
@@ -432,7 +434,7 @@ There were crates with three cylinders; the lids had been removed.
 </div>
 </div>
 
-![P15.png](/assets/images/pappa/P15a.png){ width="200" }
+![P15.jpg](/assets/images/pappa/P0.jpg){ width="200" }
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -615,8 +617,8 @@ There were about 13,000 prisoners in the Tschenstochau camp. It had been built b
 </div>
 </div>
 
-![P12.png](/assets/images/pappa/P12.png){ width="200" }
-![P12.png](/assets/images/pappa/P12a.png){ width="200" }
+![P12.jpg](/assets/images/pappa/P0.jpg){ width="200" }
+![P12.jpg](/assets/images/pappa/P0.jpg){ width="200" }
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -735,8 +737,8 @@ Martini schaute mich trumphierend an, als hätte er gerade in die Lotterie gewon
 </div>
 </div>
 
-![P16.jpg](/assets/images/pappa/P16.jpg){ width="200" }
-![P16+.jpg](/assets/images/pappa/P16p.jpg){ width="200" }
+![P16.jpg](/assets/images/pappa/P0.jpg){ width="200" }
+![P16+.jpg](/assets/images/pappa/P0.jpg){ width="200" }
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -873,8 +875,8 @@ Herr Steiner ich habe gesehen wie Sie diese gefahliche Situation gemeistert habe
 </div>
 </div>
 
-![P22.png](/assets/images/pappa/P22.png){ width="200" }
-![P22+.png](/assets/images/pappa/P22plus.png){ width="200" }
+![P22.jpg](/assets/images/pappa/P0.jpg){ width="200" }
+![P22+.jpg](/assets/images/pappa/P0.jpg){ width="200" }
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -977,8 +979,8 @@ Mit rassischen Betrachtungen wurde die Sitzung fortgesetzt. Natürlich konnten n
 </div>
 </div>
 
-![P26.png](/assets/images/pappa/P26.png){ width="200" }
-![P26+.png](/assets/images/pappa/P26plus.png){ width="200" }
+![P26.jpg](/assets/images/pappa/P0.jpg){ width="200" }
+![P26+.jpg](/assets/images/pappa/P0.jpg){ width="200" }
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 

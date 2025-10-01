@@ -1,5 +1,7 @@
 # Emily
 
+[Back to the Main Page](../index.md)
+
 ## Can AI be Useful? 
 
 Short answer: yes. And fun and, to some degree, addictive.

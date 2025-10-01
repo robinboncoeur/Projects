@@ -2,6 +2,8 @@
 
 ## Pappa's Account
 
+[Back to the Main Page](../index.md)
+
 ### Foreword
 
 This is, for the time being, a living document. As such, it will change pretty much *daily* as the process continues.
