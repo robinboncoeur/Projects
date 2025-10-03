@@ -1,7 +1,5 @@
 # The Violin
 
-[Back to the Main Page](../index.md)
-
 ## Fix 
 
 I've been wanting to play the violin for quite some time now. I'm now 70, and it's now or never. At the moment, I can't afford an expensive instrument: expensive to me is actually anything over $150. Eventually, I might be able to justify a $5000 to $10,000 instrument, but that time is well in the future.
@@ -12,11 +10,14 @@ The most obvious place to start looking for a used instrument was Ebay, but I de
 
 There was a lot to choose from! After a false start in Arana Hills on 12th of January (the violin was a 3/4 size: I needed a 4/4), finally starting to find what I was after.
 
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:green;background-color:green">
 
 
 
-### 2023-01-16 - The Stentor
+
+
+
+### 23-01-16 - The Stentor
 
 The first student violin (purchased in Stretton) I actually brought home went for AUD$150.00 on Facebook Marketplace: I was pretty sure this Stentor was going to be the one I learned to play on. And it has been sitting in my closet pretty much since I bought it.
 
@@ -24,12 +25,14 @@ The first student violin (purchased in Stretton) I actually brought home went fo
 
 Eventually, we'll have to see what to do with this one.
 
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:green;background-color:green">
 
 
 
 
-### 2023-01-23 - The Czech
+
+
+### 23-01-23 - The Czech
 
 **A Gem in the Rough**
 
@@ -109,7 +112,7 @@ That's been carefully cleaned off, now. Might go with a better chinrest, perhaps
 
 
 
-### First Cleaning - Jan 25th
+#### 23-01-25 First Cleaning
 
 Last night, I started using a white cloth (feels like microfibre) to clean the violin - these were sock-like thingies that the lenses I purchased came in. The approach to cleaning was this:
 
@@ -135,9 +138,15 @@ Although the purchase price of the violin **initially** emboldened me to underta
 
 I had purchased some Pirastro Tonica strings at [Vivace Music](https://www.vivacemusic.com.au/) in Sunnybank Hills for $60 as replacements, of which I've replaced the D, A and E so far, changing out the strings one at a time. Tilted the bridge towards the tailpiece after letting the violin get used to the new strings first. Did the graphite thing on the bridge and nut, as well as applying peg-paste on the pegs. 
 
+<hr style="height:4px;border-width:0;color:green;background-color:green">
 
 
-### Peg Adjustment - Jan 31st
+
+
+
+
+
+#### 23-01-31 Peg Adjustment
 
 After my chiropractor appointment, popped up to Red Hill to meet with Michael at [Simply For Strings](https://www.simplyforstrings.com.au/).
 
@@ -145,14 +154,36 @@ He very kindly not only showed me how to revive the rather used-up pegs so they 
 
 When I buy my *next* violin - the upgrade - I'll be purchasing it from [Simply For Strings](https://www.simplyforstrings.com.au/) ... they have been simply wonderful!
 
-
-### Initial Exercises - Feb 1st
-
-Michael kindly emailed me some exercises to do - just until I sort-of engage a formal instructor. Not trivial, these exercises! Just getting a decent sound out of 'open strings' is a challenge. And yet, oddly enough, achieveable, with a bit of work.
+<hr style="height:4px;border-width:0;color:green;background-color:green">
 
 
 
-### Polish - Feb 5th
+
+
+### 2023-02-01 - The Enrico
+
+This violin hadn't been touched since 1999. Her strings were toast and the soundpost has fallen:
+
+![Image](http://www.tightbytes.com/images/projects/violin/AaC-Enrico.jpg)
+
+<hr style="height:4px;border-width:0;color:green;background-color:green">
+
+
+
+
+
+#### 23-02-04 Initial Cleaning
+
+Did a bit of a 'dry' polish tonight, and *discovered* that the **base** is likely coming away from the rest of the body. Which means: removing the whole thing, sanding carefully and re-glueing. Wow, am I really ready for this? I did sign up for a Violin Maintenance course for April 14th at [Simply for Strings](https://www.simplyforstrings.com.au/): might have a word to them as to the advisability of embarking on such an adventure.
+
+<hr style="height:8px;border-width:0;color:green;background-color:green">
+
+
+
+
+
+
+#### 23-02-05 Polishing
 
 Did a bit more polishing with the OldWood Italian Cream... a *bit* with that, but mostly breathing on the wood and polishing with white microfibre:
 
@@ -184,6 +215,29 @@ Whilst it is recommended to keep your violin in its case, I'm defying those inst
 
 ...only just because having the violin **visible** reminds me to practise.
 
+<hr style="height:4px;border-width:0;color:green;background-color:green">
+
+
+
+
+
+
+
+
+
+
+## Playing
+
+### Initial Exercises - Feb 1st
+
+Michael kindly emailed me some exercises to do - just until I sort-of engage a formal instructor. Not trivial, these exercises! Just getting a decent sound out of 'open strings' is a challenge. And yet, oddly enough, achieveable, with a bit of work.
+
+<hr style="height:4px;border-width:0;color:green;background-color:green">
+
+
+
+
+
 
 
 ### Practising - Feb 22nd
@@ -196,25 +250,7 @@ I do clean my violin before I put it away, and am still noticing a bit of thread
 
 Am signed up for a [violin maintenance workshop at Simply for Strings](https://www.simplyforstrings.com.au/) taking place of the 14th of April.
 
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
+<hr style="height:4px;border-width:0;color:green;background-color:green">
 
-
-## 2023-02-01 - The Enrico
-
-### Happy Project
-
-This violin hadn't been touched since 1999. Her strings were toast and the soundpost has fallen:
-
-![Image](http://www.tightbytes.com/images/projects/violin/AaC-Enrico.jpg)
-
-
-
-
-### Initial Cleaning - Feb 4th
-
-Did a bit of a 'dry' polish tonight, and *discovered* that the **base** is likely coming away from the rest of the body. Which means: removing the whole thing, sanding carefully and re-glueing. Wow, am I really ready for this? I did sign up for a Violin Maintenance course for April 14th at [Simply for Strings](https://www.simplyforstrings.com.au/): might have a word to them as to the advisability of embarking on such an adventure.
-
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
-
-
+[Back to the Main Page](../index.md)

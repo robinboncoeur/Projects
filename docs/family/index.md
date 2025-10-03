@@ -2,8 +2,6 @@
 
 ## Pappa's Account
 
-[Back to the Main Page](../index.md)
-
 ### Foreword
 
 This is, for the time being, a living document. As such, it will change pretty much *daily* as the process continues.
@@ -54,13 +52,15 @@ We will have to subsequently realign the document pages into some sort of logica
 
 
 
-### Issues
-**[ 5 Jul 2025 ]**  
+### Issues & Notes
+
+#### 5.Jul.2025
+
 Some images are over-exposed through the scanning process. The bright light of the scanner makes both sides of the page visible in the resulting .png image: this affects legibility. Also, the typed documents (P1.png through P3.png) were not centred properly when they were scanned and so portions of words are missing.
 
 ---
 
-**[ 6 Jul 2025 ]**   
+#### 6.Jul.2025
 
 * Trying to get the text entered - doing grammar/spelling-check and translation after the bulk of what **can** be done, done.  
 * Case in point: **P12.png** cannot be read at all. It will need to be photographed, not scanned. Both sides show up on one surface (both sides are visible in the image). Together with Dad's unclear handwriting, the document is too difficult to decipher.  
@@ -69,7 +69,8 @@ Some images are over-exposed through the scanning process. The bright light of t
 
 ---
 
-**[ 7 Jul 2025 ]**   
+#### 7.Jul.2025   
+
 Tried a translation of **P1.png** using the Gemma3 LLM. I've surrounded the document with my observations of the process. I'm going to leave those notes as an example of what's involved in translating - well, a rather small example, to be honest. We really need to collaborate on context and intent. I've underlined words that raised questions:
 
 * 'operation' vs 'activities'
@@ -80,8 +81,10 @@ The sentence: 'Ein Urbaier in Lederhosen, seine Frau – in wir Jungens sofort a
 
 At least Gemma tries to explain her reasoning, which is a step up from the hallucinations of LLMs such as older versions of ChatGPT or even DeepSeek-v1, which also 'explained' its thought-process, however erroneous it turned out to be.
 
+---
 
-**[ 8 Jul 2025 ]**   
+#### 8.Jul.2025
+
 I've decided the image downloads would be quicker - and the page would *'weigh'* less if I converted the .pngs to .jpgs. I'll put the originals in a 'Origs' subfolder in case someone wants to see the original scanned image.  
 
 - Page 17 (P17.png) seems to be a fragment.
@@ -93,9 +96,54 @@ I'm going to start with running some of these entries through Gemma3 after revie
 
 ---
 
-**[ 1 Oct 2025 ]**
+#### 1.Oct.2025
 
 In receipt of the physical documents. I have begun restructuring the translation page to reflect chronology vs image sequence. Some of the chronology of events we will have to determine contextually: we probably won't know exact dates for certain entries.
 
+---
+
+#### 2 Oct 2025
+
+Observations on [1940 Flieger](/family/pappa1.md/#1940-flieger) follow.
+
+Here is why I don't worry that AI is going to take over our world by being smarter than us and outwitting us. Consider the following discourse. For example: the last sentence of the original document included the word 'Urbaier', which breaks down to 'Ur' = 'typical'; and 'Baier' = 'person from Bayern (Bavaria)'. Gemma incorrectly translated this to 'Urlauber' = 'tourist'. A key takeaway is that one cannot simply assume LLMs are going to correctly interpret the sense of a phrase. My discussion with Gemma3 continued thus as I requested 'her' to translate into English:  
+
+**Me:** 'Urbaier' is a colloquial term for 'typical Baier'... person from Bavaria. Other than that, well done, thank you. Can you please translation this into English?   
+**Gemma3:** You're absolutely right about "Urbaier"! My apologies for the misinterpretation – it's a regional colloquialism that doesn't translate directly. Thanks for clarifying. Here's the English translation of the corrected German text, incorporating that understanding of "Urbaier":  
+**Gemma3:** Notes on the Translation: I've translated "Urbaier" as "typical Bavarian tourist" to convey the intended meaning. I’ve tried to maintain the slightly informal and conversational tone of the original German.  
+
+**Me: Fail.** Nice try, though, Gemma.  
+
+By the way, I've rendered the translation a bit less awkward. Like: "A signature was cheap as a gift." ...to... "A signature was a cheap gift."
+  
+So no, AI isn't going to replace us any time soon. If ever.
+
+BTW, that exchange between him and his dad over the waiver revealed where Dad got his sarcasm from.
+
+---
+
+#### 3 Oct 2025
+
+Did a bit of shuffling based on date and even more: context. So, moved 2 entries into 1939, and also 1940. Just did a quick translation... needs to be read more carefully for accuracy.
+
+---
+
+Took out this bit from [1946: Herbst](/family/pappa1.md/#1946-herbst):
+
+*Faithful translation An autumn of hunger. O dear reader, do you know what hunger is? My Hunger is written with a capital letter. It pulls through your guts. Yes, hunger hurts. It is a pain very close to your soul.  
+
+“Give us this day our daily bread.” There isn’t even a single crust. In the morning you get up and first have to sit on the edge of the bed. It goes black before your eyes and it takes a while before you can stand. The shirt sticks to your body. From the nights you’ve sweated. Whoever has ever eaten his bread with tears, whoever sat weeping through sorrowful nights on his bed—he does not know you, you heavenly powers.  
+
+Yes, those were the good old days. They still had bread. What remained to us were only tears and this accursed hunger. K. had already been waiting ten minutes for his friend Fritz. It was two o’clock at night. Both worked a forty-eight-hour week. With what they earned the two of them couldn’t buy the food they needed. So at night they had to steal what they simply lacked for ordinary nourishment.*
+
+Keeping the literary version, for now. Now that I have the actual hard copy, will try to nut out what [Rute?] is. 
+
+*Translator’s note: the quoted lines echo Goethe’s famous verse (“Wer nie sein Brot mit Tränen aß …”), though here it’s recalled imperfectly. If you’d like, I can normalise the quotation or keep it as-is for authenticity.*
+
+"Köter" is a perjorative word for a dog: similar to the English "mutt" or "cur", dog of mixed breed.
+
+
+
 <hr style="height:8px;border-width:0;color:black;background-color:black">
 
+[Back to the Main Page](../index.md)

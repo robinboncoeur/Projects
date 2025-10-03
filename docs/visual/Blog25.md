@@ -1,7 +1,5 @@
 # Blog Posts 2025
 
-[Back to the Main Page](../index.md)
-
 I'll be entering whatever I'm head-down/bum-up working on on these pages, with *GROUPS* in **SORT_OF** reverse chronological order, with newest **GROUP** nearer the top. 
 
 <style>
@@ -14,6 +12,7 @@ I'll be entering whatever I'm head-down/bum-up working on on these pages, with *
 
 **List of Groups**
 
+[Dad's Autobiography](#sept-30-receipt)  
 [Exploring ComfyUI](#exploring-comfyui)  
 [Best of the Best 2024](#best-of-the-best-2024)  
 [Out Into Nature 2022](#out-into-nature)  
@@ -280,3 +279,5 @@ and along the water...
 Then for a 5k bike ride. Gotta start somewhere... better than sitting all day.
 
 <hr style="height:12px;border-width:0;color:pink;background-color:pink">
+
+[Back to the Main Page](../index.md)

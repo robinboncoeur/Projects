@@ -1,8 +1,6 @@
 
 # Sketching with Notes
 
-[Back to the Main Page](../index.md)
-
 ## Log
 
 2025-Sep-15:  
@@ -721,7 +719,7 @@ Good work.
 Penne Vodka (Joe DiRienzo, New York)
 
 
-<hr style="height:8px;border-width:0;color:gray;background-color:gray">
+<hr style="height:8px;border-width:0;color:green;background-color:green">
 
 
 
@@ -748,4 +746,8 @@ Penne Vodka (Joe DiRienzo, New York)
 [Counterpoint](https://viva.pressbooks.pub/openmusictheory/chapter/species-counterpoint/)
 
 [Five Species of Counterpoint - cantus firmus johann joseph fux](https://wwnorton.com/college/music/musictheory/premium/webfacts/ch08a.html)
+
+<hr style="height:8px;border-width:0;color:green;background-color:green">
+
+[Back to the Main Page](../index.md)
 

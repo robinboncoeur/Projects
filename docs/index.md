@@ -59,12 +59,9 @@ So, what solutions are out there?
 
 Well, now-a-days, GMail will upload your >25mB file to your Google Drive (you get 15 gig for free on any GMail account), creates a link in your email and... done. But, back in '22, that all had to be done manually. So, I set up tightbytes.com to act as my public file server. What appealed about doing project progress sharing this way was:
 
-- I could share a LOT of information about projects quickly
-
-- The information was hidden in obscurity of "no-one gives a rat's nether-regions about what I'm doing". Have a look at [my website: Tightbytes.com](https://www.tightbytes.com). Visitors? none. 
-
-- Updating was a lot quicker on GitHub than on Tightbytes: I would edit locally in Brackets, then use Sphinx/Make-the-Docs to make the static HTML pages, and Github Desktop to manage the update to GithubPages.
-
+- I could share a LOT of information about projects quickly  
+- The information was hidden in obscurity of "no-one gives a rat's nether-regions about what I'm doing". Have a look at [my website: Tightbytes.com](https://www.tightbytes.com). Visitors? none.  
+- Updating was a lot quicker on GitHub than on Tightbytes: I would edit locally in Brackets, then use Sphinx/Make-the-Docs to make the static HTML pages, and Github Desktop to manage the update to GithubPages.  
 - Since the pages were hosted on GitHub, other family and friends could collaborate on this pages, and even add pages of their own.
 
 ---
@@ -80,14 +77,24 @@ Time has moved on, and so have I: from Sphinx/Make-The_Docs. I'm now migrating p
 
 
 
+
+
+
+
 ## Update Log
+
+Update 2025.10.02: Added a category [Visual Art](/visual/index.md). Anything to do with art or video has been moved there. Also, with the receipt of Dad's autobiography, have recommenced photographing physical medium, translation and opening the account for discussion..
+
+---
 
 Update 2025.08.24: In my previous Sphinx-based help files - reminding myself how to do techie and other stuff - I had a 'Projects' site and a 'Help Yourself' site. I'm merging the two to just 'Projects.'
 
 ---
 
-Update 2025.08.21: Migrating 'Projects' site from AllHelp (ReST) to markdown (MkDocs), hosted on Cloudflare, with data githubbed then pages created dynamically in Cloudflare. This decision was taken as Tightbytes.com as a Wordpress website was costing a fortune (USD#359.00 / 48 months) which can't be justified. So, once my subscription with Hostinger expires in 2027.12.09, I will not renew, and all pages except the main wordpress page will have been migrated. Still not sure what to do about that.  
-There will be subdomains for the Help (and other) pages: projects.tightbytes.com, art.projects.com, appmgr.tightbytes.com, keys2life.tightbytes.com and so on.
+Update 2025.08.21: Migrating 'Projects' site from AllHelp (ReST) to markdown (MkDocs), hosted on Cloudflare, with data githubbed then pages created dynamically in Cloudflare. This decision was taken as Tightbytes.com as a Wordpress website was costing a fortune (USD#359.00 / 48 months) which can't be justified. So, once my subscription with Hostinger expires in 2027.12.09, I will not renew, and all pages except the main wordpress page will have been migrated.  
+Still not sure what to do about that.
+
+There will be subdomains for the Help (and other) pages: projects.tightbytes.com, appmgr.tightbytes.com, keys2life.tightbytes.com and so on.
 
 <hr style="height:8px;border-width:0;color:blue;background-color:blue">
 
@@ -146,13 +153,14 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 **Suggested by Emily (ChatGPT5)**
 
 ---
-title: Home Networking Checklist
-description: Step-by-step guide to setting up and maintaining Windows 11 file sharing at home.
+
+title: Home Networking Checklist  
+description: Step-by-step guide to setting up and maintaining Windows 11 file sharing at home.  
 tags:
   - networking
   - windows11
   - home
-last_updated: 2025-08-28
-status: active   # active | needs-review | obsolete
+last_updated: 2025-08-28  
+status: active   # active | needs-review | obsolete  
 author: Robyn Hahn
 ---

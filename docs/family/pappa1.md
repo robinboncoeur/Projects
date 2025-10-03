@@ -7,7 +7,6 @@
   .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
 </style>
 
-[Back to the Main Page](../index.md)
 
 <hr style="height:8px;border-width:0;color:black;background-color:black">
 
@@ -31,18 +30,16 @@ My own notes on what I am actually doing in the process of translating and forma
 
 The *general format* of this document will be:  
 
-🎖 The title of a section is [date of event, roughly] any heading Dad might have included (or a brief description).  
-🎖 German text (original) is on the left, and translation(s) on the right.  
-🎖 At the bottom of each section, an image (or images) of the original document - right-click and "View in a new Tab" to inspect the document.
-
-In *the title*:  
-The tick-mark [ ✅ ] indicates this is ready for a final analysis and, hopefully, inserting into the 'canon'. By *canon* I mean, the official text, which will be in a subsequent document.
-  
-The *magnifying glass* [ 🔎 ] indicates this is but a rough first-draught translation, and bears examining more closely for ... um ... whatever might not align correctly with the original text.
+🎖 The title of a section: **year:** **heading or a brief description**.  
+🎖 His German text (original) is on the left, and translation(s) on the right.  
+🎖 At the bottom of each section:  
+🌅 Section status:  
+The *tick-mark* [ ✅ ] indicates this is ready for a final analysis and, hopefully, inserting into the 'canon'. By *canon* I mean, the official text, which will be in a subsequent document.    
+The *magnifying glass* [ 🔎 ] indicates this is but a rough first-draught translation, and bears examining more closely for ... um ... whatever might not align correctly with the original text.  
+🌅 An image (or images) of the original document - right-click and "View in a new Tab" to inspect the document.
 
 </div>
 </div>
-
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -53,9 +50,96 @@ The *magnifying glass* [ 🔎 ] indicates this is but a rough first-draught tran
 
 
 
+
+
+
+
 ## Childhood
 
-### [19??] Sanitzers ✅
+### 1924: 29
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+
+**[Auf Deutsch]**  
+
+**1924** Meine Eltern hatten im Hause Coja eine kleine Wohnung im obersten Stockwerk mit schägen Wänden gemietet. Im selben Hause lebten auch die Eltern meines Vaters.  
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+
+**[English Version]**  
+
+My parents had rented a small flat on the top floor of the Coja house, with sloping walls. My father’s parents lived in the same building.
+
+</div>
+</div>
+
+---
+
+Status:
+
+![P29.jpg](/assets/images/pappa/P29.jpg){ width="200" }
+
+<hr style="height:4px;border-width:0;color:black;background-color:black">
+
+
+
+
+
+
+
+
+
+### 1924: Das Haus Cojas 30
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+
+**[Auf Deutsch]**  
+
+**1924 Das Haus Cojas - Merseburg [Sand] 6, 1924**  
+Es war für die damalig Zeit ein stattlichen Anwesen. Warum Sand fanden die Leute erst heraus nachdem die Amerikanern einige Bomben in der Nachbarschaft fallen liesen. Der Untergrund war ein feiner weiser Sand.  
+Nun an den Bewohnern im Vorderhaus waren so zuzagen der beßere Klöbs.  
+Nr. 1, der Eigentümer... Die Cojas. Herr Coja war ein Riese von einen Mann. Also seine Söhne. Seine Frau war eine magere Gestalt ohne Zähne mit glattgescheiteten Haar und einen kleinen Knoten im Genick. Der Geist des Hauses.  
+Neben K Eltern wohnten die Rhodes. Wirlich sehr liebe nette Leute. Der Vater war ein [Bergmann] und spielte in der Bergmanskappelle als Pfeifer. K [Stolz] war jedesmal wenn der Herr Rhode in Schützenverein mitspielte Sein Sohn. K. nannte Onkel Max war der Freund seines Vaters. Seine Frau Tante lotte war ein Engel vom Himmel. Die Freundin K.[Sluften].  
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+
+**[English Version]**  
+
+**1924 The House of the Cojas - Merseburg [Sand] 6, 1924**  
+For the time period, it was a stately property. As for the “sand,” people only figured it out after the Americans dropped a few bombs in the neighborhood: the ground underneath was a fine white sand.  
+Now, the folks in the front building were, so to speak, the better set.  
+The owners—the Cojas—lived in No. 1. Mr. Coja was a giant of a man, and so were his sons. His wife was a thin, toothless figure with smoothly parted hair and a little bun at the nape of her neck: the life of the house.  
+Next to K’s parents lived the Rhodes: truly lovely, kind people. The father was a miner and played the fife in the miners’ band. K was proud every time Mr. Rhode took part with the marksmen’s club. His son, whom K called Uncle Max, was a friend of K’s father. His wife, Aunt Lotte, was an angel from heaven. K’s sweetheart, [Sluften?].
+
+</div>
+</div>
+
+---
+
+Status: 🔎
+
+![P30.jpg](/assets/images/pappa/P30.jpg){ width="200" }
+
+<hr style="height:4px;border-width:0;color:black;background-color:black">
+
+
+
+
+
+
+
+
+### 19??: Sanitzers
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -81,6 +165,8 @@ So hatt ich Tantchen noch nie gesehen. In der schule angekommen ging sie zum Rec
 
 </div>
 
+---
+
 <div class="column column--right" markdown>
 
 **[ English Version ]**
@@ -105,10 +191,103 @@ He had never seen Auntie like that before. When they arrived at the school, she 
 </div>
 </div>
 
+---
+
+Status: ✅
+
 ![P8.jpg](/assets/images/pappa/P8.jpg){ width="200" }
 ![P8+.jpg](/assets/images/pappa/P8p.jpg){ width="200" }
 
 <hr style="height:8px;border-width:0;color:black;background-color:black">
+
+
+
+
+
+
+
+
+### 1939: Installateur 25
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+
+**[Auf Deutsch]**  
+
+**1939** Die Lehre als Gas und Waßer Installateur war mir praktisch aufgezwungen worden. Der Berufsberater hatte meinen Vater und mich für eine Stundige Sitzung vergelanden. Da ich aus einer Familie von Handwerkern stammte, kam für mich natürlich nur ein handwerklicher Beruf in Frage. Ja, aber welche.  
+Als man endlich mal mich fragte, bat ich ganz schüctern ob ich Goldschmied werden könnte. Ein mitleidiges Lächeln war die Antwort.  
+"Der Junge hat zu viele Märchen gelesen."  
+Mit rassischen Betrachtungen wurde die Sitzung fortgesetzt. Natürlich konnten nur Menschen mit nordischen ...
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+
+**[English Version]**  
+The apprenticeship as a gas-and-water fitter was practically forced on me. The career adviser had summoned my father and me for an hour-long session. Since I came from a family of craftsmen, of course only a manual trade was considered. Yes—but which one?
+
+When they finally asked me, I shyly requested whether I could become a goldsmith. A pitying smile was the answer.
+“The boy has read too many fairy tales.”
+
+The session then continued with racial reflections. Naturally, only people with Nordic ...
+
+</div>
+</div>
+
+---
+
+Status: 🔎
+
+![P25.jpg](/assets/images/pappa/P25.jpg){ width="200" }
+
+
+
+
+
+
+
+
+
+
+### 1939: Erbgut 24
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+
+**[Auf Deutsch]**  
+
+... Erbgut in die Höhere Stellen gelangen. Im Landjahr hatten wir in den Schulungsabenden vieles darüber gelernt. Was mich eben nur sehr wunderte war, warum gerade ein so kleiner dicker Glatzkopf der überhaupt nichts Nordisches an sich hatte über raßisches Erbgut zu entscheiden hatte.  
+In der nächsten Sitzung wurde dann entschiweden, da ich als technischer Zeichner bei der Firma Rech Heizung und Sanitäre Anlagen Anfang Januar 93 anzutreten hatte. Das erste Jahr war ein Praktisches. Also mußte ich an Ban arbeiten.  
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+
+**[English Version]**
+
+... “hereditary stock” making it into the higher ranks. In the Landjahr we’d learned a lot about that in our evening training sessions. What really puzzled me was why it was a short, fat, bald fellow—who had nothing Nordic about him at all—who got to decide on racial heredity.  
+At the next meeting it was decided that I was to start as a technical draftsman at the firm Rech, Heating and Sanitary Installations, at the beginning of January ’93. The first year was a practical one, so I had to work on the building site.
+
+</div>
+</div>
+
+---
+
+Status: 🔎
+
+![P24.jpg](/assets/images/pappa/P24.jpg){ width="200" }
+
+<hr style="height:4px;border-width:0;color:black;background-color:black">
+
+
+
+
+
+
 
 
 
@@ -122,7 +301,7 @@ He had never seen Auntie like that before. When they arrived at the school, she 
 
 ## Airman Hahn, Kurt
 
-### [1940] Flieger ✅
+### 1940 Flieger
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -151,51 +330,27 @@ Im nächsten Frühjahr bekamen sie einen neuen Fluglehrer. In der Mittagspause f
 
 <div class="column column--right" markdown>
   
-**[ English Version ]**  
+**[ English Version ]**
 
-**Editor's Note**: here is why I don't worry that AI is going to take over our world by being smarter than us and outwitting us. Consider the following discourse. For example: the last sentence of the original document included the word 'Urbaier', which breaks down to 'Ur' = 'typical'; and 'Baier' = 'person from Bayern (Bavaria)'. Gemma incorrectly translated this to 'Urlauber' = 'tourist'. A key takeaway is that one cannot simply assume LLMs are going to correctly interpret the sense of a phrase. My discussion with Gemma3 continued thus as I requested 'her' to translate into English:  
+For Kurtchen's 15th birthday, he only had one wish from his father: to sign a waiver, a document stating that in the event of an accident, the state would not be liable for the damages. His father looked at him incredulously.  
+"What, you want to learn to fly? First, learn to walk properly!"  
 
----
+A signature was a cheap gift. His father thought it was just some fleeting fancy of his son’s. At last Kurtchen was allowed to participate in the flying activities. But that was pretty much all there was to it.  
 
-**Me:** 'Urbaier' is a colloquial term for 'typical Baier'... person from Bavaria. Other than that, well done, thank you. Can you please translation this into English?   
-**Gemma3:** You're absolutely right about "Urbaier"! My apologies for the misinterpretation – it's a regional colloquialism that doesn't translate directly. Thanks for clarifying. Here's the English translation of the corrected German text, incorporating that understanding of "Urbaier":  
+Every Sunday, a group of young people met in Weißenfels at the so-called Idiot's Hill. The glider that the boys struggled with all day was a Grunau 9. The thing actually flew. Kurtchen tried hard to stand as tall as he could, but he was always overlooked. He was just too short and didn't weigh enough.
 
----
-
-For Kurtchen's 15th birthday, he only had one wish from his father: to sign the waiver. It was a document stating that in the event of an accident, the state would not be liable for the damages. His father looked at him incredulously.
-"What, do you want to learn to fly? First, learn to 'run' properly!"  
-A signature was cheap as a gift. His father thought it was just a fleeting idea of his son’s. Finally, Kurtchen was allowed to participate in the flying 'operations'. But that was pretty much all there was to it.  
-Every Sunday, a group of young people met in Weißenfels at the so-called Idiot's Hill.  
-
-The glider that the boys 'toiled' with all day was a Grunau 9. The thing actually flew. Kurtchen tried hard to stand 'upright', but he was always overlooked. He was just too small and 'didn't have the right weight yet'.
-
-In the following spring, they got a new flying instructor. During the lunch break, he asked who among you is 'Hahn Kurt'? This Mr. Münch was a work colleague of my father’s at the Leuna Works. A 'typical Bavarian tourist', his wife – who we boys immediately fell in love with – came every Sunday."  
-
----
-
-**Gemma3:** Notes on the Translation: I've translated "Urbaier" as "typical Bavarian tourist" to convey the intended meaning. I’ve tried to maintain the slightly informal and conversational tone of the original German.  
-
----  
+In the following spring, they got a new flying instructor, Mr. Münch.  
+During the lunch break, he asked: "which one of you is *Hahn Kurt*?"  
+Mr. Münch was a work colleague of my father’s at the Leuna Factory. He was a *typical Bavarian*, complete with *Lederhosen*. His wife, who we boys immediately fell in love with, accompanied him every Sunday. 
 
 </div>
 </div>
 
-**Me: Fail.** Nice try, though, Gemma.  
-
-By the way, I've quoted words in the last translation which need reviewing:
-
-*run* -> walk  
-*operations* -> activity  
-*upright* -> as tall as he could  
-*toiled* -> struggled  
-*didn't have the right weight yet* -> didn't weigh enough  
-*typical Bavarian tourist* -> typical Bavarian
-  
-And just plain writing? Gemma!! "A signature was cheap as a gift." How about: "A signature was a cheap gift."
-  
-So no, AI isn't going to replace us any time soon. If ever.
-
 ---
+
+Moved observations to [Issues](/family/index.md/#2-oct-2025)
+
+Status: ✅
 
 ![P1.jpg](/assets/images/pappa/P1.jpg){ width="200" }
 
@@ -206,25 +361,120 @@ So no, AI isn't going to replace us any time soon. If ever.
 
 
 
-### [1941] Sommer 17
+
+
+
+### 1940: Prüfung 23
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
 
 **[Auf Deutsch]**  
 
-**Sommer (19)41**  
-Natürlich wie immer war ich der letzte. Unser Fluglehrer Uwe win Unteroffizier bedaurte es sehr. Meine letzten Flüge waren nicht nur gut sondern besonders ausgefallen. Ein schwäbischer Fluglehrer von NSFK hatte...  
--- Ends abruptly --  
+**Sommer 1940 - Die 'A' Prüfung** Sein Entschuß einmal Flieger zu werden hatte K schon als kleiner Junge getroffen. Eingespert im Hinterhof von Haus Cofa. sah er eben nur eine Freiheit nach oben. Jeden Mittag flog ein alter klappriger Doppeldecker nach Schleuditz. Krenkte sich den Hals aund rief: "Flieger flieger..." Ja, fliegen mußte man können dann wäre man aus dieser banalen Lebenweise heraus.  
+Bald hatt er auch die Gelegenheit bei einer Flugveranstaltung Zeuge zu sein. Vaters Arbeitskollege hatte sich zu Hause einen Flugaparat zusammen gebastelt und würde das Ding am Sonntag Morgen ausprobieren. Im Süden Merseburgs war ein Geländer das man Exerzierplatz nannte. Später war es im 1 WK (ersten Weltkreig) Gefangenenlager für Russen. Die meisten Baracken waren abgerißen worden. Also war genug Raum auf einem Boden der festgetrampelt wurde für einen Flugplatz. Der Piloteur hatte sich genau auskaldowert wie er diese kurze Strecke ausnützen konnte.   
 
 </div>
-<hr>
+
+---
+
 <div class="column column--right" markdown>
 
 **[ English Version ]**  
-  
+
+The “A” test. K had decided to become a flyer when he was just a little boy. Shut up in the back courtyard of the Cofa house, he saw only one freedom—straight up. Every noon an old, rickety biplane flew to Schleuditz. He craned his neck and called, “Flieger, flieger…” Yes—if you could fly, you could get out of this humdrum way of life.
+
+Before long he had the chance to witness an air show. One of Father’s workmates had cobbled together a flying contraption at home and was going to try the thing out on Sunday morning. South of Merseburg there was a field they called the drill ground. Later, in the First World War, it had been a prison camp for Russians. Most of the barracks had been torn down, so there was enough space on that well-trampled ground for a makeshift airstrip. The pilot had figured out exactly how to make use of that short stretch.
+
 </div>
 </div>
+
+---
+
+Status: 🔎
+
+![P23.jpg](/assets/images/pappa/P23.jpg){ width="200" }
+
+<hr style="height:4px;border-width:0;color:black;background-color:black">
+
+
+
+
+
+
+
+
+### 1941: Sommer 21
+
+<div class="flex-container" markdown>
+<div class="column column--right" markdown>
+
+**[Auf Deutsch]**  
+
+**Sommer (19)41** Meine 'B' in Segelf'ng hatte ich doch endlich erreicht. Man schickte mich nach ???Punsahran???. Das lag an der Saare ufer gegen über von den Bergen Saileck?  
+Das ganze Ausbildunds program eine Katastrophe. Die Flulehrer waren nicht da. Nur von deer partei oder Hitler Jugend irgendwelche sogenannte Fürungsqualitäten schmißen sich in die Brust und fanden Wege was das Leben mit Exzerzieren und Schulung sauer zu machen. Zu nächst flüchtete mich aus dieser Kamalitait in die Küche. Aus meiner Landjahr Erfahrung war doch etwas hängen geblieben wie man für viele Menschen kocht. Da war zunächs ein Glück für mich. Die andere Kammeraden marschieren nach Preußischen Drill.  
+Allerdings nach drei Tagen änderte sich das Ganze. Die Flulehrer waren eingetroffen. Der Flugbetrieb fing an. Mit meiner langen Erfahrung auf den Flugplätzer ware ich doch sicher eine große Hilfe gewesen.  
+
+---
+
+Wer würde aber auf mich hören. Zunacht arbeitete ich noch in der Küche. Der Küchenbulle war ein Schweinskopf stets darauf bedacht sein machtstellung an uns kleinen Scheisern auszunutzen und uns schikanieren. Meine Knoera? den sagte "Mensch, laß doch nur des Eßen anbrennen." Das ging nur leider nicht. Denn die Keßel waren mit Glitzerin.  Am nächsten Tag hatte ich einen guten Einfall. 10 Pfn und Salz. Keiner konnte den Eintopf fresen. Natürlich hatte ich nichts damit zu tun. Trotzdem schob man mich ab. Mehr als eine Woche von deisen Lehrgang waren schon vorbei. Zuruck zum Flugbetrieb war ich wieder auf der Warteliste. Schon am ersten Tag hatten wir ein.   
+Herr Steiner ich habe gesehen wie Sie diese gefahliche Situation gemeistert haben.  
+Steiner: Sie wißen wie man darüber denkt. Ja den ich habe es gesehen.  
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+
+**[ English Version ]**  
+
+</div>
+</div>
+
+---
+
+Status:
+
+![P21.jpg](/assets/images/pappa/P21.jpg){ width="200" }
+![P21p.jpg](/assets/images/pappa/P21p.jpg){ width="200" }
+
+<hr style="height:4px;border-width:0;color:black;background-color:black">
+
+
+
+
+
+
+
+
+### 1941: Sommer
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+
+**[Auf Deutsch]**  
+
+**Sommer 41**  
+Natürlich wie immer war ich der letzte. Unser Fluglehrer Uwe, ein Unteroffizier, bedaurte es sehr. Meine letzten Flüge waren nicht nur gut sondern besonders ausgefallen. Ein schwäbischer Fluglehrer von NSFK hatte...  
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+
+**[ English Version ]**   
+
+**Summer 1941** Naturally, as always, I was the last one. Our flight instructor Uwe, an NCO, really regretted it. My last flights hadn’t just been good—they’d been downright exceptional. A Swabian flight instructor from the NSFK (National Socialist Flying Corps) had…   
+-- Ends abruptly --  
+
+</div>
+</div>
+
+---
+
+Status: 🔎
 
 ![P17.jpg](/assets/images/pappa/P17.jpg){ width="200" }
 
@@ -239,21 +489,21 @@ Natürlich wie immer war ich der letzte. Unser Fluglehrer Uwe win Unteroffizier 
 
 
 
-### [1941] Sommer 2,3
+### 1941: Sommer 2,3
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
 
 **[Auf Deutsch]**  
 
-**Sommer 1941**  
-Die Luftwaffe hatte uns erlaubt an den Wochenenden auf den Merseburger Flugplatz für die B und C zu schulen, a Die A prüfung hatte ich ja hinter mir, Doch nahm mich niemand so richtig für voll, Die Kleinen wurden nur zu leicht uebersehen.  
-Monatelang war ich regelmäßig zum Flug dienst erschienen, aber niemand schenkte mir beachtung. Die Meisten meiner Kameraden hatten schon ihre B geflogen und ich hatte nicht einen einzige Flug.  
+**Sommer 1941** Die Luftwaffe hatte uns erlaubt an den Wochenenden auf den Merseburger Flugplatz für die B und C zu schulen, a Die A prüfung hatte ich ja hinter mir, Doch nahm mich niemand so richtig für voll, Die Kleinen wurden nur zu leicht uebersehen. Monatelang war ich regelmäßig zum Flug dienst erschienen, aber niemand schenkte mir beachtung. Die Meisten meiner Kameraden hatten schon ihre B geflogen und ich hatte nicht einen einzige Flug.  
 Schließlich faßte ich mir ein Herz und fragte den Fluglehrer was er eigentlich gegen mich habe. Der Erfolg war daß ich den Nächsten Flug bekam. Ich war selig. Bleib mal sitzen, da hatte ich gleich meinen nächsten Flug. Zugereben diese Flüge spielten sich in der Parterre a-[cut-off word].  
 Ich hatte höchstens Briefkasten höhe erreicht, aber das spielte jetzt keine Rolle: jetzt war ich drin. Nur jetzt nichts verkehrt machen. Das ding fliegt von selber. Nur kleine Korekturen und die Flüge sahen gans sauber aus.  
 Am nächten Sontag hatte ich wieder zwei Flüge. Das fliegen auf den Merseburger Flugplatz war eine andere Art. Mitt den Gummiseil wären wir hier nicht weit gekommen. Ein über 1000 Meter langes Stahlsel war mit einer Seiltrommel an einen achtzilinder Motor gekuppelt. Mit deßen Hilfe wurden wir wie ein Drachen in die Luft gezogen.  
 Am nächsten Sonntag als ich ger-[cut-off word] gerade starten sollte fragte mich Uwe mein Fluglehrer ob ich mir eine Platzrunde zutraue. Der Wind hatte gedreht und der Start mußte auf di-[cut-off word] andere Seite des Flugplatzes verlegt werden. Uwe war mit mir sehr zufrie-[cut-off word] war ich doch genau am Landekreuz gelandet.  
+
 ---
+
 An den nächsten Sonntagen bekam ich je zwei Starts die stets zur vollen Zufriedenheit mines Fluglehres ausfiele. Schließlich fehlten mir nur noch zwei Flüge für die B und am nächsten Wochenend sollte ich zum Lehrgang nach Punschrau. 
 Uwe sagte, "Das kommt doch garnicht in Frage. Kanst du dich über die Woche ein paar Stunden frei machen? Ich schule die Woche über Luftwaffen Soldaten."
 Schon am Montag verdünnisierte ich mich von meiner Arbeit. Der poste nam Flugplatz kannte mich schon, und ließ mich ohne mir Schwierigkeiten zu machen herein. Sofort war ich in meinen Element. Ich war vorne und hinten wie Otto. Nur eben Uwe ließ mich nicht fliegen E * zwei Uhr prodozierte einer von den auserwählten Ikarußen einenen so jämmerlichen so Flug daß ich die Frage stellte: "Wie lange kann der Zögling noch so etwas aushalten?"
@@ -270,13 +520,19 @@ Der Start wurde mehr nach hinten verlegt. Die Soldaten wußten nicht was das bed
 <div class="column column--right" markdown>
 
 **[ English Version ]**
+
 ..
+
 </div>
 </div>
 
-![P2.jpg](/assets/images/pappa/P2.jpg){ width="200" }
-![P3.jpg](/assets/images/pappa/P3.jpg){ width="200" }
-![P3p.jpg](/assets/images/pappa/P3p.jpg){ width="200" }
+---
+
+Status: 🔎
+
+![P2.jpg](/assets/images/pappa/P2.jpg){ width="300" }
+![P3.jpg](/assets/images/pappa/P3.jpg){ width="300" }
+![P3p.jpg](/assets/images/pappa/P3p.jpg){ width="300" }
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -290,15 +546,14 @@ Der Start wurde mehr nach hinten verlegt. Die Soldaten wußten nicht was das bed
 
 
 
-### [1945?] Flug zum Osten 11
+### 1945: Flug zum Osten 11
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
 
 **[Auf Deutsch]**  
 
-**Der Flug zum Osten**  
-Das JG 77 (Jäger Gruppe??) war noch immer in Düßeldorf stationiert. Da war ein Flug auftrag eine Me109K Überführen. Aus Bequemlichkeit wollte das keiner übernehmen. Das los sollte enscheiden. Angeblich waren es nur noch K und ein Fähnrich. Die Me109K war in Dortmund und neimand wußte wohin sie  überführt werden sollte. Ein Leutnant hielt zwei Streichhölzer swischen Daumen und Zeigefinger und lies K zwischen ihnen entschieden. K zog an den Längeren, doch der Leutnant hielt so fest, daß er erst das kürzere raus ziehen konnte.  
+**Der Flug zum Osten** Das JG 77 (Jäger Gruppe??) war noch immer in Düßeldorf stationiert. Da war ein Flug auftrag eine Me109K Überführen. Aus Bequemlichkeit wollte das keiner übernehmen. Das los sollte enscheiden. Angeblich waren es nur noch K und ein Fähnrich. Die Me109K war in Dortmund und neimand wußte wohin sie  überführt werden sollte. Ein Leutnant hielt zwei Streichhölzer swischen Daumen und Zeigefinger und lies K zwischen ihnen entschieden. K zog an den Längeren, doch der Leutnant hielt so fest, daß er erst das kürzere raus ziehen konnte.  
 
 ---
 
@@ -318,6 +573,10 @@ Letzte Nacht ist alles in eine Ju52 verladen und noch den Ostfront verfrachtet. 
 </div>
 </div>
 
+---
+
+Status:
+
 ![P11.jpg](/assets/images/pappa/P11.jpg){ width="200" }
 ![P11+.jpg](/assets/images/pappa/P11p.jpg){ width="200" }
 
@@ -330,7 +589,7 @@ Letzte Nacht ist alles in eine Ju52 verladen und noch den Ostfront verfrachtet. 
 
 
 
-### [1945] Gefangenschaft 6,7
+### 1945: Gefangenschaft 6,7
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -352,9 +611,16 @@ Der Mann war auch tot. Ich raffte mich auf und kroch zu meinen Faßende. Ein Sen
 <div class="column column--right" markdown>
 
 **[ English Version ]**  
-  
+
+**Captivity 45**
+
+
 </div>
 </div>
+
+---
+
+Status:
 
 ![P6.jpg](/assets/images/pappa/P6.jpg){ width="200" }
 ![P7.jpg](/assets/images/pappa/P7.jpg){ width="200" }
@@ -365,7 +631,10 @@ Der Mann war auch tot. Ich raffte mich auf und kroch zu meinen Faßende. Ein Sen
 
 
 
-### [1945] Gefangenschaft 🔎
+
+
+
+### 1945: Gefangenschaft
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -373,7 +642,10 @@ Der Mann war auch tot. Ich raffte mich auf und kroch zu meinen Faßende. Ein Sen
 **[Auf Deutsch]**  
 
 **Gefangenschaft 1945**  
-Nichts, absolut nichts konnte ich tun den Kam. zu helfen. War ich doch so schlapp mich selbst aufrecht zu halten. "Das ist ein Haus des Todes," sagte ich zu mir selbst. Mit meiner letzten Kraft schleppte ich mich zum Treppenhaus. Nach etlichen Studen im Freien erreichte ich mit Hilfe meiner Kam. wieder meine Pritsche. Die frische Luft hatte mir gut getan. Am nächsten Tag nach dem Brot Empfang zwang ich mich selbst weider ins Freie. Nur nicht aufgeben.  
+Nichts, absolut nichts konnte ich tun den Kam. zu helfen. War ich doch so schlapp mich selbst aufrecht zu halten. "Das ist ein Haus des Todes," sagte ich zu mir selbst. Mit meiner letzten Kraft schleppte ich mich zum Treppenhaus. Nach etlichen Studen im Freien erreichte ich mit Hilfe meiner Kam. wieder meine Pritsche. Die frische Luft hatte mir gut getan.  
+Am nächsten Tag nach dem Brot Empfang zwang ich mich selbst weider ins Freie.
+
+Nur nicht aufgeben.  
 
 </div>
 
@@ -383,13 +655,18 @@ Nichts, absolut nichts konnte ich tun den Kam. zu helfen. War ich doch so schlap
 
 **[ English Version ]**  
 
-There was nothing—absolutely nothing—I could do to help my comrades. I was so weak I could barely keep myself upright. “This is a house of death,” I told myself. With my last bit of strength I dragged myself to the stairwell. After a few hours out in the open air, and with my comrades’ help, I made it back to my bunk. The fresh air had done me good.  
-The next day, after the bread was handed out, I forced myself outside again.
+**Captivity 1945**  
+There was nothing, absolutely nothing, I could do to help my comrades. I was so weak I could barely keep myself upright. “This is a house of death,” I told myself. With my last bit of strength I dragged myself to the stairwell. After a few hours out in the open air, and with my comrades’ help, I made it back to my bunk. The fresh air had done me good.  
+The next day, after the bread was handed out, I forced myself to go outside again.
 
 "Just don’t give up."
 
 </div>
 </div>
+
+---
+
+Status: 🔎
 
 ![P10.jpg](/assets/images/pappa/P10.jpg){ width="200" }
 
@@ -401,7 +678,7 @@ The next day, after the bread was handed out, I forced myself outside again.
 
 
 
-### [1945] Flucht 🔎
+### 1945: Flucht
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -425,14 +702,18 @@ The last cars were behind him. He kept the same pace. No guards in sight. Just d
 As a pilot, K had a good sense of direction. Breathe this wonderful air in deep. Larks sang overhead. It was very still—no one around. Only nature in its purity. The shooting war was finally over. A feeling of peace and freedom came over K. His thought was: get home fast and see who survived the horror.
 
 After a few hundred meters he stopped. 
-*'What kind of idiot buried his “treasures” right in the middle of the track?'*
+*"What kind of idiot buried his 'treasures' right in the middle of the track?"*
 
-As he came closer he realised, “Man, those must be mines.”
+As he came closer he realised, “Man, those must be landmines.”
 
 There were crates with three cylinders; the lids had been removed.
 
 </div>
 </div>
+
+---
+
+Status: 🔎
 
 ![P15.jpg](/assets/images/pappa/P0.jpg){ width="200" }
 
@@ -445,7 +726,7 @@ There were crates with three cylinders; the lids had been removed.
 
 
 
-### [REV.] Weg nach West 🔎
+### [REV.] Weg nach West
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -467,9 +748,60 @@ The way to the west exit was made even harder by the coarse ballast of the track
 </div>
 </div>
 
+---
+
+Status: 🔎
+
 ![P5.jpg](/assets/images/pappa/P5.jpg){ width="200" }
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
+
+
+
+
+
+
+
+
+### 1945: Dortmund
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+
+**[Auf Deutsch]**  
+
+**Jan 1945 - In Dortmund**  
+Die Züge waren eiskalt. Durch Bord waffen Besohüssedei Amerikaner waren die meisten Fenster zerschoßen. Von Düssßeldorf nach Dortmund war es nicht so weit. Der Zug hielt aber sweimal wegen Fliegeralarm. Alles musste in einen Bunker. Die Mitreisenden schauten K vorwürfsvoll an.  
+"Was machst Du hier in diesen Bunker? Du solltest uns in der Luft verteidigen."
+
+In Dortmund wehielt er seinen Flugbefehl nun nach Halle. Das war noch 15 km von seiner Heimatstadt entfernt. Als Katsch maret wurde Ihn ein hübscher blobder JGefreter befuhlen. Dder so anssah wie Ka. gerne am Abend vor ihrem Flug trafen sie sich in der Kantine. Heinz spielte auf dem Klavier. Lustige Lieder man sang war vergnügt und die Herzen der unwesenden Mädchen waren natürlich den langen Heim zugetan.  
+
+</div>
+<hr>
+<div class="column column--right" markdown>
+
+**[ English Version ]**  
+
+**January, 1945 - Dortmund**  
+The trains were ice-cold. Most of the windows had been shot out by strafing from American aircraft. It wasn’t far from Düsseldorf to Dortmund, but the train stopped twice because of air-raid alerts. Everyone had to go into a bunker. The fellow passengers looked at K reproachfully.  
+“What are you doing in this bunker? You should be up there defending us in the air.”
+
+In Dortmund he received new flight orders: he was now heading to Halle. That was still 15 km from his hometown. He was assigned a handsome blond private first class as his Katschmarek (wingman), who even looked a bit like K. In the evenings before their flights they’d meet in the canteen. Heinz played the piano; there were jaunty songs, people sang and made merry, and the hearts of the girls present were, of course, set on tall Heinz.  
+
+</div>
+</div>
+
+---
+
+Status: 🔎
+
+![P13.jpg](/assets/images/pappa/P13.jpg){ width="200" }
+
+<hr style="height:20px;border-width:0;color:black;background-color:black">
+
+
+
+
 
 
 
@@ -493,7 +825,7 @@ The way to the west exit was made even harder by the coarse ballast of the track
 
 ## Post-War
 
-### [1946] Herbst ✅
+### 1946 Herbst
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -502,7 +834,7 @@ The way to the west exit was made even harder by the coarse ballast of the track
 
 **Herbst 1946**  
 Ein Herbst des Hungers. O ihr lieber Leser wußt ihr was Hunger ist. Ist mein Hunger groß geschrieben. Es zieht sich durch Deine Gedärme. Ja, Hunger tut weh. Es ist ein Schmerz ganz nah zu Deine Seele.  
-"Unser täglich Brot gieb uns Heute." Da ist nichtmal keine einzige Krußt. Am Morgen stehst Du auf und mußt Dich erst auf die Bettkante setzen. Es wird Dir schwarz vor die Augen und es daurt schon eine Weile bevor Du aufstehen kannst. Da Hemd klebt am Leibe. Von och nächte haß geschwitzt. Ver je sein Brot mit Tränen es wer ein Kummervollen Nächten auf seinem Bett weinend sas der Kennt Euch nicht ihr himmlichen Mächte.  
+"Unser täglich Brot gieb uns Heute." Da ist nichtmal keine einzige Krußt. Am Morgen stehst Du auf und mußt Dich erst auf die Bettkante setzen. Es wird Dir schwarz vor die Augen und es daurt schon eine Weile bevor Du aufstehen kannst. Da Hemd klebt am Leibe. Von och nächte haß geschwitzt. Wer nie sein Brot mit Tränen aß wer ein Kummervollen Nächten auf seinem Bett weinend sas der Kennt Euch nicht ihr himmlichen Mächte.  
 Ja, das waren die guten alten Zeiten. Die hatten noch Brot. Was uns geblieben waren nur Tränen und dieser verfluchte Hunger. K. wartete schon 10 Minuten auf seinen Freund Fritz. Es war nachts 2:00 Unr. Beide arbeiteten eine 48 Stunden Woche. Für den verdient kannten Beiden nicht die nötigen Lebensmittel kaufen. So mußten sie Nachts sich stehlen was ihnen einfach für eine normale Nahrung fehlte.  
 
 ---
@@ -518,34 +850,32 @@ Es war eine warme Herbstnacht. Die Sterne blichten auf sie herab. Als sie näher
 
 **[ English Version ]**  
 
-**Faithful translation**  
-An autumn of hunger. O dear reader, do you know what hunger is? My Hunger is written with a capital letter. It pulls through your guts. Yes, hunger hurts. It is a pain very close to your soul.  
+**Autumn 1946**  
+An autumn of hunger. Dear reader, do you know what hunger is? Mine deserves a capital letter. It winds through your guts. Hunger hurts, a pain pressed right up against your soul.  
 
-“Give us this day our daily bread.” There isn’t even a single crust. In the morning you get up and first have to sit on the edge of the bed. It goes black before your eyes and it takes a while before you can stand. The shirt sticks to your body. From the nights you’ve sweated. Whoever has ever eaten his bread with tears, whoever sat weeping through sorrowful nights on his bed—he does not know you, you heavenly powers.  
+“Give us this day our daily bread.” Not even a crust remains. In the morning you heave yourself upright only to sit on the edge of the bed. You feel like you're going to pass out; it takes a while before you can stand up. Your shirt clings to your skin: you’ve sweated through the night.  
+“Whoever has never eaten his bread with tears, whoever has sat weeping on his bed, does not know you, oh heavenly powers.”  
 
-Yes, those were the good old days. They still had bread. What remained to us were only tears and this accursed hunger. K. had already been waiting ten minutes for his friend Fritz. It was two o’clock at night. Both worked a forty-eight-hour week. With what they earned the two of them couldn’t buy the food they needed. So at night they had to steal what they simply lacked for ordinary nourishment.  
+Yes, those were the so-called good old days; at least they had bread. All that’s left to us are tears and this damned hunger. K. had already been waiting ten minutes for his friend Fritz.
 
-**Literary rendering**  
+It was two in the morning. Both worked forty-eight hours a week, yet on their wages they couldn’t buy enough to eat. So, by night, they stole what they needed simply to survive.  
 
-An autumn of hunger. Dear reader, do you know what hunger is? Mine deserves a capital letter. It winds through your guts. Hunger hurts—a pain pressed right up against your soul.  
+---
 
-“Give us this day our daily bread.” Not even a crust remains. In the morning you heave yourself upright only to sit on the edge of the bed. The world goes black; it takes a while before you can stand. Your shirt clings to your skin—you’ve sweated through the night. “Whoever has eaten his bread with tears, whoever has spent sorrowful nights weeping on his bed—he does not know you, you heavenly powers.”  
+K. heard Fritchen coming. His step was easy to distinguish from anyone else’s. Fritz had sustained a leg injury in the war, and ended up lame: he dragged one leg a little. Silent, [mua?] went toward a certain aim. In the last days they had always preferred going to his potato field and had neatly harvested the potatoes, one furrow after the other.  
 
-Yes—those were the so-called good old days; at least they had bread. All that’s left to us are tears and this damned hunger. K. had already been waiting ten minutes for his friend Fritz. It was two in the morning. Both worked forty-eight hours a week, yet on their wages they couldn’t buy enough to eat. So, by night, they stole what they needed simply to survive.  
-
-*Translator’s note: the quoted lines echo Goethe’s famous verse (“Wer nie sein Brot mit Tränen aß …”), though here it’s recalled imperfectly. If you’d like, I can normalise the quotation or keep it as-is for authenticity.*
-
+It was a warm autumn night. The stars looked down on them. As they came nearer to the area of their activity, a dog, tail wagging, came towards the [Rute?]. K. knelt at once to assess the situation. At the same time he took the dog’s head and stroked it.  
+Fritz and K sliently listened to a peculiar noise coming from the potato field. It was the farmer, watching over his potato crop, together with his dog. *Editor's note: He must have fallen asleep and so what K and Fritchen heard was him snoring.* As K pet the dog, Fritz filled his sacks with potatoes.  
+K kept stroking the mutt. The poor dog probably got nothing but beatings from the brutal farmer. A pleasant purring escaped his [throat?].  
   
-
-*AI thought for 57 seconds...*
-
-K. heard Fritchen coming. His step was easy to [distinguish?] from another’s. Fritz had a leg injury from the war and dragged one leg a little. Silent, [mua?] went toward a certain aim. In the last days they had always preferred going to his potato field and had neatly harvested the potatoes, one furrow after the other.  
-
-It was a warm autumn night. The stars looked down on them. As they came nearer to the area of their activity, a dog, tail wagging, came toward the calm. K. knelt at once to be better able [to see] what is going on here. At the same time he took the dog’s head and stroked it. Fritz and I. were very quiet and listened to what this peculiar noise was that was coming out of the potato field. Well, it was the farmer who was watching over his potatoes together with his dog. K. petted the dog and Fritz took his sacks to fill them with potatoes. Of course K. was still stroking this “bait” [sic]. This poor dog-beast had possibly always got nothing but beatings from his stubborn farmer. A pleasant purring escaped his [throat?].  
-  
+(Yeah, this still needs work.)
 
 </div>
 </div>
+
+---
+
+Status: 🔎
 
 ![P4.jpg](/assets/images/pappa/P4.jpg){ width="200" }
 ![P4p.jpg](/assets/images/pappa/P4p.jpg){ width="200" }
@@ -561,7 +891,7 @@ It was a warm autumn night. The stars looked down on them. As they came nearer t
 
 
 
-### [19__] Nach dem Kreig 🔎
+### 19??: Nach dem Kreig
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -583,9 +913,13 @@ There were about 13,000 prisoners in the Tschenstochau camp. It had been built b
 </div>
 </div>
 
+---
+
+Status: 🔎
+
 ![P9.jpg](/assets/images/pappa/P9.jpg){ width="200" }
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:20px;border-width:0;color:black;background-color:black">
 
 
 
@@ -597,7 +931,23 @@ There were about 13,000 prisoners in the Tschenstochau camp. It had been built b
 
 
 
-### [REDO] 12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Still to Sort
+
+### 1945 [REDO] 12
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -617,6 +967,10 @@ There were about 13,000 prisoners in the Tschenstochau camp. It had been built b
 </div>
 </div>
 
+---
+
+Status:
+
 ![P12.jpg](/assets/images/pappa/P0.jpg){ width="200" }
 ![P12.jpg](/assets/images/pappa/P0.jpg){ width="200" }
 
@@ -630,50 +984,13 @@ There were about 13,000 prisoners in the Tschenstochau camp. It had been built b
 
 
 
-
-
-
-### [1945] Dortmund 🔎
+### 19??: Neiße 14
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
 
 **[Auf Deutsch]**  
 
-**Jan 1945 - In Dortmund**  
-Die Züge waren eiskalt. Durch Bord waffen Besohüssedei Amerikaner waren die meisten Fenster zerschoßen. Von Düssßeldorf nach Dortmund war es nicht so weit. Der Zug hielt aber sweimal wegen Fliegeralarm. Alles musste in einen Bunker. Die Mitreisenden schauten K vorwürfsvoll an.  
-"Was machst Du hier in diesen Bunker? Du solltest uns in der Luft verteidigen."  
-In Dortmund wehielt er seinen Flugbefehl nun nach Halle. Das war noch 15 km von seiner Heimatstadt entfernt. Als Katsch maret wurde Ihn ein hübscher blobder JGefreter befuhlen. Dder so anssah wie Ka. gerne am Abend vor ihrem Flug trafen sie sich in der Kantine. Heinz spielte auf dem Klavier. Lustige Lieder man sang war vergnügt und die Herzen der unwesenden Mädchen waren natürlich den langen Heim zugetan.  
-
-</div>
-<hr>
-<div class="column column--right" markdown>
-
-**[ English Version ]**  
-
-The trains were ice-cold. Most of the windows had been shot out by strafing from American aircraft. It wasn’t far from Düsseldorf to Dortmund, but the train stopped twice because of air-raid alerts. Everyone had to go into a bunker. The fellow passengers looked at K reproachfully.
-“What are you doing in this bunker? You should be up there defending us in the air.”
-
-In Dortmund he received new flight orders—now to Halle. That was still 15 km from his hometown. He was assigned a handsome blond private first class as his Katschmarek (wingman), who even looked a bit like K. In the evenings before their flights they’d meet in the canteen. Heinz played the piano; there were jaunty songs, people sang and made merry, and the hearts of the girls present were, of course, set on tall Heinz.  
-
-</div>
-</div>
-
-![P13.jpg](/assets/images/pappa/P13.jpg){ width="200" }
-
-<hr style="height:4px;border-width:0;color:black;background-color:black">
-
-
-
-
-
-
-### [19__] Neiße 14
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-**[Auf Deutsch]**  
-**--**  
 Ja, das war der Standanim??? von Neiße. Fünf Monate zuvor hatte er diesen überflagen. Er konnte sich noch genau an die beiden Türm-(cut off word) and der Staumauer??? erinern. Hnehandie??? FW 190 die damals auf den zugefrorenen See notgelandet war. Da war ein Zug den nach Westen fuhr. Schon seit Stunden sass er in den Büschen und wartete. Die Bahnhofsgebäude waren auf der andere Seite.  
 K hatte blasen an den Füßen von den vielen Laufen der letzten Tage. Die Sehnsucht bald nach Hause zu kommen war eben doch stürte als alle Vorsicht. Als die Lok endlich nach langen Warten sich in Bewegung setzte, sprang er auf und erklamm die Leiter des Tenders. Zwei paar Augen schauten ihn an. Aber er wußte es wareb deutsche Eisenbahnen die diese Lok fuhren. Er hatte eben lange genug gehord und sie deutsch sprechen hören. Dann machte K einen großen Fehler. Die Neugier zwang ihn über die kante zu schauen und da waren die Fauste eines russischen Offiziers. Nun so leicht war K nicht einzuschluchtern. Hatte er doch schon Einiges hinter sich. Der Zu fuhr sehr langsam. Das Schild Blumen pflücken wärend der Fahrt wäre angebracht genese-(cut-off word). Die Eisenbahner beachteten ihn als wäre er nicht vorhanden. Ein Jeder hatte Angst con den Anderen.   
 Hätte K gewußte was ihm in der Endstation blüht hätte er sich...  
@@ -705,6 +1022,10 @@ Jedoch diese armen Menschen wären schon nach den ersten Kilometern erschöpft g
 </div>
 </div>
 
+---
+
+Status:
+
 ![P14.jpg](/assets/images/pappa/P14.jpg){ width="200" }
 ![P14+.jpg](/assets/images/pappa/P14p.jpg){ width="200" }
 
@@ -717,10 +1038,11 @@ Jedoch diese armen Menschen wären schon nach den ersten Kilometern erschöpft g
 
 
 
-### [REDO] 16
+### 1945 [REDO] 16
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
+
 **[Auf Deutsch]**  
 **1945**  
 [ *The first half is unreadable - needs to be photographed, not scanned* ]  
@@ -729,13 +1051,21 @@ Nach den allen was ich erlebt hatte war es doch nur eine kleine Episode der Krau
 <hr>
 "...der Martini wartet für Dich." War wie angenehme Luft schlug mir entgegen als ich die Tür zur Werst öfnet. Wärme war ein Luxus wie etwas zu eßen in diese Zeiten. Ich schaute mich und sagte 'Schmahlzeit', den das Wort 'Mahlzeit' war nicht angebr. den neimand aß etwas nicht weil Keiner Hunger hatte. Der war genugend verhanden. Niemand hatte etwas zu Eßen. Die Stimmung war Bedruhend.  
 Martini schaute mich trumphierend an, als hätte er gerade in die Lotterie gewonnen. Mit einen diebischen Gesicht begrüßte er mich mit "Heil Hitler". Das war natürlich ironisch gemeint. Jadoch wußte ich gleich wo ich den Hebel ansetzen konnte.  
+
 </div>
-<hr>
+
+---
+
 <div class="column column--right" markdown>
+
 **[ English Version ]**  
-  
+
 </div>
 </div>
+
+---
+
+Status:
 
 ![P16.jpg](/assets/images/pappa/P0.jpg){ width="200" }
 ![P16+.jpg](/assets/images/pappa/P0.jpg){ width="200" }
@@ -752,21 +1082,45 @@ Martini schaute mich trumphierend an, als hätte er gerade in die Lotterie gewon
 
 
 
-### [19__] Lungenentzündung 18
+### 19??: Lungenentzündung 18
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
-**[Auf Deutsch]**  
-**--**  
-Meine Lungenentzündung hatte den 9. Tag überschritten. Pror Tantz (Tautz?) sagte: "Wenn du den Tag überlebst hast du es geschaft." Das Fieber war normal. Nur war ich noch sehr schlapp.  
-Mein Kammerad neben mir zeigte mir ein Bild. Ein Mann eine sehr schöne Frau und zwei herzliche Kinder. Nun wer ist das. Die Kinder saßen auf einen Opel Kadett. Das bin ich mit meine Familie. Der Mann neben mir war mal das gewesen. Er hatte nicht die geringste Änlichkeit mit den Vater der Familie.  
+
+**[Auf Deutsch]**
+
+Meine Lungenentzündung hatte den 9. Tag überschritten. Pror Tantz (Tautz?) sagte:  
+"Wenn du den Tag überlebst hast du es geschaft."
+Das Fieber war normal. Nur war ich noch sehr schlapp.  
+
+Mein Kammerad neben mir zeigte mir ein Bild. Ein Mann eine sehr schöne Frau und zwei herzliche Kinder.  
+Nun wer ist das.  
+Die Kinder saßen auf einen Opel Kadett.  
+  Das bin ich mit meine Familie. Der Mann neben mir war mal das gewesen. Er hatte nicht die geringste Änlichkeit mit den Vater der Familie.  
+
 </div>
-<hr>
+
+---
+
 <div class="column column--right" markdown>
-**[ English Version ]**  
-  
+
+**[ English Version ]**
+
+My pneumonia had gone past the ninth day. Prof. Tantz (Tautz?) said,  
+“If you get through today, you’ve made it.”  
+My temperature was back to normal. I was just still very weak.  
+
+My comrade sitting next to me showed me a photo of a man, a very beautiful woman and two darling, lovely children.  
+"Who is that?"  
+The children were sitting on an Opel Kadett.  
+“That’s me with my family,” he said. This man sitting beside me was once that man. He didn’t bear the slightest resemblance to the man in the picture, now.  
+
 </div>
 </div>
+
+---
+
+Status:
 
 ![P18.jpg](/assets/images/pappa/P18.jpg){ width="200" }
 
@@ -777,84 +1131,36 @@ Mein Kammerad neben mir zeigte mir ein Bild. Ein Mann eine sehr schöne Frau und
 
 
 
-### [19__] 1. Sonoma 19
+
+### 19??: Flieger 20
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
+
 **[Auf Deutsch]**  
-**1**  
-Letzten Sonntag war ich mit meiner Freundin auf den Sonoma Flugplatz. Zur Schau waren antike Autos und Fluzeuge. Es waren unter vielen Anderen auch der Texan Trainer. Das Ding habe ich in der d. Luftw. (deutsche Luftwaffe) geflogen. Nur war es ein älteres Modell.  
-Später kamen wir in ein Gespräch mit einem jungen Ehepaar. Wie es sonst ich kam ins Erzählen. Am Schuß mußte den lieben Leuten Versprechen ein Buch darüber zu schreiben. Ein wirklicher Opfel bei meiner Schreibfaulheit.  
-Wo soll ich nun anfangen. Auf meine Geburt kann ich mich beim besten Willen nicht mehr erinnern. Als kleiner Junge hatte ich oft ganz schlimme Träume. Die Ärzte sagten "Das Kind träumt von seiner Geburt." Es ist vielleicht gut, daß wir nichts davon wißen. Sonst hätten wir einen Schreck fürs ganze Leben.  
 
-</div>
-<hr>
-<div class="column column--right" markdown>
-**[ English Version ]**  
-  
-</div>
-</div>
-
-![P19.jpg](/assets/images/pappa/P19.jpg){ width="200" }
-
-<hr style="height:4px;border-width:0;color:black;background-color:black">
-
-
-
-
-
-
-### [19__] Flieger 20
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-**[Auf Deutsch]**  
-**--**  
 Dieser Steiner war eine verklemmte Person. Neimand nahm ihm richtig vor voll. Ich aber hatte nur noch 2 1/2 Wochen Zeit mein zu fliegen. Wie ich das eigenlich geschaft habe weiß ich bis heute noch nicht. Steiner war ein ausgezeichneter Ausbilder und pilot. Wir flogen das Gropanbabey. Es waren keine doppelsitzer zur verfügung. Oft dacht ich an Hern Münch etweder ihr fliegt entweder ihr fliegt oder fallt auf die Schnauze.  
 Nun einen von uns war nicht so glücklich oder genieft wie wir. Ein Ein gewißen Bone. Der arme Jung war ein Stotterer und mußte vielen Spott ertragen. Wer weiß ob es Selbsmord war oder nur Verkramfgung. Bei einem Hochstart schob er den Knüppel vorn. In eine negativen von etwa 10 krachte er in die Grasnarbe. In meinen ganzen Leben habe ich Angsträuns gehabt. Und jede gemieden.  
 
 </div>
-<hr>
+
+---
+
 <div class="column column--right" markdown>
+
 **[ English Version ]**  
-  
+
 </div>
 </div>
+
+---
+
+Status:
 
 ![P20.jpg](/assets/images/pappa/P20.jpg){ width="200" }
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
-
-
-
-
-### [1941] Sommer 21
-
-<div class="flex-container" markdown>
-<div class="column column--right" markdown>
-**[Auf Deutsch]**  
-**Sommer (19)41**  
-Meine 'B' in Segelf'ng hatte ich doch endlich erreicht. Man schickte mich nach ???Punsahran???. Das lag an der Saare ufer gegen über von den Bergen Saileck?.  
-Das ganze Ausbildunds program eine Katastrophe. Die Flulehrer waren nicht da. Nur von deer partei oder Hitler Jugend irgendwelche sogenannte Fürungsqualitäten schmißen sich in die Brust und fanden Wege was das Leben mit Exzerzieren und Schulung sauer zu machen. Zu nächst flüchtete mich aus dieser Kamalitait in die Küche. Aus meiner Landjahr Erfahrung war doch etwas hängen geblieben wie man für viele Menschen kocht. Da war zunächs ein Glück für mich. Die andere Kammeraden marschieren nach Preußischen Drill.  
-Allerdings nach drei Tagen änderte sich das Ganze. Die Flulehrer waren eingetroffen. Der Flugbetrieb fing an. Mit meiner langen Erfahrung auf den Flugplätzer ware ich doch sicher eine große Hilfe gewesen.  
-<hr>
-Wer würde aber auf mich hören. Zunacht arbeitete ich noch in der Küche. Der Küchenbulle war ein Schweinskopf stets darauf bedacht sein machtstellung an uns kleinen Scheisern auszunutzen und uns schikanieren. Meine Knoera? den sagte "Mensch, laß doch nur des Eßen anbrennen." Das ging nur leider nicht. Denn die Keßel waren mit Glitzerin.  Am nächsten Tag hatte ich einen guten Einfall. 10 Pfn und Salz. Keiner konnte den Eintopf fresen. Natürlich hatte ich nichts damit zu tun. Trotzdem schob man mich ab. Mehr als eine Woche von deisen Lehrgang waren schon vorbei. Zuruck zum Flugbetrieb war ich wieder auf der Warteliste. Schon am ersten Tag hatten wir ein.  
-<br>
-Herr Steiner ich habe gesehen wie Sie diese gefahliche Situation gemeistert haben. 
-<br>Steiner: Sie wißen wie man darüber denkt. Ja den ich habe es gesehen.  
-</div>
-<hr>
-<div class="column column--right" markdown>
-**[ English Version ]**  
-  
-</div>
-</div>
-
-![P21.jpg](/assets/images/pappa/P21.jpg){ width="200" }
-![P21p.jpg](/assets/images/pappa/P21p.jpg){ width="200" }
-
-<hr style="height:4px;border-width:0;color:black;background-color:black">
 
 
 
@@ -887,84 +1193,6 @@ Herr Steiner ich habe gesehen wie Sie diese gefahliche Situation gemeistert habe
 
 
 
-### [1940] Prüfung 23
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-**[Auf Deutsch]**  
-**Sommer 1940 - Die 'A' Prüfung**  
-Sein Entschuß einmal Flieger zu werden hatte K schon als kleiner Junge getroffen. Eingespert im Hinterhof von Haus Cofa. sah er eben nur eine Freiheit nach oben. Jeden Mittag flog ein alter klappriger Doppeldecker nach Schleuditz. Krenkte sich den Hals aund rief: "Flieger flieger..." Ja, fliegen mußte man können dann wäre man aus dieser banalen Lebenweise heraus.  
-Bald hatt er auch die Gelegenheit bei einer Flugveranstaltung Zeuge zu sein. Vaters Arbeitskollege hatte sich zu Hause einen Flugaparat zusammen gebastelt und würde das Ding am Sonntag Morgen ausprobieren. Im Süden Merseburgs war ein Geländer das man Exerzierplatz nannte. Später war es im 1 WK (ersten Weltkreig) Gefangenenlager für Russen. Die meisten Baracken waren abgerißen worden. Also war genug Raum auf einem Boden der festgetrampelt wurde für einen Flugplatz. Der Piloteur hatte sich genau auskaldowert wie er diese kurze Strecke ausnützen konnte.   
-<hr>
-  
-</div>
-<hr>
-<div class="column column--right" markdown>
-**[ English Version ]**  
-  
-</div>
-</div>
-
-![P23.jpg](/assets/images/pappa/P23.jpg){ width="200" }
-
-<hr style="height:4px;border-width:0;color:black;background-color:black">
-
-
-
-
-
-
-### [1939] Erbgut 24
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-**[Auf Deutsch]**  
-**1939**  
-Erbgut in die Höhere Stellen gelangen. Im Landjahr hatten wir in den Schulungsabenden vieles darüber gelernt. Was mich eben nur sehr wunderte war, warum gerade ein so kleiner dicker Glatzkopf der überhaupt nichts Nordisches an sich hatte über raßisches Erbgut zu entscheiden hatte. In der nächsten Sitzung wurde dann entschiweden, da ich als technischer Zeichner bei der Firma Rech Heizung und Sanitäre Anlagen Anfang Januar 93 anzutreten hatte. Das erste Jahr war ein Praktisches. Also mußte ich an Ban arbeiten.  
-
-</div>
-<div class="column column--right" markdown>
-**[English Version]**  
-</div>
-</div>
-
-![P24.jpg](/assets/images/pappa/P24.jpg){ width="200" }
-
-<hr style="height:4px;border-width:0;color:black;background-color:black">
-
-
-
-
-
-
-
-### [19__] Installateur 25
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-**[Auf Deutsch]**  
-**1939**  
-Die Lehre als Gas und Waßer Installateur war mir praktisch aufgezwungen worden. Der Berufsberater hatte meinen Vater und mich für eine Stundige Sitzung vergelanden. Da ich aus einer Familie von Handwerkern stammte, kam für mich natürlich nur ein handwerklicher Beruf in Frage. Ja, aber welche.  
-Als man endlich mal mich fragte, bat ich ganz schüctern ob ich Goldschmied werden könnte. Ein mitleidiges Lächeln war die Antwort.  
-"Der Junge hat zu viele Märchen gelesen."  
-Mit rassischen Betrachtungen wurde die Sitzung fortgesetzt. Natürlich konnten nur Menschen mit nordischen  
-<hr>
-...ENDS ABRUPTLY  
-
-</div>
-<div class="column column--right" markdown>
-**[English Version]**  
-</div>
-</div>
-
-![P25.jpg](/assets/images/pappa/P25.jpg){ width="200" }
-
-<hr style="height:4px;border-width:0;color:black;background-color:black">
-
-
-
-
-
 ### [REDO] 26
 
 <div class="flex-container" markdown>
@@ -989,7 +1217,7 @@ Mit rassischen Betrachtungen wurde die Sitzung fortgesetzt. Natürlich konnten n
 
 
 
-### [19__] Lungenentzündung 27
+### 19??: Lungenentzündung 27
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -1011,10 +1239,53 @@ Nach 3 x 4 Tagen war es eine Selbstverständlichkeit die Pritsche zu meiden. Pro
 
 
 
+
+
+
+
+### 19??: 1. Sonoma 19
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+
+**[Auf Deutsch]**  
+**1**  
+Letzten Sonntag war ich mit meiner Freundin auf den Sonoma Flugplatz. Zur Schau waren antike Autos und Fluzeuge. Es waren unter vielen Anderen auch der Texan Trainer. Das Ding habe ich in der d. Luftw. (deutsche Luftwaffe) geflogen. Nur war es ein älteres Modell.  
+Später kamen wir in ein Gespräch mit einem jungen Ehepaar. Wie es sonst ich kam ins Erzählen. Am Schuß mußte den lieben Leuten Versprechen ein Buch darüber zu schreiben. Ein wirklicher Opfel bei meiner Schreibfaulheit.  
+Wo soll ich nun anfangen. Auf meine Geburt kann ich mich beim besten Willen nicht mehr erinnern. Als kleiner Junge hatte ich oft ganz schlimme Träume. Die Ärzte sagten "Das Kind träumt von seiner Geburt." Es ist vielleicht gut, daß wir nichts davon wißen. Sonst hätten wir einen Schreck fürs ganze Leben.  
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+
+**[ English Version ]**  
+
+</div>
+</div>
+
+---
+
+Status:
+
+![P19.jpg](/assets/images/pappa/P19.jpg){ width="200" }
+
+<hr style="height:4px;border-width:0;color:black;background-color:black">
+
+
+
+
+
+
+
+
+
 ### [REV.] 28
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
+
 **[Auf Deutsch]**  
 **--**  
 Als seine Mutter Tage später die noch nicht verheilte Wunde [sahjogten] K. nun im [Landkosten] einmal [zerbrochen] [Flaschen]. Ein neues Verbot night mehr im [Somolharten] zu spielen tat ihn nicht weh. Das letzte Erlebnis bendete seine Kindheit.  
@@ -1023,10 +1294,19 @@ K Mutter kam mit Frau [LL] überein, daß K. ihr Goldsohn jeden Morgen zum Schul
 "Du kannst wohl nicht Tringeln."  
 
 </div>
+
+---
+
 <div class="column column--right" markdown>
+
 **[English Version]**  
+
 </div>
 </div>
+
+---
+
+Status:
 
 ![P28.jpg](/assets/images/pappa/P28.jpg){ width="200" }
 
@@ -1035,54 +1315,6 @@ K Mutter kam mit Frau [LL] überein, daß K. ihr Goldsohn jeden Morgen zum Schul
 
 
 
-
-
-### [1924] 29
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-**[Auf Deutsch]**  
-**1924**  
-Meine Eltern hatten im Hause Coja eine kleine Wohnung im obersten Stockwerk mit schägen Wänden gemietet. Im selben Hause lebten auch die Eltern meines Vaters.  
-
-</div>
-<div class="column column--right" markdown>
-**[English Version]**  
-</div>
-</div>
-
-![P29.jpg](/assets/images/pappa/P29.jpg){ width="200" }
-
-<hr style="height:4px;border-width:0;color:black;background-color:black">
-
-
-
-
-
-
-
-
-
-### [1924] Das Haus Cojas 30
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-**[Auf Deutsch]**  
-**1924 Das Haus Cojas**  
-**Merseburg [Sand] 6, 1924**  
-Es war für die damalig Zeit ein stattlichen Anwesen. Warum Sand fanden die Leute erst heraus nachdem die Amerikanern einige Bomben in der Nachbarschaft fallen liesen. Der Untergrund war ein feiner weiser Sand.  
-Nun an den Bewohnern im Vorderhaus waren so zuzagen der beßere Klöbs.  
-Nr. 1, der Eigentümer... Die Cojas. Herr Coja war ein Riese von einen Mann. Also seine Söhne. Seine Frau war eine magere Gestalt ohne Zähne mit glattgescheiteten Haar und einen kleinen Knoten im Genick. Der Geist des Hauses. Neben K Eltern wohnten die Rhodes. Wirlich sehr liebe nette Leute. Der Vater war ein [Bergmann] und spielte in der Bergmanskappelle als Pfeifer. K [Stolz] war jedesmal wenn der Herr Rhode in Schützenverein mitspielte Sein Sohn. K. nannte Onkel Max war der Freund seines Vaters. Seine Frau Tante lotte war ein Engel vom Himmel. Die Freundin K.[Sluften].  
-
-</div>
-<div class="column column--right" markdown>
-**[English Version]**  
-</div>
-</div>
-
-![P30.jpg](/assets/images/pappa/P30.jpg){ width="200" }
-
-<hr style="height:4px;border-width:0;color:black;background-color:black">
 
 
 
@@ -1158,3 +1390,4 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 
 <hr style="height:8px;border-width:0;color:black;background-color:black">
 
+[Back to the Main Page](../index.md)
