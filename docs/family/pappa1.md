@@ -852,12 +852,13 @@ Es war eine warme Herbstnacht. Die Sterne blichten auf sie herab. Als sie näher
 **[ English Version ]**  
 
 **Autumn 1946**  
-An autumn of hunger. Dear reader, do you know what hunger is? Mine deserves a capital letter. It winds through your guts. Hunger hurts, a pain pressed right up against your soul.  
+An autumn of hunger. Dear reader, do you know what hunger is? I write "Hunger" in all caps. It winds through your guts. Hunger hurts, a pain pressed right up against your soul.  
 
-“Give us this day our daily bread.” Not even a crust remains. In the morning you heave yourself upright only to sit on the edge of the bed. You feel like you're going to pass out; it takes a while before you can stand up. Your shirt clings to your skin from the night-sweats.  
+“Give us this day our daily bread.” Not even a crust remains. In the morning you force yourself upright, only to sit on the edge of the bed for a spell, feeling like you're about to pass out. It takes a while before you can stand up. Your shirt clings to you, soaked from the night-sweats.  
+
 “Whoever has never eaten his bread with tears, whoever has sat weeping on his bed during a worrisome night, does not know you, oh heavenly powers.”  
 
-Yes, those were the good old days. At least they had bread in those times. Now all we have are tears and this damned hunger. 
+Yes, those were the good old days. They had bread in those days. Now all we have are tears and this damned hunger. 
   
 K had already been waiting ten minutes for his friend Fritz. It was two in the morning. Both worked forty-eight hours a week, yet on their wages they couldn’t buy enough to eat. So, some nights they would steal food just to survive.  
 
