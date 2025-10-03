@@ -835,7 +835,8 @@ Status: 🔎
 **Herbst 1946**  
 Ein Herbst des Hungers. O ihr lieber Leser wußt ihr was Hunger ist. Ist mein Hunger groß geschrieben. Es zieht sich durch Deine Gedärme. Ja, Hunger tut weh. Es ist ein Schmerz ganz nah zu Deine Seele.  
 "Unser täglich Brot gieb uns Heute." Da ist nichtmal keine einzige Krußt. Am Morgen stehst Du auf und mußt Dich erst auf die Bettkante setzen. Es wird Dir schwarz vor die Augen und es daurt schon eine Weile bevor Du aufstehen kannst. Da Hemd klebt am Leibe. Von och nächte haß geschwitzt. Wer nie sein Brot mit Tränen aß wer ein Kummervollen Nächten auf seinem Bett weinend sas der Kennt Euch nicht ihr himmlichen Mächte.  
-Ja, das waren die guten alten Zeiten. Die hatten noch Brot. Was uns geblieben waren nur Tränen und dieser verfluchte Hunger. K. wartete schon 10 Minuten auf seinen Freund Fritz. Es war nachts 2:00 Unr. Beide arbeiteten eine 48 Stunden Woche. Für den verdient kannten Beiden nicht die nötigen Lebensmittel kaufen. So mußten sie Nachts sich stehlen was ihnen einfach für eine normale Nahrung fehlte.  
+Ja, das waren die guten alten Zeiten. Die hatten noch Brot. Was uns geblieben waren nur Tränen und dieser verfluchte Hunger.  
+K wartete schon 10 Minuten auf seinen Freund Fritz. Es war nachts 2:00 Unr. Beide arbeiteten eine 48 Stunden Woche. Für den verdient kannten Beiden nicht die nötigen Lebensmittel kaufen. So mußten sie Nachts sich stehlen was ihnen einfach für eine normale Nahrung fehlte.  
 
 ---
 
@@ -853,12 +854,12 @@ Es war eine warme Herbstnacht. Die Sterne blichten auf sie herab. Als sie näher
 **Autumn 1946**  
 An autumn of hunger. Dear reader, do you know what hunger is? Mine deserves a capital letter. It winds through your guts. Hunger hurts, a pain pressed right up against your soul.  
 
-“Give us this day our daily bread.” Not even a crust remains. In the morning you heave yourself upright only to sit on the edge of the bed. You feel like you're going to pass out; it takes a while before you can stand up. Your shirt clings to your skin: you’ve sweated through the night.  
-“Whoever has never eaten his bread with tears, whoever has sat weeping on his bed, does not know you, oh heavenly powers.”  
+“Give us this day our daily bread.” Not even a crust remains. In the morning you heave yourself upright only to sit on the edge of the bed. You feel like you're going to pass out; it takes a while before you can stand up. Your shirt clings to your skin from the night-sweats.  
+“Whoever has never eaten his bread with tears, whoever has sat weeping on his bed during a worrisome night, does not know you, oh heavenly powers.”  
 
-Yes, those were the so-called good old days; at least they had bread. All that’s left to us are tears and this damned hunger. K. had already been waiting ten minutes for his friend Fritz.
-
-It was two in the morning. Both worked forty-eight hours a week, yet on their wages they couldn’t buy enough to eat. So, by night, they stole what they needed simply to survive.  
+Yes, those were the good old days. At least they had bread in those times. Now all we have are tears and this damned hunger. 
+  
+K had already been waiting ten minutes for his friend Fritz. It was two in the morning. Both worked forty-eight hours a week, yet on their wages they couldn’t buy enough to eat. So, some nights they would steal food just to survive.  
 
 ---
 
