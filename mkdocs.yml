@@ -36,24 +36,20 @@ extra_css:
 
 nav:
   - Home: index.md
+
+  - Blogs:
+    - blogs/index.md
+    - Blog 2025: blogs/Blog25.md
+
+  - Family:
+    - family/index.md
+    - Pappa's Account: family/pappa1.md
+
   - Music:
     - music/index.md
     - Harmony: music/Harmony.md
     - Sketches: music/Sketches.md
     - Violins: music/Violins.md
-
-  - Visual Art:
-    - visual/index.md
-    - Blog 2025: visual/Blog25.md
-    - AI & Emily: visual/Emilyai.md
-    - Videos: visual/Videos.md
-    - VScripts: visual/VScripts.md
-
-
-
-  - Family:
-    - family/index.md
-    - Pappa's Account: family/pappa1.md
 
   - Other:
     - other/index.md
@@ -69,6 +65,12 @@ nav:
     - Network: tech/Network.md
     - Python: tech/Python.md
     - Repair: tech/Repair.md
+
+  - Visual Art:
+    - visual/index.md
+    - AI & Emily: visual/Emilyai.md
+    - Videos: visual/Videos.md
+    - VScripts: visual/VScripts.md
 
 plugins:
   - search

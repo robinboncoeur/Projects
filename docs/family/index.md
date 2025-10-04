@@ -54,13 +54,13 @@ We will have to subsequently realign the document pages into some sort of logica
 
 ### Issues & Notes
 
-#### 5.Jul.2025
+#### 5 Jul 2025
 
-Some images are over-exposed through the scanning process. The bright light of the scanner makes both sides of the page visible in the resulting .png image: this affects legibility. Also, the typed documents (P1.png through P3.png) were not centred properly when they were scanned and so portions of words are missing.
+Some images are over-exposed through the scanning process. The bright light of the scanner makes both sides of the page visible in the resulting .png image: this undermines legibility. Also, the typed documents (P1.png through P3.png) were not centred properly when they were scanned and so portions of words are missing.
 
 ---
 
-#### 6.Jul.2025
+#### 6 Jul 2025
 
 * Trying to get the text entered - doing grammar/spelling-check and translation after the bulk of what **can** be done, done.  
 * Case in point: **P12.png** cannot be read at all. It will need to be photographed, not scanned. Both sides show up on one surface (both sides are visible in the image). Together with Dad's unclear handwriting, the document is too difficult to decipher.  
@@ -69,7 +69,7 @@ Some images are over-exposed through the scanning process. The bright light of t
 
 ---
 
-#### 7.Jul.2025   
+#### 7 Jul 2025   
 
 Tried a translation of **P1.png** using the Gemma3 LLM. I've surrounded the document with my observations of the process. I'm going to leave those notes as an example of what's involved in translating - well, a rather small example, to be honest. We really need to collaborate on context and intent. I've underlined words that raised questions:
 
@@ -83,7 +83,7 @@ At least Gemma tries to explain her reasoning, which is a step up from the hallu
 
 ---
 
-#### 8.Jul.2025
+#### 8 Jul 2025
 
 I've decided the image downloads would be quicker - and the page would *'weigh'* less if I converted the .pngs to .jpgs. I'll put the originals in a 'Origs' subfolder in case someone wants to see the original scanned image.  
 
@@ -96,7 +96,21 @@ I'm going to start with running some of these entries through Gemma3 after revie
 
 ---
 
-#### 1.Oct.2025
+#### 30 Sep 2025
+
+US $66.20 to ship this little document! WTF? That's extortionary. Is that UPS wanker still running USPS?
+
+My Panasonic Lumix G5 is "cactus" (won't focus, will need to be repaired) so I'll be doing the photography with my phone, which is more than up to the job. Here's the project as I see it ...
+
+Stage 1: photos of the pages.  
+Stage 2: transcription.  
+Stage 3: translation.  
+Stage 4: Collaborative analysis and text tweaking before we ...  
+Stage 5: organise pages chronologically (as best we can) and insert the text into a book. My vote is to put the original German and the translation side by side, in columns.
+
+To be understood: stages 3 and 4 will be a process in a bit of a loop, and this is where I will need input from "the willing". The idea is to do these memoirs justice. That will remain a key objective.
+
+#### 1 Oct 2025
 
 In receipt of the physical documents. I have begun restructuring the translation page to reflect chronology vs image sequence. Some of the chronology of events we will have to determine contextually: we probably won't know exact dates for certain entries.
 

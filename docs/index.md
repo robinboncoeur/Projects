@@ -19,7 +19,6 @@ This is a temporary measure for access to the site for readers on a phone or tab
 ---
 
 [Visual Arts](/visual/index.md)  
-🌹🌼🌹 [ ⇨ Blogposts 2025](/visual/Blog25.md)  
 🌼🌹🌼 [ ⇨ AI](/visual/Emilyai.md)  
 🌹🌼🌹 [ ⇨ Videography](/visual/Videos.md)  
 🌼🌹🌼 [ ⇨ Video Scripts](/visual/VScripts.md)  
@@ -40,6 +39,12 @@ This is a temporary measure for access to the site for readers on a phone or tab
 💻 💻 💻 [ ⇨ Network](/tech/Network.md)  
 💻 💻 💻 [ ⇨ Python](/tech/Python.md)  
 💻 💻 💻 [ ⇨ PC Repair](/tech/Repair.md)  
+
+---
+
+[Blogs](/blogs/index.md/)  
+🌹🌼🌹 [ ⇨ Blogposts 2025](/blogs/Blog25.md)  
+
 
 <hr style="height:8px;border-width:0;color:blue;background-color:blue">
 
@@ -82,6 +87,10 @@ Time has moved on, and so have I: from Sphinx/Make-The_Docs. I'm now migrating p
 
 
 ## Update Log
+
+Update 2025.10.04: Moved [Blog posts](/blogs/index.md) into their own category.
+
+---
 
 Update 2025.10.02: Added a category [Visual Art](/visual/index.md). Anything to do with art or video has been moved there. Also, with the receipt of Dad's autobiography, have recommenced photographing physical medium, translation and opening the account for discussion..
 

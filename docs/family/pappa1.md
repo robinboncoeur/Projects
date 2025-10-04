@@ -21,7 +21,6 @@
 
 ![Photo of book](/assets/images/pappa/P0.jpg){style "width=280"}
 
-
 </div>
   
 <div class="column column--right" markdown>

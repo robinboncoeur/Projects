@@ -8,7 +8,7 @@ Crazy times.
 
 ## Update Log
 
-Update 2025.10.01: Added pages [Blog 2025](/visual/Blog25.md), [AI & Emily](/visual/Emilyai.md), [Videos](/visual/Videos.md) and [Video Scripts](/visual/VScripts.md) to this section.
+Update 2025.10.01: Added pages [AI & Emily](/visual/Emilyai.md), [Videos](/visual/Videos.md) and [Video Scripts](/visual/VScripts.md) to this section.
 
 ---
 
