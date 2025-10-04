@@ -34,11 +34,11 @@ This is a temporary measure for access to the site for readers on a phone or tab
 ---
 
 [Tech](/tech/index.md/)  
-💻 💻 💻 [ ⇨ Linux](/tech/Linux.md)  
-💻 💻 💻 [ ⇨ Miscellanae](/tech/OStuff.md)  
-💻 💻 💻 [ ⇨ Network](/tech/Network.md)  
-💻 💻 💻 [ ⇨ Python](/tech/Python.md)  
-💻 💻 💻 [ ⇨ PC Repair](/tech/Repair.md)  
+💻  [ ⇨ Linux](/tech/Linux.md)  
+💻  [ ⇨ Miscellanae](/tech/OStuff.md)  
+💻  [ ⇨ Network](/tech/Network.md)  
+💻  [ ⇨ Python](/tech/Python.md)  
+💻  [ ⇨ PC Repair](/tech/Repair.md)  
 
 ---
 
@@ -69,11 +69,6 @@ Well, now-a-days, GMail will upload your >25mB file to your Google Drive (you ge
 - Updating was a lot quicker on GitHub than on Tightbytes: I would edit locally in Brackets, then use Sphinx/Make-the-Docs to make the static HTML pages, and Github Desktop to manage the update to GithubPages.  
 - Since the pages were hosted on GitHub, other family and friends could collaborate on this pages, and even add pages of their own.
 
----
-
-**2025-Sept**  
-Time has moved on, and so have I: from Sphinx/Make-The_Docs. I'm now migrating pages from *Projects* and *HelpYrSelf* into this one **Projects** set of pages. At this point,things are organised a bit... differently. Latest posts are [on the top](http://127.0.0.1:8000/other/Garden/), for some pages. Others will be removed for lack of relevancy.
-
 <hr style="height:8px;border-width:0;color:blue;background-color:blue">
 
 
@@ -93,6 +88,11 @@ Update 2025.10.04: Moved [Blog posts](/blogs/index.md) into their own category.
 ---
 
 Update 2025.10.02: Added a category [Visual Art](/visual/index.md). Anything to do with art or video has been moved there. Also, with the receipt of Dad's autobiography, have recommenced photographing physical medium, translation and opening the account for discussion..
+
+---
+
+Update 2025.09.01: Time has moved on, and so have I: from Sphinx-MakeTheDocs to markdown-MkDocs. I'm migrating pages from my *Projects* and *HelpYrSelf* help sites into just one **Projects** pages set.  
+On some pages, the latest posts are [on the top](/other/Garden/) of the page, older posts below them. Removing some posts for lack of relevancy.
 
 ---
 
