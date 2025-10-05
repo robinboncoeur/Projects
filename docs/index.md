@@ -92,7 +92,7 @@ Update 2025.10.02: Added a category [Visual Art](/visual/index.md). Anything to 
 ---
 
 Update 2025.09.01: Time has moved on, and so have I: from Sphinx-MakeTheDocs to markdown-MkDocs. I'm migrating pages from my *Projects* and *HelpYrSelf* help sites into just one **Projects** pages set.  
-On some pages, the latest posts are [on the top](/other/Garden/) of the page, older posts below them. Removing some posts for lack of relevancy.
+On some pages, the latest posts are [on the top](/other/Garden.md) of the page, older posts below them. Removing some posts for lack of relevancy.
 
 ---
 

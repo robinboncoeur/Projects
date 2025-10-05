@@ -1,4 +1,3 @@
-
 # Sketching with Notes
 
 ## Log
