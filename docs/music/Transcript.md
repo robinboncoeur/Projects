@@ -19,6 +19,7 @@ My original transcription was done in Musescore 3.6.2. The sound being MIDI, it 
 Thus, there are discrepancies with that original document.
 
 By the way, presented here is my second publishing of this work, using the Spitfire Symphony Strings, Woodwinds and Brass libraries. I have also updated [my original version](https://musescore.com/user/29275325/scores/22503352) of this piece as newer, better flavours of MuseSounds became available.  
+Admitteddly, still far from ideal. 🤨 😳
 
 
 <style>
@@ -27,26 +28,34 @@ By the way, presented here is my second publishing of this work, using the Spitf
   .right {width: 60%;}
 </style>
 
+<audio controls="controls">
+  <source src="/assets/shortvids/AliceMarySmith-SymCm-1stMvt.mp3" type="audio/wav">
+  Your browser does not support the <code>audio</code> element. 
+</audio>
+
+
+
 <hr style="height:6px;border-width:0;color:green;background-color:green">
 
 
 
 
 
-### Sketch 2
+### Lalla Rookh
 
-**Uploaded to** [Musescore-Sketch II](https://musescore.com/user/29275325/scores/6534804) **on 30th-Oct-2020**
+**Uploaded to** [Musescore-Sketch II](https://musescore.com/user/29275325/scores/26630581) **on 30th-Oct-2020**
 
-This piece is a bit of "Scott Joplin kid brother hanging with Bach's much brighter sister" - well, brighter than Scott Joplin's kid brother, anyway. Not going into more than that. You might hear her influence in the middle bit. Perhaps.
+From the site:  
+I would like to express my gratitude to the Royal Academy of Music Library in London, UK for their kind assistance and support in this effort: without their help, this transcription would not have been possible.
 
-I have found the piano an incredibly versatile instrument - I can readily see why real composers are quite fond of it. This little ditty just tinkles merrily along... something that would be cool to hear being played at those old pianos sitting in airport lobbies.
+I found Alice Mary Smith's works during a deep-dive at [archive.org](https://archive.org/details/gb-lam-ms-1670a). As I worked my way through this piece, it became quite apparent that this was a truly significant work by Ms Smith, who, besides her liturgical works - for which she is likely better known - was the first Englishwoman to write symphonies and larger works for orchestra.
 
-Hope you enjoy.
+The manuscript on archive.org was, it became apparent, a sort of rough draft. Towards page 36, there were bits that had been rubbed out and the whole score became increasingly threadbare. An inquiry to the librarian of the Royal Academy of Music Library resulted in Amy Foster kindly sending me the 'parts' scores, with which 'Lalla Rookh' was finally fleshed out. Unfortunately, by the time I had obtained the parts scores, a lot of the original manuscript had already been entered into Musescore, so the revisions took an enormous amount of time, much longer than the original transcription. This transcription endeavour was done independent of collaboration. I spent the past 7 months or so transcribing and revising: it is my fervent wish that it is as accurate as possible. However, sometimes the notion that "perfect is the enemy of good" applies. I'm sure that the kind listener will appreciate the fact that Musescore - while an incredible product - still struggles with certain articulations. Hopefully these will be corrected in future versions. I'm currently porting this amazing work into Reaper with a hopefully better auditory experience.
 
-<audio controls="controls">
-  <source src="http://tightbytes.com/music/Sketches/Sketch02.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
+Lalla Rookh had been - until quite recently - only very rarely performed and never recorded. You are listening to a unique piece of music that only the very fewest have heard in this century. It must be noted that whilst a few transcriptions exist, only Prof. Ian Graham-Jones - the preeminent authority on the life, times and music of Alice Mary Smith - has transcribed the authoritative edition.
+
+As to the image, this is a digital remastering (using the image model Flux1-dev Kontext within ComfyUI) of an [image on Wikipedia](https://en.wikipedia.org/wiki/Alice_Mary_Smith) - I think Wikipedia indicated she might have been 19 at the time. Is this what Alice Mary Smith actually looked like? your guess is as good as mine. I sort-of like to think this is a fairly good representation, at any rate.
+
    
 <hr style="height:1px;border-width:0;color:green;background-color:green">
 

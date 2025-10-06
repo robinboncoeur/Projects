@@ -4,7 +4,8 @@ In this section we feature the following pages:
 
 🎼 [Harmony](/music/Harmony.md)  
 🎺 [Sketches](/music/Sketches.md)  
-🎻 [Violin Care](/music/Violins.md)
+🎻 [Violin Care](/music/Violins.md)  
+🎼 [Transcriptions](/music/Transcript.md)  
 
 I sort-of don't really see my little efforts as real "compositions". And although some are sort-of done, is a piece ever truly *finished*?
 
