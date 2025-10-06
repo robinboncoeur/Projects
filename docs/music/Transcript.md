@@ -2,6 +2,8 @@
 
 ## Alice Mary Smith
 
+### Symphony No1, 1st Mvmt
+
 **[Symphony in C, the First Movement](https://musescore.com/user/29275325/scores/8508848)**
 
 I am trying to be faithful to the over-arching message of the film 'Portrait de la Jeune Fille en Feu', by bringing works by women, which during their time may have received considerable acclaim, but which a patriarchal history subsequently suppressed, out of the shadows of obscurity into the light of being performed.  
@@ -46,7 +48,7 @@ Admittedly, still far from ideal. 🤨 😳
 
 **Uploaded to** [Musescore-Sketch II](https://musescore.com/user/29275325/scores/26630581) **on 30th-Oct-2020**
 
-From the site:  
+*From the Musescore site*:  
 I would like to express my gratitude to the Royal Academy of Music Library in London, UK for their kind assistance and support in this effort: without their help, this transcription would not have been possible.
 
 I found Alice Mary Smith's works during a deep-dive at [archive.org](https://archive.org/details/gb-lam-ms-1670a). As I worked my way through this piece, it became quite apparent that this was a truly significant work by Ms Smith, who, besides her liturgical works - for which she is likely better known - was the first Englishwoman to write symphonies and larger works for orchestra.
@@ -64,7 +66,9 @@ As to the image, this is a digital remastering (using the image model Flux1-dev 
 
 
 
-### Reinecke Serenade
+## Carl Reinecke
+
+### Serenade for Strings in G
 
 **Uploaded to** [Musescore-Sketch I](https://musescore.com/user/29275325/scores/6534804) **on 6th-Sep-2020**
 
@@ -80,8 +84,9 @@ As to the image, this is a digital remastering (using the image model Flux1-dev 
 
 
 
+## Antonin Dvorak
 
-### Dvorak Sextet II Dumka
+### Sextet II Dumka
 
 <audio controls="controls">
   <source src="http://tightbytes.com/music/SacADos/SacADos.mp3" type="audio/wav">
