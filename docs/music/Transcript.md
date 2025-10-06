@@ -12,14 +12,15 @@ Alice Mary Smith is one such composer.
 
 Alice was a big admirer of Felix Mendelssohn, as am I. Her admiration is quite apparent in this first movement of her C minor Symphony. This first movement is magical!
 
-I transcribed this work into Musescore from a PDF of a handwritten manuscript of Alice Mary Smith's Symphony in C, the First Movement. The pdf of the manuscript can be [found here](https://archive.org/details/GB-Lam_MS1671).
+I transcribed this work into Musescore from a PDF of a handwritten manuscript of Alice Mary Smith's Symphony in C, the First Movement. The pdf of the original manuscript can be [found here](https://archive.org/details/GB-Lam_MS1671). Also, for those who dare, you can [open the transcription here](/assets/libre/AMS-SymCm1.pdf) .
 
-My original transcription was done in Musescore 3.6.2. The sound being MIDI, it left a lot to be desired. I subsequently brought the file into Musescore 4.4.4. The MuseSounds interpretation was a significant improvement over what MSBasic provided. It is important to understand that Musescore is primarily a music notation software, not a digital audio workstation. Since I do want to provide the listener with a reasonably enjoyable experience, I felt it would be best to "write to the software" in terms of dynamics, articulations and so forth. I should think Alice would forgive my little departures from what was on the original manuscript.
+My original transcription was done in Musescore 3.6.2. The sound being MIDI, it left a lot to be desired.  
+I subsequently brought the file into Musescore 4.4.4. The MuseSounds interpretation was a significant improvement over what MSBasic provided.  
 
-Thus, there are discrepancies with that original document.
+It is important to understand that Musescore is primarily a music notation software, not a digital audio workstation. Since I do want to provide the listener with a reasonably enjoyable experience, I felt it would be best to "write to the software" in terms of dynamics, articulations and so forth. I should think Alice would forgive my little departures from what was on the original manuscript. Thus, there are discrepancies with that original document.
 
 By the way, presented here is my second publishing of this work, using the Spitfire Symphony Strings, Woodwinds and Brass libraries. I have also updated [my original version](https://musescore.com/user/29275325/scores/22503352) of this piece as newer, better flavours of MuseSounds became available.  
-Admitteddly, still far from ideal. 🤨 😳
+Admittedly, still far from ideal. 🤨 😳
 
 
 <style>
