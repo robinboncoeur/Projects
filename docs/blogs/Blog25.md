@@ -227,7 +227,7 @@ In the meantime, adventures suggest themselves.
 <div class="flex-container">
   <div class="column">
     <img src="/assets/images/emily/27-Distress48.jpg" alt="Where" style="width: 100px"/>
-    <img src="/assets/images/emily/28-Distress46.jpg" alt="Do" style="width: 100px"/>
+    <img src="/assets/images/emily/30-Destiny13.jpg" alt="Do" style="width: 100px"/>
     <img src="/assets/images/emily/29-Boxcar08.jpg" alt="We" style="width: 100px"/>
     <img src="/assets/images/emily/30-Destiny12.jpg" alt="Go" style="width: 100px"/>
     <img src="/assets/images/emily/31-Destiny23.jpg" alt="From" style="width: 100px"/>
