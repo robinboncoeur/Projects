@@ -190,7 +190,18 @@ Did a bit more:
 [1945: Gefangenschaft](/family/pappa1.md/#1945-gefangenschaft)  
 [1945: Flug Zum Osten](/family/pappa1.md/#1945-flug-zum-osten)  
 
-Also, converted page photos to clickable links: simply click to open a larger version in a new tab.
+Waiting for input from either Jess or Martin or both on the work done on Sept 28, 30 and Oct 10. Trying different approaches to photography of the pages: no obvious options present themselves. Updated links on the index page to all initial translation pages.
+
+Done:  
+- Stubbed in Status / Mods / Comments template for each note  
+- Converted all page photos to clickable links, which will open in a new tab automatically  
+- Instead of a meaningless green tick, will get a consensus from all whether or not a page is ready for canon  
+- Have commenced moving pages where they seem to fit chronologically.
+
+Plan:  
+- Going to a stationery shop to pick up a "display book" to house the original document pages.
+
+
 
 
 
