@@ -11,30 +11,51 @@ This is a temporary measure for access to the site for readers on a phone or tab
 
 ---
 
+<a href="/assets/images/misc/02music05.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/misc/02music05.jpg" alt="Where" width="160" align="right"></a>
+
 [Music](/music/index.md/)  
 🌸🌸🌹 [ ⇨ Harmony](/music/Harmony.md)  
 🌸🌹🌸 [ ⇨ Sketches](/music/Sketches.md)  
-🌹🌸🌸 [ ⇨ Violin Care](/music/Violins.md)
+🌹🌸🌸 [ ⇨ Violin Care](/music/Violins.md)  
+🌸🌹🌸 [ ⇨ Transcriptions](/music/Transcript.md)  
+🌸🌸🌹   
+
 
 ---
+
+<a href="/assets/images/misc/01visual05.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/misc//01visual05.jpg" alt="Can" width="160" align="right"></a>
 
 [Visual Arts](/visual/index.md)  
 🌼🌹🌼 [ ⇨ AI](/visual/Emilyai.md)  
 🌹🌼🌹 [ ⇨ Videography](/visual/Videos.md)  
 🌼🌹🌼 [ ⇨ Video Scripts](/visual/VScripts.md)  
+🌹🌼🌹    
+🌼🌹🌼     
+
 
 ---
+
+<a href="/assets/images/misc/03garden08.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/misc/03garden08.jpg" alt="We" width="160"align="right"></a>
 
 [Other](/other/index.md/)  
 🌸🌹🌸 [ ⇨ Foodle](/other/Foodie.md)  
 🌹🌸🌹 [ ⇨ Garden](/other/Garden.md)  
 🌼🌹🌼 [ ⇨ Health](/other/Health.md)  
 🌹🌼🌹 [ ⇨ Stuff that Matters](/other/Matter.md)  
+🌸🌹🌸   
+🌹🌸🌹  
 
 ---
 
+<a href="/assets/images/misc/04pc09.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/misc/04pc09.jpg" alt="Go" width="160"align="right"></a>
+
 [Tech](/tech/index.md/)  
 💻  [ ⇨ Linux](/tech/Linux.md)  
+💻  [ ⇨ Markdown](/tech/Markdown.md)  
 💻  [ ⇨ Miscellanae](/tech/OStuff.md)  
 💻  [ ⇨ Network](/tech/Network.md)  
 💻  [ ⇨ Python](/tech/Python.md)  
@@ -42,9 +63,15 @@ This is a temporary measure for access to the site for readers on a phone or tab
 
 ---
 
+<a href="/assets/images/misc/05blog08.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/misc/05blog08.jpg" alt="Next?" width="160"align="right"></a>
+
 [Blogs](/blogs/index.md/)  
 🌹🌼🌹 [ ⇨ Blogposts 2025](/blogs/Blog25.md)  
-
+🌹🌼🌹  
+🌹🌼🌹  
+🌹🌼🌹  
+🌹🌼🌹  
 
 <hr style="height:8px;border-width:0;color:blue;background-color:blue">
 
@@ -58,16 +85,23 @@ This is a temporary measure for access to the site for readers on a phone or tab
 ## Foreword
 
 **Originally:**  
-I was trying to upload images to an email I was sending to Martin and Esther on 2022-Apr-15. Got about halfway through and Gmail told me I would exceed the size limit (25mb). Which seems silly in this day and age: this was without trying to send a video, even. Just pictures.
+Some time ago, I wanted to email some pictures to Martin and Esther: this was on 2022-Apr-15. Got about halfway through and Gmail told me I would exceed the size limit (25mb). Which seems silly in this day and age: this was without trying to send a video, even. Just pictures. Note: nowadays if you exceed the size limit, it plops the attachment on your GoogleDrive with a link, and does it seamlessly, but that's now. Back then, it wasn't quite so easy.
 
-So, what solutions are out there?
+So, which solutions to try?
 
-Well, now-a-days, GMail will upload your >25mB file to your Google Drive (you get 15 gig for free on any GMail account), creates a link in your email and... done. But, back in '22, that all had to be done manually. So, I set up tightbytes.com to act as my public file server. What appealed about doing project progress sharing this way was:
+I decided tightbytes.com would act as my public file server via Github, using Cloudflare to create static web pages. What appealed about doing project progress sharing this way was:
 
 - I could share a LOT of information about projects quickly  
 - The information was hidden in obscurity of "no-one gives a rat's nether-regions about what I'm doing". Have a look at [my website: Tightbytes.com](https://www.tightbytes.com). Visitors? none.  
 - Updating was a lot quicker on GitHub than on Tightbytes: I would edit locally in Brackets, then use Sphinx/Make-the-Docs to make the static HTML pages, and Github Desktop to manage the update to GithubPages.  
 - Since the pages were hosted on GitHub, other family and friends could collaborate on this pages, and even add pages of their own.
+
+Time moves on. I got a notification from Hostinger my next 2-year subscription was going to set me back AUD $546.00 - (USD#359.00 / 48 months).
+
+It was time to rethink things, including how the pages are created and maintained. 
+
+Sphinx/ReadTheDocs was more trouble than benefit: in essence it was using a wrench as a hammer. So, began migrating the 'Projects' site from AllHelp (Sphinx/ReadTheDocs - ReST) to markdown (MkDocs), hosted on Cloudflare. I would upload files and images to my github site (free) and then Cloudflare would dynamically create the webpages.  
+There are (and will be) subdomains for all the old Help pages: projects.tightbytes.com, art.projects.com, appmgr.tightbytes.com, keys2life.tightbytes.com and so on.
 
 <hr style="height:8px;border-width:0;color:blue;background-color:blue">
 
@@ -82,6 +116,30 @@ Well, now-a-days, GMail will upload your >25mB file to your Google Drive (you ge
 
 
 ## Update Log
+
+Update 2025.10.10: **NOT** using this css:
+
+```
+  .flex-container {display: flex; display-direction: row;}
+  .columnA {float: left; padding-right: 20px;}
+  .columnB {padding-left: 20px;}
+  .left {width: 40%;}
+  .right {width: 60%;}
+```
+
+...but rather this:
+
+```
+<style>
+  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
+  .column {flex: 1 1 0; min-width: 0;}
+  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
+</style>
+```
+
+Also, figured out (thanks, Emily) how to create a [clickable image link](/tech/Markdown.md/#clickable-image-links). Redid a lot of index pages to just provide links to their respective group.
+
+---
 
 Update 2025.10.04: Moved [Blog posts](/blogs/index.md) into their own category.
 

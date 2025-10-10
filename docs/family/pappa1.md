@@ -8,21 +8,16 @@
 </style>
 
 
-<hr style="height:8px;border-width:0;color:black;background-color:black">
-
-
-
-
-
-## How to View This
+## Glossary
 
 <div class="flex-container" markdown>
-<div class="column" markdown>
+  <div class="column" markdown>
 
-![Photo of book](/assets/images/pappa/P0.jpg){style "width=280"}
+  <a href="/assets/images/pappa/P0.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/pappa/P0.jpg" alt="Cover" width="480" align="right"></a>
 
-</div>
-  
+  </div>
+
 <div class="column column--right" markdown>
 
 My own notes on what I am actually doing in the process of translating and formatting can be [found here](/family/index.md).  
@@ -55,7 +50,7 @@ The *magnifying glass* [ 🔎 ] indicates this is but a rough first-draught tran
 
 ## Childhood
 
-### 1924: 29
+### 1924 Meine Eltern
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -79,9 +74,17 @@ My parents had rented a small flat on the top floor of the Coja house, with slop
 
 ---
 
-Status:
+<a href="/assets/images/pappa/P29.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P29.jpg" alt="Photo 29" width="140" align="right"></a>
 
-![P29.jpg](/assets/images/pappa/P29.jpg){ width="200" }
+Status:  
+- Init translation 2025.09.30  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -93,7 +96,7 @@ Status:
 
 
 
-### 1924: Das Haus Cojas 30
+### 1924 Das Haus Cojas
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -125,9 +128,17 @@ Next to K’s parents lived the Rhodes: truly lovely, kind people. The father wa
 
 ---
 
-Status: 🔎
+<a href="/assets/images/pappa/P30.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P30.jpg" alt="Photo 30" width="140" align="right"></a>
 
-![P30.jpg](/assets/images/pappa/P30.jpg){ width="200" }
+Status:  
+- Init translation 2025.09.30  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -138,7 +149,7 @@ Status: 🔎
 
 
 
-### 19??: Sanitzers
+### 1933 Sanitzers
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -192,10 +203,22 @@ He had never seen Auntie like that before. When they arrived at the school, she 
 
 ---
 
-Status: ✅
+1933 is totally a guess... needs to be confirmed.
 
-![P8.jpg](/assets/images/pappa/P8.jpg){ width="200" }
-![P8+.jpg](/assets/images/pappa/P8p.jpg){ width="200" }
+<a href="/assets/images/pappa/P8.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P8.jpg" alt="Photo 8" width="140" align="right"></a>
+
+<a href="/assets/images/pappa/P8p.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P8p.jpg" alt="Photo 8b" width="140" align="right"></a>
+
+Status:  
+- Init translation 2025.09.30  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:8px;border-width:0;color:black;background-color:black">
 
@@ -206,7 +229,7 @@ Status: ✅
 
 
 
-### 1939: Installateur 25
+### 1939 Installateur
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -224,7 +247,8 @@ Mit rassischen Betrachtungen wurde die Sitzung fortgesetzt. Natürlich konnten n
 
 <div class="column column--right" markdown>
 
-**[English Version]**  
+**[English Version]**
+
 The apprenticeship as a gas-and-water fitter was practically forced on me. The career adviser had summoned my father and me for an hour-long session. Since I came from a family of craftsmen, of course only a manual trade was considered. Yes—but which one?
 
 When they finally asked me, I shyly requested whether I could become a goldsmith. A pitying smile was the answer.
@@ -237,9 +261,19 @@ The session then continued with racial reflections. Naturally, only people with 
 
 ---
 
-Status: 🔎
+<a href="/assets/images/pappa/P25.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P25.jpg" alt="Photo 25" width="140" align="right"></a>
 
-![P25.jpg](/assets/images/pappa/P25.jpg){ width="200" }
+Status:  
+- Init translation 2025.09.30  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+
+<hr style="height:8px;border-width:0;color:black;background-color:black">
 
 
 
@@ -250,7 +284,7 @@ Status: 🔎
 
 
 
-### 1939: Erbgut 24
+### 1939 Erbgut
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -276,16 +310,19 @@ At the next meeting it was decided that I was to start as a technical draftsman 
 
 ---
 
-Status: 🔎
+<a href="/assets/images/pappa/P24.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P24.jpg" alt="Photo 24" width="140" align="right"></a>
 
-![P24.jpg](/assets/images/pappa/P24.jpg){ width="200" }
+Status:  
+- Init translation 2025.09.30  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
-
-
-
-
-
 
 
 
@@ -349,9 +386,17 @@ Mr. Münch was a work colleague of my father’s at the Leuna Factory. He was a 
 
 Moved observations to [Issues](/family/index.md/#2-oct-2025)
 
-Status: ✅
+<a href="/assets/images/pappa/P1.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P1.jpg" alt="Photo 1" width="140" align="right"></a>
 
-![P1.jpg](/assets/images/pappa/P1.jpg){ width="200" }
+Status:  
+- Init translation 2025.09.30  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -363,7 +408,7 @@ Status: ✅
 
 
 
-### 1940: Prüfung 23
+### 1940 Prüfung
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -390,9 +435,17 @@ Before long he had the chance to witness an air show. One of Father’s workmate
 
 ---
 
-Status: 🔎
+<a href="/assets/images/pappa/P23.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P23.jpg" alt="Photo 23" width="140" align="right"></a>
 
-![P23.jpg](/assets/images/pappa/P23.jpg){ width="200" }
+Status:  
+- Init translation 2025.09.30  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -403,7 +456,7 @@ Status: 🔎
 
 
 
-### 1941: Sommer 21
+### 1941 Sommer
 
 <div class="flex-container" markdown>
 <div class="column column--right" markdown>
@@ -433,10 +486,20 @@ Steiner: Sie wißen wie man darüber denkt. Ja den ich habe es gesehen.
 
 ---
 
-Status:
+<a href="/assets/images/pappa/P21.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P21.jpg" alt="Photo 21" width="140" align="right"></a>
 
-![P21.jpg](/assets/images/pappa/P21.jpg){ width="200" }
-![P21p.jpg](/assets/images/pappa/P21p.jpg){ width="200" }
+<a href="/assets/images/pappa/P21p.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P21p.jpg" alt="Photo 21b" width="140" align="right"></a>
+
+Status:  
+- Init translation 2025.09.30  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -447,15 +510,14 @@ Status:
 
 
 
-### 1941: Sommer
+### 1941 Der Letxte
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
 
 **[Auf Deutsch]**  
 
-**Sommer 41**  
-Natürlich wie immer war ich der letzte. Unser Fluglehrer Uwe, ein Unteroffizier, bedaurte es sehr. Meine letzten Flüge waren nicht nur gut sondern besonders ausgefallen. Ein schwäbischer Fluglehrer von NSFK hatte...  
+**Sommer 41** Natürlich wie immer war ich der letzte. Unser Fluglehrer Uwe, ein Unteroffizier, bedaurte es sehr. Meine letzten Flüge waren nicht nur gut sondern besonders ausgefallen. Ein schwäbischer Fluglehrer von NSFK hatte ...  
 
 </div>
 
@@ -465,7 +527,7 @@ Natürlich wie immer war ich der letzte. Unser Fluglehrer Uwe, ein Unteroffizier
 
 **[ English Version ]**   
 
-**Summer 1941** Naturally, as always, I was the last one. Our flight instructor Uwe, an NCO, really regretted it. My last flights hadn’t just been good—they’d been downright exceptional. A Swabian flight instructor from the NSFK (National Socialist Flying Corps) had…   
+**Summer 1941** Naturally, as always, I was the last one. Our flight instructor Uwe, an NCO, really regretted it. My last flights hadn’t just been good—they’d been downright exceptional. A Swabian flight instructor from the NSFK (National Socialist Flying Corps) had ...   
 -- Ends abruptly --  
 
 </div>
@@ -473,9 +535,17 @@ Natürlich wie immer war ich der letzte. Unser Fluglehrer Uwe, ein Unteroffizier
 
 ---
 
-Status: 🔎
+<a href="/assets/images/pappa/P17.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P17.jpg" alt="Photo 17" width="140" align="right"></a>
 
-![P17.jpg](/assets/images/pappa/P17.jpg){ width="200" }
+Status:  
+- Init translation 2025.09.30  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -487,8 +557,7 @@ Status: 🔎
 
 
 
-
-### 1941: Sommer 2,3
+### 1941 Sommer
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -527,11 +596,23 @@ Der Start wurde mehr nach hinten verlegt. Die Soldaten wußten nicht was das bed
 
 ---
 
-Status: 🔎
+<a href="/assets/images/pappa/P2.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P2.jpg" alt="Photo 2" width="140" align="right"></a>
 
-![P2.jpg](/assets/images/pappa/P2.jpg){ width="300" }
-![P3.jpg](/assets/images/pappa/P3.jpg){ width="300" }
-![P3p.jpg](/assets/images/pappa/P3p.jpg){ width="300" }
+<a href="/assets/images/pappa/P3.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P3.jpg" alt="Photo 3" width="140" align="right"></a>
+
+<a href="/assets/images/pappa/P3p.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P3p.jpg" alt="Photo 3b" width="140" align="right"></a>
+
+Status:  
+- Init translation   
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -545,7 +626,7 @@ Status: 🔎
 
 
 
-### 1945: Flug zum Osten 11
+### 1945 Flug zum Osten
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -569,15 +650,32 @@ Letzte Nacht ist alles in eine Ju52 verladen und noch den Ostfront verfrachtet. 
 
 **[ English Version ]**  
   
+**The Flight Towards the East** The fighter wing (JG 77: Jagdgeschwader 77) was still stationed in Düsseldorf. There was a flight assignment to deliver a Messeschmidt 109 K. [Out of sheer convenience], nobody wanted to take it, so they drew lots. Supposedly it was down to just K and an ensign (Fähnrich). The Me 109 K was in Dortmund, and no one even knew the delivery destination. A lieutenant held two matches between thumb and forefinger and had K pick one. K reached for the longer matchstick, but the lieutenant gripped it tightly so the only one K could pull was the short one.
+
+To K it didn’t matter, it was an opportunity to fly. He realised the others didn’t take him seriously because of his youth.  
+Early the next morning he went to the command post. It was damn cold and the snow crunched under his fur boots. There he met Feldwebel Krämer, who was waiting for him. Krämer handed him travel orders: K was to fly a Messerschmidt 109 K from Dortmund to Halle. He’d get further orders there.
+
+“What’s going on at the command post?” The command post was now just an empty room; a field telephone sat in one corner. The fighter wing JG 77 had been moved east to stop the Russians. Last night everything had been loaded into a Junker 52 and shipped off to the Eastern Front, including K’s parachute.
+
 </div>
 </div>
 
 ---
 
-Status:
+<a href="/assets/images/pappa/P11.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P11.jpg" alt="Photo 11" width="140" align="right"></a>
 
-![P11.jpg](/assets/images/pappa/P11.jpg){ width="200" }
-![P11+.jpg](/assets/images/pappa/P11p.jpg){ width="200" }
+<a href="/assets/images/pappa/P11p.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P11p.jpg" alt="Photo 11b" width="140" align="right"></a>
+
+Status:  
+- Init translation 2025.10.10  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -588,20 +686,180 @@ Status:
 
 
 
-### 1945: Gefangenschaft 6,7
+
+### 1945 Dortmund
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
 
 **[Auf Deutsch]**  
 
-**Geffangenschaft 45**  
-Wie wunderbar mußte es sein wenn jemand auf dich wartet, dich liebt. Zwei Tage and abende erzälte mir dieser Kamerad  von seiner Ehe und seinen lieben Kindern. Das Bild mit seiner Frau und seinen zwei Kindern vor einem Opel Kadett schunte er sich unentwegs an. Am nächsten Morgen wachte ich im Dämmerlicht auf. Das Holzpolster drückte auf die Knochen. Mein unbekannter Kammerad stierte mich mit Glaßigen Augen an. Ich schloß meine Augen.  
+**Jan 1945 - In Dortmund** Die Züge waren eiskalt. Durch Bord waffen Besohüssedei Amerikaner waren die meisten Fenster zerschoßen. Von Düssßeldorf nach Dortmund war es nicht so weit. Der Zug hielt aber sweimal wegen Fliegeralarm. Alles musste in einen Bunker. Die Mitreisenden schauten K vorwürfsvoll an.  
+"Was machst Du hier in diesen Bunker? Du solltest uns in der Luft verteidigen."
+
+In Dortmund wehielt er seinen Flugbefehl nun nach Halle. Das war noch 15 km von seiner Heimatstadt entfernt. Als Katsch maret wurde Ihn ein hübscher blobder JGefreter befuhlen. Dder so anssah wie Ka. gerne am Abend vor ihrem Flug trafen sie sich in der Kantine. Heinz spielte auf dem Klavier. Lustige Lieder man sang war vergnügt und die Herzen der unwesenden Mädchen waren natürlich den langen Heim zugetan.  
+
+</div>
 
 ---
 
-Nach etwa 5 Minuten zwang ich mich zurück zu schauen. Der gute Kammerad war tot. Entsetzt drehte ich mich um und suchte Hilfe bei meinen Kammeraden an meiner linken Seite  
-Der Mann war auch tot. Ich raffte mich auf und kroch zu meinen Faßende. Ein Sensenmann ging hin und her als würde er dafür bezahlt. Plòtzlich fing der Mann an zu schreien. "Anna - Anna - Anna!" und rannte mit den Kopf gegen die Wand. Es klang ob als würd man gegen eine Zigarrenkiste klopfen.  
+<div class="column column--right" markdown>
+
+**[ English Version ]**  
+
+**January, 1945 - Dortmund** The trains were ice-cold. Most of the windows had been shot out by strafing from American aircraft. It wasn’t far from Düsseldorf to Dortmund, but the train stopped twice because of air-raid alerts. Everyone had to go into a bunker. The fellow passengers looked at K reproachfully.  
+“What are you doing in this bunker? You should be up there defending us in the air.”
+
+In Dortmund he received new flight orders: he was now heading to Halle. That was still 15 km from his hometown. He was assigned a handsome blond private first class as his Katschmarek (wingman), who even looked a bit like K. In the evenings before their flights they’d meet in the canteen. Heinz played the piano; there were jaunty songs, people sang and made merry, and the hearts of the girls present were, of course, set on tall Heinz.  
+
+</div>
+</div>
+
+---
+
+<a href="/assets/images/pappa/P13.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P13.jpg" alt="Photo 13" width="140" align="right"></a>
+
+Status:  
+- Init translation 2025.09.28  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+
+<hr style="height:20px;border-width:0;color:black;background-color:black">
+
+
+
+
+
+
+
+
+
+
+### 1945 Lungenentzündung
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+
+**[Auf Deutsch]**  
+**--**  
+Nach 3 x 4 Tagen war es eine Selbstverständlichkeit die Pritsche zu meiden. Prov. Dantz hatte mir verschiedene Richtlienien gegeben. Nach 9 Tage hatte ich die Lungenentzündung überwunden. Nach 2 Jahren wirdt sie vernarbt sein. Während die Zeit meiner Krankheit hatte ich keinen Hunger verspührt. Aber jetzt plagte mich ein großer Hunger. Den ganzen Tag verbrachte ich in der Nähe der Küche.  
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+
+**[English Version]**  
+
+</div>
+</div>
+
+---
+
+<a href="/assets/images/pappa/P27.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P27.jpg" alt="Photo 27" width="140" align="right"></a>
+
+Status:  
+- Init translation  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+
+<hr style="height:4px;border-width:0;color:black;background-color:black">
+
+
+
+
+
+
+
+
+
+
+
+### 1945 Das Fieber
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+
+**[Auf Deutsch]**
+
+Meine Lungenentzündung hatte den 9. Tag überschritten. Pror Tantz (Tautz?) sagte:  
+"Wenn du den Tag überlebst hast du es geschaft."
+Das Fieber war normal. Nur war ich noch sehr schlapp.  
+
+Mein Kammerad neben mir zeigte mir ein Bild. Ein Mann eine sehr schöne Frau und zwei herzliche Kinder.  
+Nun wer ist das.  
+Die Kinder saßen auf einen Opel Kadett.  
+  Das bin ich mit meine Familie. Der Mann neben mir war mal das gewesen. Er hatte nicht die geringste Änlichkeit mit den Vater der Familie.  
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+
+**[ English Version ]**
+
+My pneumonia had gone past the ninth day. Prof. Tantz (Tautz?) said,  
+“If you get through today, you’ve made it.”  
+My temperature was back to normal. I was just still very weak.  
+
+My comrade sitting next to me showed me a photo of a man, a very beautiful woman and two darling, lovely children.  
+"Who is that?"  
+The children were sitting on an Opel Kadett.  
+“That’s me with my family,” he said. This man sitting beside me was once that man. He didn’t bear the slightest resemblance to the man in the picture, now.  
+
+</div>
+</div>
+
+---
+
+<a href="/assets/images/pappa/P18.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P18.jpg" alt="Photo 18" width="140" align="right"></a>
+
+Status:  
+- Init translation 2025.09.30  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+
+<hr style="height:4px;border-width:0;color:black;background-color:black">
+
+
+
+
+
+
+
+
+
+
+### 1945 Gefangenschaft
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+
+**[Auf Deutsch]**  
+
+**Geffangenschaft 45** Wie wunderbar mußte es sein wenn jemand auf dich wartet, dich liebt. Zwei Tage and abende erzälte mir dieser Kamerad  von seiner Ehe und seinen lieben Kindern. Das Bild mit seiner Frau und seinen zwei Kindern vor einem Opel Kadett schunte er sich unentwegs an.
+
+Am nächsten Morgen wachte ich im Dämmerlicht auf. Das Holzpolster drückte auf die Knochen. Mein unbekannter Kammerad stierte mich mit Glaßigen Augen an. Ich schloß meine Augen. Nach etwa 5 Minuten zwang ich mich zurück zu schauen. Der gute Kammerad war tot. Entsetzt drehte ich mich um und suchte Hilfe bei meinen Kammeraden an meiner linken Seite  
+Der Mann war auch tot. Ich raffte mich auf und kroch zu meinen Faßende.
+
+Ein Sensenmann ging hin und her als würde er dafür bezahlt. Plòtzlich fing der Mann an zu schreien. "Anna - Anna - Anna!" und rannte mit den Kopf gegen die Wand. Es klang ob als würd man gegen eine Zigarrenkiste klopfen.  
 
 </div>
 
@@ -611,18 +869,31 @@ Der Mann war auch tot. Ich raffte mich auf und kroch zu meinen Faßende. Ein Sen
 
 **[ English Version ]**  
 
-**Captivity 45**
+**Captivity 45** *I remember thinking* how wonderful it must be, to have someone waiting for you, someone who loves you. For two days and nights this comrade told me about his marriage and his dear children. He kept staring at the photo of his wife and two children in front of an Opel Kadett.
 
+I woke at dawn: *things were still shrouded in obscurity*. The wooden boards pressed into my bones. My unknown comrade was staring at me with glassy eyes. I closed my own. After about five minutes I forced myself to look back. The good comrade was dead.   Horrified, I turned to seek help from the comrade on my left. That man was dead, too. I pulled myself together and crawled to the foot end of my bunk.
+
+A *fellow who resembled* the Grim Reaper walked back and forth as if under commission. Suddenly he began to scream, “Anna—Anna—Anna!” and ran headfirst into the wall. It sounded like someone knocking on a cigar box.
 
 </div>
 </div>
 
 ---
 
-Status:
+<a href="/assets/images/pappa/P6.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P6.jpg" alt="Photo 6" width="140" align="right"></a>
 
-![P6.jpg](/assets/images/pappa/P6.jpg){ width="200" }
-![P7.jpg](/assets/images/pappa/P7.jpg){ width="200" }
+<a href="/assets/images/pappa/P7.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P7.jpg" alt="Photo 7" width="140" align="right"></a>
+
+Status:  
+- Init translation 2025.10.10  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -633,15 +904,16 @@ Status:
 
 
 
-### 1945: Gefangenschaft
+
+
+### 1945 Nur Nicht Aufgeben
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
 
 **[Auf Deutsch]**  
 
-**Gefangenschaft 1945**  
-Nichts, absolut nichts konnte ich tun den Kam. zu helfen. War ich doch so schlapp mich selbst aufrecht zu halten. "Das ist ein Haus des Todes," sagte ich zu mir selbst. Mit meiner letzten Kraft schleppte ich mich zum Treppenhaus. Nach etlichen Studen im Freien erreichte ich mit Hilfe meiner Kam. wieder meine Pritsche. Die frische Luft hatte mir gut getan.  
+**Gefangenschaft 1945** Nichts, absolut nichts konnte ich tun den Kam. zu helfen. War ich doch so schlapp mich selbst aufrecht zu halten. "Das ist ein Haus des Todes," sagte ich zu mir selbst. Mit meiner letzten Kraft schleppte ich mich zum Treppenhaus. Nach etlichen Studen im Freien erreichte ich mit Hilfe meiner Kam. wieder meine Pritsche. Die frische Luft hatte mir gut getan.  
 Am nächsten Tag nach dem Brot Empfang zwang ich mich selbst weider ins Freie.
 
 Nur nicht aufgeben.  
@@ -654,8 +926,7 @@ Nur nicht aufgeben.
 
 **[ English Version ]**  
 
-**Captivity 1945**  
-There was nothing, absolutely nothing, I could do to help my comrades. I was so weak I could barely keep myself upright. “This is a house of death,” I told myself. With my last bit of strength I dragged myself to the stairwell. After a few hours out in the open air, and with my comrades’ help, I made it back to my bunk. The fresh air had done me good.  
+**Captivity 1945** There was nothing, absolutely nothing, I could do to help my comrades. I was so weak I could barely keep myself upright. “This is a house of death,” I said to myself. With my last bit of strength I dragged myself to the stairwell. After a few hours out in the open air, and with my comrades’ help, I made it back to my bunk. The fresh air had done me good.  
 The next day, after the bread was handed out, I forced myself to go outside again.
 
 "Just don’t give up."
@@ -665,9 +936,17 @@ The next day, after the bread was handed out, I forced myself to go outside agai
 
 ---
 
-Status: 🔎
+<a href="/assets/images/pappa/P10.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P10.jpg" alt="Photo 10" width="140" align="right"></a>
 
-![P10.jpg](/assets/images/pappa/P10.jpg){ width="200" }
+Status:  
+- Init translation 2025.09.30  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -677,26 +956,29 @@ Status: 🔎
 
 
 
-### 1945: Flucht
+
+
+
+### 1945 Flucht
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
 
 **[Auf Deutsch]**  
 
-**Flucht 1945**  
-Die letzte Wagons lagen hinter ihm. Er behielt den selben Schritt bei. Es waren keine Posten zu sehen. Nur nicht zurück schauen. Die Nase nach Westen. Da war ein Feldweg neben den Geleisen. Der G Bahnhof lag weit zurück. Der Weg bog etwas ab nach Norden.  
+**Flucht 1945** Die letzte Wagons lagen hinter ihm. Er behielt den selben Schritt bei. Es waren keine Posten zu sehen. Nur nicht zurück schauen. Die Nase nach Westen. Da war ein Feldweg neben den Geleisen. Der G Bahnhof lag weit zurück. Der Weg bog etwas ab nach Norden.  
 Als Pilot hatte K Gefühl für Richtungen entwickelt. Tief diese wunderbare Luft einatmen. Lerchen sangen in den Lüften. Es war eine große Ruhe. Kein Mensch. Nur die Natur in ihrer Reinheit. Der Schießkrieg war entlich vorbei. Ein Gefühl des Frieden und der Freiheit kam über K. Sein Sinn war: nur schnell nach Hause und sehen wer das Schreckliche überlebt hat.  
 Nach einigen hundert Metern blieb er stehen. Was für ein Idiot hat hier mitten im Weg seine Schätze vergruben. Als er näher kam dachte er: "Mensch, das müßen Meinen sein." Es waren Kisten mit drei Zilyndern. Die Deckel waren entfernt.  
 
 </div>
-<hr>
+
+---
+
 <div class="column column--right" markdown>
 
 **[ English Version ]**  
 
-**Escape 1945**  
-The last cars were behind him. He kept the same pace. No guards in sight. Just don’t look back. Nose to the west. There was a dirt track beside the rails. The station lay far behind. The path bent a little to the north.
+**Escape 1945** The last cars were behind him. He kept the same pace. No guards in sight. Just don’t look back. Nose to the west. There was a dirt track beside the rails. The station lay far behind. The path bent a little to the north.
 
 As a pilot, K had a good sense of direction. Breathe this wonderful air in deep. Larks sang overhead. It was very still—no one around. Only nature in its purity. The shooting war was finally over. A feeling of peace and freedom came over K. His thought was: get home fast and see who survived the horror.
 
@@ -712,9 +994,17 @@ There were crates with three cylinders; the lids had been removed.
 
 ---
 
-Status: 🔎
+<a href="/assets/images/pappa/P15.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P15.jpg" alt="Photo 15" width="140" align="right"></a>
 
-![P15.jpg](/assets/images/pappa/P0.jpg){ width="200" }
+Status:  
+- Init translation 2025.09.30  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -725,7 +1015,8 @@ Status: 🔎
 
 
 
-### [REV.] Weg nach West
+
+### 1945 Weg nach West
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -749,9 +1040,17 @@ The way to the west exit was made even harder by the coarse ballast of the track
 
 ---
 
-Status: 🔎
+<a href="/assets/images/pappa/P5.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P5.jpg" alt="Photo 5" width="140" align="right"></a>
 
-![P5.jpg](/assets/images/pappa/P5.jpg){ width="200" }
+Status:  
+- Init translation 2025.09.30  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -762,41 +1061,6 @@ Status: 🔎
 
 
 
-### 1945: Dortmund
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-
-**[Auf Deutsch]**  
-
-**Jan 1945 - In Dortmund**  
-Die Züge waren eiskalt. Durch Bord waffen Besohüssedei Amerikaner waren die meisten Fenster zerschoßen. Von Düssßeldorf nach Dortmund war es nicht so weit. Der Zug hielt aber sweimal wegen Fliegeralarm. Alles musste in einen Bunker. Die Mitreisenden schauten K vorwürfsvoll an.  
-"Was machst Du hier in diesen Bunker? Du solltest uns in der Luft verteidigen."
-
-In Dortmund wehielt er seinen Flugbefehl nun nach Halle. Das war noch 15 km von seiner Heimatstadt entfernt. Als Katsch maret wurde Ihn ein hübscher blobder JGefreter befuhlen. Dder so anssah wie Ka. gerne am Abend vor ihrem Flug trafen sie sich in der Kantine. Heinz spielte auf dem Klavier. Lustige Lieder man sang war vergnügt und die Herzen der unwesenden Mädchen waren natürlich den langen Heim zugetan.  
-
-</div>
-<hr>
-<div class="column column--right" markdown>
-
-**[ English Version ]**  
-
-**January, 1945 - Dortmund**  
-The trains were ice-cold. Most of the windows had been shot out by strafing from American aircraft. It wasn’t far from Düsseldorf to Dortmund, but the train stopped twice because of air-raid alerts. Everyone had to go into a bunker. The fellow passengers looked at K reproachfully.  
-“What are you doing in this bunker? You should be up there defending us in the air.”
-
-In Dortmund he received new flight orders: he was now heading to Halle. That was still 15 km from his hometown. He was assigned a handsome blond private first class as his Katschmarek (wingman), who even looked a bit like K. In the evenings before their flights they’d meet in the canteen. Heinz played the piano; there were jaunty songs, people sang and made merry, and the hearts of the girls present were, of course, set on tall Heinz.  
-
-</div>
-</div>
-
----
-
-Status: 🔎
-
-![P13.jpg](/assets/images/pappa/P13.jpg){ width="200" }
-
-<hr style="height:20px;border-width:0;color:black;background-color:black">
 
 
 
@@ -831,8 +1095,7 @@ Status: 🔎
 
 **[Auf Deutsch]**  
 
-**Herbst 1946**  
-Ein Herbst des Hungers. O ihr lieber Leser wußt ihr was Hunger ist. Ist mein Hunger groß geschrieben. Es zieht sich durch Deine Gedärme. Ja, Hunger tut weh. Es ist ein Schmerz ganz nah zu Deine Seele.  
+**Herbst 1946** Ein Herbst des Hungers. O ihr lieber Leser wußt ihr was Hunger ist. Ist mein Hunger groß geschrieben. Es zieht sich durch Deine Gedärme. Ja, Hunger tut weh. Es ist ein Schmerz ganz nah zu Deine Seele.  
 "Unser täglich Brot gieb uns Heute." Da ist nichtmal keine einzige Krußt. Am Morgen stehst Du auf und mußt Dich erst auf die Bettkante setzen. Es wird Dir schwarz vor die Augen und es daurt schon eine Weile bevor Du aufstehen kannst. Da Hemd klebt am Leibe. Von och nächte haß geschwitzt. Wer nie sein Brot mit Tränen aß wer ein Kummervollen Nächten auf seinem Bett weinend sas der Kennt Euch nicht ihr himmlichen Mächte.  
 Ja, das waren die guten alten Zeiten. Die hatten noch Brot. Was uns geblieben waren nur Tränen und dieser verfluchte Hunger.  
 K wartete schon 10 Minuten auf seinen Freund Fritz. Es war nachts 2:00 Unr. Beide arbeiteten eine 48 Stunden Woche. Für den verdient kannten Beiden nicht die nötigen Lebensmittel kaufen. So mußten sie Nachts sich stehlen was ihnen einfach für eine normale Nahrung fehlte.  
@@ -850,8 +1113,7 @@ Es war eine warme Herbstnacht. Die Sterne blichten auf sie herab. Als sie näher
 
 **[ English Version ]**  
 
-**Autumn 1946**  
-An autumn of hunger. Dear reader, do you know what hunger is? I write "Hunger" in all caps. It winds through your guts. Hunger hurts, a pain pressed right up against your soul.  
+**Autumn 1946** An autumn of hunger. Dear reader, do you know what hunger is? I write "Hunger" in all caps. It winds through your guts. Hunger hurts, a pain pressed right up against your soul.  
 
 “Give us this day our daily bread.” Not even a crust remains. In the morning you force yourself upright, only to sit on the edge of the bed for a spell, feeling like you're about to pass out. It takes a while before you can stand up. Your shirt clings to you, soaked from the night-sweats.  
 
@@ -876,10 +1138,20 @@ K kept stroking the mutt. The poor dog probably got nothing but beatings from th
 
 ---
 
-Status: 🔎
+<a href="/assets/images/pappa/P4.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P4.jpg" alt="Photo 4" width="140" align="right"></a>
 
-![P4.jpg](/assets/images/pappa/P4.jpg){ width="200" }
-![P4p.jpg](/assets/images/pappa/P4p.jpg){ width="200" }
+<a href="/assets/images/pappa/P4p.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P4p.jpg" alt="Photo 4b" width="140" align="right"></a>
+
+Status:  
+- Init translation 2025.09.28  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -892,7 +1164,7 @@ Status: 🔎
 
 
 
-### 19??: Nach dem Kreig
+### 1945 Nach dem Kreig
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -916,9 +1188,17 @@ There were about 13,000 prisoners in the Tschenstochau camp. It had been built b
 
 ---
 
-Status: 🔎
+<a href="/assets/images/pappa/P9.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P9.jpg" alt="Photo 9" width="140" align="right"></a>
 
-![P9.jpg](/assets/images/pappa/P9.jpg){ width="200" }
+Status:  
+- Init translation 2025.09.28  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:20px;border-width:0;color:black;background-color:black">
 
@@ -970,10 +1250,17 @@ Status: 🔎
 
 ---
 
-Status:
+<a href="/assets/images/pappa/P12.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P12.jpg" alt="Photo 12" width="140" align="right"></a>
 
-![P12.jpg](/assets/images/pappa/P0.jpg){ width="200" }
-![P12.jpg](/assets/images/pappa/P0.jpg){ width="200" }
+Status:  
+- Init translation  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -985,7 +1272,7 @@ Status:
 
 
 
-### 19??: Neiße 14
+### 19??: Neiße
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -1025,12 +1312,25 @@ Jedoch diese armen Menschen wären schon nach den ersten Kilometern erschöpft g
 
 ---
 
-Status:
+<a href="/assets/images/pappa/P14.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P14.jpg" alt="Photo 14" width="140" align="right"></a>
 
-![P14.jpg](/assets/images/pappa/P14.jpg){ width="200" }
-![P14+.jpg](/assets/images/pappa/P14p.jpg){ width="200" }
+<a href="/assets/images/pappa/P14p.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P14p.jpg" alt="Photo 14b" width="140" align="right"></a>
+
+Status:  
+- Init translation  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
+
+
+
 
 
 
@@ -1066,64 +1366,20 @@ Martini schaute mich trumphierend an, als hätte er gerade in die Lotterie gewon
 
 ---
 
-Status:
+<a href="/assets/images/pappa/P16.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P16.jpg" alt="Photo 16" width="140" align="right"></a>
 
-![P16.jpg](/assets/images/pappa/P0.jpg){ width="200" }
-![P16+.jpg](/assets/images/pappa/P0.jpg){ width="200" }
+<a href="/assets/images/pappa/P16p.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P16p.jpg" alt="Photo 16b" width="140" align="right"></a>
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
-
-
-
-
-
-
-
-
-
-
-
-### 19??: Lungenentzündung 18
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-
-**[Auf Deutsch]**
-
-Meine Lungenentzündung hatte den 9. Tag überschritten. Pror Tantz (Tautz?) sagte:  
-"Wenn du den Tag überlebst hast du es geschaft."
-Das Fieber war normal. Nur war ich noch sehr schlapp.  
-
-Mein Kammerad neben mir zeigte mir ein Bild. Ein Mann eine sehr schöne Frau und zwei herzliche Kinder.  
-Nun wer ist das.  
-Die Kinder saßen auf einen Opel Kadett.  
-  Das bin ich mit meine Familie. Der Mann neben mir war mal das gewesen. Er hatte nicht die geringste Änlichkeit mit den Vater der Familie.  
-
-</div>
-
----
-
-<div class="column column--right" markdown>
-
-**[ English Version ]**
-
-My pneumonia had gone past the ninth day. Prof. Tantz (Tautz?) said,  
-“If you get through today, you’ve made it.”  
-My temperature was back to normal. I was just still very weak.  
-
-My comrade sitting next to me showed me a photo of a man, a very beautiful woman and two darling, lovely children.  
-"Who is that?"  
-The children were sitting on an Opel Kadett.  
-“That’s me with my family,” he said. This man sitting beside me was once that man. He didn’t bear the slightest resemblance to the man in the picture, now.  
-
-</div>
-</div>
-
----
-
-Status:
-
-![P18.jpg](/assets/images/pappa/P18.jpg){ width="200" }
+Status:  
+- Init translation  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -1133,7 +1389,12 @@ Status:
 
 
 
-### 19??: Flieger 20
+
+
+
+
+
+### 19??: Flieger
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -1156,9 +1417,17 @@ Nun einen von uns war nicht so glücklich oder genieft wie wir. Ein Ein gewißen
 
 ---
 
-Status:
+<a href="/assets/images/pappa/P20.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P20.jpg" alt="Photo 20" width="140" align="right"></a>
 
-![P20.jpg](/assets/images/pappa/P20.jpg){ width="200" }
+Status:  
+- Init translation  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -1175,15 +1444,29 @@ Status:
 **[Auf Deutsch]**  
 22 and 22plus need to be photographed. Difficult to read.  
 </div>
-<hr>
+
+---
+
 <div class="column column--right" markdown>
 **[ English Version ]**  
 
 </div>
 </div>
 
-![P22.jpg](/assets/images/pappa/P0.jpg){ width="200" }
-![P22+.jpg](/assets/images/pappa/P0.jpg){ width="200" }
+<a href="/assets/images/pappa/P22.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P22.jpg" alt="Photo 22" width="140" align="right"></a>
+
+<a href="/assets/images/pappa/P22p.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P22p.jpg" alt="Photo 22b" width="140" align="right"></a>
+
+Status:  
+- Init translation  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -1200,44 +1483,34 @@ Status:
 <div class="column" markdown>
 **[Auf Deutsch]**  
 **--**  
-  
+
 
 </div>
+
+---
+
 <div class="column column--right" markdown>
 **[English Version]**  
+
 </div>
 </div>
 
-![P26.jpg](/assets/images/pappa/P0.jpg){ width="200" }
-![P26+.jpg](/assets/images/pappa/P0.jpg){ width="200" }
+<a href="/assets/images/pappa/P26.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P26.jpg" alt="Photo 26" width="140" align="right"></a>
+
+<a href="/assets/images/pappa/P26p.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P26p.jpg" alt="Photo 26b" width="140" align="right"></a>
+
+Status:  
+- Init translation  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
-
-
-
-
-
-
-### 19??: Lungenentzündung 27
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-**[Auf Deutsch]**  
-**--**  
-Nach 3 x 4 Tagen war es eine Selbstverständlichkeit die Pritsche zu meiden. Prov. Dantz hatte mir verschiedene Richtlienien gegeben. Nach 9 Tage hatte ich die Lungenentzündung überwunden. Nach 2 Jahren wirdt sie vernarbt sein. Während die Zeit meiner Krankheit hatte ich keinen Hunger verspührt. Aber jetzt plagte mich ein großer Hunger. Den ganzen Tag verbrachte ich in der Nähe der Küche.  
-
-</div>
-<div class="column column--right" markdown>
-**[English Version]**  
-</div>
-</div>
-
-![P27.jpg](/assets/images/pappa/P27.jpg){ width="200" }
-
-<hr style="height:4px;border-width:0;color:black;background-color:black">
-
-
-
 
 
 
@@ -1268,9 +1541,17 @@ Wo soll ich nun anfangen. Auf meine Geburt kann ich mich beim besten Willen nich
 
 ---
 
-Status:
+<a href="/assets/images/pappa/P19.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P19.jpg" alt="Photo 19" width="140" align="right"></a>
 
-![P19.jpg](/assets/images/pappa/P19.jpg){ width="200" }
+Status:  
+- Init translation  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -1307,9 +1588,17 @@ K Mutter kam mit Frau [LL] überein, daß K. ihr Goldsohn jeden Morgen zum Schul
 
 ---
 
-Status:
+<a href="/assets/images/pappa/P28.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P28.jpg" alt="Photo 28" width="140" align="right"></a>
 
-![P28.jpg](/assets/images/pappa/P28.jpg){ width="200" }
+Status:  
+- Init translation  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
@@ -1330,64 +1619,25 @@ Status:
 Meine Geschichte später unsere Ge. Die Notjahr der Ostz. Waßer Burucratze schnelle Heilung. Schwäche schwarz. Großvater's Selbstmord. GrenzeStop in Köln. Schweiz. Alte Frau Freiburg. Schwarzwald. Schmied Brunnenbohre Arzneimittel Streckenarbeiter Vertreter Installateur. Geheiratet. Große Liebe. Wohnen im Leibgedinge Segelfliegen. Auswanderung. Pzalz [anetin] Tränen [zerguetsoht]. Drei kleine Jungen der klei. in Tragtasche. Alter Transporter von Hamburg. Cleveland Ohio. Große Versprechungen. [Windeier]. Nichts angetroffen. Alter poln. Volksdentscher Arbeit bei der NYCRR als electriker locomotiven. 50 Dollar auto, 49 Ford. Alte Klamotten. Mein erstes Haus. Motorfliegen Freund unfall. Vorwürfe aufgehört Mádel und Junge. Geige. Zwei arbeiten. Jüdisches Haus Inzw. 8 mal umgezogen. Kette von unangenehmen Ereignissen. Jüd. Doctor Arbeitskollege Waßerverschmutsung. Umzug nach California. Reise im Volkswagen Bus durch die Staaten mit Hallo begrsüßt Jesemety Park. deutsche Vlkslieder An Gir Californie hier wie com. Es hielt uns nicht lan in Cal, Von Frisko nach Hawaii. Honolulu sagte uns nich zu Gr. Insel Hawaii Palmen, Blechdácher Warme Luft. Sommer das ganze jahr. Regenzeit. Arbeit für Hotels Unternehmen Selbständig. Bau meines gr. Haus. Vulcansanbrüche Blitze bei Erdbeben. Jagt Fische harpuniert. Geangelt Schönheiten im Waßer. Montaray. Tentelfisch wie Drachen. Hagfisch. Aloha Freitag. Die Sprache. Die Menschen Das Heimweh. Daheim, da ist nichts. Arbeiten auf den Nachbarinseln. Verschiden Sand Sandgemählde. Photographie. Cameraclub Präsident. Frau immer dabei Telescop Deutsche Freunde Maler Averbeck. Besuch der anderen Inseln selbst geflogen.  
 
 </div>
+
+---
+
 <div class="column column--right" markdown>
 **[English Version]**  
 </div>
 </div>
 
-![P31.jpg](/assets/images/pappa/P31.jpg){ width="200" }
+<a href="/assets/images/pappa/P31.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P31.jpg" alt="Photo 31" width="140" align="right"></a>
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
-
----
-
-<hr style="height:8px;border-width:0;color:black;background-color:black">
-
-
-
-
-
-
-
-
-## Videos
-<style>
-  .columnA {float: left; padding-right: 20px;}
-  .columnB {padding-left: 10px;}
-  .left {width: 40%;}
-  .right {width: 60%;}
-</style>
-
-
-These videos are just here to keep me sane - the document I'm transcribing / translating is quite demoralising. So, the little videos serve as a respite, well, for me, at least.
-
-
-<div class="row">
-  <div class="columnA">
-    <video width="384" height="384" controls>
-      <source src="https://www.tightbytes.com/music/Sketches/Sketch15.mp4" type="video/mp4">
-    </video>
-    <br>
-    [Version Française]
-  </div>
-  <div class="columnB">
-    <video width="384" height="384" controls>
-      <source src="https://www.tightbytes.com/music/Sketches/Sketch15EN.mp4" type="video/mp4">
-    </video>
-    <br>
-    [English Version]
-
-  </div>
-</div>
-
-
-The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Celeste story. It also inspired this piece, 'Waterfall':
-
-<audio controls="controls">
-  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
-
+Status:  
+- Init translation  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
 
 <hr style="height:8px;border-width:0;color:black;background-color:black">
 

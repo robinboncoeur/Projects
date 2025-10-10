@@ -1,16 +1,12 @@
-# Blog Page
+# Blog Pages
 
-## Intro
+## Index
 
-Sort of a catch-all page... we'll see how it goes.
-
-
-## Update Log
-
-Update 2025.10.04: Added page [Blog 2025](/blogs/Blog25.md) to this section.
-
----
-
+🌹🌼🌹 [ ⇨ Blogposts 2025](/blogs/Blog25.md)  
+🌹🌼🌹  
+🌹🌼🌹  
+🌹🌼🌹  
+🌹🌼🌹  
 
 
 <hr style="height:8px;border-width:0;color:pink;background-color:pink">

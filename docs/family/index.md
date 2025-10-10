@@ -156,6 +156,44 @@ Keeping the literary version, for now. Now that I have the actual hard copy, wil
 
 "Köter" is a perjorative word for a dog: similar to the English "mutt" or "cur", dog of mixed breed.
 
+---
+
+#### 28 Sep 2025
+
+Did a fair bit of translating today:
+
+[1945: Dortmund](/family/pappa1.md/#1945-dortmund)  
+[1946: Herbst](/family/pappa1.md/#1946-herbst)  
+
+---
+
+#### 30 Sep 2025
+
+Got a lot of translating done:
+
+[1924: Meine Eltern](/family/pappa1.md/#1924-meine-eltern)  
+[1924: Das Haus Cojas](/family/pappa1.md/#1924-das-haus-cojas)  
+[1939: Installateur](/family/pappa1.md/#1939-installateur)  
+[1939: Erbgut](/family/pappa1.md/#1939-erbgut)  
+[1941: Der Letzte](/family/pappa1.md/#1941-der-letxte)
+[1945: Das Fieber](/family/pappa1.md/#1945-das-fieber)  
+[1945: Nicht Aufgeben](/family/pappa1.md/#1945-nur-nicht-aufgeben)  
+[1945: Flucht](/family/pappa1.md/#1945-flucht)  
+[1945: Nach West](/family/pappa1.md/#1945-weg-nach-west)  
+
+---
+
+#### 10 Oct 2025
+
+Did a bit more:
+
+[1945: Gefangenschaft](/family/pappa1.md/#1945-gefangenschaft)  
+[1945: Flug Zum Osten](/family/pappa1.md/#1945-flug-zum-osten)  
+
+Also, converted page photos to clickable links: simply click to open a larger version in a new tab.
+
+
+
 
 
 <hr style="height:8px;border-width:0;color:black;background-color:black">

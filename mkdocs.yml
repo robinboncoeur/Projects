@@ -62,6 +62,7 @@ nav:
   - Tech:
     - tech/index.md
     - Linux: tech/Linux.md
+    - Markdown: tech/Markdown.md
     - Miscellanae: tech/OStuff.md
     - Network: tech/Network.md
     - Python: tech/Python.md

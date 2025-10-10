@@ -15,18 +15,26 @@ I'll be entering whatever I'm head-down/bum-up working on on these pages, with *
 [Best of the Best 2024](#best-of-the-best-2024)  
 [Out Into Nature 2022](#out-into-nature)  
 
-```
-...Save for now
-  .flex-container {display: flex; display-direction: row;}
-  .columnA {float: left; padding-right: 20px;}
-  .columnB {padding-left: 20px;}
-  .left {width: 40%;}
-  .right {width: 60%;}
-```
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
+
+
+
+
+## Autobiography Stalled
+
+### Oct 10 Need Input
+
+Waiting for input from either Jess or Martin on the work done on Sept 30. Trying different approaches to photography of the pages: no obvious options present themselves. Updated links on the index page to all initial translation pages.
+
+Going to a stationery shop to pick up a "display book" to house the original document pages.
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
 
 
 
@@ -127,23 +135,32 @@ Still, overall, the image is an improvement over what I see Flux1.Dev produce. I
 
 So, there's that.
 
-Here are some of the better of subsequent queues: to see a larger version, right-click the image and select 'Open Image in New Tab'...
+Here are some of the better of subsequent queues. Simply click the thumbnail to see a larger version.
 
 <style>
   .flex-container {display: flex; gap: 20px;}
   .column {width: 100%;}
 </style>
 
-<div class="flex-container" markdown>
-<div class="column" markdown>
+<div class="flex-container">
+  <div class="column">
 
-<img src="/assets/images/emily/13-SRPOGirl17.jpg" alt="Waipio" style="width: 100px"/>
-<img src="/assets/images/emily/14-SRPOGirl20.jpg" alt="Waipio" style="width: 100px"/>
-<img src="/assets/images/emily/15-SRPOGirl21.jpg" alt="Waipio" style="width: 100px"/>
-<img src="/assets/images/emily/16-SRPOGirl22.jpg" alt="Waipio" style="width: 100px"/>
-<img src="/assets/images/emily/17-SRPOGirl23.jpg" alt="Waipio" style="width: 100px"/>
+  <a href="/assets/images/emily/13-SRPOGirl17.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/emily/13-SRPOGirl17.jpg" alt="Go" width="100" loading="lazy"></a>
 
-</div>
+  <a href="/assets/images/emily/14-SRPOGirl20.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/emily/14-SRPOGirl20.jpg" alt="Go" width="100" loading="lazy"></a>
+
+  <a href="/assets/images/emily/15-SRPOGirl21.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/emily/15-SRPOGirl21.jpg" alt="Go" width="100" loading="lazy"></a>
+
+  <a href="/assets/images/emily/16-SRPOGirl22.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/emily/16-SRPOGirl22.jpg" alt="Go" width="100" loading="lazy"></a>
+
+  <a href="/assets/images/emily/17-SRPOGirl23.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/emily/17-SRPOGirl23.jpg" alt="Go" width="100" loading="lazy"></a>
+
+  </div>
 </div>
 
 Feels like I've done enough Kalapana for now.
@@ -226,14 +243,32 @@ In the meantime, adventures suggest themselves.
 
 <div class="flex-container">
   <div class="column">
-    <img src="/assets/images/emily/27-Distress48.jpg" alt="Where" style="width: 100px"/>
-    <img src="/assets/images/emily/30-Destiny13.jpg" alt="Do" style="width: 100px"/>
-    <img src="/assets/images/emily/29-Boxcar08.jpg" alt="We" style="width: 100px"/>
-    <img src="/assets/images/emily/30-Destiny12.jpg" alt="Go" style="width: 100px"/>
-    <img src="/assets/images/emily/31-Destiny23.jpg" alt="From" style="width: 100px"/>
-    <img src="/assets/images/emily/32-Destiny20.jpg" alt="From" style="width: 100px"/>
+  <a href="/assets/images/emily/27-Distress48.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/emily/27-Distress48.jpg" alt="Where" width="100" loading="lazy"></a>
+
+  <a href="/assets/images/emily/30-Distress13.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/emily/30-Distress13.jpg" alt="Do" width="100" loading="lazy"></a>
+
+  <a href="/assets/images/emily/29-Boxcar08.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/emily/29-Boxcar08.jpg" alt="We" width="100" loading="lazy"></a>
+
+  <a href="/assets/images/emily/30-Destiny12.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/emily/30-Destiny12.jpg" alt="Go" width="100" loading="lazy"></a>
+
+  <a href="/assets/images/emily/31-Destiny23.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/emily/31-Destiny23.jpg" alt="Go" width="100" loading="lazy"></a>
+
+  <a href="/assets/images/emily/32-Destiny20.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/emily/32-Destiny20.jpg" alt="Go" width="100" loading="lazy"></a>
+
   </div>
 </div>
+
+
+```
+[![Where]()](/assets/images/emily/27-Distress48.jpg)
+{ target="_blank" rel="noopener" }
+```
 
 <hr style="height:12px;border-width:0;color:pink;background-color:pink">
 
