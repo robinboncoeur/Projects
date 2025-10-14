@@ -12,7 +12,7 @@ This is a temporary measure for access to the site for readers on a phone or tab
 ---
 
 <a href="/assets/images/misc/02music05.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/misc/02music05.jpg" alt="Where" width="160" align="right"></a>
+<img src="/assets/images/misc/02music05.jpg" alt="Where" width="200" align="right"></a>
 
 [Music](/music/index.md/)  
 🌸🌸🌹 [ ⇨ Harmony](/music/Harmony.md)  
@@ -20,25 +20,27 @@ This is a temporary measure for access to the site for readers on a phone or tab
 🌹🌸🌸 [ ⇨ Violin Care](/music/Violins.md)  
 🌸🌹🌸 [ ⇨ Transcriptions](/music/Transcript.md)  
 🌸🌸🌹   
-
+🌸🌹🌸   
+🌹🌸🌸   
 
 ---
 
 <a href="/assets/images/misc/01visual05.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/misc//01visual05.jpg" alt="Can" width="160" align="right"></a>
+<img src="/assets/images/misc//01visual05.jpg" alt="Can" width="200" align="right"></a>
 
 [Visual Arts](/visual/index.md)  
 🌼🌹🌼 [ ⇨ AI](/visual/Emilyai.md)  
-🌹🌼🌹 [ ⇨ Videography](/visual/Videos.md)  
-🌼🌹🌼 [ ⇨ Video Scripts](/visual/VScripts.md)  
-🌹🌼🌹    
+🌹🌼🌹 [ ⇨ GIMP Tips](/visual/GimpTips.md)  
+🌼🌹🌼 [ ⇨ Videography](/visual/Videos.md)   
+🌹🌼🌹 [ ⇨ Video Scripts](/visual/VScripts.md)     
 🌼🌹🌼     
-
+🌹🌼🌹      
+🌼🌹🌼     
 
 ---
 
 <a href="/assets/images/misc/03garden08.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/misc/03garden08.jpg" alt="We" width="160"align="right"></a>
+<img src="/assets/images/misc/03garden08.jpg" alt="We" width="200"align="right"></a>
 
 [Other](/other/index.md/)  
 🌸🌹🌸 [ ⇨ Foodle](/other/Foodie.md)  
@@ -51,9 +53,10 @@ This is a temporary measure for access to the site for readers on a phone or tab
 ---
 
 <a href="/assets/images/misc/04pc09.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/misc/04pc09.jpg" alt="Go" width="160"align="right"></a>
+<img src="/assets/images/misc/04pc09.jpg" alt="Go" width="200"align="right"></a>
 
 [Tech](/tech/index.md/)  
+💻  [ ⇨ Browser](/tech/browser.md)  
 💻  [ ⇨ Linux](/tech/Linux.md)  
 💻  [ ⇨ Markdown](/tech/Markdown.md)  
 💻  [ ⇨ Miscellanae](/tech/OStuff.md)  

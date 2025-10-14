@@ -61,6 +61,7 @@ nav:
 
   - Tech:
     - tech/index.md
+    - Browser: tech/browser.md
     - Linux: tech/Linux.md
     - Markdown: tech/Markdown.md
     - Miscellanae: tech/OStuff.md
@@ -71,6 +72,7 @@ nav:
   - Visual Art:
     - visual/index.md
     - AI & Emily: visual/Emilyai.md
+    - GIMP Tips: visual/GimpTips.md
     - Videos: visual/Videos.md
     - VScripts: visual/VScripts.md
 

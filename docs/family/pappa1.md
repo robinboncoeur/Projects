@@ -384,7 +384,7 @@ Mr. Münch was a work colleague of my father’s at the Leuna Factory. He was a 
 
 ---
 
-Moved observations to [Issues](/family/index.md/#2-oct-2025)
+Moved observations to [Issues](/family/index.md/#02-oct-2025)
 
 <a href="/assets/images/pappa/P1.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/pappa/P1.jpg" alt="Photo 1" width="140" align="right"></a>
