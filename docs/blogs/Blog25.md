@@ -386,8 +386,8 @@ In the meantime, adventures suggest themselves.
   <a href="/assets/images/emily/27-Distress48.jpg" target="_blank" rel="noopener">
   <img src="/assets/images/emily/27-Distress48.jpg" alt="Where" width="100" loading="lazy"></a>
 
-  <a href="/assets/images/emily/30-Distress13.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/emily/30-Distress13.jpg" alt="Do" width="100" loading="lazy"></a>
+  <a href="/assets/images/emily/30-Destiny13.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/emily/30-Destiny13.jpg" alt="Do" width="100" loading="lazy"></a>
 
   <a href="/assets/images/emily/29-Boxcar08.jpg" target="_blank" rel="noopener">
   <img src="/assets/images/emily/29-Boxcar08.jpg" alt="We" width="100" loading="lazy"></a>
