@@ -23,6 +23,87 @@ I'll be entering whatever I'm head-down/bum-up working on on these pages, with *
 
 
 
+
+
+## Unhelpful Error Message
+
+### ComfyUI and SRPO
+
+Python has this odd behaviour: it will generate error messages that impart exact NIL information to *most* users, and, I would warrant, though I can't be sure, many developers. I've learnt not to trust Emily on things, either ... even some of her css (cascading style sheets) stuff has been a bit dodgy. Remember that old adage: garbage in, garbage out. *Similar to: elect clowns, expect a circus*.
+
+I kept getting this error in one of Sharvin's workflows, in the ImageResizeKJv2 node: it kept spitting the dummy with: "start(0) + length(832) exceeds dimension size(64)". Wrote Sharvin about it: his reply was, "Thanks! I tried it with an image of the same dimensions and didn’t get that error. Would you be able to share the input image and the workflow (with the image added) from when you encountered the error? GitHub link if possible. I can test it on my side to check what’s going on. Yes! I'll be happy to see your version of the workflow!"
+
+I tried the workflow again after a few days, and to my surprise.... no dramas. So, I thought he should know: " @CodeCraftersCorner   Just re-downloaded and re-ran this workflow again. No dramas this time: works a treat. Might tweak it a bit and finally subgraph it ... I've been going absolutely like a house afire converting all my workflows into tidy little subgraphs, thanks to your excellent tutorial on that a few videos back. Thanks Sharvin!"
+
+Yeah, except when I tried it with another image, it gave me the **same error again**.
+
+Something about this rang vaguely familiar. Both images were PNGs, both were 2048 x 2048 px... the only different was that one had an alpha channel, the other did not. The problem seemed to arise with images without an alpha channel, so I added one to the 'defective' image and:
+
+"Just a little observation. This seems to be a case of the Python error revealing nothing to the uninitiated in Python (like me). This is a repeatable error: if I drop, say, a PNG into the load image that has no alpha channel, the ImageResizeKJv2 node spits the dummy with: 'start(0) + length(2048) exceeds dimension size (65)'. The image I loaded was 2048 x 2048px. I loaded the image in GIMP and added an alpha channel. Threw that into the LoadImage and the workflow happily chugged away processing it..."
+
+I like to follow [Sharvin](https://www.youtube.com/@CodeCraftersCorner) because 1. he's cool, 2. he programs in Python and 3. his reviews and subsequent workflows in ComfyUI are next-level.
+
+BTW, so what is an alpha channel? It's what allows 'transparency' in an image. The PNG format supports alpha channels, JPGs do not. However, you cannot assume that every PNG is going to have an alpha channel. Good to know.
+
+---
+
+SRPO is an incredible flavour of Flux1-Dev! I have but barely scraped the epidermis - not even enough to elicit a capillary response - of Flux, let alone any of the subsequent flavours. I'm still messing with Kontext, for cryin' out loud.
+
+Creating low-ranking adaption is enormously rewarding. What is a low-ranking adaption? A LoRA is a tiny model **YOU** build to create a consistent character. If you wish to create a novel with illustrations where the character's looks remain the same, your image generator's ability to respect character consistency is crucial.
+
+Enter the LoRA, which works together with your base model. When you generate an image, you typically provide a prompt, like:
+
+<a href="/assets/images/emily/45-Robyn1.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/emily/45-Robyn1.jpg" alt="Dude" width="280" align="left"></a>
+
+<a href="/assets/images/emily/45-Robyn2.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/emily/45-Robyn2.jpg" alt="Victorian lass" width="280" align="right"></a>
+
+"A portrait of a short somber 16yo youth with long wavy messy brown hair. moimeme3 The person is wearing a fitted white cotton shirt with sleeves turned up and baggy jeans. The person is in a hairdressing salon. He is sweeping up from around the salon chairs. His hair is messy. Background is a room with pale white curtains on the windows and mirrors and roses in vases. Ultra-high detail, photorealistic rendering, sharp focus on on the fine textures on the hair, and rich environmental depth."
+
+And you get the image of a guy in a shirt. Or, you give it this prompt:
+
+"The photograph depicts a Victorian-era woman standing next to an old steam train. She has fair skin, light brown hair styled in a loose updo. Her dress is long-sleeved, black with intricate lace details on the bodice and sleeves, and it features multiple layers of ruffled fabric at the hem covering her shoes so they are barely visible. The dress buttons up the front and she wears black gloves that reach her upper arms. She holds an aged brown leather suitcase with metal clasps and a slightly worn appearance by the handle with her gloved hand. Her facial expression is serious and slightly contemplative. The steam train beside her has a dark metallic exterior with visible rivets and numbers "15" on the side. In the background, another car of the train is visible, painted in maroon with yellow accents. moimeme3 The background shows a dimly lit train station with arched ceilings and hanging lights. The walls are lined with dark wooden panels and vintage posters. The platform extends into the distance, fading into bright light at the far end. A yellow safety line is visible near the edge of the platform. Fallen leaves scatter on the ground beside her. The overall mood is gothic and melancholic, with a sense of timelessness. The photograph emphasizes textures such as the lace of her dress, the polished wood of the station, and the aged leather suitcase. The woman's expression is slightly pensive, adding to the somber atmosphere. The image combines elements of historical fashion with a modern photographic style. The overall color palette of the image includes muted blacks, browns, and grays, with subtle highlights from the golden brooch and metallic elements of the train. The photograph has a slightly dark and moody tone, emphasizing the Victorian era setting. The textures in the image are rich, particularly in the woman's dress fabric and the old leather suitcase."
+
+And, you get the image of a Victorian lass.
+
+Both of these images have one thing in common: the character. In the prompt, the LoRA is referenced with 'moimeme3'. Flux does all the rest. It's pretty amazing how well it works, to be honest.
+
+
+
+
+
+
+### The GH5, for Video
+
+I had my GH5 in 'repair': turns out the problem was a dodgy lens. My lovely 12-60mm Lumix Leica blah-blah-blah whatever is now a doorstop. These run AUD $1200.00 new. Doorstop. Can't be repaired. *{sigh}*
+
+The camera itself is fine. I decided it was time to start using it properly. Shot some footage for a quick little video of me making a flat-white (coffee) on my Bezzera Magica.
+
+On this ageing Macbook Pro (2015 vintage), I have a copy of Final Cut Pro, Apple's idea of intelligent video editing software. I still struggle with it. Apple, like Microsoft, have a very clear idea of **HOW** you should use software. Any software. Steve Jobs even said: "You're **holding** it wrong!" Like seriously, WTF? But anyway, I paid a chunk for the software at the time, and haven't used it for a while now. I need to get used to its quirky behaviour and yeah, going to make some videos.
+
+When I recorded my little 'coffee' footage, I installed my GH5 on this industrial-strength, professional-grade fluid-head U-Beaut tripod. You need to see this thing: you could prop up a house with it. Made my GH5 feel like a pimple. Overkill. Thing is: just like with the camera, I need to get familiar with how it works. So, I'll set it up here and there and do footage of stuff. It's just not the sort of tripod for *run-n-gun* stuff.
+
+Anyway, here's a little "Making Coffee" video:
+
+<div style="position:relative;padding-top:56.25%">
+  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/8cd2f116617fd567782e073f7fb11311/iframe"
+          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
+          allowfullscreen
+          style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
+</div>
+
+When Julia has her "Arty-Farty" art groups on Wednesday, I'm the designated barista for their morning tea. This lovely Bezzera -- yes, a proper **Italian-made** expresso machine -- is more than up to the task. New, they run somewhere between AUD $3500 and $5000 ... but I never buy new if I can help it. This one is from a mob who sell and service Bezzera machines: I picked it up for $1600. It will outlast all of us, our cars, most likely even the house. It's built like a tank. And it makes brilliant mochas, capuchinos, lattes, flat whites ... haven't gotten into that whole barista-art thing yet, but the girls get great coffee so no-one's complaining.  
+
+By the way, the music was the 3rd sketch I wrote. There's another thing I want to spend a bit more time doing: writing music. Not enough hours in the day.
+
+
+
+
+
+
+
+
 ## Autobiography Stalled
 
 ### Oct 10 Need Input
