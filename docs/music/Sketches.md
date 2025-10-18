@@ -1,17 +1,5 @@
 # Sketching with Notes
 
-## Log
-
-2025-Sep-15:  
-I've been re-visiting La Giaconda (Sketch 11). Several 'things' have made that happen: a new *sound* from  Musescore/Musesounds lets me see my music differently. Dare I say: better?  
-I'm still writing for the "orchestra" but I do feel like I'm getting a better representation of what the notes on the page would produce played live. Also, most likely due to my mismanagement of uploading, it is no longer in my 'Sketches' list on [my pages](https://musescore.com/robynsveil). To be honest, it's one of my better imaginings, really... just, the orchestration and publishing sucked. I've added brass—horns, and alto and bass trombone—and am going to swap things around a bit better.
-
----
-
-2025-Oct-18: Finished tidying up La Giaconda (Sketch 11). The sound files for sketches 6, 8, 9, 11 and 15 are now on GitHub instead of Hostinger (tightbytes). Slowly everything will be moved off. 
-
----
-
 <style>
   .columnA {float: left; padding-right: 20px;}
   .left {width: 40%;}
@@ -27,7 +15,7 @@ I'm still writing for the "orchestra" but I do feel like I'm getting a better re
 
 
 
-## Sketched So Far
+## Sketches
 
 All images on this page are originals, created in [ComfyUI](https://www.comfy.org/gallery), in [Flux1](https://flux1ai.com/dev) or some similar model. I do hope they reflect the music to some degree.
 
@@ -786,6 +774,26 @@ Penne Vodka (Joe DiRienzo, New York)
 [Counterpoint](https://viva.pressbooks.pub/openmusictheory/chapter/species-counterpoint/)
 
 [Five Species of Counterpoint - cantus firmus johann joseph fux](https://wwnorton.com/college/music/musictheory/premium/webfacts/ch08a.html)
+
+<hr style="height:8px;border-width:0;color:green;background-color:green">
+
+
+
+
+
+
+
+
+
+## Log
+
+2025-Sep-15:  
+I've been re-visiting La Giaconda (Sketch 11). Several 'things' have made that happen: a new *sound* from  Musescore/Musesounds lets me see my music differently. Dare I say: better?  
+I'm still writing for the "orchestra" but I do feel like I'm getting a better representation of what the notes on the page would produce played live. Also, most likely due to my mismanagement of uploading, it is no longer in my 'Sketches' list on [my pages](https://musescore.com/robynsveil). To be honest, it's one of my better imaginings, really... just, the orchestration and publishing sucked. I've added brass — horns, and alto and bass trombone — and am going to swap things around a bit.
+
+---
+
+2025-Oct-18: Finished tidying up La Giaconda (Sketch 11). The sound files for sketches 6, 8, 9, 11 and 15 are now on GitHub instead of Hostinger (tightbytes). Slowly everything will be moved off. 
 
 <hr style="height:8px;border-width:0;color:green;background-color:green">
 
