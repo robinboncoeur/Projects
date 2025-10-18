@@ -1,5 +1,13 @@
 # Transcriptions
 
+<style>
+  .columnA {float: left; padding-right: 20px;}
+  .left {width: 40%;}
+  .right {width: 60%;}
+</style>
+
+
+
 ## Alice Mary Smith
 
 ### Symphony No1, 1st Mvmt
@@ -25,20 +33,16 @@ By the way, presented here is my second publishing of this work, using the Spitf
 Admittedly, still far from ideal. 🤨 😳
 
 
-<style>
-  .columnA {float: left; padding-right: 20px;}
-  .left {width: 40%;}
-  .right {width: 60%;}
-</style>
-
 <audio controls="controls">
-  <source src="/assets/shortvids/AliceMarySmith-SymCm-1stMvt.mp3" type="audio/wav">
+  <source src="/assets/sounds/AliceMarySmith-SymCm-1stMvt.mp3" type="audio/wav">
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
-
-
 <hr style="height:6px;border-width:0;color:green;background-color:green">
+
+
+
+
 
 
 
@@ -59,7 +63,11 @@ Lalla Rookh had been - until quite recently - only very rarely performed and nev
 
 As to the image, this is a digital remastering (using the image model Flux1-dev Kontext within ComfyUI) of an [image on Wikipedia](https://en.wikipedia.org/wiki/Alice_Mary_Smith) - I think Wikipedia indicated she might have been 19 at the time. Is this what Alice Mary Smith actually looked like? your guess is as good as mine. I sort-of like to think this is a fairly good representation, at any rate.
 
-   
+<audio controls="controls">
+  <source src="/assets/sounds/AliceMarySmith-LallaRookh.mp3" type="audio/wav">
+  Your browser does not support the <code>audio</code> element. 
+</audio>
+
 <hr style="height:1px;border-width:0;color:green;background-color:green">
 
 

@@ -6,18 +6,17 @@
 I've been re-visiting La Giaconda (Sketch 11). Several 'things' have made that happen: a new *sound* from  Musescore/Musesounds lets me see my music differently. Dare I say: better?  
 I'm still writing for the "orchestra" but I do feel like I'm getting a better representation of what the notes on the page would produce played live. Also, most likely due to my mismanagement of uploading, it is no longer in my 'Sketches' list on [my pages](https://musescore.com/robynsveil). To be honest, it's one of my better imaginings, really... just, the orchestration and publishing sucked. I've added brass—horns, and alto and bass trombone—and am going to swap things around a bit better.
 
+---
+
+2025-Oct-18: Finished tidying up La Giaconda (Sketch 11). The sound files for sketches 6, 8, 9, 11 and 15 are now on GitHub instead of Hostinger (tightbytes). Slowly everything will be moved off. 
+
+---
+
 <style>
   .columnA {float: left; padding-right: 20px;}
   .left {width: 40%;}
   .right {width: 60%;}
 </style>
-
-
-<audio controls="controls">
-  <source src="/assets/sounds/AliceMarySmith-SymCm-1stMvt.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
-<hr style="height:6px;border-width:0;color:green;background-color:green">
 
 
 
@@ -172,7 +171,7 @@ Penne Vodka - an actual real composer - has been making awesome suggestions to i
 
 I've also been watching the [OrchestrationOnline](https://www.youtube.com/@OrchestrationOnline) courseware on YouTube with Thomas Goss. Interestingly, the deeper I got into the lessons, the more I wondered whatever in the world possessed me to think I could do this! There were aspects that gelled quickly, whereas others left me with a feeling I should probably get back to doing counterpoint or even basic harmony.
 
-Edited to add (2025-Sept-15): I'm revisiting this piece—the recording below is an older one. The published version appears to have disappeared from my site on [Musescore.com](https://musescore.com/robynsveil). The Spitfire Strings and Woodwinds for MuseSounds dynamics are quite different to the standard MuseSounds, so I'm going to have to change articulation tags. 
+Edited to add (2025-Sept-15): I have revisited this piece. The published version disappeared from my site on [Musescore.com](https://musescore.com/robynsveil). I ended up not using the Spitfire Strings and Woodwinds for MuseSounds as their articulations are quite different to the standard MuseSounds, so I'm sticking with standard. 
 
 http://musescore.com/user/29275325/scores/7603490
 
@@ -221,14 +220,7 @@ http://musescore.com/user/29275325/scores/7603490
 
 Some time ago, we decided to do the ethically kind thing and provide a home for six "rescue hens" (measure 1 - 8, noble intentions): chickens that had passed most of their lives in small cages. I fenced in our backyard - eventually - to keep them from destroying our entire property - as chooks do - and gave them a lovely little house to live in, even equipping it with a automatic door to keep out undesirables such as foxes and goanas. When the chooks arrived, they looked a bit worse for wear. However, they quickly adapted (measures 9-17) and found their place in the home we gave them, and in our hearts (measures 18-24). [They ran around](https://musescore.com/user/29275325/scores/7074271), pooed everywhere, scratched every square inch of dirt for bugs, turning their domain into Dunkirk after a shelling.
 
-Bear in mind: they were "rescue hens". They came with co-morbidities, which manifested themselves after a while (measures 25-40) which ultimately ended up with four of them, so far, succumbing to those ailments... and those went the way of all flesh, ultimately (measures 41-48).
-
-<!--
-<audio controls="controls">
-  <source src="http://tightbytes.com/music/Sketches/Sketch09.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
-/-->
+Bear in mind: they were "rescue hens". They came with co-morbidities, which manifested themselves after a while (measures 25-40) which ultimately ended up with four of them, at the time I wrote the piece, succumbing to those ailments. The others eventually followed, going the way of all flesh, ultimately (measures 41-48).
 
 <audio controls="controls">
   <source src="/assets/sounds/Sk_09tc.mp3" type="audio/wav">
@@ -249,13 +241,6 @@ Starting off simple, I started reminiscing. About back in the Hawaii, back in Fr
 As an alternative to listen to, here is the Reaper version. The MS version is sort-of finished, although some bits are a bit less than what I like... perhaps "Amadeus'" Director Orsini-Rosenberg's caution about having "too many notes" might apply here.
 
 Just purchased the [Spitfire Studio Strings](https://www.spitfireaudio.com/spitfire-studio-strings) (because, basically, I could afford it: the [Symphonic Strings](https://www.spitfireaudio.com/spitfire-studio-strings) at $800, actually more like AUD$1278 for me, was a bit too dear) specifically to take advantage of more articulations and, come to find out, although the sound is a fair bit more to my liking, I'm not using a lot of these articulations nearly as much as I thought I would. What I did discover is that what people - those that actually play the notes to record their tracks - use... the mod wheel. This sets up information on cc 01 Mod Wheel MSB in Reaper: plain-ol' drawing in this cc will affect expression and dynamics, which massively changes the quality of the playing. Wow, what a dummy I am! Still learning how to use Kontakt and these libraries and Reaper and Musescore... and just about when I think I'm getting it beaten into submission, they come out with a new version.
-
-<!--
-<audio controls="controls">
-  <source src="http://tightbytes.com/music/Sketches/Sketch08.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
-/-->
 
 <audio controls="controls">
   <source src="/assets/sounds/Sk_08f.mp3" type="audio/wav">
