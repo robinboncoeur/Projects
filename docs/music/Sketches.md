@@ -12,7 +12,17 @@ I'm still writing for the "orchestra" but I do feel like I'm getting a better re
   .right {width: 60%;}
 </style>
 
+
+<audio controls="controls">
+  <source src="/assets/sounds/AliceMarySmith-SymCm-1stMvt.mp3" type="audio/wav">
+  Your browser does not support the <code>audio</code> element. 
+</audio>
 <hr style="height:6px;border-width:0;color:green;background-color:green">
+
+
+
+
+
 
 
 
@@ -37,10 +47,21 @@ I hope you enjoy.
 25.08.15:ETA... I've invested in the Spitfire Symphonic Strings and Woodwinds for MuseSounds, which, I'm a bit aghast to say, make Reaper and all my high-cost libraries less and less relevant, especially considering what these libraries cost *even on special*. No, Musescore Studio still isn't a DAW, but - like AI - it is rapidly approaching that point.
 
 
+<!--
 <audio controls="controls">
   <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
   Your browser does not support the <code>audio</code> element. 
 </audio>
+/-->
+
+<audio controls="controls">
+  <source src="/assets/sounds/Sk_15EaCMS.mp3" type="audio/wav">
+  Your browser does not support the <code>audio</code> element. 
+</audio>
+
+
+
+
 
 <hr style="height:1px;border-width:0;color:green;background-color:green">
 
@@ -155,10 +176,21 @@ Edited to add (2025-Sept-15): I'm revisiting this piece—the recording below is
 
 http://musescore.com/user/29275325/scores/7603490
 
+
+<!--
 <audio controls="controls">
   <source src="http://tightbytes.com/music/Sketches/Sketch11.mp3" type="audio/wav">
   Your browser does not support the <code>audio</code> element. 
 </audio>
+
+/-->
+
+<audio controls="controls">
+  <source src="/assets/sounds/Sk_11iCMS.mp3" type="audio/wav">
+  Your browser does not support the <code>audio</code> element. 
+</audio>
+
+
 
 <hr style="height:1px;border-width:0;color:green;background-color:green">
 
@@ -191,11 +223,18 @@ Some time ago, we decided to do the ethically kind thing and provide a home for 
 
 Bear in mind: they were "rescue hens". They came with co-morbidities, which manifested themselves after a while (measures 25-40) which ultimately ended up with four of them, so far, succumbing to those ailments... and those went the way of all flesh, ultimately (measures 41-48).
 
+<!--
 <audio controls="controls">
   <source src="http://tightbytes.com/music/Sketches/Sketch09.mp3" type="audio/wav">
   Your browser does not support the <code>audio</code> element. 
 </audio>
-   
+/-->
+
+<audio controls="controls">
+  <source src="/assets/sounds/Sk_09tc.mp3" type="audio/wav">
+  Your browser does not support the <code>audio</code> element. 
+</audio>
+
 <hr style="height:1px;border-width:0;color:green;background-color:green">
 
 
@@ -211,11 +250,19 @@ As an alternative to listen to, here is the Reaper version. The MS version is so
 
 Just purchased the [Spitfire Studio Strings](https://www.spitfireaudio.com/spitfire-studio-strings) (because, basically, I could afford it: the [Symphonic Strings](https://www.spitfireaudio.com/spitfire-studio-strings) at $800, actually more like AUD$1278 for me, was a bit too dear) specifically to take advantage of more articulations and, come to find out, although the sound is a fair bit more to my liking, I'm not using a lot of these articulations nearly as much as I thought I would. What I did discover is that what people - those that actually play the notes to record their tracks - use... the mod wheel. This sets up information on cc 01 Mod Wheel MSB in Reaper: plain-ol' drawing in this cc will affect expression and dynamics, which massively changes the quality of the playing. Wow, what a dummy I am! Still learning how to use Kontakt and these libraries and Reaper and Musescore... and just about when I think I'm getting it beaten into submission, they come out with a new version.
 
+<!--
 <audio controls="controls">
   <source src="http://tightbytes.com/music/Sketches/Sketch08.mp3" type="audio/wav">
   Your browser does not support the <code>audio</code> element. 
 </audio>
-   
+/-->
+
+<audio controls="controls">
+  <source src="/assets/sounds/Sk_08f.mp3" type="audio/wav">
+  Your browser does not support the <code>audio</code> element. 
+</audio>
+
+
 <hr style="height:1px;border-width:0;color:green;background-color:green">
 
 
@@ -246,6 +293,8 @@ The playback is a Reaper rendition hosted on YouTube. It features SpitFire's Stu
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
+
+
 <hr style="height:1px;border-width:0;color:green;background-color:green">
 
 
@@ -269,10 +318,17 @@ I made several suggested changes and have engaged in study of strings fingering.
 
 The playback is as produced by my DAW: Reaper. It features SpitFire's Studio Woodwinds and Studio Strings. However, I replaced an oboe section with an English Horn, for which I don't have the sample library in [Studio Woodwinds](https://www.spitfireaudio.com/spitfire-studio-woodwinds#whats-included), so I went with the Library that comes with Kontakt 6. For now. I do intend to upgrade to [Studio Woodwinds Professional](https://www.spitfireaudio.com/spitfire-studio-woodwinds-professional)... specials are coming in November / December!
 
+<!--
 <audio controls="controls">
   <source src="http://tightbytes.com/music/Sketches/Sketch06.mp3" type="audio/wav">
   Your browser does not support the <code>audio</code> element. 
 </audio>
+/-->
+<audio controls="controls">
+  <source src="/assets/sounds/Sk_06rj.mp3" type="audio/wav">
+  Your browser does not support the <code>audio</code> element. 
+</audio>
+
 
 <hr style="height:1px;border-width:0;color:green;background-color:green">
 

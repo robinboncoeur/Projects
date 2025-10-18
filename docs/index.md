@@ -215,6 +215,18 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 
 
 
+## This Ends Badly
+
+Sorry, going to put this up: needs to be said.
+
+<!-- https://www.youtube.com/shorts/h_2orPxL27M /-->
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/h_2orPxL27M" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
 
 ## Odds-n-Sods
 
