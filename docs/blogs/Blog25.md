@@ -1,6 +1,6 @@
 # Blog Posts 2025
 
-I'll be entering whatever I'm head-down/bum-up working on on these pages, with *GROUPS* in **SORT_OF** reverse chronological order, with newest **GROUP** nearer the top. 
+I'll be entering whatever I'm head-down/bum-up working on on these pages, with *GROUPS* in **SORT-OF** reverse chronological order, with newest **Group of Activity** nearer the top. 
 
 <style>
   .flex-container {display: flex; gap: 20px; align-items: flex-start;}
@@ -10,11 +10,124 @@ I'll be entering whatever I'm head-down/bum-up working on on these pages, with *
 
 **List of Groups** (*reverse order*)
 
-[A bit of Both](#sept-30-receipt)  
-[Dad's Autobiography](#sept-30-receipt)  
+[Qwen, and How](#qwen-and-how)  
+[Trip to Brissie](#trip-to-brissie)  
+[Unhelpful Error Message](#unhelpful-error-message)  
+[Autobiography Stalled](#autobiography-stalled)  
+[Kontext and SRPO](#kontext-and-srpo)  
 [Exploring ComfyUI](#exploring-comfyui)  
 [Best of the Best 2024](#best-of-the-best-2024)  
 [Out Into Nature 2022](#out-into-nature)  
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+## Gardens and Qwen
+
+**19.Oct.2025**
+
+### Garden Work
+
+Finally pulled the finger out and did a [bit of work](../../other/Garden/#october-19) on the last garden bed that needed a liner putting in. Not nearly as much fun as Qwen, to be honest. 🤨🤨🤨🤨🤨
+
+
+
+
+### Qwen, and How!
+
+Another day, another model. This time, it's Qwen. Just starting to explore this.   
+*Please note: all images in this section are clickable for a larger version*.
+
+This is **CRAZY** good! The quality of the output has me seriously blown away. I'm just getting started but... expressions:
+
+<!--
+<style>
+  .flex-container {display: flex; gap: 20px;}
+  .column {width: 100%;}
+</style>
+/-->
+
+<div class="flex-container">
+  <div class="column">
+
+    <a href="/assets/images/emily/46-1Serene.jpg" target="_blank" rel="noopener">
+    <img src="/assets/images/emily/46-1Serene.jpg" alt="Serene" width="280"></a>
+
+    <a href="/assets/images/emily/46-2Cross.jpg" target="_blank" rel="noopener">
+    <img src="/assets/images/emily/46-2Cross.jpg" alt="Cross" width="280"></a>
+
+    <a href="/assets/images/emily/46-3Happy.jpg" target="_blank" rel="noopener">
+    <img src="/assets/images/emily/46-3Happy.jpg" alt="Happy" width="280"></a>
+
+  </div>
+</div>
+
+Serene, cross and happy.
+
+All I had to do was change the prompt.
+
+<a href="/assets/images/emily/47-1Market.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/emily/47-1Market.jpg" alt="Happy" width="280" align="right"></a>
+
+Okay, how about a change in the background: summertime in an open-air market? And, the hair? A Victorian updo. Change the prompt, and you get output that is truly uncanny ... only because the model actually *obeys* the prompt.
+
+Qwen is unreal. It is open-source, unlike Flux. I haven't even tried it for video yet: just seeing it applied to images -- particularly the **quality** of the output, which is superb! -- has left me speechless.
+
+So, what *IS* Qwen? The [QwenAI blog](https://qwen.ai/blog?id=7a90090115ee193ce6a7f619522771dd9696dd93&from=research.latest-advancements-list) 'explains' it, but yeah, I'm as undamaged by the information as the next person. 
+
+However, when you scroll down that page, it claims you can restore photos. I still have some old family photos from a collection Nathalie sent me -- at least, I *think* it was her. Might have been Esther. Anyway:
+
+<div class="flex-container">
+  <div class="column">
+
+    <a href="/assets/images/emily/47-2Tamara.jpg" target="_blank" rel="noopener">
+    <img src="/assets/images/emily/47-2Tamara.jpg" alt="Tamara" width="280"></a>
+
+    <a href="/assets/images/emily/47-3Tamara.jpg" target="_blank" rel="noopener">
+    <img src="/assets/images/emily/47-3Tamara.jpg" alt="Tamara" width="280"></a>
+
+  </div>
+</div>
+
+Need I say more?
+
+---
+
+Okay, off to bed -- need to finish that garden bed tomorrow.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+## Trip to Brissie
+
+**17.Oct.2025**   
+Decided to have a day away from home. Drove to the Ormiston station, and caught the train. Fifty cents, half a dollar ... like seriously, why wouldn't you take the train?
+
+First stop in going to be 'my' coffee shop in Milton: they're the only place in Brisbane area that serve the Artisti-brand coffee. I can actually ask for the "Delicate" roast, which is the one I get at home.
+
+After that, I might go into the city and call in at Ted's Cameras, see if they have a variable neutral density filter and a hand grip.
+
+The whole point to today is to *walk*! Lots!
+
+---
+
+Which, I did. First stop was 'my' cafe in Milton, the one that serves Artisti coffee. It was closed. As in: the coffee machine was gone. Moving out. No longer trading. 🥺 😢
+
+---
+
+Next stop was Ted's Cameras for an Variable ND filter and a better camera bag. The filter was dear, but I got it anyway. No luck on the bag. Wandered all over Queen St Mall and never found one. Finally decided it was time for a break, and called in at [Room with Roses](https://roomwithroses.com.au/), a charming high tea venue in the heart of the Brisbane Arcade. Even got to say hi to Vicki Pitts, the owner. Finally, much refreshed, decided to call it a day in this hot and humid city.
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
@@ -29,6 +142,7 @@ I'll be entering whatever I'm head-down/bum-up working on on these pages, with *
 
 ### ComfyUI and SRPO
 
+**17.Oct.2025**   
 Python has this odd behaviour: it will generate error messages that impart exact NIL information to *most* users, and, I would warrant, though I can't be sure, many developers. I've learnt not to trust Emily on things, either ... even some of her css (cascading style sheets) stuff has been a bit dodgy. Remember that old adage: garbage in, garbage out. *Similar to: elect clowns, expect a circus*.
 
 I kept getting this error in one of Sharvin's workflows, in the ImageResizeKJv2 node: it kept spitting the dummy with: "start(0) + length(832) exceeds dimension size(64)". Wrote Sharvin about it: his reply was, "Thanks! I tried it with an image of the same dimensions and didn’t get that error. Would you be able to share the input image and the workflow (with the image added) from when you encountered the error? GitHub link if possible. I can test it on my side to check what’s going on. Yes! I'll be happy to see your version of the workflow!"
@@ -69,13 +183,14 @@ And, you get the image of a Victorian lass.
 
 Both of these images have one thing in common: the character. In the prompt, the LoRA is referenced with 'moimeme3'. Flux does all the rest. It's pretty amazing how well it works, to be honest.
 
-
+---
 
 
 
 
 ### The GH5, for Video
 
+**16.Oct.2025**   
 I had my GH5 in 'repair': turns out the problem was a dodgy lens. My lovely 12-60mm Lumix Leica blah-blah-blah whatever is now a doorstop. These run AUD $1200.00 new. Doorstop. Can't be repaired. *{sigh}*
 
 The camera itself is fine. I decided it was time to start using it properly. Shot some footage for a quick little video of me making a flat-white (coffee) on my Bezzera Magica.
@@ -97,6 +212,8 @@ When Julia has her "Arty-Farty" art groups on Wednesday, I'm the designated bari
 
 By the way, the music was the 3rd sketch I wrote. There's another thing I want to spend a bit more time doing: writing music. Not enough hours in the day.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
 
 
 
@@ -106,8 +223,9 @@ By the way, the music was the 3rd sketch I wrote. There's another thing I want t
 
 ## Autobiography Stalled
 
-### Oct 10 Need Input
+### Need Input
 
+**10.Oct.2025**   
 Waiting for input from either Jess or Martin on the work done on Sept 30. Trying different approaches to photography of the pages: no obvious options present themselves. Updated links on the index page to all initial translation pages.
 
 Done:  
@@ -119,13 +237,14 @@ Done:
 Plan:  
 - Going to a stationery shop to pick up a "display book" to house the original document pages.
 
-
+---
 
 
 
 
 ### Kontext and SRPO
 
+**10.Oct.2025**   
 Having another look at Kontext. Trying to change camera angle, but it turned the figure around instead.  
 
 <a href="/assets/images/emily/36-VictTrain.jpg" target="_blank" rel="noopener">
@@ -265,6 +384,7 @@ Cheers.
 
 ### Sept 30 Receipt
 
+**30.Sep.2025**   
 Martin's "letter" arrived today. My observations are [documented here](../family/index.md/#30-sep-2025).
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -284,6 +404,7 @@ What else can ComfyUI do? Let's find out!
 
 ### Sept 19 Kalapana
 
+**19.Sep.2025**   
 A lot of the improvement has been in model development. Flux has fixed a lot of issues with distorted, missing or excess anatomy although it still happens. What really helps is patience: you simply fix the prompt and re-queue. And modifying the prompt again, and re-queueing. So, I was hoping for Kalapana back in the day. Is it? no way. Feels more like MacKenzie Park with palm trees instead of ironwoods. And those coconuts... really?
 
 <div class="flex-container" markdown>
@@ -341,6 +462,7 @@ Issues? Definitely. What's with the hand at the tip of the bard on the image on 
 
 ### Sept 21 (SRPO)
 
+**21.Sep.2025**   
 So, I wrote the text, and created the images, for the girl on the beach example on *Friday* in the model Flux.1 Dev.
 
 <img src="/assets/images/emily/12-SRPOGirl12.jpg" alt="Girl at Kalapana" style="float: right; width: 450px;
@@ -395,6 +517,7 @@ Feels like I've done enough Kalapana for now.
 
 ### Sept 22 Paris
 
+**22.Sep.2025**   
 So, we're going from Hawaii to Paris. Because: why not. 
 
 <img src="/assets/images/emily/24-Paris01.jpg" alt="Paris" style="float: right; width: 350px;
@@ -455,6 +578,7 @@ In a few short years, we've gone from [this](https://www.reddit.com/r/StableDiff
 
 ### Sept 25 Adventures
 
+**25.Sep.2025**   
 You might have noticed that the person in these images (and indeed in the 'Kalapana' images as well) all seem to be of the same person. When you do illustrations, having a persistent character is desirable. At this point, doing single-figure persistent characters is almost a no-brainer.
 
 My next challenge: having not only two or more persistent figures, but have them interact. Watch this space. 
@@ -505,7 +629,7 @@ In the meantime, adventures suggest themselves.
 
 
 
-## Best of the Best 2024
+## 2024 Best Reason for Living
 
 Harriet Clare Taylor at her ultimate preciousness.
 
@@ -527,8 +651,7 @@ Harriet Clare Taylor at her ultimate preciousness.
 
 ## Out Into Nature
 
-**2022 April 16**
-
+**16.Apr.2022**   
 Whilst doing all these projects feels great - getting stuff **DONE**! - there is no question one needs downtime.  
 Went for a 3k walk on the Jack Gordon path along the water at Redland Bay. Here's the start... that's my little 2014 Hyundai i20. Still in pretty good nick for a 8 year-old car. The weather was perfect for walking:
 
@@ -549,6 +672,8 @@ and along the water...
 
 
 Then for a 5k bike ride. Gotta start somewhere... better than sitting all day.
+
+
 
 <hr style="height:12px;border-width:0;color:pink;background-color:pink">
 

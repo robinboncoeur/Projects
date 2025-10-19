@@ -15,6 +15,41 @@ Be sure to turn on 'night-time' mode (it's the little moon icon next to the sear
 
 ## 2025
 
+### October 19
+
+Julia has been away for the past week. I'll admit it -- I have been **slack**. Been doing deep dives into [image-creating using ComfyUI](../../blogs/Blog25/#kontext-and-srpo), what with new models being spawned almost weekly, so this project sort-of got ignored. I did keep up the watering, but to be honest, I'm underwhelmed with the strawberries and the coriander has already bolted.
+
+<img src="/assets/images/garden/25-10-19/01-DirtPile.jpg" alt="Footpath works" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
+        
+		
+<img src="/assets/images/garden/25-10-19/02-Woodlined.jpg" alt="Footpath works" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
+
+Anyway, still had one bed without a liner. A liner is essential to prevent rotting. Not sure if one can detect it in the images, but there is definitely a lot of rotting going on, particularly down the bottom of the bed. Which is natural: wood meets wet soil and... rots.
+
+I have been pulling apart garden beds next to the house and ended up with this half-rotted timber, some of it a fair bit rotted. I was first minded to just chuck it -- our tip recycles wood, as long as it's clean -- but then I thought: "Why not use the good side to attach the liner to?" Save myself a trip to the tip, and re-use stuff I paid serious money for: timber isn't cheap.
+
+<img src="/assets/images/garden/25-10-19/03-Badside.jpg" alt="Footpath works" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
+        
+		
+<img src="/assets/images/garden/25-10-19/04-Goodside.jpg" alt="Footpath works" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
+
+Which is what I'm doing now. I'm going to face-to-face the rotted sides of the timber, screwing them in place. The liner -- basically a bit of 'throw-away' banner we have lying around -- will be attached to that. I might replenish the soil with some of the fresh compost I've been creating down the back. Job done: re-used rather than recycled:
+
+- rotted timber  
+- rusty screws  
+- banner material
+
+I reckon this might be the last bigger project I'll be undertaking by myself. As I sit here at my PC tonight, the lactic acid in my arm muscles is causing fierce spasms. 
+
+Yes, I do still have the footpath to finish, but I'll be a lot slower getting that done.
+
+---
+
+
 ### September 15
 
 About those rocks... here's where I am, progress-wise. Here's **BEFORE** ...
