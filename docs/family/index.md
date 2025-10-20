@@ -12,6 +12,10 @@ For my part, I will work on transcribing the words on the images - handwritten a
 
 I would suggest keeping Dad's account as written in **German** as part of the book for future reference.
 
+---
+
+[Main Page](../index.md)  
+
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 
 

@@ -1,10 +1,43 @@
 # Our Garden At Seabrae
 
-This page is about things we're doing around the house, including growbeds, footpaths and how we finally got rid of (re-purposed) all that nasty pumice gravel. The page is in reverse order, with more recent stuff nearer the top of the page.
+**2025**  
+[Garden Bed Liner](#garden-bed-liner)  
+[Cleaning River Rock](#cleaning-river-rock)  
+[Path and Bed](#path-and-bed)  
+[Successes](#successes)  
 
-<hr style="height:2px;border-width:0;color:navy;background-color:navy">
+**2022**  
+[Pathetic Henhouse](#pathetic-henhouse)  
+[Shadehouse Ideas](#shadehouse-ideas)  
+[In The Trenches](#in-the-trenches)  
+[Fixing Drainage](#fixing-drainage)  
+[Shadehouse Foundation](#shadehouse-foundation)  
+[Blueing 101](#blueing-101)  
+[Some Progress](#progress)  
+[At the Patio](#at-the-patio)  
+[Terrible Drainage](#terrible-drainage)  
+[Cucumbers and Parsley](#cucumbers-and-parsley)  
 
-Be sure to turn on 'night-time' mode (it's the little moon icon next to the search field at the top of the page) in order to see the pictures a bit better.
+**2021**  
+[Patio Footpath](#patio-footpath)  
+[WIP](#wip)  
+[Slowdown](#slowdown)  
+[Footpath Works](#footpath-works)  
+[Footpath in Disrepair](#footpath-in-disrepair)  
+
+---
+
+[Main Page](../index.md)  
+
+---
+
+Think I'm going to resize the larger images ... they take too long to load. These pages are probably best viewed on a desktop, as formatting goes to custard on smaller devices.   
+Note: *be sure to turn on 'night-time' mode (it's the little moon icon next to the search field in the page banner) to better see the images*.
+
+<style>
+  .flex-container {display: flex; gap: 20px;}
+  .column {width: 100%;}
+</style>
 
 <hr style="height:8px;border-width:0;color:navy;background-color:navy">
 
@@ -15,9 +48,10 @@ Be sure to turn on 'night-time' mode (it's the little moon icon next to the sear
 
 ## 2025
 
-### October 19
+### Garden Bed Liner
 
-Julia has been away for the past week. I'll admit it -- I have been **slack**. Been doing deep dives into [image-creating using ComfyUI](../../blogs/Blog25/#kontext-and-srpo), what with new models being spawned almost weekly, so this project sort-of got ignored. I did keep up the watering, but to be honest, I'm underwhelmed with the strawberries and the coriander has already bolted.
+**19.Oct.2025**  
+Julia has been away for the past week. I'll admit it -- I have been **slack**. Been doing deep dives into [image-creating using ComfyUI](../blogs/Blog25.md#kontext-and-srpo), what with new models being spawned almost weekly, so this project sort-of got ignored. I did keep up the watering, but to be honest, I'm underwhelmed with the strawberries and the coriander has already bolted.
 
 <img src="/assets/images/garden/25-10-19/01-DirtPile.jpg" alt="Footpath works" style="float: left; width: 400px;
         margin-right: 20px; margin-bottom: 10px;" />
@@ -49,9 +83,72 @@ Yes, I do still have the footpath to finish, but I'll be a lot slower getting th
 
 ---
 
+**20.Oct.2025**  
+Eating my frog. Up at 5:30, had my coffee, checked my email, steeling myself. Didn't start making noise -- Skillsaw, etc -- until after 7:30, out of deference to the neighbours.
 
-### September 15
+Two hours later:
 
+<img src="/assets/images/garden/25-10-20/01-Timber.jpg" alt="Footpath works" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
+
+<img src="/assets/images/garden/25-10-20/02-Timber.jpg" alt="Footpath works" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
+
+The timber is in. I'm drenched in sweat, starting to warm up a bit, and the flies are becoming annoying. I was able to use up all of the shorter stuff lying around and all of the rusted screws. I had soaked them in half-strength cleaning vinegar and water with the intent to restore them, but didn't.  
+I'm glad Julia insisted on John doing the mowing so I can **finally** get on top of all these *other* jobs.
+
+Now, there's **ONE** particular fly I can't abide at all: this one. (*'March fly' or 'horsefly': you choose, same-same*):
+
+<div class="flex-container">
+  <div class="column">
+
+    <img src="/assets/images/garden/25-10-20/03-Bane.jpg" alt="Footpath works" style="width: 280px;" />
+
+    <img src="/assets/images/garden/25-10-20/04-Bane.jpg" alt="Footpath works" style="width: 280px;" />
+
+  </div>
+</div>
+Looks like a common housefly, doesn't she? However, she's at least three times as big, and has a bite that, in the past, has made me physically ill. Pretty sure I'm allergic to that bite: not just redness, swelling and cellulitis at the bite site, but feverish and weak.  
+Like, **ILL**.  
+And yes: "she".  
+Male horseflies do not bite; only female horseflies bite to obtain the blood they need for egg development. Males feed on nectar and plant nectars instead. Female horseflies need a protein-rich blood meal to help develop their eggs after fertilization. Males do not reproduce in this way and therefore do not need blood. Male horseflies feed on plant nectars and other plant exudates. Also, male horseflies have weaker mouthparts that are not capable of breaking skin to feed on blood. 
+
+So, when this lass showed up, I decided it was time for a break.
+
+---
+
+Right-o! Done!
+
+<div class="flex-container">
+  <div class="column">
+
+  <a href="/assets/images/garden/25-10-20/05-Done.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/garden/25-10-20/05-Done.jpg" alt="Go" width="200" loading="lazy"></a>
+
+  <a href="/assets/images/garden/25-10-20/09-Done.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/garden/25-10-20/09-Done.jpg" alt="Go" width="360" loading="lazy"></a>
+
+  <a href="/assets/images/garden/25-10-20/06-Done.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/garden/25-10-20/06-Done.jpg" alt="Go" width="200" loading="lazy"></a>
+
+  </div>
+</div>
+
+Boy howdy... talk about hard yakka. But yeah, Done. I'll need to finish filling the bed with compost and soil I'm pulling out of the beds next to the living room that are going to be replaced by a sandpit for the little ones. However, I'll be getting John to help me with that.
+
+<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+
+
+
+
+
+
+
+
+
+### Cleaning River Rock
+
+**15.Sep.2025**  
 About those rocks... here's where I am, progress-wise. Here's **BEFORE** ...
 
 <img src="/assets/images/garden/25-09-16/00-Before.jpg" alt="Footpath works" style="float: left; width: 400px;
@@ -79,26 +176,26 @@ BTW, that's the sieve on the right: bane of my existence.
 
 Where before we had a rocky weed patch, we will only have rock, so things will remain tidy. Hopefully. The people who sometimes offer to help tend to be a little less than mindful of the principles at work here, but oh well. Since we have to line one of the garden beds (so there will be soil being carted around) I might leave things as they are until that's been done and focus on the very front of the footpath that still looks like this:
 
-<img src="/assets/images/garden/25-09-16/04-Weeds.jpg" alt="Footpath works" style="width: 900px;"/>
-
-
+<img src="/assets/images/garden/25-09-16/04-Weeds.jpg" alt="Footpath works" style="width: 400px;"/>
 
 ---
 
-### August 26
-
+**26.Aug.2025**  
 The least fun one can have is shovelling rocks. The mob at... well, I won't say their name but they're a prominent landscape supplier. They sold me *really* **muddy** river-rock. The point to the river-rock as a footpath is to eliminate having to weed. Weeds need: water, soil (or even dirt) and sunlight. Make the bed of **clean** river-rock deep enough, you've taken away light and soil. Water? Well, can't do much about that... rains here a fair bit.
 
 Anyway, the hard yakka has been sieving / washing away the mud out of the rock. Talk about a slow, painful process. It'll get there, but not without a HUGE effort!
 
+<hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
----
 
 
-### August 21
 
-**Path works**
 
+
+
+### Path and Bed
+
+**21.Aug.2025 - Path works**  
 <img src="/assets/images/garden/25-08-21/frontbeds-01.jpg" alt="Footpath works" style="float: left; width: 400px;
         margin-right: 20px; margin-bottom: 10px;" />
 		
@@ -120,93 +217,137 @@ Okay, the consistency (*think: mouth-feel*) isn't the greatest - a bit like munc
 
 As you can see, the timber is slowly decaying, hence the need for a liner. I'll use some left-over banners from Julia's Rural Aid days... we don't throw much. Working with soil is actually fun, almost relaxing. Working with rocks? Not so much. Still, hope to get it all done before the real heat starts.
 
+<hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
----
 
 
-### August 6
 
+
+
+
+### Successes
+
+**06.Aug.2025**  
 Might show you failures as well, but for now, just what we've been successful at growing.
 
-<img src="/assets/images/garden/25-08-06/renewbed-01.jpg" alt="Thyme" style="width: 900px;"/>
+<img src="/assets/images/garden/25-08-06/renewbed-01.jpg" alt="Thyme" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
-We've lined most of the garden beds, to prevent the timber from rotting. I've got one more to line: this clump of 'common' thyme is from the adjoining bed yet to be lined.
+<img src="/assets/images/garden/25-08-06/renewbed-02.jpg" alt="Margoram" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-<img src="/assets/images/garden/25-08-06/renewbed-02.jpg" alt="Margoram" style="width: 900px;"/>
+On the left is thyme ... we're growing two varieties. This clump of 'common' thyme is from a bed yet to be lined. We've lined most of the garden beds, to prevent the timber from rotting. The image on the right is my pride-and-joy: Margoram!! 
 
-This tiny clump is my pride-and-joy: Margoram!! Can't even get it in the shops anymore here in Oz... but it's an essential for Italian dishes.
+Can't even get it in the shops anymore here in Oz... but it's an essential for Italian dishes. Apparently, herbs tend to like sparse watering but I still try to keep the soil covered, to protect the microbiome.  
 
-<img src="/assets/images/garden/25-08-06/renewbed-03.jpg" alt="More thyme" style="width: 900px;"/>
 
-I believe these little battlers are lemon thyme. We'll see how they do in spring... nothing is really going crazy growing now (end of 'winter').
 
-<img src="/assets/images/garden/25-08-06/renewbed-04.jpg" alt="Strawberries" style="width: 900px;"/>
+<img src="/assets/images/garden/25-08-06/renewbed-03.jpg" alt="More thyme" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
-3 strawberry plants with flowers. So far, so good. Going to be putting coffee pucks (spent coffee grounds) near them to discourage slugs and such. The marigolds are also meant to ward off most pests, except perhaps the 'bin chooks': 
+<img src="/assets/images/garden/25-08-06/renewbed-04.jpg" alt="Strawberries" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-<img src="/assets/images/garden/25-08-06/Australian_Ibis.jpg" alt="Ibis" style="width: 900px;"/>
+I believe these little battlers are lemon thyme. We'll see how they do in spring... nothing is really going crazy growing now (end of 'winter'). 3 strawberry plants with flowers. So far, so good. Going to spread spent coffee grounds near them to discourage slugs.
 
-...(threskiornis molucca) as we call them (bin=rubbish bin;chook=chicken). They don't actually eat the plants, but they trample on the young plants as they dig around for slugs... hence the sticks in the ground. Actually seems to work.
+<img src="/assets/images/garden/25-08-06/Australian_Ibis.jpg" alt="Ibis" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-<img src="/assets/images/garden/25-08-06/renewbed-05.jpg" alt="Shallots" style="width: 900px;"/>
+The marigolds are also meant to ward off most pests, except perhaps the 'Threskiornis molucca', the ibis, or as we call them: 'bin chooks' (bin=rubbish bin; chook=chicken). These rather large birds -- roughly the size of a chicken -- don't actually eat the plants, but they trample on the young plants as they dig around for slugs... so I stuck a few sticks in the ground around the plants. Actually seems to be working.
 
-We call these 'spring onions'. When we buy a bunch at Woolies (like Safeway) I whack off the bottom 3-4 inches - the bit with the roots - and stick that into the ground. So, we have tons of that. Behind that, you can make out the parsley (transplanted successfully from the adjoining, now-replenished bed in the background) and the rosemary, also transplanted. I've tried to transplant rosemary before but failed. I'm delighted this one has done so well!
+The Australian White Ibis is a protected species in Australia and it is illegal to harm or kill them, according to state and national laws such as the NSW National Parks and Wildlife Act 1974 and the Queensland Nature Conservation Act 1992. While they are a protected species, their increasing numbers in urban areas have led some local councils to develop management plans to address community issues and balance the needs of the ibis with human infrastructure and the environment. The Australian White Ibis is a native bird and is protected under state-based legislation in various states, making it illegal to harm, collect eggs, or remove them.
 
-<img src="/assets/images/garden/25-08-06/renewbed-06.jpg" alt="Coffee" style="width: 900px;"/>
+<img src="/assets/images/garden/25-08-06/renewbed-05.jpg" alt="Shallots" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
-A couple of coffee plants with marigold and parsley. I expect these will take off in the spring. I'll have to keep them trimmed back - they tend to grow quite tall.
+<img src="/assets/images/garden/25-08-06/renewbed-06.jpg" alt="Coffee" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-<img src="/assets/images/garden/25-08-06/renewbed-07.jpg" alt="Spinach" style="width: 900px;"/>
+On the left: when I buy a bunch of 'spring onions' at Woolies (like Safeway) I whack off the bottom 3-4 inches -- the bit with the roots -- and stick them in groups of three into the ground.   
+On the right: a couple of coffee plants. 
 
-Perpetual spinach. Julia isn't fussed on the taste, but I love it. And it just grows and grows. BTW, this is the bed that I'll be emptying and putting a liner into.
+I expect these will take off in the spring. I'll have to keep them trimmed back - they tend to grow quite tall. I've tried to transplant rosemary before but failed. I'm delighted this one has done so well!
 
-<img src="/assets/images/garden/25-08-06/renewbed-08.jpg" alt="Basil" style="width: 900px;"/>
+<img src="/assets/images/garden/25-08-06/renewbed-07.jpg" alt="Spinach" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
-Basil, flowers (so Harri-girl has something to pick) and more margoram.
+<img src="/assets/images/garden/25-08-06/renewbed-08.jpg" alt="Basil" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-<img src="/assets/images/garden/25-08-06/coffeeplant-01.jpg" alt="Coffee plants" style="width: 900px;"/>
+On the left: perpetual spinach. Julia isn't fussed on the taste, but I love it.  
+On the right: basil, flowers (so Harri-girl has something to pick) and more margoram.
 
-The coffee **bush** (breynia oblongifolia) is considered an invasive weed by Brisbane City Council. They're not the same thing as the coffee *plant* (coffea arabica). The council just next to Brisbane City Council - Redlands Council, in which we live - used to have instructions on how to grow your own coffee plants. Those instructions seem to have been taken down.
+Apparently perpetual spinach is really nutritious. Also, very hardy -- it just grows and grows. BTW, this is the bed that I'll be emptying and putting a liner into.
+
+<img src="/assets/images/garden/25-08-06/coffeeplant-01.jpg" alt="Coffee plants" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
+
+The coffee **bush** (breynia oblongifolia) is considered an invasive weed by Brisbane City Council. 
+
+They're not the same thing as the coffee *plant* (coffea arabica). The council just next to Brisbane City Council - Redlands Council, in which we live - used to have instructions on how to grow your own coffee plants. Those instructions seem to have been taken down.
 
 As you can see, they're happy little self-seeding plants, so I get why environmental types are a bit cautious. They tend to feel the same way about blackberry bushes and guava trees.{{{sigh}}}
 
-<img src="/assets/images/garden/25-08-06/coffeeplant-02.jpg" alt="Coffee plants" style="width: 900px;"/>
+<img src="/assets/images/garden/25-08-06/coffeeplant-02.jpg" alt="Coffee plants" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
-Almost all of those little wide-leaf plants on the ground are young coffee plants. I'm going to leave some and transplant others.  
+<img src="/assets/images/garden/25-08-06/coffeeplant-04.jpg" alt="Coffee plants" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-<img src="/assets/images/garden/25-08-06/coffeeplant-03.jpg" alt="Coffee plants" style="width: 900px;"/>
+In the image on the left, almost all of those little wide-leaf plants on the ground are young coffee plants. I'm going to leave some and transplant others. In the middle of the image is the stump of a coffee plant. On the right: coffee cherries.
 
-A full-grown coffee plant. I'll be chopping it back later this year.
 
-<img src="/assets/images/garden/25-08-06/coffeeplant-04.jpg" alt="Coffee plants" style="width: 900px;"/>
+<img src="/assets/images/garden/25-08-06/coffeeplant-03.jpg" alt="Coffee plants" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-Coffee 'cherries' - been a really good year!
+In the middle of this image is a full-grown coffee plant. I'll be chopping it back later this year. I watched a YouTube of a chap in Kona (yes, Kona on the Big Island) who advocated for doing this to, I guess, refresh the plant. At the end of the day, there's little risk to trying this: I've got heaps of replacement plants. And it's not like I'm going to miss having the Woolies truck backing up to pick up my latest harvest, either.
 
-<img src="/assets/images/garden/25-08-06/coffeeplant-05.jpg" alt="Coffee plants" style="width: 900px;"/>
+By the way, this is one of those areas of the garden that too often gets neglected. There was a dead ficus tree that's finally in logs-ready-for-the-fireplace form, which was more of a hindrance than anything. That little electric chainsaw has proved its worth many times over by now.
 
-I'll probably leave this one alone for now, until the others get established.
+As far as working my little coffee 'plantation', to be honest, I was surprised just how labour-intensive the process is, going from cherries to roasted coffee beans. I've worked out a few strategies now to get the coffee beans to that green state ready for roasting, all without massive investments in equipment. Even so, just even picking the cherries: hard yakka.
 
-<img src="/assets/images/garden/25-08-06/coffeeplant-06.jpg" alt="Coffee plants" style="width: 900px;"/>
+I won't be ending my coffee subscription to [Artisti Coffee Roasters](https://artisti.com.au/collections/coffee-beans/products/delicate-coffee) any time soon.
 
-Gotta lift up the branches to find where they're hiding.
+<img src="/assets/images/garden/25-08-06/coffeeplant-06.jpg" alt="Coffee plants" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
-<img src="/assets/images/garden/25-08-06/coffeeplant-07.jpg" alt="Coffee cherries" style="width: 900px;"/>
+<img src="/assets/images/garden/25-08-06/coffeeplant-07.jpg" alt="Coffee plants" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-Some folks use the pulpy bit and make jam from it. Aren't they gorgeous!
+Round the back of the house, I've got this plant. Minimal tending -- well, I tend to forget it exists, to be honest. I'll probably leave this one alone for now, until the others get established. Just have a look at these coffee cherries! It has been a great year!
 
-<img src="/assets/images/garden/25-08-06/process-01.jpg" alt="Picked cherries" style="width: 900px;"/>
 
-Harvested and ready to be smooshed in the morter and pestle. The pulp goes in the compost, and the beans go:
+<img src="/assets/images/garden/25-08-06/process-01.jpg" alt="Picked cherries" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
-<img src="/assets/images/garden/25-08-06/process-02.jpg" alt="Fermentation" style="width: 900px;"/>
+<img src="/assets/images/garden/25-08-06/process-02.jpg" alt="Fermentation" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-...here, to ferment for a week.
+In the image on the left: harvested cherries (and coffee pucks). They get smooshed in the mortar and pestle.  
+The pulp goes in the compost, and the beans go into glass jars (image on the right) to ferment for a week or so.
 
-<img src="/assets/images/garden/25-08-06/process-03.jpg" alt="Ready to hull" style="width: 900px;"/>
 
-Then, we dry them - for **AGES**!
+<img src="/assets/images/garden/25-08-06/process-03.jpg" alt="Ready to hull" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
-<img src="/assets/images/garden/25-08-06/process-04.jpg" alt="Ready to hull" style="width: 900px;"/>
+<img src="/assets/images/garden/25-08-06/process-04.jpg" alt="Ready to hull" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
+
+Then, we dry the beans - for **AGES**!
+
+But there is one process left, one that really had me concerned, because initially I had **first** peeled the hull off each bean manually.  
+Yes.    
+Each. Bean. Manually.
+
+So, there are several layers to remove on a coffee cherry:  
+
+  - the outer skin and pulp are removed first  
+  - the bean is slippery due to a pectin layer - this is removed by fermentation  
+  - beans are carefully washed  
+  - the beans (still covered in a hull, as in the images) are dried  
+  - the parchment (hull) and a really thin 'skin' called the 'silver skin' are removed
+
+Queensland being so dry, it's not hard to get them properly drying. The challenge was removing the parchment and silver skin, in order to end up with just the green bean.
 
 <hr style="height:8px;border-width:0;color:navy;background-color:navy">
 
@@ -220,22 +361,28 @@ Then, we dry them - for **AGES**!
 
 
 
-## 2022 - The Footpath
+## 2022
 
-### October 7
+### Pathetic Henhouse
 
+**07.Oct.2022**  
 Whilst this isn't so much about the shadehouse/greenhouse, Julia is picking up six more "rescue hens" this weekend, so the push was on to get the henhouse ready. The house was built of fairly ordinary quality material, so in time due to moisture leaking through the roof timber, the ceiling had totally rotted out (under the roof). We decided that - for now - we would replace that rotted plywood with a plastic liner:
 
 <img src="/assets/images/garden/22-10-07/roof1.jpg" alt="Chookhouse ceiling" style="width: 900px;"/>
 
 should keep the girls dry this year, which promises to be a rather wet year. I'll probably need to come up with a more robust, permanent solution as even the roof bits will likely rot in time and will need to be replaced. Yes, the house is "cute", but buyer beware: it wasn't built to last, by any stretch of the imagination. I reckon the shadehouse isn't much better.
 
+<hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
----
 
 
-### October 6
 
+
+
+
+### Shadehouse Ideas
+
+**06.Oct.2022**  
 Bit of a gap in this blog: working on the footpath during the rains - digging trenches for the runoff ag-pipe and carting off debris to the bottom of our little property has rsulted in a fairly significant back injury which kind-of put things on hold for a bit. Months later, I'm finally able - cautiously and slowly - to start work again on the frame for under the shadehouse, which itself is not the one I originally thought of putting in: it's a [store-bought one](https://www.vidaxl.com.au/e/vidaxl-greenhouse-anthracite-aluminium-3.61-m2/8719883813943.html).
 
 <img src="/assets/images/garden/22-10-06/s-house1.jpg" alt="Not what we got" style="float: left; width: 400px;
@@ -261,9 +408,7 @@ In the end, we went with another solution altogether. We still need sheds buildi
 
 Crucial to note here is what I'm observing as to my stamina: that injury setback has really undermined my ability to "bounce back". I'm going to have to take a far more measured approach.
 
-
 ---
-
 
 We're getting into the whole permaculture thing in a more thoughtful way. Since Julia and I are both retired, we can focus our energies on doing this properly. Here are a couple of videos that are getting us started:
 
@@ -273,15 +418,25 @@ A [full video collection](https://www.youtube.com/embed/uqwWdranB5A) on the subj
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7qXgbrIYcFE" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
----
 
 
-### May 12
 
+
+
+
+
+### In The Trenches
+
+**12.May.2022**  
 We've been having quite a bit of heavy rain, which has brought a real problem with flooding in the front of the house into focus. The key issue is that standing water affects the concrete slab foundation, and is likely also responsible for the bamboo wood floor mold near the window, although that needs further research. 
 
-The trench was shallow at first, just down to the weed mat - and then we were blessed with some incredibly heavy rainfall. Made a quick-n-dirty :ref:`video of the rain here <vids-storm-draining>`.
+The trench was shallow at first, just down to the weed mat - and then we were blessed with some incredibly heavy rainfall. 
+
+<!--
+Made a quick-n-dirty :ref:`video of the rain here <vids-storm-draining>`.
+/-->
 
 Keeping slope in mind, a massive effort ensued to continue the trench along side the house and all the way down to where the property slopes off markedly towards the back. Drainage pipe was placed in the ground, with a close eye on slope, with the outlet right by the lemon tree. I hope I don't end up drowning it:
 
@@ -291,11 +446,17 @@ I do hope the rain will come this arvo as promised and test the drainage pipe I'
 
 <img src="/assets/images/garden/22-05-12/trench2.jpg" alt="The trench" style="width: 900px;"/>
 
----
+<hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
 
-### May 3
 
+
+
+
+
+### Fixing Drainage
+
+**03.May.2022**  
 Besides "Timber Protecta", I figured if the timber sat on gravel instead of dirt, it would break down more slowly:
 
 <img src="/assets/images/garden/22-05-03/gravel1.jpg" alt="Footpath" style="width: 900px;"/>
@@ -322,11 +483,19 @@ I believe this technigue is called "french drainage" except it is commonly appli
 
 Meanwhile, the patio footpath encouraged me to keep on keeping on.
 
+<hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
----
 
-### May 2
 
+
+
+
+
+
+
+### Shadehouse Foundation
+
+**02.May.2022**  
 Labour Day Weekend: finally able to get stuck back into the shadehouse foundation. I'm going to reuse as much of the pumice-gravel as I can under the decking. Put a separator board between the red cedar chip and the pumice:
 
 <img src="/assets/images/garden/22-05-02/gravel1.jpg" alt="Footpath" style="width: 900px;"/>
@@ -349,12 +518,18 @@ At the same time, all that horrid pumice-gravel is being removed from the front 
 
 River rock won't get caught in my shoes and dragged back into the house to wreck our bamboo flooring. I'll have those flagstone walkway things for people to walk on - river rock is a bit rough on bare feet, and most people go barefoot most of the time. Probably need to pick up a few more flagstones.
 
+<hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
----
 
 
-### April 30
 
+
+
+
+
+### Blueing 101
+
+**25.Apr.2022**  
 Project update: focus has been on getting my US pension sorted, and so have focused mainly on peripheral tasks, such as getting some of the wood protected and restoring metal bits. I'm actually re-using the screws I used to assemble the decking and grow beds - too expensive to go out and buy new all the time. So, I gave them a rough cleaning and then a soak in a cleaning vinegar bath for a few days, until the bath looks like this:
 
 <img src="/assets/images/garden/22-04-30/bluing1.jpg" alt="Rust solution" style="width: 900px;"/>
@@ -369,11 +544,19 @@ I know, they still look pretty rough, don't they? Well, here's where the magic h
 
 Good as gold.
 
+<hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
----
 
-### April 25
 
+
+
+
+
+
+
+### Progress
+
+**25.Apr.2022**  
 Some headway on the patio footpath project:
 
 <img src="/assets/images/garden/22-04-25/fp1.jpg" alt="Footpath" style="width: 900px;"/>
@@ -382,12 +565,17 @@ The method used to tie timber pieces together:
 
 <img src="/assets/images/garden/22-04-25/fp2.jpg" alt="Footpath" style="width: 900px;"/>
 
+<hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
----
 
 
-### April 23
 
+
+
+
+### Drainage Fix
+
+**23.Apr.2022**  
 A lot of soil has been "bleeding" out from under the beds. I retrieved over a wheelbarrow-full during this exercise. Some of the beds sinking can probably be attributed to that, the rest, probably the decomposition of the biomass we cover with soil. So, I've placed some 'sacrificial' pieces where a log lived, before:
 
 <img src="/assets/images/garden/22-04-23/fp1.jpg" alt="Footpath" style="width: 900px;"/>
@@ -408,12 +596,18 @@ In the ShadeHouse area, I've spread the torn shade sail - which we had to replac
 
 And now, the hard bit: 'rescuing' the river rock mixed in with this nasty pumice-gravel, gravel which will end up under the ShadeHouse foundation.
 
+<hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
----
 
 
-### April 22
 
+
+
+
+
+### At the Patio
+
+**22.Apr.2022**  
 Finally recommencing work on this project as I'm now retired and can focus on it. I started on the garden-bed area for the shadehouse which is next to the footpath which has river-rock that needs filtering / cleaning and well, that opened a can of worms. so it's going here:
 
 <img src="/assets/images/garden/22-04-22/fp1.jpg" alt="Footpath" style="width: 900px;"/>
@@ -424,12 +618,18 @@ That bit behind the air-con took ages to finish. Just couldn't get up the resolv
 
 So, now the river-rock rescued from the front has a place to go. I'll be filling most of the "cavity" with rescued river-rock, and have just a layer at the top surrounding the flagstones of freshly-purchased rock.
 
+<hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
----
 
 
-### April 20
 
+
+
+
+
+### Terrible Drainage
+
+**20.Apr.2022**  
 You know how when you start getting into a project, it sort-of just grows? We've been having problems with standing water in our front yard during heavy downpours. Whilst the house is built on a slab, we're seeing cracks develop where they just shouldn't. Some time ago we'd engaged some gardening dudes to put down some ag pipe to drain off that water. That ag pipe:
 
 <img src="/assets/images/garden/22-04-20/fp1.jpg" alt="Footpath" style="width: 900px;"/>
@@ -448,12 +648,18 @@ Actually have a bit of time to update this page as we're have a young visitor - 
 
 <img src="/assets/images/garden/22-04-20/fp4.jpg" alt="Footpath" style="width: 900px;"/>
 
+<hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
----
 
 
-### April 18
 
+
+
+
+
+### Cucumbers and Parsley
+
+**18.Apr.2022**  
 We did alright with cucumbers:
 
 <img src="/assets/images/garden/22-04-18/garden-01.jpg" alt="Cucumbers" style="width: 900px;"/>
@@ -488,32 +694,39 @@ It didn't work. The little rascals worked their way under the lip of the plastic
 
 
 
-## 2021-Patio Footpath
+## 2021
 
-### September 6
+### Patio Footpath
 
+**06.Sep.2021**  
 I have neglected these pages for the past months as projects piled up and updating pages took less and less priority. However, circumstances have changed, which have resulted in forcing me to put physical work on hold... in order to heal.
 
 Long story short: my twenty-five year old brain was dictating utter nonsense to my now seventy year old body, the one with bulging L5-S1 discs and degenerative processes, and because I pushed myself, I am now paying the price. I've developed a bad sciatica for which even a CT-guided nerve-root injection hasn't sort-of done much yet (well, it's early days). End result: forced rest.
 
+<hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
----
 
 
-### July 4
 
+
+### WIP
+
+**04.Jul.2021**  
 Here's where things ended up in June/July (other projects were demanding my attention):
 
 <img src="/assets/images/garden/21-07-04/fp1.jpg" alt="Footpath" style="width: 900px;"/>
 
 And so things stayed for nine months or so. Work (like, at the hospital) sort-of gets in the way.
 
+<hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
----
 
 
-### June 10
 
+
+### Slowdown
+
+**10.Jun.2021**  
 I can totally tell I'm approaching 70. Progress is slow... much slower than I'd like, but oh well. 
 
 I might, at this juncture, go a bit into what I am trying to accomplish, and why. Here's an idea what the footpath is meant to look like when it's done:
@@ -527,23 +740,22 @@ And here is what it looked like a year ago:
 
 The main challenge with the use of crusher-dust and pumice-gravel was that weeds would pretty much grow right through, and ultimately take over the footpath. As soon as dust accumulates in the pumice-gravel, it sinks down to the crusher-dust level, giving what should be an inert mineral base into a substrate for weed growth. Additionally, the person that Julia had engaged to redo the footpaths thought putting down *cardboard* - as in: container boxes - under the gravel as a weed deterrent was a good idea (it wasn't: cardboard breaks down quickly, and weeds aren't picky what they grow in) and chose that horrid pumic-gravel to cover the existing river-rock. I've been trying to filter out the river-rock to reuse it: not a trival task. I have been able to demonstrate that if the river-rock layer is deep enough, weeds will not grow:
 
-<img src="/assets/images/garden/21-06-10/fp2.jpg" alt="Footpath" style="width: 900px;"/>
-
 <img src="/assets/images/garden/21-06-10/fp3.jpg" alt="Footpath" style="width: 900px;"/>
-
-whereas, that pumice-gravel, even with river-rock underneath it and weedmat, allowed weeds to grow. I'm all for weeds, but do want to control where they grow:
 
 <img src="/assets/images/garden/21-06-10/fp4.jpg" alt="Footpath" style="width: 900px;"/>
 
-We tried spraying with a vinegar/salt/dish-soap mixture to control the weeds - we have bees, so we're not about to use a off-the-shelf herbicide - and as for the most part it works easily as well as the toxic stuff, it is not a long-term solution.
+whereas, that pumice-gravel, even with river-rock underneath it and weedmat, allowed weeds to grow. I'm all for weeds, but do want to control where they grow. We tried spraying with a vinegar/salt/dish-soap mixture to control the weeds - we have bees, so we're not about to use a off-the-shelf herbicide - and as for the most part it works easily as well as the toxic stuff, it is not a long-term solution.
+
+<hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
 
----
 
 
-### May 27
 
-IThe project began with tearing out the rotten timber and sifted out the pumice-like gravel, rescuing what could be saved of the original river-rock:
+### Footpath Works
+
+**10.Jun.2021**  
+The project began with tearing out the rotten timber and sifted out the pumice-like gravel, rescuing what could be saved of the original river-rock:
 
 <img src="/assets/images/garden/21-05-27/fp1.jpg" alt="Footpath" style="width: 900px;"/>
 
@@ -567,12 +779,16 @@ As is clearly noticable, I purchased the timber from a rather dodgy mob in Cleve
 
 A lot of that timber had sappy knots and other defects, some which were so bad I had to trim them off before I painted them with three coats of [Timber Protecta](https://www.bowens.com.au/p/diggers-eco-in-ground-timber-protecta/). The remaining timber still had some warping wich made the edge-joins less than perfect. I reckon with time this slight problem will become less noticable. 
 
+<hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
----
 
 
-### May 17
 
+
+
+### Footpath in Disrepair
+
+**17.May.2021**  
 The house featured a footpath around the right side (facing from the street) of the house. As it was in some disrepair, we had it worked on a few years back. Sadly, rain and poor design rather quickly took the footpath back to a state of disrepair:
 
 <img src="/assets/images/garden/21-05-17/fp1.jpg" alt="Footpath" style="width: 900px;"/>
@@ -593,11 +809,7 @@ The design was not up to the challenge, resulting in sagging retaining timber:
 
 The worst part was that the pumice-gravel would stick to my shoes, which tracked into the house, risking scratching our bamboo flooring.
 
-
 ---
-
-
-### Brief Overview
 
 <img src="/assets/images/garden/21-05-17/before1.jpg" alt="Footpath" style="width: 900px;"/>
 

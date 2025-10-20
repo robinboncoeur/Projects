@@ -16,8 +16,11 @@ I'll be entering whatever I'm head-down/bum-up working on on these pages, with *
 [Autobiography Stalled](#autobiography-stalled)  
 [Kontext and SRPO](#kontext-and-srpo)  
 [Exploring ComfyUI](#exploring-comfyui)  
-[Best of the Best 2024](#best-of-the-best-2024)  
-[Out Into Nature 2022](#out-into-nature)  
+[Best of the Best 2024](#2024-best-reason-for-living)  
+
+---
+
+[Main Page](../index.md)  
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
@@ -34,7 +37,7 @@ I'll be entering whatever I'm head-down/bum-up working on on these pages, with *
 
 ### Garden Work
 
-Finally pulled the finger out and did a [bit of work](../../other/Garden/#october-19) on the last garden bed that needed a liner putting in. Not nearly as much fun as Qwen, to be honest. 🤨🤨🤨🤨🤨
+Finally pulled the finger out and did a [bit of work](../other/Garden.md#garden-bed-liner) on the last garden bed that needed a liner putting in. Not nearly as much fun as Qwen, to be honest. 🤨🤨🤨🤨🤨
 
 
 
