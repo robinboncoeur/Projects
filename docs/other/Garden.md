@@ -366,11 +366,10 @@ Queensland being so dry, it's not hard to get them properly drying. The challeng
 ### Pathetic Henhouse
 
 **07.Oct.2022**  
-Whilst this isn't so much about the shadehouse/greenhouse, Julia is picking up six more "rescue hens" this weekend, so the push was on to get the henhouse ready. The house was built of fairly ordinary quality material, so in time due to moisture leaking through the roof timber, the ceiling had totally rotted out (under the roof). We decided that - for now - we would replace that rotted plywood with a plastic liner:
+<img src="/assets/images/garden/22-10-07/roof1.jpg" alt="Chookhouse ceiling" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-<img src="/assets/images/garden/22-10-07/roof1.jpg" alt="Chookhouse ceiling" style="width: 900px;"/>
-
-should keep the girls dry this year, which promises to be a rather wet year. I'll probably need to come up with a more robust, permanent solution as even the roof bits will likely rot in time and will need to be replaced. Yes, the house is "cute", but buyer beware: it wasn't built to last, by any stretch of the imagination. I reckon the shadehouse isn't much better.
+Whilst this isn't so much about the shadehouse/greenhouse, Julia is picking up six more "rescue hens" this weekend, so the push was on to get the henhouse ready. The house was built of fairly ordinary quality material, so in time due to moisture leaking through the roof timber, the ceiling had totally rotted out (under the roof). We decided that - for now - we would replace that rotted plywood with a plastic liner. This should keep the girls dry this year, which promises to be a rather wet year. I'll probably need to come up with a more robust, permanent solution as even the roof bits will likely rot in time and will need to be replaced. Yes, the house is "cute", but buyer beware: it wasn't built to last, by any stretch of the imagination. I reckon the shadehouse isn't much better.
 
 <hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
@@ -430,21 +429,23 @@ A [full video collection](https://www.youtube.com/embed/uqwWdranB5A) on the subj
 ### In The Trenches
 
 **12.May.2022**  
-We've been having quite a bit of heavy rain, which has brought a real problem with flooding in the front of the house into focus. The key issue is that standing water affects the concrete slab foundation, and is likely also responsible for the bamboo wood floor mold near the window, although that needs further research. 
 
-The trench was shallow at first, just down to the weed mat - and then we were blessed with some incredibly heavy rainfall. 
+<img src="/assets/images/garden/22-05-12/trench1.jpg" alt="The trench" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
-<!--
-Made a quick-n-dirty :ref:`video of the rain here <vids-storm-draining>`.
-/-->
+<img src="/assets/images/garden/22-05-12/trench2.jpg" alt="The trench" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-Keeping slope in mind, a massive effort ensued to continue the trench along side the house and all the way down to where the property slopes off markedly towards the back. Drainage pipe was placed in the ground, with a close eye on slope, with the outlet right by the lemon tree. I hope I don't end up drowning it:
+We've been having quite a bit of heavy rain, which has brought a real problem with flooding in the front of the house into focus.  
+Standing water is affecting the concrete slab foundation. Cracks in the ceiling suggest this is a problem.
 
-<img src="/assets/images/garden/22-05-12/trench1.jpg" alt="The trench" style="width: 900px;"/>
+It is likely also responsible for the bamboo wood floor mold near the window, although that needs further research. 
 
-I do hope the rain will come this arvo as promised and test the drainage pipe I've put in so far:
+The trench was shallow at first, just down to the weed mat - and then we were blessed with some incredibly heavy rainfall.  Keeping slope in mind, a massive effort ensued to continue the trench along side the house and all the way down to where the property slopes off markedly towards the back. (*It was during this period that I wrecked my 70-odd year-old back overdoing it. Have to scale it back a bit.*) Drainage pipe was placed in the ground, with a close eye on slope, with the outlet right by the lemon tree. I hope I don't end up drowning the tree.
 
-<img src="/assets/images/garden/22-05-12/trench2.jpg" alt="The trench" style="width: 900px;"/>
+Hopefully the rain will come this arvo as promised and test the drainage pipe I've put in so far.
+
+ETA: The rain came. The test went well.
 
 <hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
@@ -457,31 +458,37 @@ I do hope the rain will come this arvo as promised and test the drainage pipe I'
 ### Fixing Drainage
 
 **03.May.2022**  
-Besides "Timber Protecta", I figured if the timber sat on gravel instead of dirt, it would break down more slowly:
 
-<img src="/assets/images/garden/22-05-03/gravel1.jpg" alt="Footpath" style="width: 900px;"/>
+<img src="/assets/images/garden/22-05-03/gravel1.jpg" alt="Footpath" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
-...so this separator piece (separating pumice-gravel from the eventual river-rock) sits in gravel:
+<img src="/assets/images/garden/22-05-03/gravel2.jpg" alt="Footpath" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-<img src="/assets/images/garden/22-05-03/gravel2.jpg" alt="Footpath" style="width: 900px;"/>
+Pulled up that ag pipe which just ended there. This was 1) incredibly ineffective drainage and 2) a highly irresponsible *non-working* solution, as the water would drain towards the fence, compromising the intergrity of that wall.
 
-And here is where I left things today:
+<img src="/assets/images/garden/22-05-03/gravel3.jpg" alt="Footpath" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
-<img src="/assets/images/garden/22-05-03/gravel3.jpg" alt="Footpath" style="width: 900px;"/>
+<img src="/assets/images/garden/22-05-03/gravel4.jpg" alt="Footpath" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-Pulled up that ag pipe which will be repurposed for the wicking beds:
+Besides "Timber Protecta", I figured if the timber sat on gravel instead of dirt, it would break down more slowly. This separator piece (separating soil from the river-rock) sits in gravel.  
+Here is where I left things today.
 
-<img src="/assets/images/garden/22-05-03/gravel4.jpg" alt="Footpath" style="width: 900px;"/>
+---
 
-...to be replaced by two larger-diameter, non-fabric-covered ag pipes which I'm going fan out into the area to maximise drainage:
+<img src="/assets/images/garden/22-05-03/gravel5.jpg" alt="Footpath" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
-<img src="/assets/images/garden/22-05-03/gravel5.jpg" alt="Footpath" style="width: 900px;"/>
+<img src="/assets/images/garden/22-05-03/fpMay4.jpg" alt="Footpath" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-I believe this technigue is called "french drainage" except it is commonly applied with gravel. We'll be using river-rock. Flagstones will provide a place for people to walk so they don't walk directly on the river-rock covering ag pipe. We'll see if that works.
+I believe this technique is called "french drainage" except it is commonly applied with gravel. We'll be using shade sail covered with river-rock. 
 
-<img src="/assets/images/garden/22-05-03/fpMay4.jpg" alt="Footpath" style="width: 900px;"/>
+Flagstones will provide a place for people to walk.
 
-Meanwhile, the patio footpath encouraged me to keep on keeping on.
+Meanwhile, the **finished** bit -- the patio footpath -- encouraged me to keep on keeping on.
 
 <hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
@@ -496,27 +503,38 @@ Meanwhile, the patio footpath encouraged me to keep on keeping on.
 ### Shadehouse Foundation
 
 **02.May.2022**  
-Labour Day Weekend: finally able to get stuck back into the shadehouse foundation. I'm going to reuse as much of the pumice-gravel as I can under the decking. Put a separator board between the red cedar chip and the pumice:
 
-<img src="/assets/images/garden/22-05-02/gravel1.jpg" alt="Footpath" style="width: 900px;"/>
+<img src="/assets/images/garden/22-05-02/gravel1.jpg" alt="Footpath" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
-...and then, the protected pieces fastened in place next to the "sacrificial" ones:
+<img src="/assets/images/garden/22-05-02/gravel2.jpg" alt="Footpath" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-<img src="/assets/images/garden/22-05-02/gravel2.jpg" alt="Footpath" style="width: 900px;"/>
+Labour Day Weekend: finally able to get stuck back into the shade-house foundation. I'm going to reuse as much of the pumice-gravel as I can under the decking. Putting a separator board between the red cedar chip and the pumice. 
 
-<img src="/assets/images/garden/22-05-02/gravel3.jpg" alt="Footpath" style="width: 900px;"/>
+The 'Timba-Protecta' coated pieces to be fastened in place next to the "sacrificial" ones.
 
-What's nice about "being your own boss" is the ability to decide when you're done for the day:
+<img src="/assets/images/garden/22-05-02/gravel3.jpg" alt="Footpath" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
-<img src="/assets/images/garden/22-05-02/gravel4.jpg" alt="Footpath" style="width: 900px;"/>
+<img src="/assets/images/garden/22-05-02/gravel4.jpg" alt="Footpath" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
-<img src="/assets/images/garden/22-05-02/gravel5.jpg" alt="Footpath" style="width: 900px;"/>
+What's nice about "being your own boss" is the ability to decide when you're done for the day. Unfortunately, I sometimes get caught up in the "just one more little thing to do" cycle and end up knackered. 
 
-At the same time, all that horrid pumice-gravel is being removed from the front and from the side of the house, to be replaced with river rock (like what's beside the grow bed in this picture):
+Overdid.
 
-<img src="/assets/images/garden/22-05-02/gravel6.jpg" alt="Footpath" style="width: 900px;"/>
+<img src="/assets/images/garden/22-05-02/gravel5.jpg" alt="Footpath" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
-River rock won't get caught in my shoes and dragged back into the house to wreck our bamboo flooring. I'll have those flagstone walkway things for people to walk on - river rock is a bit rough on bare feet, and most people go barefoot most of the time. Probably need to pick up a few more flagstones.
+<img src="/assets/images/garden/22-05-02/gravel6.jpg" alt="Footpath" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
+
+At the same time, all that horrid pumice-gravel is being removed from the front and from the side of the house, to be re-purposed.
+
+It will be replaced with river rock (seen beside the grow bed in the image on the right).
+
+No more weeds! Unlike that nasty pumice, river rock won't get caught in my shoes and dragged back into the house to wreck our bamboo flooring. I'll have those flagstone walkway things for people to walk on - river rock is a bit rough on bare feet, and most people go barefoot most of the time. Probably need to pick up a few more flagstones.
 
 <hr style="height:4px;border-width:0;color:navy;background-color:navy">
 
