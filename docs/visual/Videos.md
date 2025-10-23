@@ -1,6 +1,9 @@
 # Odd Little Videos
 
+[Travels](#travels)
+
 [Back to the Main Page](../index.md)
+[Older Stuff](#older-stuff)
 
 ## Travels
 
@@ -54,7 +57,7 @@ New Zealand - Trampin' (Hiking) the Mou
 
 
 
-## Other, Older Stuff
+## Older Stuff
 
 Tribute to Mom and Dad
 

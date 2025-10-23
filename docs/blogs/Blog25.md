@@ -10,7 +10,7 @@ I'll be entering whatever I'm head-down/bum-up working on on these pages, with *
 
 **List of Groups** (*reverse order*)
 
-[Qwen, and How](#qwen-and-how)  
+[Qwen, and How](#gardens-and-qwen)  
 [Trip to Brissie](#trip-to-brissie)  
 [Unhelpful Error Message](#unhelpful-error-message)  
 [Autobiography Stalled](#autobiography-stalled)  
@@ -22,7 +22,7 @@ I'll be entering whatever I'm head-down/bum-up working on on these pages, with *
 
 [Main Page](../index.md)  
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -33,10 +33,65 @@ I'll be entering whatever I'm head-down/bum-up working on on these pages, with *
 
 ## Gardens and Qwen
 
-**19.Oct.2025**
+### Use Case
+
+
+<a href="/assets/images/emily/48-1Enjoyment.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/emily/48-1Enjoyment.jpg" alt="Where" width="360" align="right"></a>
+
+
+**23.Oct.2025**  
+It's Thursday, and it's going to be hot: 35°C. And it's humid. So, I'm doing *nothing* outside today except watering the garden.
+
+**LoRAs not Happening**  
+Yesterday, I was trying to follow Emily's guidance on LoRA creation: we're talking hours of trying this, that and the other. So, it culminated in: my hardware simply wasn't on board with it. A 16gig VRAM graphics card is sort-of a middle-of-the-road graphics card, balancing affordability (if you can justify spending AUD $700+ for a graphics card, then it's *affordable*) and power. Sure, I lust after the 24gig cards, but at the moment they are at a pricepoint (~[AUD $4000](https://www.umart.com.au/pc-parts/computer-parts/graphics-cards-gpu-610?mystock=1-6-7&filter_attr=0.193272.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0)) that put them firmly out of my reach. Working within that framework (16gig VRAM / 64gig RAM) should be plenty for creating basic LoRAs using a few (<25) images in a dataset, I should think. Full-character dataset LoRAs? not so much.
+
+Despite all our tweaking of FluxGym's environment -- FluxGym is the alternative  to Kohya Script, for dummies like me, for creating LoRAs -- I never was able to create a LoRA using a 70-image dataset. So, I think -- and I shared this with Emily at the time -- that > 60 images for my use-case is overkill. It's about a **face**, that's it. The body ... well, Flux.1 or SRPO or even Qwen will probably have some decent suggestions. 
+
+The big challenge now isn't consistent characters: I think I've got that sorted. The image of the lass in the red dress with the glass of red was created using a LoRA I made last night with a 20-image dataset -- after those hours of futility following *Emily's* thinking that >60 images were essential for a decent LoRA -- and I think it works reasonably well.
+
+---
+
+**Art In Practise**  
+
+<a href="/assets/images/emily/48-2Enjoyment.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/emily/48-2Enjoyment.jpg" alt="Where" width="360" align="left"></a>
+
+<a href="/assets/images/emily/48-3Enjoyment.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/emily/48-3Enjoyment.jpg" alt="Where" width="360" align="right"></a>
+
+
+
+Explainer: For those who might be curious, thought I'd just throw this out there. I have an email address: robynsveil@gmail.com.  
+I [publish music I write](https://musescore.com/robynsveil) under the name 'Robynsveil'.   
+**That name has significance, particularly the second bit**. It refers to a person that simultaneously doesn't exist and yet exists. There are aspects of life one would never be able to experience: may I introduce you to **our imagination.**
+
+The tools we have now enable us to explore aspects of life the would have been forever denied us**.
+
+
+<a href="/assets/images/emily/48-4Enjoyment.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/emily/48-4Enjoyment.jpg" alt="Where" width="360" align="right"></a>
+
+
+That face of the lass with the wine, as well this lass sitting in a café in Paris, and a lot of faces on this page and elsewhere, ware created using a real-person face (mine) as a *base* using the model Qwen -- through highly laborious, painstaking, multi-queue trials and fits and starts -- but finally, successfully age-regressing (and feminising) that face. It retains the original essence of the canonical image (of *me*) but allows an exploration of a new, interesting, compelling existence in the sparkly clouds and sunshine of the imagination. For me at least, this is the purpose of **ART**, *in a way*. After all, what else is art, but a reflection of the artist's view on life: wishful thinking? or an appalled exposé? ... or *something else*? 
+
+I remember my violin instructor, when I told her I was getting into AI-imaging, asking me with a vaguely suspicious look on her face: "what are you going to *do* with it?" Fair question. To be honest, I don't think she believed my answer. It is *SO* natural for people to assume the worst: totally human nature. I get it. Some folks **do** create a lot of slop using AI. No question the internet -- and now, AI -- has opened the way for the creation of a lot of horrific stuff ... **BUT** it has also been a doorway to opportunity! I would still be living in the States -- horror of horrors!! -- if it weren't for the internet.
+
+AI, and Flux/SRPO/Stable Diffusion/ComfyUI let me explore the imaginative side of life, write "What If" stories, explore other worlds, other existences. It's *my* practise of art.
+
+---
+
+Got another 'bee-in-my-bonnet'... think I might do a bit of video exploring -- shoot a bunch of footage with my GH5 -- and make some videos to post on YouTube. Just a thought. 
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
 
 ### Garden Work
 
+**19.Oct.2025**  
 Finally pulled the finger out and did a [bit of work](../other/Garden.md#garden-bed-liner) on the last garden bed that needed a liner putting in. Not nearly as much fun as Qwen, to be honest. 🤨🤨🤨🤨🤨
 
 
@@ -44,6 +99,7 @@ Finally pulled the finger out and did a [bit of work](../other/Garden.md#garden-
 
 ### Qwen, and How!
 
+**19.Oct.2025**  
 Another day, another model. This time, it's Qwen. Just starting to explore this.   
 *Please note: all images in this section are clickable for a larger version*.
 
@@ -75,8 +131,10 @@ Serene, cross and happy.
 
 All I had to do was change the prompt.
 
+
 <a href="/assets/images/emily/47-1Market.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/emily/47-1Market.jpg" alt="Happy" width="280" align="right"></a>
+
 
 Okay, how about a change in the background: summertime in an open-air market? And, the hair? A Victorian updo. Change the prompt, and you get output that is truly uncanny ... only because the model actually *obeys* the prompt.
 
@@ -170,11 +228,13 @@ Creating low-ranking adaption is enormously rewarding. What is a low-ranking ada
 
 Enter the LoRA, which works together with your base model. When you generate an image, you typically provide a prompt, like:
 
+
 <a href="/assets/images/emily/45-Robyn1.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/emily/45-Robyn1.jpg" alt="Dude" width="280" align="left"></a>
 
 <a href="/assets/images/emily/45-Robyn2.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/emily/45-Robyn2.jpg" alt="Victorian lass" width="280" align="right"></a>
+
 
 "A portrait of a short somber 16yo youth with long wavy messy brown hair. moimeme3 The person is wearing a fitted white cotton shirt with sleeves turned up and baggy jeans. The person is in a hairdressing salon. He is sweeping up from around the salon chairs. His hair is messy. Background is a room with pale white curtains on the windows and mirrors and roses in vases. Ultra-high detail, photorealistic rendering, sharp focus on on the fine textures on the hair, and rich environmental depth."
 
@@ -186,7 +246,9 @@ And, you get the image of a Victorian lass.
 
 Both of these images have one thing in common: the character. In the prompt, the LoRA is referenced with 'moimeme3'. Flux does all the rest. It's pretty amazing how well it works, to be honest.
 
----
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
 
 
 
@@ -204,12 +266,14 @@ When I recorded my little 'coffee' footage, I installed my GH5 on this industria
 
 Anyway, here's a little "Making Coffee" video:
 
+
 <div style="position:relative;padding-top:56.25%">
   <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/8cd2f116617fd567782e073f7fb11311/iframe"
           allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
           allowfullscreen
-          style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
+          style="border:none;position:absolute;inset:0;width:75%;height:75%"></iframe>
 </div>
+
 
 When Julia has her "Arty-Farty" art groups on Wednesday, I'm the designated barista for their morning tea. This lovely Bezzera -- yes, a proper **Italian-made** expresso machine -- is more than up to the task. New, they run somewhere between AUD $3500 and $5000 ... but I never buy new if I can help it. This one is from a mob who sell and service Bezzera machines: I picked it up for $1600. It will outlast all of us, our cars, most likely even the house. It's built like a tank. And it makes brilliant mochas, capuchinos, lattes, flat whites ... haven't gotten into that whole barista-art thing yet, but the girls get great coffee so no-one's complaining.  
 
@@ -240,7 +304,9 @@ Done:
 Plan:  
 - Going to a stationery shop to pick up a "display book" to house the original document pages.
 
----
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
 
 
 
@@ -250,11 +316,13 @@ Plan:
 **10.Oct.2025**   
 Having another look at Kontext. Trying to change camera angle, but it turned the figure around instead.  
 
+
 <a href="/assets/images/emily/36-VictTrain.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/emily/36-VictTrain.jpg" alt="Victorian Train-front" width="140" align="left"></a>
 
 <a href="/assets/images/emily/37-VictTrain.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/emily/37-VictTrain.jpg" alt="Victorian Train-back" width="140" align="right"></a>
+
 
 The prompt looked like this:  
   ```
@@ -264,11 +332,13 @@ The prompt looked like this:
 
 Getting the camera - and not the figure - to move seems to be a bit tricky. However, I can easily remove hats and change the time of day.
 
+
 <a href="/assets/images/emily/38-VictTrain.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/emily/38-VictTrain.jpg" alt="Victorian Train-front" width="140" align="left"></a>
 
 <a href="/assets/images/emily/39-VictTrain.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/emily/39-VictTrain.jpg" alt="Victorian Train-back" width="140" align="right"></a>
+
 
 The prompt looked like this:  
   ```
@@ -282,11 +352,13 @@ One of the fun things to do with Kontext is to try different artist styles. No g
 
 AI does reveals about itself and what it learned, as it portrays the world you are requesting. Yep, it has a viewpoint.
 
+
 <a href="/assets/images/emily/40-Violin.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/emily/40-Violin.jpg" alt="Violinist" width="140" align="left"></a>
 
 <a href="/assets/images/emily/41-Violin.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/emily/41-Violin.jpg" alt="Violinist" width="140" align="right"></a>
+
 
  I will take images generated by, say, SRPO (which is a refined Flux model) and then, ask Kontext (also a refined Flux model, but with a different purpose) to ... *fix* things:  
 - *Brown hair to black*  
@@ -299,8 +371,10 @@ Flux was developed by Black Forest Labs. Yes, **that** Black Forest. Actually, w
 
 Of course, character consistency went out that window with Kontext. It's good but sort-of gets lost in the weeds when you start asking for ultra-high detail, whatever. So, not the same person. But one thing did get preserved: did you notice the original violinist forgot to "tighten her bow"? So did the black-haired girl. Mistake faithfully preserved. Now, will Kontext understand me if I put that in the prompt? Here's my prompt:
 
+
 <a href="/assets/images/emily/42-Violin.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/emily/42-Violin.jpg" alt="Violinist" width="140" align="right"></a>
+
 
 ```
 Change the image to ultra-high realistic detail. No male face in this image, only female.  
@@ -340,11 +414,13 @@ hand, her eyes gently closed as she focuses on playing.
 
 Lesson learnt: can't trust AI. Still, Llama drew a lovely piccie. Let's fix things:
 
+
 <a href="/assets/images/emily/43-Violin.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/emily/43-Violin.jpg" alt="Violinist" width="140" align="left"></a>
 
 <a href="/assets/images/emily/44-Violin.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/emily/44-Violin.jpg" alt="Violinist" width="140" align="right"></a>
+
 
 ```
 This photograph depicts a young woman with long black hair playing a violin  
@@ -411,41 +487,41 @@ What else can ComfyUI do? Let's find out!
 A lot of the improvement has been in model development. Flux has fixed a lot of issues with distorted, missing or excess anatomy although it still happens. What really helps is patience: you simply fix the prompt and re-queue. And modifying the prompt again, and re-queueing. So, I was hoping for Kalapana back in the day. Is it? no way. Feels more like MacKenzie Park with palm trees instead of ironwoods. And those coconuts... really?
 
 <div class="flex-container" markdown>
-<div class="column" markdown>
+  <div class="column" markdown>
 
-<img src="/assets/images/emily/08-Flux1D25.jpg" alt="Girl at Kalapana" style="width: 420px;"/>
+    <img src="/assets/images/emily/08-Flux1D25.jpg" alt="Girl at Kalapana" style="width: 420px;"/>
 
-[ Girl at Kalapana 01 ]
-</div>
+    [ Girl at Kalapana 01 ]
+  </div>
 
-<div class="column column-right" markdown>
+  <div class="column column-right" markdown>
 
-Here's the prompt:  
-- This photograph captures a solitary beautiful woman walking towards the viewer on a dark, volcanic black sand beach. She is positioned slightly off-center to the right, facing towards the camera. The woman has long brown hair and wears a black one-piece lycra swimsuit and is carrying a surfboard under her arm. She walks barefoot towards the viewer, leaving small footprints in the wet sand near the shoreline.  
-- The background features a dense cluster of tall, lush palm trees with green fronds and some golden-brown leaves, indicating the tropical location. Under the trees are a few small fallen coconuts, dead coconut tree fronds and black sand, NO shrubs or bushes. The sky above is clear and dark blue, suggesting it is morning with good weather conditions. The black sand contrasts sharply with the white surf at the water's edge on the left side of the image.  
-- The overall composition emphasizes the natural beauty of the beach setting, combining the dark volcanic sand with the vibrant greenery and tall palm trees in the background. The photograph uses bright, vivid colors to enhance the tropical atmosphere and highlights the solitude of the woman amidst the serene environment.
+    Here's the prompt:  
+    - This photograph captures a solitary beautiful woman walking towards the viewer on a dark, volcanic black sand beach. She is positioned slightly off-center to the right, facing towards the camera. The woman has long brown hair and wears a black one-piece lycra swimsuit and is carrying a surfboard under her arm. She walks barefoot towards the viewer, leaving small footprints in the wet sand near the shoreline.  
+    - The background features a dense cluster of tall, lush palm trees with green fronds and some golden-brown leaves, indicating the tropical location. Under the trees are a few small fallen coconuts, dead coconut tree fronds and black sand, NO shrubs or bushes. The sky above is clear and dark blue, suggesting it is morning with good weather conditions. The black sand contrasts sharply with the white surf at the water's edge on the left side of the image.  
+    - The overall composition emphasizes the natural beauty of the beach setting, combining the dark volcanic sand with the vibrant greenery and tall palm trees in the background. The photograph uses bright, vivid colors to enhance the tropical atmosphere and highlights the solitude of the woman amidst the serene environment.
 
-</div>
+  </div>
 </div>
 
 ---
 
 <div class="flex-container" markdown>
-<div class="column" markdown>
+  <div class="column" markdown>
 
-<img src="/assets/images/emily/09-Flux1D33.jpg" alt="Girl at Kalapana" style="width: 420px;" />
+    <img src="/assets/images/emily/09-Flux1D33.jpg" alt="Girl at Kalapana" style="width: 420px;" />
 
-[ Girl at Kalapana 02 ]
+    [ Girl at Kalapana 02 ]
 
-</div>
+  </div>
   
-<div class="column column-right" markdown>
+  <div class="column column-right" markdown>
 
-<img src="/assets/images/emily/10-Flux1D34.jpg" alt="Girl at Kalapana" style="width: 420px;" />
+    <img src="/assets/images/emily/10-Flux1D34.jpg" alt="Girl at Kalapana" style="width: 420px;" />
 
-[ Girl at Kalapana 03 ]
+    [ Girl at Kalapana 03 ]
 
-</div>
+  </div>
 </div>
 
 ---
@@ -468,8 +544,10 @@ Issues? Definitely. What's with the hand at the tip of the bard on the image on 
 **21.Sep.2025**   
 So, I wrote the text, and created the images, for the girl on the beach example on *Friday* in the model Flux.1 Dev.
 
+
 <img src="/assets/images/emily/12-SRPOGirl12.jpg" alt="Girl at Kalapana" style="float: right; width: 450px;
         margin-left: 20px; margin-bottom: 10px;" />
+
 
 Today is *Sunday*... and a new model has 'dropped': SRPO, which stands for 'Semantic Relative Preference Optimization'. Yep, conveys just about as much information to *my* mind, too.
 
@@ -487,6 +565,7 @@ Here are some of the better of subsequent queues. Simply click the thumbnail to 
   .flex-container {display: flex; gap: 20px;}
   .column {width: 100%;}
 </style>
+
 
 <div class="flex-container">
   <div class="column">
@@ -509,6 +588,7 @@ Here are some of the better of subsequent queues. Simply click the thumbnail to 
   </div>
 </div>
 
+
 Feels like I've done enough Kalapana for now.
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -523,8 +603,10 @@ Feels like I've done enough Kalapana for now.
 **22.Sep.2025**   
 So, we're going from Hawaii to Paris. Because: why not. 
 
+
 <img src="/assets/images/emily/24-Paris01.jpg" alt="Paris" style="float: right; width: 350px;
         margin-left: 20px; margin-bottom: 10px;"/>
+
 
 So, for the past months I was a total [Flux.1 Dev](https://flux1ai.com/dev) fan: the images it produced were, in terms of accuracy and believability, so far superior to what went before, like Stable-Diffusion 1x and even SDXL, that it made those models *almost* irrelevant. Almost, because I would still use SDXL models for image-to-image (i2i) projects.
 
@@ -540,8 +622,10 @@ One ends up discarding a lot of images, even if they were better than what SD 1.
 
 ---
 
+
 <img src="/assets/images/emily/25-Paris02.jpg" alt="Paris" style="float: left; width: 350px;
         margin-right: 20px; margin-bottom: 10px;"/>
+
 
 SDXL was my go-to model for ages. To be honest, at the time the improvements over SD 1.5 *were* incredible. By now, AI-imaging had made Poser and Blender as tools for illustrations *completely irrelevant*. You type a few words (the prompt) and run queues until you get your desired result. Those results made truly **EVERYTHING** I had done in 3D software laughably poor.
 
@@ -557,9 +641,11 @@ That's just ... **crazy!!** - **it will create a prompt for you!** The approach 
 
 I'll sometimes make a few manual changes to the text of the prompt and run a few more queues. Each queue (with the SRPO model) now takes about 5 minutes or so. I usually run at least two or three before I do any adjustments to the prompt and re-run the queue. Rinse and repeat. You can see how time would fly by. The secret sauce is in the prompt: get that right, and you're 'home-n-hosed'.
 
+
 <img src="/assets/images/emily/26-Paris03.jpg" alt="Paris" style="float: right; width: 350px;
         margin-left: 20px; margin-bottom: 10px;"/>
-  
+
+
 For these images, the prompt reads as follows...
 
 - This photograph captures a young woman standing on an Parisian street corner at a Metro entrance, leaning against a black metal railing with bicycles parked beside her. She has brown hair in a loose chignon and is wearing a dark navy blue overcoat, gray turtleneck sweater, and light blue skinny jeans. One hand rests on wrought-iron railing while she holds a smartphone to her ear with the other hand.
@@ -658,24 +744,28 @@ Harriet Clare Taylor at her ultimate preciousness.
 Whilst doing all these projects feels great - getting stuff **DONE**! - there is no question one needs downtime.  
 Went for a 3k walk on the Jack Gordon path along the water at Redland Bay. Here's the start... that's my little 2014 Hyundai i20. Still in pretty good nick for a 8 year-old car. The weather was perfect for walking:
 
-![Image](https://www.tightbytes.com/images/projects/repose/SabWalk01.jpg)
+<div class="flex-container">
+  <div class="column">
+    <a href="/assets/images/emily/49-1Walk.jpg" target="_blank" rel="noopener">
+    <img src="/assets/images/emily/49-1Walk.jpg" alt="Where" width="200" loading="lazy"></a>
 
-into the mangroves...
+    <a href="/assets/images/emily/49-2Walk.jpg" target="_blank" rel="noopener">
+    <img src="/assets/images/emily/49-2Walk.jpg" alt="Where" width="200" loading="lazy"></a>
 
-![Image](https://www.tightbytes.com/images/projects/repose/SabWalk02.jpg)
+    <a href="/assets/images/emily/49-3Walk.jpg" target="_blank" rel="noopener">
+    <img src="/assets/images/emily/49-3Walk.jpg" alt="Where" width="200" loading="lazy"></a>
 
-![Image](https://www.tightbytes.com/images/projects/repose/SabWalk03.jpg)
+    <a href="/assets/images/emily/49-4Walk.jpg" target="_blank" rel="noopener">
+    <img src="/assets/images/emily/49-4Walk.jpg" alt="Where" width="200" loading="lazy"></a>
 
-and along the water...
+    <a href="/assets/images/emily/49-5Walk.jpg" target="_blank" rel="noopener">
+    <img src="/assets/images/emily/49-5Walk.jpg" alt="Where" width="200" loading="lazy"></a>
+    
+  </div>
+</div>
 
-![Image](https://www.tightbytes.com/images/projects/repose/SabWalk04.jpg)
 
-![Image](https://www.tightbytes.com/images/projects/repose/SabWalk05.jpg)
-
-
-
-Then for a 5k bike ride. Gotta start somewhere... better than sitting all day.
-
+into the mangroves ... and along the water ... then for a 5k bike ride. Better than sitting at home all day.
 
 
 <hr style="height:12px;border-width:0;color:pink;background-color:pink">
