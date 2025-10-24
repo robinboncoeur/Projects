@@ -39,8 +39,10 @@ nav:
 
   - Blogs:
     - blogs/index.md
-    - Blog 2025: blogs/Blog25.md
     - Blog 2022: blogs/Blog22.md
+    - Blog 2024: blogs/Blog24.md
+    - Blog 2025: blogs/Blog25.md
+
 
   - Family:
     - family/index.md
@@ -56,7 +58,9 @@ nav:
   - Other:
     - other/index.md
     - Foodie: other/Foodie.md
-    - Garden: other/Garden.md
+    - Garden21: other/Garden21.md
+    - Garden22: other/Garden22.md
+    - Garden25: other/Garden25.md
     - Health: other/Health.md
     - Matter: other/Matter.md
 

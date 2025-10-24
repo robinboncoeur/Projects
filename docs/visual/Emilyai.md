@@ -293,7 +293,7 @@ Not a shabby effort. Not as stellar as 8-bit but still heaps better than the ori
 
 ---
 
-Note: *I'm going to continue documenting my little exploring with SRPO [on my blog](../blogs/Blog25.md/#exploring-comfyui).*
+Note: *I'm going to continue documenting my little exploring with SRPO [on my blog](../blogs/Blog25.md/#september).*
 
 See [Blog 25][b25] for other things I'm up to.
 

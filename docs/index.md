@@ -44,11 +44,11 @@ This is a temporary measure for access to the site for readers on a phone or tab
 
 [Other](/other/index.md/)  
 🌸🌹🌸 [ ⇨ Foodle](/other/Foodie.md)  
-🌹🌸🌹 [ ⇨ Garden](/other/Garden.md)  
-🌼🌹🌼 [ ⇨ Health](/other/Health.md)  
-🌹🌼🌹 [ ⇨ Stuff that Matters](/other/Matter.md)  
-🌸🌹🌸   
-🌹🌸🌹  
+🌹🌸🌹 [ ⇨ Garden21](/other/Garden21.md)  
+🌼🌹🌼 [ ⇨ Garden22](/other/Garden22.md)  
+🌹🌼🌹 [ ⇨ Garden25](/other/Garden25.md)  
+🌸🌹🌸 [ ⇨ Health](/other/Health.md)     
+🌹🌸🌹 [ ⇨ Stuff that Matters](/other/Matter.md)  
 
 ---
 
@@ -70,9 +70,9 @@ This is a temporary measure for access to the site for readers on a phone or tab
 <img src="/assets/images/misc/05blog08.jpg" alt="Next?" width="160"align="right"></a>
 
 [Blogs](/blogs/index.md/)  
-🌹🌼🌹 [ ⇨ Blogposts 2025](/blogs/Blog25.md)  
-🌹🌼🌹  
-🌹🌼🌹  
+🌹🌼🌹 [ ⇨ Blogposts 2022](/blogs/Blog22.md)  
+🌹🌼🌹 [ ⇨ Blogposts 2024](/blogs/Blog24.md)   
+🌹🌼🌹 [ ⇨ Blogposts 2025](/blogs/Blog25.md)   
 🌹🌼🌹  
 🌹🌼🌹  
 
@@ -120,6 +120,12 @@ There are (and will be) subdomains for all the old Help pages: projects.tightbyt
 
 ## Update Log
 
+Update 2025.10.24:  
+- changed garden and blog post order to oldest at the top, newest at the bottom  
+- Splintered out Blogs and Garden by year  
+- Started migrating entries in the old wordpress-based tightbytes site into this 'projects' site  
+- Shrank image size, turning images into clickable links
+
 Update 2025.10.10: **NOT** using this css:
 
 ```
@@ -153,7 +159,7 @@ Update 2025.10.02: Added a category [Visual Art](/visual/index.md). Anything to 
 ---
 
 Update 2025.09.01: Time has moved on, and so have I: from Sphinx-MakeTheDocs to markdown-MkDocs. I'm migrating pages from my *Projects* and *HelpYrSelf* help sites into just one **Projects** pages set.  
-On some pages, the latest posts are [on the top](/other/Garden.md) of the page, older posts below them. Removing some posts for lack of relevancy.
+On some pages, the latest posts are [on the top](/other/Garden25.md) of the page, older posts below them. Removing some posts for lack of relevancy.
 
 ---
 

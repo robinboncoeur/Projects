@@ -1,22 +1,23 @@
 # Blog Posts 2022
 
-
 <style>
   .flex-container {display: flex; gap: 20px; align-items: flex-start;}
   .column {flex: 1 1 0; min-width: 0;}
   .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
 </style>
 
-**List of Groups** (*reverse order*)
-
-
+**INDEX**  
 [Out Into Nature](#out-into-nature)  
 [Fix That Trumpet](#fix-that-trumpet)  
 [Colours and Textures](#colours-and-textures)  
 
+---
+
 [Main Page](../index.md)
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+<hr style="height:16px;border-width:0;color:pink;background-color:pink">
+
+
 
 
 
@@ -27,24 +28,32 @@
 Whilst doing all these projects feels great - getting stuff **DONE**! - there is no question one needs downtime.  
 Went for a 3k walk on the Jack Gordon path along the water at Redland Bay. Here's the start... that's my little 2014 Hyundai i20. Still in pretty good nick for a 8 year-old car. The weather was perfect for walking:
 
-![Image](https://www.tightbytes.com/images/projects/repose/SabWalk01.jpg)
+<div class="flex-container">
+  <div class="column">
+    <a href="/assets/images/emily/49-1Walk.jpg" target="_blank" rel="noopener">
+    <img src="/assets/images/emily/49-1Walk.jpg" alt="Where" width="200" loading="lazy"></a>
 
-into the mangroves...
+    <a href="/assets/images/emily/49-2Walk.jpg" target="_blank" rel="noopener">
+    <img src="/assets/images/emily/49-2Walk.jpg" alt="Where" width="200" loading="lazy"></a>
 
-![Image](https://www.tightbytes.com/images/projects/repose/SabWalk02.jpg)
+    <a href="/assets/images/emily/49-3Walk.jpg" target="_blank" rel="noopener">
+    <img src="/assets/images/emily/49-3Walk.jpg" alt="Where" width="200" loading="lazy"></a>
 
-![Image](https://www.tightbytes.com/images/projects/repose/SabWalk03.jpg)
+    <a href="/assets/images/emily/49-4Walk.jpg" target="_blank" rel="noopener">
+    <img src="/assets/images/emily/49-4Walk.jpg" alt="Where" width="200" loading="lazy"></a>
 
-and along the water...
+    <a href="/assets/images/emily/49-5Walk.jpg" target="_blank" rel="noopener">
+    <img src="/assets/images/emily/49-5Walk.jpg" alt="Where" width="200" loading="lazy"></a>
+    
+  </div>
+</div>
 
-![Image](https://www.tightbytes.com/images/projects/repose/SabWalk04.jpg)
+into the mangroves ... and along the water ... then for a 5k bike ride. Better than sitting at home all day.
 
-![Image](https://www.tightbytes.com/images/projects/repose/SabWalk05.jpg)
-
-
-
-Then for a 5k bike ride. Gotta start somewhere... better than sitting all day.
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
 
 
 
@@ -64,10 +73,9 @@ Now, the trumpet has not only joined the brass section, but it’s doing the “
 
 This is generally how these little sketches evolve. I’m currently “studying” Rimsky-Korsakov’s definitive work on orchestration particularly for that period: Principles of Orchestration. It’s uphill work. Far more approachable are the YouTube videos by Thomas Goss of OrchestrationOnline. Given the amount of material to digest, my creativity has been paused a wee bit.
 
-
-
-
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
 
 
 
