@@ -696,10 +696,6 @@ I remember my violin instructor, when I told her I was getting into AI-imaging, 
 
 AI, and Flux/SRPO/Stable Diffusion/ComfyUI let me explore the imaginative side of life, write "What If" stories, explore other worlds, other existences. It's *my* practise of art.
 
----
-
-Got another 'bee-in-my-bonnet'... think I might do a bit of video exploring -- shoot a bunch of footage with my GH5 -- and make some videos to post on YouTube. Just a thought. 
-
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
@@ -725,10 +721,10 @@ Oh yes. **YES!!** I am definitely pedantic, with a generous side of *weird*. Evi
 - I avoid social media (FB, Insta, WhatsApp)  
 - As a bloke, I wish I weren't, hate the masc. aesthetics (self-cancelling phrase)   
 - Basically a hermit, can't do 'small talk', over-think things, 'Woke' writ large  
-- Re-use instead of recycle   
+- Re-use instead of recycle, for example, torn shade sail   
+- Multiple-time reuse Chux Superwipes (soak in NappySan)    
 - compost all waste biomass  
-- Reuse (soak in NappySan) Chux Superwipes
-- feed vermin away from the house in the compost tower so they leave our house/garden alone  
+- 'feed' vermin **far away from the house** in the compost towers, so they leave our house/garden alone  
 
 I do most of the housework because **I want it done a specific way**  
 - Stacking the dishwasher must be done to optimise water flow around dishes  
@@ -737,12 +733,26 @@ I do most of the housework because **I want it done a specific way**
 - Don't even get me started on making coffee   
 - Don't go to bed with a dirty kitchen (YUCK!)   
 - Empty surfaces are best. Minimal clutter. No shit everywhere. Just **EMPTY**.  
-- HUGE on getting rid of stuff -- decluttering. Haven't loved it? Get rid of it!!  
+- HUGE on getting rid of stuff -- decluttering. Haven't loved it in a while? Get rid of it!!  
   
 And weird in other ways too. Of course.
 
-And, 
+Like, how these pages are evolving. The pages "*live*":  
 
+- First, in a folder on my Mac and in Linux called 'Sites'. I use Phoenix Code to edit them.
+- Then, they are uploaaded onto GitHub into a repository using a GUI called GitHub Desktop.
+- Finally, Cloudflare, my actual we host, sees an update to the repository and refreshes the pages,
+
+If a page becomes too unwieldy (as with this Blog and the Garden Pages), they get splintered. Slowly, the old tightbyte pages and the 'HelpYrself' pages will all be folded into this one 'Projects' site. 'MyApps' (support for apps I have developed), devotionals (Good News Unlimited newsletters) and 'art', such as it is, will remain separate. 
+
+I guess a BIG question could be: **WHY** these pages? First answer: diary. Nothing more complicated than that. So, why not a diary on like FB or insta, like normal people do? Well, when you read the content of these pages, they contain content that might not be 'suitable' for all readers. Some (many? most?) might find these meanderings offensive. Tightbytes has been 'blessed' in the past by obscurity: I suspect these pages will only be viewed by the charitable, or the curious. 
+
+---
+
+I'm thinking of doing a bit of video exploring -- shooting a bunch of footage with my GH5. My YouTube channel needs a bit of love. might be supplimented / enhanced by AI. AI can be a powerful tool to *augment* your imaginative creations, but too many use it to *replace* creativity. This is not new: case in point ... get on the [Blender site](https://www.blender.org/features/) and have a look at the images. What stands out? They're almost **ALL** images of futuristic, post-apocalyptic scenes.  
+This is where imagination runs these days. WTF? Ruin and desolation everywhere. How freakin' dreary!
+
+By the way, Blender is now up to version 5 (in Beta, going to be released Nov 5th). I've sort-of gotten away from 3D now ... as Marc would say: "Je me suis calmé sûr la question." I suppose the same with happen with AI-enhanced art too, at some stage.
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
