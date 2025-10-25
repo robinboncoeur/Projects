@@ -752,12 +752,12 @@ I guess a BIG question could be: **WHY** these pages? First answer: diary. Nothi
 I'm thinking of doing a bit of video exploring -- shooting a bunch of footage with my GH5. My YouTube channel needs a bit of love. might be supplimented / enhanced by AI. AI can be a powerful tool to *augment* your imaginative creations, but too many use it to *replace* creativity. This is not new: case in point ... get on the [Blender site](https://www.blender.org/features/) and have a look at the images. What stands out? They're almost **ALL** images of futuristic, post-apocalyptic scenes.  
 This is where imagination runs these days. WTF? Ruin and desolation everywhere. How freakin' dreary!
 
-By the way, Blender is now up to version 5 (in Beta, going to be released Nov 5th). I've sort-of gotten away from 3D now ... as Marc would say: "Je me suis calmé sûr la question." I suppose the same with happen with AI-enhanced art too, at some stage.
+By the way, Blender is now up to version 5 (in Beta, going to be released Nov 5th). I've sort-of gotten away from 3D now ... as Marc would say: "Je me suis calmé sûr la question." I suppose the same wi11 happen with AI-enhanced art too, at some stage.
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
-27701134
+
 
 
 
