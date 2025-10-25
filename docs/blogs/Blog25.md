@@ -763,6 +763,51 @@ By the way, Blender is now up to version 5 (in Beta, going to be released Nov 5t
 
 
 
+### Another Day in the City
+
+Took my camera (GH5) for a walk in Brisbane today. Not a millimeter of footage was shot. 
+
+
+<a href="/assets/images/blog25/01-1BusStop.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/01-1BusStop.jpg" alt="Where" width="360" align="right"></a>
+
+
+Took the 280 bus from Christopher Street, a 10-minute walk from our house, if that. The 280 goes from Shoreline, a brand-new suburb just to the south of us and terminates on essentially a bus 'trunk line' to the city: the new Metro tri-articulating electric buses, which take you to Roma Street. Which is in the middle of nowhere, so I got off the 'Metro' at South Bank, and took the train to Central, where access to the city's amenities is a bit better. Bought a 20,000 *something* powerbank, had breakfast at a little café just under 'Room with Roses' -- smoked salmon on wholewheat! with capers! -- and wandered around people-watching, something I loved to do with Tamara back in the day, in Paris.
+
+Took the Metro back to Griffith University, and then caught the 280 home. That was an hour's ride, just the bit from the U to our suburb. But hey! it's 50 cents, you can snooze in the bus -- I did -- and you arrive non-stressed and having done a bit of passive exercise. All positives!
+
+
+<a href="/assets/images/blog25/01-2Glass.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/01-2Glass.jpg" alt="Where" width="360" align="right"></a>
+
+
+I had taken some notes. Put them in Google Docs, which I can get to on my phone. Anywhere. My notes?
+
+```
+To add: link for viewers to leave comments on Instagram or Messenger. 
+Will not be implementing interactive fields BC I want to keep things simple and secure.
+
+Will do notes on Google Docs.
+
+To try: different hairstyles
+```
+
+When ideas occur, this seems a quick, easy, sound approach to jot stuff down.
+
+
+<a href="/assets/images/blog25/01-3Glass.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/01-3Glass.jpg" alt="Where" width="360" align="right"></a>
+
+<a href="/assets/images/blog25/01-4Glass.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/01-4Glass.jpg" alt="Where" width="360" align="right"></a>
+
+
+I did try some hair-style-specific prompts.  
+'ataylorm' on his [FluxHairStyles GitHub page](https://github.com/ataylorm/FluxHairStyles?tab=readme-ov-file) suggested some prompts; Tansy on *Medium* suggested others. I have found that sometime you have to do several 'queues' before Flux.1-Dev or SRPO try to nut out what you mean by "dark brown hair styled in a high ponytail with wisps framing her face". We'll do the ponytail but 'wisps'? *Alors là, tu exagères*.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
 
 
 
@@ -771,6 +816,6 @@ By the way, Blender is now up to version 5 (in Beta, going to be released Nov 5t
 
 **Note**: *New posts will now show up in natural order, as they occur*.
 
-<hr style="height:12px;border-width:0;color:pink;background-color:pink">
+<hr style="height:16px;border-width:0;color:pink;background-color:pink">
 
 [Back to the Main Page](../index.md)
