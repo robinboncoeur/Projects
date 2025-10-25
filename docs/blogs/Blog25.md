@@ -781,7 +781,7 @@ Took the Metro back to Griffith University, and then caught the 280 home. That w
 <img src="/assets/images/blog25/01-2Glass.jpg" alt="Where" width="360" align="right"></a>
 
 
-I had taken some notes. Put them in Google Docs, which I can get to on my phone. Anywhere. My notes?
+I had taken some notes. Put them in Google Docs, which I can get to on my phone. I can do this from anywhere:
 
 ```
 To add: link for viewers to leave comments on Instagram or Messenger. 
@@ -794,16 +794,17 @@ To try: different hairstyles
 
 When ideas occur, this seems a quick, easy, sound approach to jot stuff down.
 
+I did try some hair-style-specific prompts. 'ataylorm' on his [FluxHairStyles GitHub page](https://github.com/ataylorm/FluxHairStyles?tab=readme-ov-file) suggested some prompts; Tansy on *Medium* suggested others. To be honest, not thrilled with the results so far. Neither SRPO or Qwen were *consistently* doing as I asked. I was probably asking it wrong. 
 
 <a href="/assets/images/blog25/01-3Glass.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blog25/01-3Glass.jpg" alt="Where" width="360" align="right"></a>
+<img src="/assets/images/blog25/01-3Glass.jpg" alt="Where" width="360" align="left"></a>
 
 <a href="/assets/images/blog25/01-4Glass.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blog25/01-4Glass.jpg" alt="Where" width="360" align="right"></a>
+<img src="/assets/images/blog25/01-4Thirty.jpg" alt="Where" width="240" align="right"></a>
 
+I have found that sometime you have to do several 'queues' before Flux.1-Dev or SRPO try to nut out what you mean by "dark brown hair styled in a high ponytail with wisps framing her face". We'll do the ponytail but 'wisps'? *Alors là, tu exagères*.
 
-I did try some hair-style-specific prompts.  
-'ataylorm' on his [FluxHairStyles GitHub page](https://github.com/ataylorm/FluxHairStyles?tab=readme-ov-file) suggested some prompts; Tansy on *Medium* suggested others. I have found that sometime you have to do several 'queues' before Flux.1-Dev or SRPO try to nut out what you mean by "dark brown hair styled in a high ponytail with wisps framing her face". We'll do the ponytail but 'wisps'? *Alors là, tu exagères*.
+Oh, and I went back to Qwen to try another base model. Again. As you do. I felt that Qwen was performing excessive plastic surgery. It had to only slightly step out of 'Uncanny Valley', not leave it altogether behind for greener pastures. FluxGym seems happiest building LoRAs using 10 images, and I had 20 from the Qwen Image Edit 2509 dataset workflow. Had plenty to chose from.
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
