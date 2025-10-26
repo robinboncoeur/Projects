@@ -15,7 +15,7 @@
   .column {width: 100%;}
 </style>
 
-<hr style="height:16px;border-width:0;color:navy;background-color:navy">
+<hr style="height:16px;border-width:0;color:navy;background-color:green">
 
 
 
@@ -165,7 +165,13 @@ So, there are several layers to remove on a coffee cherry:
 
 Queensland being so dry, it's not hard to get them properly drying. The challenge was removing the parchment and silver skin, in order to end up with just the green bean.
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+---
+
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
+<hr style="height:4px;border-width:0;color:navy;background-color:green">
 
 
 
@@ -269,7 +275,13 @@ The least fun one can have is shovelling rocks. The mob at... well, I won't say 
 
 Anyway, the hard yakka has been sieving / washing away the mud out of the rock. Talk about a slow, painful process. It'll get there, but not without a HUGE effort!
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+---
+
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
+<hr style="height:4px;border-width:0;color:navy;background-color:green">
 
 
 
@@ -374,14 +386,16 @@ Right-o! Done!
 
 Boy howdy... talk about hard yakka. But yeah, Done. I'll need to finish filling the bed with compost and soil I'm pulling out of the beds next to the living room that are going to be replaced by a sandpit for the little ones. However, I'll be getting John to help me with that.
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+---
 
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
+<hr style="height:4px;border-width:0;color:navy;background-color:green">
 
 
 <!-- NEXT ENTRY HERE!!!  /-->
 
-**Note**: *New posts will now show up in natural order, as they occur*.
 
-
-
-<hr style="height:16px;border-width:0;color:navy;background-color:navy">
+<hr style="height:16px;border-width:0;color:navy;background-color:green">

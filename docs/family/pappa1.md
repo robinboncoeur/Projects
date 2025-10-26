@@ -1,5 +1,4 @@
-# Pappa's Account
-
+# Autobiography
 
 <style>
   .flex-container {display: flex; gap: 20px; align-items: flex-start;}
@@ -7,35 +6,53 @@
   .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
 </style>
 
+---
+
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
+<hr style="height:8px;border-width:0;color:navy;background-color:purple">
+
+
 
 ## Glossary
 
 <div class="flex-container" markdown>
-  <div class="column" markdown>
+  <div class="column">
 
-  <a href="/assets/images/pappa/P0.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/pappa/P0.jpg" alt="Cover" width="480" align="right"></a>
+    <a href="/assets/images/pappa/P0.jpg" target="_blank" rel="noopener">
+    <img src="/assets/images/pappa/P0.jpg" alt="Cover" width="480" align="right"></a>
 
   </div>
+  <div class="column column--right" markdown>
 
-<div class="column column--right" markdown>
+My own notes on what I am actually doing in the process of translating and formatting can be 
+![found here}(/family/index.md).  
 
-My own notes on what I am actually doing in the process of translating and formatting can be [found here](/family/index.md).  
+The *general format* of this document will be:
 
-The *general format* of this document will be:  
-
-🎖 The title of a section: **year:** **heading or a brief description**.  
+🎖 The title of a section: **year:** **heading or a brief description**.
+    
 🎖 His German text (original) is on the left, and translation(s) on the right.  
+    
 🎖 At the bottom of each section:  
+    
 🌅 Section status:  
-The *tick-mark* [ ✅ ] indicates this is ready for a final analysis and, hopefully, inserting into the 'canon'. By *canon* I mean, the official text, which will be in a subsequent document.    
-The *magnifying glass* [ 🔎 ] indicates this is but a rough first-draught translation, and bears examining more closely for ... um ... whatever might not align correctly with the original text.  
+- The *tick-mark* [ ✅ ] indicates this is ready for a final analysis and, hopefully, inserting into the 'canon'. By *canon* I mean, the official text, which will be in a subsequent document.    
+- The *magnifying glass* [ 🔎 ] indicates this is but a rough first-draught translation, and bears examining more closely for ... um ... whatever might not align correctly with the original text.  
 🌅 An image (or images) of the original document - right-click and "View in a new Tab" to inspect the document.
 
-</div>
+  </div>
 </div>
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+---
+
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
+<hr style="height:8px;border-width:0;color:navy;background-color:purple">
 
 
 
@@ -86,7 +103,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -140,7 +157,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -220,7 +237,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:8px;border-width:0;color:black;background-color:black">
+<hr style="height:8px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -273,7 +290,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:8px;border-width:0;color:black;background-color:black">
+<hr style="height:8px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -322,7 +339,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -398,7 +415,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -447,7 +464,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -501,7 +518,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -547,7 +564,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -614,7 +631,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -677,7 +694,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -729,7 +746,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:20px;border-width:0;color:black;background-color:black">
+<hr style="height:20px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -774,7 +791,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -836,7 +853,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -895,7 +912,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -948,7 +965,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -1006,7 +1023,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -1052,7 +1069,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -1153,7 +1170,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -1200,7 +1217,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:20px;border-width:0;color:black;background-color:black">
+<hr style="height:20px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -1262,7 +1279,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -1327,7 +1344,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -1381,7 +1398,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -1429,7 +1446,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -1468,7 +1485,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -1510,7 +1527,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -1553,7 +1570,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -1600,7 +1617,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -1639,6 +1656,15 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:8px;border-width:0;color:black;background-color:black">
+---
+
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
+<hr style="height:4px;border-width:0;color:navy;background-color:purple">
+
+
+<hr style="height:16px;border-width:0;color:navy;background-color:purple">
 
 [Back to the Main Page](../index.md)

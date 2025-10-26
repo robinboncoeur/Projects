@@ -14,12 +14,18 @@
 [ComfyUI and SRPO](#comfyui-and-srpo)  
 [Trip to Brissie](#trip-to-brissie)  
 [Qwen, and How](#gardens-and-qwen)  
-
-
+[In the City](#another-day-in-the-city)   
+[About that Queue](#notes-on-the-queue)
 
 ---
 
-[Main Page](../index.md)  
+[Main Page](../index.md)
+
+---
+
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+<img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
 
 <hr style="height:12px;border-width:0;color:pink;background-color:pink">
 
@@ -38,42 +44,44 @@
 **19.Sep.2025**   
 A lot of the improvement has been in model development. Flux has fixed a lot of issues with distorted, missing or excess anatomy although it still happens. What really helps is patience: you simply fix the prompt and re-queue. And modifying the prompt again, and re-queueing. So, I was hoping for Kalapana back in the day. Is it? no way. Feels more like MacKenzie Park with palm trees instead of ironwoods. And those coconuts... really?
 
+<!-- Note to self: do not indent markdown!!  /-->
+
 <div class="flex-container" markdown>
-  <div class="column" markdown>
+<div class="column" markdown>
 
-    <img src="/assets/images/emily/08-Flux1D25.jpg" alt="Girl at Kalapana" style="width: 420px;"/>
+<img src="/assets/images/emily/08-Flux1D25.jpg" alt="Girl at Kalapana" style="width: 420px;"/>
 
-    [ Girl at Kalapana 01 ]
-  </div>
+[ Girl at Kalapana 01 ]
+</div>
 
-  <div class="column column-right" markdown>
+<div class="column column-right" markdown>
 
-    Here's the prompt:  
-    - This photograph captures a solitary beautiful woman walking towards the viewer on a dark, volcanic black sand beach. She is positioned slightly off-center to the right, facing towards the camera. The woman has long brown hair and wears a black one-piece lycra swimsuit and is carrying a surfboard under her arm. She walks barefoot towards the viewer, leaving small footprints in the wet sand near the shoreline.  
-    - The background features a dense cluster of tall, lush palm trees with green fronds and some golden-brown leaves, indicating the tropical location. Under the trees are a few small fallen coconuts, dead coconut tree fronds and black sand, NO shrubs or bushes. The sky above is clear and dark blue, suggesting it is morning with good weather conditions. The black sand contrasts sharply with the white surf at the water's edge on the left side of the image.  
-    - The overall composition emphasizes the natural beauty of the beach setting, combining the dark volcanic sand with the vibrant greenery and tall palm trees in the background. The photograph uses bright, vivid colors to enhance the tropical atmosphere and highlights the solitude of the woman amidst the serene environment.
+Here's the prompt:  
+*This photograph captures a solitary beautiful woman walking towards the viewer on a dark, volcanic black sand beach. She is positioned slightly off-center to the right, facing towards the camera. The woman has long brown hair and wears a black one-piece lycra swimsuit and is carrying a surfboard under her arm. She walks barefoot towards the viewer, leaving small footprints in the wet sand near the shoreline.*  
+*The background features a dense cluster of tall, lush palm trees with green fronds and some golden-brown leaves, indicating the tropical location. Under the trees are a few small fallen coconuts, dead coconut tree fronds and black sand, NO shrubs or bushes. The sky above is clear and dark blue, suggesting it is morning with good weather conditions. The black sand contrasts sharply with the white surf at the water's edge on the left side of the image*.  
+*The overall composition emphasizes the natural beauty of the beach setting, combining the dark volcanic sand with the vibrant greenery and tall palm trees in the background. The photograph uses bright, vivid colors to enhance the tropical atmosphere and highlights the solitude of the woman amidst the serene environment*.
 
-  </div>
+</div>
 </div>
 
 ---
 
 <div class="flex-container" markdown>
-  <div class="column" markdown>
+<div class="column" markdown>
 
-    <img src="/assets/images/emily/09-Flux1D33.jpg" alt="Girl at Kalapana" style="width: 420px;" />
+<img src="/assets/images/emily/09-Flux1D33.jpg" alt="Girl at Kalapana" style="width: 420px;" />
 
-    [ Girl at Kalapana 02 ]
+[ Girl at Kalapana 02 ]
 
-  </div>
+</div>
   
-  <div class="column column-right" markdown>
+<div class="column column-right" markdown>
 
-    <img src="/assets/images/emily/10-Flux1D34.jpg" alt="Girl at Kalapana" style="width: 420px;" />
+<img src="/assets/images/emily/10-Flux1D34.jpg" alt="Girl at Kalapana" style="width: 420px;" />
 
-    [ Girl at Kalapana 03 ]
+[ Girl at Kalapana 03 ]
 
-  </div>
+</div>
 </div>
 
 ---
@@ -84,8 +92,13 @@ These are sequential 'queues': one is walking towards, the other: away. I didn't
 
 Issues? Definitely. What's with the hand at the tip of the bard on the image on the left? And the girl's shadow on the right suggests that the board is no longer intact. Overall, getting there but still a ways to go.
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+---
 
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+<img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -143,8 +156,13 @@ Here are some of the better of subsequent queues. Simply click the thumbnail to 
 
 Feels like I've done enough Kalapana for now.
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+---
 
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -208,7 +226,14 @@ For these images, the prompt reads as follows...
 
 In a few short years, we've gone from [this](https://www.reddit.com/r/StableDiffusion/comments/144clxb/beginner_here_why_are_closeup_photos_of/) to [this](https://www.reddit.com/r/comfyui/comments/1nx5dzd/night_drive_cat/). That's pretty wild.
 
+---
+
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
 
 
 
@@ -251,13 +276,18 @@ In the meantime, adventures suggest themselves.
 </div>
 
 
-```
+<!--
 [![Where]()](/assets/images/emily/27-Distress48.jpg)
 { target="_blank" rel="noopener" }
-```
+/-->
 
-<hr style="height:12px;border-width:0;color:pink;background-color:pink">
+---
 
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+<img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -282,7 +312,6 @@ Martin's "letter" arrived today. My observations are [documented here](../family
 
 
 
-
 ### Kontext and SRPO
 
 **10.Oct.2025**   
@@ -296,13 +325,11 @@ Having another look at Kontext. Trying to change camera angle, but it turned the
 <img src="/assets/images/emily/37-VictTrain.jpg" alt="Victorian Train-back" width="140" align="right"></a>
 
 
-The prompt looked like this:  
-  ```
-  Rotate the camera 180 degrees showing the woman's back  
-  while maintaining the woman's pose.
-  ```
+The prompt looked like this:
+  
+*Rotate the camera 180 degrees showing the woman's back while maintaining the woman's pose*.
 
-Getting the camera - and not the figure - to move seems to be a bit tricky. However, I can easily remove hats and change the time of day.
+Getting the camera - and not the figure - to move seems to be a bit tricky. I have yet to achieve that in any image. However, removing hats and changing the time of day is trivial.
 
 
 <a href="/assets/images/emily/38-VictTrain.jpg" target="_blank" rel="noopener">
@@ -312,12 +339,10 @@ Getting the camera - and not the figure - to move seems to be a bit tricky. Howe
 <img src="/assets/images/emily/39-VictTrain.jpg" alt="Victorian Train-back" width="140" align="right"></a>
 
 
-The prompt looked like this:  
-  ```
-  Remove the girl's hat to show her chignon updo  
-  while maintaining the girl's pose. Turn the 
-  background into a nighttime train station scene.
-  ```
+The prompt:
+
+*Remove the girl's hat to show her chignon updo while maintaining the girl's pose. Turn the background into a nighttime train station scene*.
+
 I'll be the first to admit my prompt 'skills' are pretty ordinary. Still. That shows promise. 
 
 One of the fun things to do with Kontext is to try different artist styles. No guarantees, of course. I tried Toulouse Lautrec and Claude Monet and got: blah. Certainly not [Woman with a Parasol](https://upload.wikimedia.org/wikipedia/commons/1/1b/Claude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg). Oh well.
@@ -348,41 +373,20 @@ Of course, character consistency went out that window with Kontext. It's good bu
 <img src="/assets/images/emily/42-Violin.jpg" alt="Violinist" width="140" align="right"></a>
 
 
-```
-Change the image to ultra-high realistic detail. No male face in this image, only female.  
-Make the woman's breasts small. Render skin tones, hair and face makeup in high detail,  
-with hyper-realistic textures and photographic precision. Change hair color from brown  
-to black. Tighten the violin bow. Tilt the woman's head more to the left.  
-```
+*Change the image to ultra-high realistic detail. No male face in this image, only female. Make the woman's breasts small. Render skin tones, hair and face makeup in high detail, with hyper-realistic textures and photographic precision. Change hair color from brown to black. Tighten the violin bow. Tilt the woman's head more to the left*.
 
-Nope. No joy. And when I asked it to change the violin to a flute, all I got was a mirthless laugh.
+Nope. No joy. And when I asked it to change the violin to a flute, all I got from Flux was a mirthless laugh.
 
-If I had the patience or the time or the **need** to get **exactly**, a specific pose, a precise setup, it could happen. There are options. For example, I can take that last image and run it through my **llama-joycation-beta-one-hf-llava:Q4_K_M** model to analyse the image ... it gives me this:
+If I had the patience or the time or the **need** to get **exactly**, a specific pose, a precise setup, it could happen. There are options. For example, I can take that last image and run it through mthe **llama-joycation-beta-one-hf-llava:Q4_K_M** model to analyse the image ... it gives me this:
 
-```
-A photograph of a young woman with long black hair playing a violin indoors. She has fair  
-skin and is wearing an elegant gray dress with a deep V-neckline adorned with silver lace  
-trim, and sheer, bell-shaped sleeves. The dress has a flowing skirt with a slightly gathered  
-waist. She holds the violin delicately in her right hand while drawing the bow with her left  
-hand, her eyes gently closed as she focuses on playing. The background shows a large window  
-with white panes and brown curtains tied back with golden cords. Outside, there is a blurred  
-view of greenery and sunlight filtering through the glass. The overall style is romantic and  
-classical, evoking an old-world charm. The lighting is soft and natural, highlighting her  
-delicate features and the rich color of the violin. The woman appears serene and focused,  
-embodying a sense of grace and musical dedication. The image conveys a peaceful, intimate  
-atmosphere with its warm, gentle colors and elegant composition. This detailed description  
-should provide a clear understanding of the photograph for someone who cannot see it visually. 
-```
-
+*A photograph of a young woman with long black hair playing a violin indoors. She has fair skin and is wearing an elegant gray dress with a deep V-neckline adorned with silver lace trim, and sheer, bell-shaped sleeves. The dress has a flowing skirt with a slightly gathered waist. She holds the violin delicately in her right hand while drawing the bow with her left hand, her eyes gently closed as she focuses on playing. The background shows a large window with white panes and brown curtains tied back with golden cords. Outside, there is a blurred view of greenery and sunlight filtering through the glass. The overall style is romantic and classical, evoking an old-world charm. The lighting is soft and natural, highlighting her delicate features and the rich color of the violin. The woman appears serene and focused, embodying a sense of grace and musical dedication. The image conveys a peaceful, intimate atmosphere with its warm, gentle colors and elegant composition. This detailed description should provide a clear understanding of the photograph for someone who cannot see it visually*.
 
 LLama should write fiction! Now, what I always do is: *first, have a read*! Because Llama does get it wrong, sometimes, which hand is doing what, for example. Let's see what Llama is claiming is happening here:
 
-```
-She holds the violin delicately in her right hand while drawing the bow with her left  
-hand, her eyes gently closed as she focuses on playing.
-```
+*She holds the violin delicately in her right hand while drawing the bow with her left hand, her eyes gently closed as she focuses on playing*.
 
-"Er, no mate, just the opposite, in fact." She holds the violin with her chin and at the neck with her **left** hand and draws the bow with her **right**.
+"**Er, no mate, just the opposite, in fact.**"  
+She holds the violin with her chin and at the neck with her **left** hand and draws the bow with her **right**.
 
 Lesson learnt: can't trust AI. Still, Llama drew a lovely piccie. Let's fix things:
 
@@ -394,36 +398,21 @@ Lesson learnt: can't trust AI. Still, Llama drew a lovely piccie. Let's fix thin
 <img src="/assets/images/emily/44-Violin.jpg" alt="Violinist" width="140" align="right"></a>
 
 
-```
-This photograph depicts a young woman with long black hair playing a violin  
-indoors. She has fair skin and is wearing an elegant Victorian-style (1880s)  
-gray dress with a square neckline adorned with silver lace trim, and sheer,  
-bell-shaped sleeves mostly covering her small bustline. The dress has a 
-flowing skirt with a slightly gathered waist.  
-
-moim3m3grl
-
-She holds the violin delicately in her left hand while drawing the bow with  
-her right hand, her head tilted onto the chin rest of the violin and her eyes  
-gently closed as she focuses on playing. 
-
-The background shows a large window with white panes and brown curtains tied  
-back with golden cords. Outside, there is a blurred view of greenery and  
-sunlight filtering through the glass. The overall style is romantic and  
-classical, evoking an old-world charm. The lighting is soft and natural,  
-highlighting her delicate features and the rich color of the violin. The  
-woman appears serene and focused, embodying a sense of grace and musical  
-dedication. The image conveys a peaceful, intimate atmosphere with its 
-warm, gentle colors and elegant composition. 
-... blah-blah-blah ...
-```
-
-I keep hearing the TikTok guy: "oohhh, no-no-no-NO!"
+*This photograph depicts a young woman with long black hair playing a violin indoors. She has fair skin and is wearing an elegant Victorian-style (1880s) gray dress with a square neckline adorned with silver lace trim, and sheer, bell-shaped sleeves mostly covering her small bustline. The dress has a flowing skirt with a slightly gathered waist. moim3m3grl She holds the violin delicately in her left hand while drawing the bow with her right hand, her head tilted onto the chin rest of the violin and her eyes gently closed as she focuses on playing. The background shows a large window with white panes and brown curtains tied back with golden cords. Outside, there is a blurred view of greenery and sunlight filtering through the glass. The overall style is romantic and classical, evoking an old-world charm. The lighting is soft and natural,  
+highlighting her delicate features and the rich color of the violin. The woman appears serene and focused, embodying a sense of grace and musical dedication. The image conveys a peaceful, intimate atmosphere with its warm, gentle colors and elegant composition*.
 
 It's 11:07pm. Been working today on making headway of Dad's autobiography, and didn't start ComfyUI until after tea. Got a big day tomorrow with Eddie, so I'll make this my last render.  
 Cheers.
 
+---
+
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+<img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
 
 
 
@@ -445,8 +434,13 @@ Done:
 Plan:  
 - Going to a stationery shop to pick up a "display book" to house the original document pages.
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+---
 
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -479,8 +473,13 @@ When Julia has her "Arty-Farty" art groups on Wednesday, I'm the designated bari
 
 By the way, the music was the 3rd sketch I wrote. There's another thing I want to spend a bit more time doing: writing music. Not enough hours in the day.
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+---
 
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -532,8 +531,13 @@ And, you get the image of a Victorian lass.
 
 Both of these images have one thing in common: the character. In the prompt, the LoRA is referenced with 'moimeme3'. Flux does all the rest. It's pretty amazing how well it works, to be honest.
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+---
 
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -560,8 +564,13 @@ Which, I did. First stop was 'my' cafe in Milton, the one that serves Artisti co
 
 Next stop was Ted's Cameras for an Variable ND filter and a better camera bag. The filter was dear, but I got it anyway. No luck on the bag. Wandered all over Queen St Mall and never found one. Finally decided it was time for a break, and called in at [Room with Roses](https://roomwithroses.com.au/), a charming high tea venue in the heart of the Brisbane Arcade. Even got to say hi to Vicki Pitts, the owner. Finally, much refreshed, decided to call it a day in this hot and humid city.
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+---
 
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -639,10 +648,11 @@ Need I say more?
 
 ---
 
-Okay, off to bed -- need to finish that garden bed tomorrow.
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
 
 
 
@@ -654,7 +664,7 @@ Okay, off to bed -- need to finish that garden bed tomorrow.
 
 
 <a href="/assets/images/emily/48-1Enjoyment.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/emily/48-1Enjoyment.jpg" alt="Where" width="360" align="right"></a>
+<img src="/assets/images/emily/48-1Enjoyment.jpg" alt="Enjoy" width="360" align="right"></a>
 
 
 **23.Oct.2025**  
@@ -672,10 +682,10 @@ The big challenge now isn't consistent characters: I think I've got that sorted.
 **Art In Practise**  
 
 <a href="/assets/images/emily/48-2Enjoyment.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/emily/48-2Enjoyment.jpg" alt="Where" width="360" align="left"></a>
+<img src="/assets/images/emily/48-2Enjoyment.jpg" alt="Enjoy" width="360" align="left"></a>
 
 <a href="/assets/images/emily/48-3Enjoyment.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/emily/48-3Enjoyment.jpg" alt="Where" width="360" align="right"></a>
+<img src="/assets/images/emily/48-3Enjoyment.jpg" alt="Enjoy" width="360" align="right"></a>
 
 
 
@@ -687,7 +697,7 @@ The tools we have now enable us to explore aspects of life the would have been f
 
 
 <a href="/assets/images/emily/48-4Enjoyment.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/emily/48-4Enjoyment.jpg" alt="Where" width="360" align="right"></a>
+<img src="/assets/images/emily/48-4Enjoyment.jpg" alt="Enjoy" width="360" align="right"></a>
 
 
 That face of the lass with the wine, as well this lass sitting in a café in Paris, and a lot of faces on this page and elsewhere, ware created using a real-person face (mine) as a *basis* using various image models: SDXL and ReActor, then LoRAs in Flux.1 and finally Qwen. Retaining the character isn't trivial. It was through highly laborious, painstaking, multi-queue trials and fits and starts that I finally had a dataset I could use to develop a low-ranking adaptation. For a price, you can use online servers to accomplish this sort of thing, but there is a certain quiet sense of accomplishment to making a LoRA on your own system. Qwen finally, successfully age-regressed (and altered) the face and created a workable dataset, retaining the essence of the canonical image whilst allowing this new character to explore new, interesting, compelling experiences in the sparkly clouds and sunshine of the imagination. For me at least, this is the purpose of **ART**, *in a way*. After all, what else is art, but a reflection of the artist's view on life: wishful thinking? or an appalled exposé? ... or *something else*? 
@@ -696,8 +706,13 @@ I remember my violin instructor, when I told her I was getting into AI-imaging, 
 
 AI, and Flux/SRPO/Stable Diffusion/ComfyUI let me explore the imaginative side of life, write "What If" stories, explore other worlds, other existences. It's *my* practise of art.
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+---
 
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -708,7 +723,7 @@ AI, and Flux/SRPO/Stable Diffusion/ComfyUI let me explore the imaginative side o
 
 
 <a href="/assets/images/emily/48-5Enjoyment.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/emily/48-5Enjoyment.jpg" alt="Where" width="360" align="right"></a>
+<img src="/assets/images/emily/48-5Enjoyment.jpg" alt="Enjoy" width="360" align="right"></a>
 
 
 **23.Oct.2025**  
@@ -754,8 +769,13 @@ This is where imagination runs these days. WTF? Ruin and desolation everywhere. 
 
 By the way, Blender is now up to version 5 (in Beta, going to be released Nov 5th). I've sort-of gotten away from 3D now ... as Marc would say: "Je me suis calmé sûr la question." I suppose the same wi11 happen with AI-enhanced art too, at some stage.
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+---
 
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -769,7 +789,7 @@ Took my camera (GH5) for a walk in Brisbane today. Not a millimeter of footage w
 
 
 <a href="/assets/images/blog25/01-1BusStop.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blog25/01-1BusStop.jpg" alt="Where" width="360" align="right"></a>
+<img src="/assets/images/blog25/01-1BusStop.jpg" alt="Bus Stop" width="360" align="right"></a>
 
 
 Took the 280 bus from Christopher Street, a 10-minute walk from our house, if that. The 280 goes from Shoreline, a brand-new suburb just to the south of us and terminates on essentially a bus 'trunk line' to the city: the new Metro tri-articulating electric buses, which take you to Roma Street. Which is in the middle of nowhere, so I got off the 'Metro' at South Bank, and took the train to Central, where access to the city's amenities is a bit better. Bought a 20,000 *something* powerbank, had breakfast at a little café just under 'Room with Roses' -- smoked salmon on wholewheat! with capers! -- and wandered around people-watching, something I loved to do with Tamara back in the day, in Paris.
@@ -778,14 +798,18 @@ Took the Metro back to Griffith University, and then caught the 280 home. That w
 
 
 <a href="/assets/images/blog25/01-2Glass.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blog25/01-2Glass.jpg" alt="Where" width="360" align="right"></a>
+<img src="/assets/images/blog25/01-2Glass.jpg" alt="Glass of Red" width="360" align="right"></a>
 
 
 I had taken some notes. Put them in Google Docs, which I can get to on my phone. I can do this from anywhere:
 
 ```
-To add: link for viewers to leave comments on Instagram or Messenger. 
-Will not be implementing interactive fields BC I want to keep things simple and secure.
+To add: link for viewers to  
+leave comments on Instagram  
+or Messenger. 
+Will not be implementing  
+interactive fields BC I want  
+to keep things simple and secure.
 
 Will do notes on Google Docs.
 
@@ -797,14 +821,20 @@ When ideas occur, this seems a quick, easy, sound approach to jot stuff down.
 I did try some hair-style-specific prompts. 'ataylorm' on his [FluxHairStyles GitHub page](https://github.com/ataylorm/FluxHairStyles?tab=readme-ov-file) suggested some prompts; Tansy on *Medium* suggested others. To be honest, not thrilled with the results so far. Neither SRPO or Qwen were *consistently* doing as I asked. I was probably asking it wrong. 
 
 <a href="/assets/images/blog25/01-3Glass.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blog25/01-3Glass.jpg" alt="Where" width="360" align="left"></a>
+<img src="/assets/images/blog25/01-3Glass.jpg" alt="Glass of Red" width="360" align="left"></a>
 
-<a href="/assets/images/blog25/01-4Glass.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blog25/01-4Thirty.jpg" alt="Where" width="240" align="right"></a>
+<a href="/assets/images/blog25/01-4Thirty.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/01-4Thirty.jpg" alt="Glass of Red" width="240" align="right"></a>
 
 I have found that sometime you have to do several 'queues' before Flux.1-Dev or SRPO try to nut out what you mean by "dark brown hair styled in a high ponytail with wisps framing her face". We'll do the ponytail but 'wisps'? *Alors là, tu exagères*.
 
 Oh, and I went back to Qwen to try another base model. Again. As you do. I felt that Qwen was performing excessive plastic surgery. It had to only slightly step out of 'Uncanny Valley', not leave it altogether behind for greener pastures. FluxGym seems happiest building LoRAs using 10 images, and I had 20 from the Qwen Image Edit 2509 dataset workflow. Had plenty to chose from.
+
+---
+
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
@@ -813,10 +843,121 @@ Oh, and I went back to Qwen to try another base model. Again. As you do. I felt 
 
 
 
-<!-- NEXT ENTRY HERE!!!  /-->
 
-**Note**: *New posts will now show up in natural order, as they occur*.
+### Notes on the Queue
+
+Each model -- whether SDXL (which I almost never use), Flux.1-Dev, SRPO or Qwen -- each have their use-cases, strengths, weaknesses and queue-time length. The slowest at the moment is SRPO, but it also seems to produce the best images. Qwen seems to be best for image-to-image, but you have to be precise with your prompt, whereas with SRPO, being verbose (wordy) helps.
+
+
+<a href="/assets/images/blog25/02-1Office.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/02-1Office.jpg" alt="Office Lass" width="400" align="right"></a>
+
+
+```
+This photograph features a confident woman fxrobyn sitting  
+at an office desk with sunlight streaming through a large  
+window behind her, casting a warm glow over the scene. The  
+woman fxrobyn has dark brown hair in a stylish chin-length  
+bob, and fair skin. She is wearing a crisp white button-up  
+shirt that is slightly unbuttoned at the top, and a knee-  
+length black skirt that highlights her slender legs. Her  
+feet are crossed at the ankles, showing off her black high-  
+heeled shoes. Realism
+
+The desk in front of her is cluttered with stacks of papers,  
+an open laptop computer, a pen, and a small lamp. She holds  
+a pen in one hand while resting the other on the desk. The  
+office chair she sits in is blue with a high back. The  
+background includes more stacks of papers to either side of  
+the window, adding to the sense of a busy workspace. The  
+overall color palette features warm yellows and browns from  
+the sunlight, contrasting with the cooler blues and blacks  
+of her attire and office equipment. Her expression is serious  
+and focused, suggesting she is concentrating on an important  
+task. The photograph has a dynamic, almost dramatic quality  
+due to the strong use of light and shadow. 
+```
+
+Reads like exposition from a novel, doesn't it? This is what SRPO likes, expects, hungrily feeds on and produces quite compelling images as a consequence. I have to admit: this prompt is not originally something I *wrote*. To be honest, I struggle with describing things. I let Artificial Intelligence do that: it does a better job coming up with the words. However, *editing* ... happy to do *that*. Once I have raw material, I can tweak, rearrange, add key aspects and remove cruft and obvious mistakes.    
+So, SRPO got the face right, the hair half-right (not chin-length, but it is a bob), skirt right, legs ... um, you could make a case she is in process of crossing her legs, left hand wrong, right hand dodgy.  
+Oh well. I don't expect complete obedience to the prompt. Re-queue.
+
+
+<a href="/assets/images/blog25/02-2Office.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/02-2Office.jpg" alt="Office Lass" width="420" align="left"></a>
+
+
+Ah, that's better. Somewhat.
+
+So, where do I get the original prompt from? Well, for a baseline image, I get on Pinterest. Or Google ... which usually sends me to Pinterest. So, find an image with close to the right pose, background, whatever.
+
+That picture gets loaded into my handy-dandy image-analysis workflow.
+
+The node is called "Ollama Image Describer". Instead of *creating* images, it *describes* them. To do so, it takes a large-language model offered by [Ollama](https://docs.ollama.com/) to "look" at the image and describe what it is 'seeing'.  
+
+Note: *A very interesting US-centric phenomena emerges. The US is prudish. For all its horrific societal proclivities -- and, one could make the argument, those proclivities are in part due to that prudishness -- the US sees itself as some sort of purity standard. Never more visible than when trying to actually* **USE** *one of Ollama's native models. Ludicrous. Backwards. Old white Christian Nationalist men promote child marriage, but quibble over an exposed knee.*)
+
+Fortunately, models exist to overcome this issue. And Ollama *wisely* allows side-loading of models it cannot supply itself. So, I was able to find **['aha2025 - llama-joycation-beta-one-hf-llava:Q4_K_M'](https://huggingface.co/fancyfeast/llama-joycaption-beta-one-hf-llava)** which will honestly and without reservation describe the image.
+
+
+<a href="/assets/images/blog25/02-3ImgDescr.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/02-3ImgDescr.jpg" alt="Joy-Caption" width="420" align="right"></a>
+
+
+Some things to note about this process:  
+- The figure's pose, attire, settings: all described so SRPO understands it  
+- To change from drawing to realistic, all I had to say was 'photograph'  
+- The 'custom model' replaces the Ollama defaults, nullifying censorship  
+- The model itself gets instructions as to role and what to focus on  
+- Change to output can be done by changing the seed. Or temperature
+
+Most importantly, you don't really **need** to know what top_k, top_p, num_ctx or any of that stuff is to use the node. As with most workflows you get from CivitAI, Comfy.org or your AI-imaging influencers, the defaults are usually fine. There are a few influencers I follow on YouTube and Patreon and even send a few bucks here and there, only just because their workflows are so good.
+
+By the way, here's the original:
+
+
+*The image is a digital drawing done in a semi-realistic comic book style. It features a confident woman sitting at an office desk with sunlight streaming through a large window behind her, casting a warm  glow over the scene. The woman has short, dark brown hair and fair skin. She is wearing a crisp white button-up shirt that is slightly unbuttoned at the top, accentuating her cleavage, and a form-fitting black skirt that highlights her slender legs. Her feet are crossed at the ankles, showing off her black high-heeled shoes. ... etc*
+
+Don't like the output? Change the seed and run it again. Running the "Ollama Image Describer" again produced:
+
+
+<a href="/assets/images/blog25/02-4Office.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/02-4Office.jpg" alt="Office Lass" width="360" align="left"></a>
+
+<a href="/assets/images/blog25/02-5Office.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/02-5Office.jpg" alt="Office Lass" width="360" align="right"></a>
+
+
+*A digital artwork featuring a confident woman seated at an office desk in a sunlit room. She has short black hair, fair skin, and is wearing a white button-down blouse with the sleeves rolled up to her elbows, and a form-fitting dark gray skirt. Her legs are crossed, showcasing her toned thighs, and she wears black high-heeled shoes. The woman holds a pen in her right hand, resting it on the desk, which is cluttered with papers, a laptop, and office supplies. She sits on a blue leather office chair with armrests, positioned slightly to the left of center. Behind her are two tall windows letting in bright sunlight, casting warm yellow and orange hues throughout the room. The walls are light-colored, contrasting with the dark furniture. The overall style is hyper-realistic with a strong use of light and shadow, emphasizing the woman's confident demeanor and professional setting. Her expression is serious yet composed, and she exudes authority and competence. The image has a slight vignette effect, drawing focus to her as the central figure*.
+
+Replace the words "A digital artwork" with "A photograph", add the LoRA keyword, and make a few other mods ... and it's happening. Made another LoRA last night to use in today's images. Happy with the results so far.
+
+---
+
+So, **what is the purpose to all this**?
+
+Illustrations. Like, for picture-books. Or comic-books. Or, whatever you need illustrations for. This technique, amongst others (and there's heaps out there!) makes developing illustrations quite straightforward, reasonably accurate (just re-queue if the output isn't right) and in a style that the illustrator can decide.
+
+At this stage I have a method for portraying one individual (one consistent character) in an image. Next is building a scene with two persons, each retaining their identity, *also known as 'character consistency'*. Just downloaded someone's Qwen-based workflow to achieve that end.
+
+---
+
+*Questions? Comments? You can leave me a note on* 
+<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+<!-- NEXT ENTRY HERE!!!  /-->
 
 <hr style="height:16px;border-width:0;color:pink;background-color:pink">
 
-[Back to the Main Page](../index.md)
+[Main Page](../index.md)
