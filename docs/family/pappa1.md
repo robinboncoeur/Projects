@@ -18,14 +18,16 @@
 
 ## Glossary
 
+<!-- Note to self: do not indent!!  /-->
+
 <div class="flex-container" markdown>
-  <div class="column">
+<div class="column" markdown>
 
-    <a href="/assets/images/pappa/P0.jpg" target="_blank" rel="noopener">
-    <img src="/assets/images/pappa/P0.jpg" alt="Cover" width="480" align="right"></a>
+<a href="/assets/images/pappa/P0.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P0.jpg" alt="Cover" width="480" align="right"></a>
 
-  </div>
-  <div class="column column--right" markdown>
+</div>
+<div class="column column--right" markdown>
 
 My own notes on what I am actually doing in the process of translating and formatting can be 
 ![found here}(/family/index.md).  
@@ -38,7 +40,8 @@ The *general format* of this document will be:
     
 🎖 At the bottom of each section:  
     
-🌅 Section status:  
+🌅 Section status:
+
 - The *tick-mark* [ ✅ ] indicates this is ready for a final analysis and, hopefully, inserting into the 'canon'. By *canon* I mean, the official text, which will be in a subsequent document.    
 - The *magnifying glass* [ 🔎 ] indicates this is but a rough first-draught translation, and bears examining more closely for ... um ... whatever might not align correctly with the original text.  
 🌅 An image (or images) of the original document - right-click and "View in a new Tab" to inspect the document.

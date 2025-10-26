@@ -469,7 +469,7 @@ Anyway, here's a little "Making Coffee" video:
 </div>
 
 
-When Julia has her "Arty-Farty" art groups on Wednesday, I'm the designated barista for their morning tea. This lovely Bezzera -- yes, a proper **Italian-made** expresso machine -- is more than up to the task. New, they run somewhere between AUD $3500 and $5000 ... but I never buy new if I can help it. This one is from a mob who sell and service Bezzera machines: I picked it up for $1600. It will outlast all of us, our cars, most likely even the house. It's built like a tank. And it makes brilliant mochas, capuchinos, lattes, flat whites ... haven't gotten into that whole barista-art thing yet, but the girls get great coffee so no-one's complaining.  
+On Julia's "Arty-Farty" art-group Wednesdays, I'm the designated barista for morning tea. My lovely Bezzera coffee machine -- yes, a proper **Italian-made** expresso maker -- is more than up to the task: I can serve up to eight people, all with different requests, reasonably quickly ... it's not the machine holding me back.  New, they run somewhere between AUD $3500 and $5000 ... but I never buy new if I can help it. This one is from a mob who sell and service Bezzera machines: I picked it up for $1600. It will outlast all of us, our cars, most likely even the house. It's built like a tank. And it makes brilliant mochas, capuchinos, lattes, flat whites ... haven't gotten into that whole barista-art thing yet, but the girls get great coffee so no-one's complaining.  
 
 By the way, the music was the 3rd sketch I wrote. There's another thing I want to spend a bit more time doing: writing music. Not enough hours in the day.
 
@@ -939,6 +939,10 @@ So, **what is the purpose to all this**?
 Illustrations. Like, for picture-books. Or comic-books. Or, whatever you need illustrations for. This technique, amongst others (and there's heaps out there!) makes developing illustrations quite straightforward, reasonably accurate (just re-queue if the output isn't right) and in a style that the illustrator can decide.
 
 At this stage I have a method for portraying one individual (one consistent character) in an image. Next is building a scene with two persons, each retaining their identity, *also known as 'character consistency'*. Just downloaded someone's Qwen-based workflow to achieve that end.
+
+---
+
+Another issue has made itself apparent, and there doesn't appear to be an easy fix. Someone suggested 'PhotoPea', which is a Photoshop plugin, but I suspect you would need Photoshop to use it. Going to try Kontext (flavour of Flux.1-Dev) to see if that works. So far, it looks unlikely: it actually made it *larger*. Try again.
 
 ---
 
