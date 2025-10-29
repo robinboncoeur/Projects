@@ -4,8 +4,8 @@
 
 🌹🌼🌹 [ ⇨ Blogposts 2022](/blogs/Blog22.md)  
 🌹🌼🌹 [ ⇨ Blogposts 2024](/blogs/Blog24.md)   
-🌹🌼🌹 [ ⇨ Blogposts 2025](/blogs/Blog25.md)   
-🌹🌼🌹  
+🌹🌼🌹 [ ⇨ Blogs Sep 2025](/blogs/Blog0925.md)   
+🌹🌼🌹 [ ⇨ Blogs Oct 2025](/blogs/Blog1025.md)     
 🌹🌼🌹  
 
 

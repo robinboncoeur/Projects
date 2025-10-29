@@ -41,7 +41,8 @@ nav:
     - blogs/index.md
     - Blog 2022: blogs/Blog22.md
     - Blog 2024: blogs/Blog24.md
-    - Blog 2025: blogs/Blog25.md
+    - Blog Sep25: blogs/Blog0925.md
+    - Blog Oct25: blogs/Blog1025.md
 
 
   - Family:
@@ -77,6 +78,7 @@ nav:
   - Visual Art:
     - visual/index.md
     - AI & Emily: visual/Emilyai.md
+    - 2nd Person: visual/Person2.md
     - GIMP Tips: visual/GimpTips.md
     - Videos: visual/Videos.md
     - VScripts: visual/VScripts.md

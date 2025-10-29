@@ -294,7 +294,7 @@ Anyway, the hard yakka has been sieving / washing away the mud out of the rock. 
 ## Garden Bed Liner
 
 **19.Oct.2025**  
-Julia has been away for the past week. I'll admit it -- I have been **slack**. Been doing deep dives into [image-creating using ComfyUI](../blogs/Blog25.md#kontext-and-srpo), what with new models being spawned almost weekly, so this project sort-of got ignored. I did keep up the watering, but to be honest, I'm underwhelmed with the strawberries and the coriander has already bolted.
+Julia has been away for the past week. I'll admit it -- I have been **slack**. Been doing deep dives into [image-creating using ComfyUI](../blogs/Blog0925.md#flux-srpo), what with new models being spawned almost weekly, so this project sort-of got ignored. I did keep up the watering, but to be honest, I'm underwhelmed with the strawberries and the coriander has already bolted.
 
 
 <img src="/assets/images/garden/25-10-19/01-DirtPile.jpg" alt="Footpath works" style="float: left; width: 400px;

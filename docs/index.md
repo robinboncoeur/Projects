@@ -72,8 +72,8 @@ This is a temporary measure for access to the site for readers on a phone or tab
 [Blogs](/blogs/index.md/)  
 🌹🌼🌹 [ ⇨ Blogposts 2022](/blogs/Blog22.md)  
 🌹🌼🌹 [ ⇨ Blogposts 2024](/blogs/Blog24.md)   
-🌹🌼🌹 [ ⇨ Blogposts 2025](/blogs/Blog25.md)   
-🌹🌼🌹  
+🌹🌼🌹 [ ⇨ Blogs Sep 2025](/blogs/Blog0925.md)   
+🌹🌼🌹 [ ⇨ Blogs Oct 2025](/blogs/Blog1025.md)  
 🌹🌼🌹  
 
 <hr style="height:8px;border-width:0;color:blue;background-color:blue">
@@ -125,6 +125,11 @@ There are (and will be) subdomains for all the old Help pages: projects.tightbyt
 
 
 ## Update Log
+
+Update 2025.10.29:  
+- added Person2.md to the visual folder
+- splintering Blog2025 into months ... Sep2025 / Oct2025
+
 
 Update 2025.10.24:  
 - changed garden and blog post order to oldest at the top, newest at the bottom  
