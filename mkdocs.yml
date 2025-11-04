@@ -81,6 +81,7 @@ nav:
     - ComfyUI: visual/Comfyui.md
     - AI & Emily: visual/Emilyai.md
     - 2nd Person: visual/Person2.md
+    - QwenPrompt: visual/QwenPro.md
     - GIMP Tips: visual/GimpTips.md
     - Videos: visual/Videos.md
     - VScripts: visual/VScripts.md
