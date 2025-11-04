@@ -91,7 +91,7 @@ Update 2025.10.04: Moved [Blog posts](/blogs/index.md) into their own category.
 
 ---
 
-Update 2025.10.02: Added a category [Visual Art](/visual/index.md). Anything to do with art or video has been moved there. Also, with the receipt of Dad's autobiography, have recommenced photographing physical medium, translation and opening the account for discussion..
+Update 2025.10.02: Added a category Visual Art. Anything to do with art or video has been moved there. Also, with the receipt of Dad's autobiography, have recommenced photographing physical medium, translation and opening the account for discussion..
 
 ---
 

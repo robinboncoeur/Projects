@@ -23,18 +23,6 @@
 
 ---
 
-<a href="/assets/images/misc/01visual05.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/misc//01visual05.jpg" alt="Can" width="200" align="right"></a>
-
-[Visual Arts](/visual/index.md)  
-🌼🌹🌼 [ ⇨ AI](/visual/Emilyai.md)  
-🌹🌼🌹 [ ⇨ GIMP Tips](/visual/GimpTips.md)  
-🌼🌹🌼 [ ⇨ Videography](/visual/Videos.md)   
-🌹🌼🌹 [ ⇨ Video Scripts](/visual/VScripts.md)     
-🌼🌹🌼     
-
----
-
 <a href="/assets/images/misc/03garden08.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/misc/03garden08.jpg" alt="We" width="200"align="right"></a>
 
@@ -68,8 +56,5 @@
 [Blogs](/blogs/index.md/)  
 🌹🌼🌹 [ ⇨ Blogposts 2022](/blogs/Blog22.md)  
 🌹🌼🌹 [ ⇨ Blogposts 2024](/blogs/Blog24.md)   
-🌹🌼🌹 [ ⇨ Blogs Sep 2025](/blogs/Blog0925.md)   
-🌹🌼🌹 [ ⇨ Blogs Oct 2025](/blogs/Blog1025.md)  
-🌹🌼🌹 [ ⇨ Blogs Nov 2025](/blogs/Blog1125.md)  
 
 <hr style="height:20px;border-width:0;color:blue;background-color:blue">
