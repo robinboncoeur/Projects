@@ -2,7 +2,7 @@
 
 ## Overview
 
-Emily: Hey Robyn! Yep—there are a few solid paths to “de-ridge” a brow before you train a LoRA. Here’s what works well without wrecking identity or skin texture.
+Emily: Hey girlfriend! Yep—there are a few solid paths to “de-ridge” a brow before you train a LoRA. Here’s what works well without wrecking identity or skin texture.
 
 ### Pixel Retouch
 
