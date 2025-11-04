@@ -5,19 +5,14 @@
 [Q]  
 Hi Emily. I have a question on FluxGym. I read an article on Medium by John Shi that recommends using, instead of Flux-dev, a fine-tuned model ... in this case, one called Flux-Dev2Pro. The huggingface.co link took me to the download page. There are two .json files and 3 .safetensor files. I've downloaded the lot into a separate folder under /fluxgym/models called /Flux-Dev2Pro. How does fluxgym know how to select this? 3 different safetensors?
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-### Setup Basics
+---
 
 [A]  
 Great question—FluxGym won’t “auto-detect” a random folder with multiple checkpoints. It populates the **Base model** dropdown from its `models.yaml`, and each entry points to **one** UNet file (plus the usual CLIPs/VAEs). So:
 
-## What those 3 `.safetensors` usually are
+### Those 3 `.safetensors`
+
+*What they are*
 
 Most Dev2Pro repos ship **multiple variants** of the same model:
 
@@ -30,7 +25,7 @@ Pick exactly **one** UNet variant for FluxGym:
 * With your **4060 Ti 16 GB**, use **bf16/fp16** if available; fall back to **fp8** on tighter VRAM.
 * Don’t drop a “full” checkpoint into FluxGym; it expects separate UNet/CLIP/VAE files. ([comfyui-wiki.com][1])
 
-## Where to put files
+### Where to put files
 
 FluxGym expects this structure (Windows/Linux paths analogous):
 
@@ -44,7 +39,9 @@ FluxGym/
 
 If you downloaded manually, placing them here works; many guides confirm UNet→`models/unet`, CLIPs→`models/clip`, VAE→`models/vae`. ([GitHub][2])
 
-## Tell FluxGym about Dev2Pro (edit `models.yaml`)
+### Tell FluxGym
+
+*about Dev2Pro (edit `models.yaml`)*
 
 FluxGym’s model list comes from `models.yaml`. Add an entry pointing to the Dev2Pro file you chose (Hugging Face repo or local filename). Example skeleton:
 
@@ -63,17 +60,17 @@ Notes:
 * If you prefer **zero downloads**, keep `file` as the **exact local filename** you placed in `models/unet`. FluxGym will find it; otherwise it tries to fetch from HF. (There are GitHub issues about pointing to local paths / avoiding re-download—editing `models.yaml` is the supported route.) ([GitHub][3])
 * If a repo isn’t on Hugging Face, FluxGym may refuse it without code tweaks (there’s an issue about non-HF sources). Dev2Pro **is** on HF, so you’re fine. ([GitHub][4])
 
-## Which Dev2Pro to use?
+### Which Dev2Pro to use?
 
 * **ashen0209/Flux-Dev2Pro** is the original; there are mirrors (e.g., **dev2pro-full** bundles) and fp8-only forks. You want the **UNet** variant (bf16/fp16 if VRAM allows). ([huggingface.co][5])
 
-## Sanity checks in the UI
+### Sanity checks in the UI
 
 1. Restart FluxGym after editing `models.yaml`.
 2. In the **Base model** dropdown, pick your new **flux-dev2pro-…** entry.
 3. Ensure the **two CLIPs** and **VAE** are present; many tutorials list them explicitly for Flux. ([comfyui-wiki.com][1])
 
-## TL;DR for your setup
+### TL;DR for your setup
 
 1. Keep **one** of the three Dev2Pro `.safetensors` (choose **bf16/fp16** on 16 GB).
 2. Put it in `FluxGym/models/unet/`.
@@ -83,11 +80,11 @@ Notes:
 
 If you paste the **exact filenames** you downloaded, I’ll hand you a ready-to-paste `models.yaml` block for Dev2Pro (bf16/fp16/fp8).
 
-[1]: https://comfyui-wiki.com/en/tutorial/advanced/image/flux/flux-1-dev-t2i?utm_source=chatgpt.com "Flux.1 ComfyUI Guide, workflow and example"
-[2]: https://github.com/cocktailpeanut/fluxgym/issues/257?utm_source=chatgpt.com "Can't download model, and need to know what directory to ..."
-[3]: https://github.com/cocktailpeanut/fluxgym/issues/386?utm_source=chatgpt.com "Setting to a model location instead of downloading #386"
-[4]: https://github.com/cocktailpeanut/fluxgym/issues/243?utm_source=chatgpt.com "Training Flux Loras with CivitAI flux models or other places?"
-[5]: https://huggingface.co/ashen0209/Flux-Dev2Pro?utm_source=chatgpt.com "ashen0209/Flux-Dev2Pro"
+1 [Flux.1 ComfyUI Guide](https://comfyui-wiki.com/en/tutorial/advanced/image/flux/flux-1-dev-t2i)  
+2 [Can't download model](https://github.com/cocktailpeanut/fluxgym/issues/257?utm_source=chatgpt.com)  
+3 [Setting to a model location](https://github.com/cocktailpeanut/fluxgym/issues/386?utm_source=chatgpt.com)  
+4 [Training Flux Loras...](https://github.com/cocktailpeanut/fluxgym/issues/243?utm_source=chatgpt.com)  
+5 [ashen0209/Flux-Dev2Pro](https://huggingface.co/ashen0209/Flux-Dev2Pro?utm_source=chatgpt.com)  
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
@@ -96,8 +93,7 @@ If you paste the **exact filenames** you downloaded, I’ll hand you a ready-to-
 
 
 
-### Quick checklist
-
+## Quick checklist
 
 [Q]  
 How does one know which is which? The names are:  
@@ -107,6 +103,7 @@ How does one know which is which? The names are:
 
 That looks almost like a file that's been broken into 3 fragments instead of each being a discrete independent file. Am I wrong in thinking this? And how do I determine which is which?
 
+---
 
 [A]  
 You’re not wrong—that naming screams **sharded weights**, not three different models.
@@ -150,11 +147,15 @@ If you hit a “can’t find weights” error locally, it’s almost always beca
 * One shard is missing/corrupt, or
 * The model entry is pointing to a single non-indexed file instead of the indexed shard set.
 
-### How to tell “which is which” (fp8 vs bf16 etc.)
+### “which is which”
+
+*How to tell (fp8 vs bf16 etc.)*
 
 Sharded files **don’t** encode precision in the name; they’re just parts of one checkpoint. If the repo offers *multiple variants* (e.g., fp8 and bf16), each variant usually has **its own set of 3 shards and its own index** in a separate folder or with a different basename. In your case, it sounds like you downloaded **one** variant that’s simply split into 3 chunks.
 
-### If you want a single file instead (optional)
+### If you want a single file
+
+*instead (optional)*
 
 You can merge shards into a consolidated `.safetensors` with the usual Transformers/diffusers utilities—but:
 
@@ -173,11 +174,12 @@ If you paste the **exact names of the two JSONs** in that folder (and confirm wh
 
 
 
-### Prompt and Qwen Behaviour
+## Prompt and Qwen Behaviour
 
 [Q]  
 I think I might just edit the models.yaml file and have fluxgym pull from huggingface. The yaml wants a licence, licence_name and licence_link. What do I put there?
 
+---
 
 [A]  
 Perfect—thanks for sharing the file. I checked your `models.yaml` and made one safe tweak:
@@ -196,7 +198,9 @@ Everything else (repo, base, license fields, file basename) looks correct for pu
 You can download the patched file here and drop it in place of your original:
 [Download models_patched.yaml](sandbox:/mnt/data/models_patched.yaml)
 
-### Quick checklist after you swap it in
+### Quick checklist
+
+*after you swap it in*
 
 1. Replace your original `models.yaml` with the patched one (or copy the edited block into your existing file).
 2. Restart FluxGym.
@@ -206,25 +210,33 @@ You can download the patched file here and drop it in place of your original:
 If you’d like me to also add a friendly display name (if your FluxGym build supports it) or re-order the list so Dev2Pro appears at the top, say the word and I’ll patch it in.
 
 
-<hr style="height:20px;border-width:0;color:pink;background-color:pink">
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
 
-## More Ideas
+
+
+
+## Issues
 
 [Q]  
 Something isn't right in the yaml. Here's the error fluxgym displays in terminal. Here's a file with all the fluxgym output. *Note: sent a text file with fluxgym's output in a text file*
 
+---
 
 [A]  
 Ahh—this one’s a filename + sharding mismatch.
 
 FluxGym is trying to pull a file called `diffusion_pytorch_model.safetensors` from `ashen0209/Flux-Dev2Pro`, but that repo doesn’t have a single-file checkpoint. It ships the UNet in **three shards** named with hyphens, e.g. `diffusion_pytorch_model-00001-of-00003.safetensors`, `...-00002-of-00003...`, `...-00003-of-00003...`. So `hf_hub_download` 404s because your `models.yaml` asks for a filename that doesn’t exist. ([huggingface.co][1])
 
+---
+
 You’ve got two clean ways forward:
 
-### Option A — Point FluxGym at a **single-file** Dev2Pro checkpoint
+### Option A
+
+**Point FluxGym at a **single-file** Dev2Pro checkpoint**
 
 Use a repo that actually exposes one file. For example, `multimodalart/FLUX.1-dev2pro-full` includes a single-file UNet named `flux1-dev.safetensors` (license matches Dev: **flux-1-dev-non-commercial-license**). Update your YAML like this:
 
@@ -242,7 +254,9 @@ That filename exists in that repo and downloads as a single blob, which FluxGym 
 
 > Note: There are community “single-file” mirrors like `bdsqlsz/flux1-dev2pro-single` with `flux1-dev2pro.safetensors`. If you use those, be sure you’re comfortable with the licensing; the official Dev family is non-commercial. ([huggingface.co][3])
 
-### Option B — Stay with `ashen0209/Flux-Dev2Pro` (sharded), but avoid auto-download
+### Option B
+
+**Stay with `ashen0209/Flux-Dev2Pro` (sharded), but avoid auto-download**
 
 FluxGym’s downloader only grabs **one** filename you specify; it won’t fetch all shards + an index. If you want to use the ashen checkpoint directly:
 
@@ -256,16 +270,23 @@ If you change `file:` to `diffusion_pytorch_model-00001-of-00003.safetensors`, F
 
 If you want, I can rewrite your `/mnt/data/models.yaml` to use Option A (the `multimodalart` single-file entry) so it “just works” with the current FluxGym downloader.
 
-[1]: https://huggingface.co/ashen0209/Flux-Dev2Pro/tree/09a982b0fcb46e15c82f102b658dfc1e2f1109b6?utm_source=chatgpt.com "Files"
-[2]: https://huggingface.co/multimodalart/FLUX.1-dev2pro-full/tree/e4ad0ab791265d4fe0dc11859f6c4e13fafff892 "multimodalart/FLUX.1-dev2pro-full at e4ad0ab791265d4fe0dc11859f6c4e13fafff892"
-[3]: https://huggingface.co/bdsqlsz/flux1-dev2pro-single/tree/main "bdsqlsz/flux1-dev2pro-single at main"
+1 [Files](https://huggingface.co/ashen0209/Flux-Dev2Pro/tree/09a982b0fcb46e15c82f102b658dfc1e2f1109b6)  
+2 [multimodalart/FLUX.1-dev2pro-full](https://huggingface.co/multimodalart/FLUX.1-dev2pro-full/tree/e4ad0ab791265d4fe0dc11859f6c4e13fafff892)  
+3 [bdsqlsz/flux1-dev2pro-single](https://huggingface.co/bdsqlsz/flux1-dev2pro-single/tree/main)  
 
 
----
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+## An Excllent Model
 
 [Q]  
 Just had a look at rockerBOO on huggingface:  1 file, flux-dev2pro-bfl.safetensors. Will that do?
 
+---
 
 [A]  
 Yes—that’s exactly the kind you want. A single-file **`flux-dev2pro-bfl.safetensors`** is almost certainly the **bfloat16** (bf16) UNet checkpoint, which is perfect for your 16 GB card and FluxGym’s “one UNet file” expectation.
@@ -296,11 +317,15 @@ If FluxGym throws a 404 or shape mismatch, tell me the exact error text and I’
 
 
 
+
+
+
 ## Final Solution
 
 [Q]  
 Well, that's weird. I had downloaded the file, placed it in the right folder, and now it's auto-downloading it again. Oh well... at least it'll be right. Actually downloading faster than Chrome did.
 
+---
 
 [A]  
 Ha—yep, that happens. Two common reasons FluxGym “helpfully” re-downloads a file you already placed:
@@ -313,7 +338,9 @@ Ha—yep, that happens. Two common reasons FluxGym “helpfully” re-downloads 
 
 If you want to **avoid re-downloads** in future, you’ve got two easy options:
 
-### Option A — Local-only entry (no repo)
+### Option A
+
+**Local-only entry (no repo)**
 
 Create a second entry that points to your local file and **omit `repo:`**:
 
@@ -328,7 +355,9 @@ flux-dev2pro-bf16-local:
 
 Pick this one in the dropdown when you don’t want downloads.
 
-### Option B — Keep `repo:` but make skipping possible
+### Option B
+
+**Keep `repo:` but make skipping possible**
 
 * Ensure `file:` **exactly** equals the HF filename (`flux-dev2pro-bfl.safetensors`).
 * Put your local copy in the **same place FluxGym writes** downloaded UNets (usually its `models/unet` folder). Many builds will skip re-download if the file already exists with the expected size.
@@ -367,7 +396,9 @@ If that renders cleanly and faces hold, you’re golden. If anything’s wobbly 
 
 heck yes—16-image LoRA time! 🎉 Here’s a tight, proven recipe so those first runs land clean.
 
-# Quick prep (do this before training)
+### Quick prep
+
+*(do this before training)*
 
 1. **Split types (balance 8/8):**
 
@@ -378,14 +409,18 @@ heck yes—16-image LoRA time! 🎉 Here’s a tight, proven recipe so those fir
 4. **Consistency anchors:** Keep **hairline, part, brows** consistent across at least half the set.
 5. **Light edits:** Gentle color/levels only. No face-beautifier/smoothing.
 
-# Captions (small set = strong captions)
+### Captions
+
+*(small set = strong captions)*
 
 * Use a unique trigger like **“girlfriend_char”** once per caption.
 * Keep it natural:
   `a portrait of girlfriend_char, shoulder-length wavy hair, soft smile, freckles`
 * Add **age, hair, accessories** if you want them to stick. Avoid style words (HDR, cinematic) in first training round.
 
-# Training knobs (good first pass for 16 imgs)
+### Training knobs
+
+*(good first pass for 16 images)*
 
 * **Framework:** whatever you use (kohya / SDXL trainer / Flux trainer) — these work broadly.
 * **Rank / Alpha:** **16 / 16** (or 32/32 if you need more capacity).
@@ -397,7 +432,9 @@ heck yes—16-image LoRA time! 🎉 Here’s a tight, proven recipe so those fir
 * **Color aug:** off or very light (0–0.05).
 * **Flip:** on for full-body, off for face-asymmetry critical.
 
-# Validation during training (catch drift early)
+### Validation
+
+*during training (catch drift early)*
 
 * Keep a fixed **seed** and a tiny validation grid:
 
@@ -409,12 +446,16 @@ heck yes—16-image LoRA time! 🎉 Here’s a tight, proven recipe so those fir
     `no face reshaping, no age change, no makeup change, no skin blur`
 * Sample every 1–2 epochs. If identity softens, lower LR by 2× and resume.
 
-# Using it in ComfyUI (after training)
+### Using it in ComfyUI
+
+*(after training)*
 
 * **Loader strengths:** start **Model: 0.8–1.0, CLIP: 0.5–0.7**.
 * Add a face **reference/crop** image in your workflow when compositing; it boosts identity lock even with a lighter LoRA strength.
 
-# Prompting with your new token
+### Prompting
+
+*with your new token*
 
 * Portrait:
   `girlfriend_char, head-and-shoulders, preserve bone structure, hairline, eye shape; 85mm look; soft daylight`
@@ -422,14 +463,16 @@ heck yes—16-image LoRA time! 🎉 Here’s a tight, proven recipe so those fir
   `girlfriend_char, full body, keep exact face and hairstyle; match scene lighting; correct scale and contact shadows`
 * If it over-stylizes: add `no stylization, no glam, no skin smoothing`.
 
-# Common hiccups (and fast fixes)
+### Common hiccups
+
+*(and fast fixes)*
 
 * **Too generic / averaged face:** raise rank to **32**, drop UNet LR to **5e-5**, add 2–4 more tight face crops.
 * **Hair keeps changing:** call out `exact hairline/part` in captions for ~¼ of images.
 * **Overfits (same face every time):** reduce repeats to 150, or add 2–3 varied angles; use Model strength ~0.7.
 * **Mouth/teeth artifacts:** include 2–3 images with **closed-mouth** smiles.
 
-# A mini launch plan
+### A mini launch plan
 
 1. Train: rank16, UNet 1e-4 / CLIP 1e-5, 10 epochs, 256 repeats.
 2. Validate each epoch with the two prompts above.
@@ -442,7 +485,9 @@ If you want, paste one caption and a sample image list (just short descriptions)
 
 Exactly—that denoise/edit strength is the big identity killer. Here’s a tight cheat-sheet you can paste next to your node:
 
-# Qwen Image Edit – identity-safe settings
+### Qwen Image Edit
+
+**identity-safe settings**
 
 **Core range (people-in-scene composites):**
 
@@ -481,11 +526,6 @@ Exactly—that denoise/edit strength is the big identity killer. Here’s a tigh
 * For background-only edits, **denoise 0.55–0.65** is fine since identity isn’t touched.
 
 If you want, tell me your typical CFG/steps and I’ll hand you three presets (close/medium/wide) tuned to your exact flow.
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
 
 <hr style="height:16px;border-width:0;color:blue;background-color:pink">
 

@@ -16,12 +16,6 @@ I would suggest keeping Dad's account as written in **German** as part of the bo
 
 [Main Page](../index.md)  
 
----
-
-*Questions? Comments? You can leave me a note on* 
-<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
-
 <hr style="height:4px;border-width:0;color:navy;background-color:purple">
 
 
@@ -54,12 +48,6 @@ Additional steps will include:
 * review the result, adjust for context
 
 We will have to subsequently realign the document pages into some sort of logical order. This will require a collaborative effort.
-
----
-
-*Questions? Comments? You can leave me a note on* 
-<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
 
 <hr style="height:4px;border-width:0;color:navy;background-color:purple">
 
@@ -215,20 +203,6 @@ Done:
 
 Plan:  
 - Going to a stationery shop to pick up a "display book" to house the original document pages.
-
-
-
-
-
-
-
----
-
-*Questions? Comments? You can leave me a note on* 
-<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
-
-<hr style="height:4px;border-width:0;color:navy;background-color:purple">
 
 <hr style="height:16px;border-width:0;color:navy;background-color:purple">
 

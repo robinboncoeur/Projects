@@ -106,12 +106,6 @@ It was time to rethink things, including how the pages are created and maintaine
 Sphinx/ReadTheDocs was more trouble than benefit: in essence it was using a wrench as a hammer. So, began migrating the 'Projects' site from AllHelp (Sphinx/ReadTheDocs - ReST) to markdown (MkDocs), hosted on Cloudflare. I would upload files and images to my github site (free) and then Cloudflare would dynamically create the webpages.  
 There are (and will be) subdomains for all the old Help pages: projects.tightbytes.com, art.projects.com, appmgr.tightbytes.com, keys2life.tightbytes.com and so on.
 
----
-
-*Questions? Comments? You can leave me a note on* 
-<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
-
 <hr style="height:4px;border-width:0;color:navy;background-color:blue">
 
 

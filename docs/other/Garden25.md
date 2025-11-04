@@ -165,12 +165,6 @@ So, there are several layers to remove on a coffee cherry:
 
 Queensland being so dry, it's not hard to get them properly drying. The challenge was removing the parchment and silver skin, in order to end up with just the green bean.
 
----
-
-*Questions? Comments? You can leave me a note on* 
-<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
-
 <hr style="height:4px;border-width:0;color:navy;background-color:green">
 
 
@@ -274,12 +268,6 @@ The depth is important to effectively block out all light. **No more weeds**.
 The least fun one can have is shovelling rocks. The mob at... well, I won't say their name but they're a prominent landscape supplier. They sold me *really* **muddy** river-rock. The point to the river-rock as a footpath is to eliminate having to weed. Weeds need: water, soil (or even dirt) and sunlight. Make the bed of **clean** river-rock deep enough, you've taken away light and soil. Water? Well, can't do much about that... rains here a fair bit.
 
 Anyway, the hard yakka has been sieving / washing away the mud out of the rock. Talk about a slow, painful process. It'll get there, but not without a HUGE effort!
-
----
-
-*Questions? Comments? You can leave me a note on* 
-<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
 
 <hr style="height:4px;border-width:0;color:navy;background-color:green">
 
@@ -385,17 +373,6 @@ Right-o! Done!
 </div>
 
 Boy howdy... talk about hard yakka. But yeah, Done. I'll need to finish filling the bed with compost and soil I'm pulling out of the beds next to the living room that are going to be replaced by a sandpit for the little ones. However, I'll be getting John to help me with that.
-
----
-
-*Questions? Comments? You can leave me a note on* 
-<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
-
-<hr style="height:4px;border-width:0;color:navy;background-color:green">
-
-
-<!-- NEXT ENTRY HERE!!!  /-->
 
 
 <hr style="height:16px;border-width:0;color:navy;background-color:green">

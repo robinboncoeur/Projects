@@ -6,12 +6,6 @@
   .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
 </style>
 
----
-
-*Questions? Comments? You can leave me a note on* 
-<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
-
 <hr style="height:8px;border-width:0;color:navy;background-color:purple">
 
 
@@ -48,12 +42,6 @@ The *general format* of this document will be:
 
   </div>
 </div>
-
----
-
-*Questions? Comments? You can leave me a note on* 
-<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
 
 <hr style="height:8px;border-width:0;color:navy;background-color:purple">
 
@@ -1659,15 +1647,6 @@ Status:
 - Mod:  
 - Mod:  
 
----
-
-*Questions? Comments? You can leave me a note on* 
-<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
-
-<hr style="height:4px;border-width:0;color:navy;background-color:purple">
-
-
 <hr style="height:16px;border-width:0;color:navy;background-color:purple">
 
-[Back to the Main Page](../index.md)
+[Main Page](../index.md)
