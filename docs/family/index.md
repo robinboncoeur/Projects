@@ -236,7 +236,7 @@ Finally found the moral strength to continue this project. I will invoke 'Emily'
 
 [1941: Sommer (A)](/family/pappa1.md/#1941-sommer-a)  
 
-I hope for input from either Jess or Martin or both on this translation. I'm also reviewing hard copy to transcribe that has not been done so far. Oh, and one observation from [Free Association](/family/pappa1.md/#free-association-31):
+I hope for input from either Jess or Martin or both on this translation. I'm also reviewing hard copy to transcribe that has not been done so far. Oh, and an observation from [Free Association](/family/pappa1.md/#free-association-31):
 
 Tentelfisch wie Drachen.  
 Hagfisch.  
@@ -246,8 +246,9 @@ Die Menschen
 Das Heimweh.  
 **Daheim, da ist nichts.**  
 Arbeiten auf den Nachbarinseln.  
-Verschiden Sand Sandgemählde.  
-Says it all.
+Verschiden Sand Sandgemählde. 
+
+Daheim, da ist nichts. "At home is... nothing."" Says it all.
 
 ---
 
