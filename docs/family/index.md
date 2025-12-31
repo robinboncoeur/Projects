@@ -64,7 +64,9 @@ We will have to subsequently realign the document pages into some sort of logica
 
 Some images are over-exposed through the scanning process. The bright light of the scanner makes both sides of the page visible in the resulting .png image: this undermines legibility. Also, the typed documents (P1.png through P3.png) were not centred properly when they were scanned and so portions of words are missing.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
 
 #### 06 Jul 2025
 
@@ -73,7 +75,9 @@ Some images are over-exposed through the scanning process. The bright light of t
 * The first images (P1, P2, P3 and P3plus) are all typed. However, the scan was not well-centred and cut off words on the right margin. Below, I have noted which words appear to be cut off with "-[cut-off word]".  
 * Issues with P14 and P14plus, cut-off words and scanned text hard to make out. Needs to be photographed, and centred properly.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
 
 #### 07 Jul 2025   
 
@@ -87,7 +91,9 @@ The sentence: 'Ein Urbaier in Lederhosen, seine Frau – in wir Jungens sofort a
 
 At least Gemma tries to explain her reasoning, which is a step up from the hallucinations of LLMs such as older versions of ChatGPT or even DeepSeek-v1, which also 'explained' its thought-process, however erroneous it turned out to be.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
 
 #### 08 Jul 2025
 
@@ -100,6 +106,10 @@ I've decided the image downloads would be quicker - and the page would *'weigh'*
 - Pages 35 through 46 appear at first blush to be private correspondence between Dad and Mom... not sure how appropriate it would be to enter this private stuff. Even the stuff on P31 is a bit... iffy.  
 I'm going to start with running some of these entries through Gemma3 after reviewing them again. I've taken to surrounding words I'm not sure about with square brackets: '[ ]'. I've also replaced most of the .pngs with .jpgs for faster load times.
 
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
+
 #### 28 Sep 2025
 
 Did a fair bit of translating today:
@@ -107,7 +117,9 @@ Did a fair bit of translating today:
 [1945: Dortmund](/family/pappa1.md/#1945-dortmund)  
 [1946: Herbst](/family/pappa1.md/#1946-herbst)  
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
 
 #### 30 Sep 2025
 
@@ -136,13 +148,17 @@ Stage 5: organise pages chronologically (as best we can) and insert the text int
 
 To be understood: stages 3 and 4 will be a process in a bit of a loop, and this is where I will need input from "the willing". The idea is to do these memoirs justice. That will remain a key objective.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
 
 #### 01 Oct 2025
 
 In receipt of the physical documents. I have begun restructuring the translation page to reflect chronology vs image sequence. Some of the chronology of events we will have to determine contextually: we probably won't know exact dates for certain entries.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
 
 #### 02 Oct 2025
 
@@ -162,13 +178,17 @@ So no, AI isn't going to replace us any time soon. If ever.
 
 BTW, that exchange between him and his dad over the waiver revealed where Dad got his sarcasm from.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
 
 #### 03 Oct 2025
 
 Did a bit of shuffling based on date and even more: context. So, moved 2 entries into 1939, and also 1940. Just did a quick translation... needs to be read more carefully for accuracy.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
 
 Took out this bit from [1946: Herbst](/family/pappa1.md/#1946-herbst):
 
@@ -184,7 +204,9 @@ Keeping the literary version, for now. Now that I have the actual hard copy, wil
 
 "Köter" is a perjorative word for a dog: similar to the English "mutt" or "cur", dog of mixed breed.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
 
 #### 10 Oct 2025
 
@@ -203,6 +225,22 @@ Done:
 
 Plan:  
 - Going to a stationery shop to pick up a "display book" to house the original document pages.
+
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
+
+#### 31 Dec 2025
+
+Finally found the moral strength to continue this project. I will invoke 'Emily', my AI bot, to help me with managing this complex document: Gemma3 just wasn't cutting it. For the moment, I'm going to leave Emily's observations on why she translated the way she did on the actual page, above and below the translated text:
+
+[1941: Sommer (A)](/family/pappa1.md/#1941-sommer-a)  
+
+I hope for input from either Jess or Martin or both on this translation. I'm also reviewing hard copy to transcribe that has not been done so far. Oh, and one observation from [Free Association](/family/pappa1.md/#free-association-31):
+
+Tentelfisch wie Drachen. Hagfisch. Aloha Freitag. Die Sprache. Die Menschen Das Heimweh. **Daheim, da ist nichts.** Arbeiten auf den Nachbarinseln. Verschiden Sand Sandgemählde.
+
+Says it all.
 
 <hr style="height:16px;border-width:0;color:navy;background-color:purple">
 

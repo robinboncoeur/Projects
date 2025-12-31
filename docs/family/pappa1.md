@@ -464,7 +464,7 @@ Status:
 
 
 
-### 1941 Sommer
+### 1941 Sommer (A)
 
 <div class="flex-container" markdown>
 <div class="column column--right" markdown>
@@ -477,9 +477,7 @@ Allerdings nach drei Tagen änderte sich das Ganze. Die Flulehrer waren eingetro
 
 ---
 
-Wer würde aber auf mich hören. Zunacht arbeitete ich noch in der Küche. Der Küchenbulle war ein Schweinskopf stets darauf bedacht sein machtstellung an uns kleinen Scheisern auszunutzen und uns schikanieren. Meine Knoera? den sagte "Mensch, laß doch nur des Eßen anbrennen." Das ging nur leider nicht. Denn die Keßel waren mit Glitzerin.  Am nächsten Tag hatte ich einen guten Einfall. 10 Pfn und Salz. Keiner konnte den Eintopf fresen. Natürlich hatte ich nichts damit zu tun. Trotzdem schob man mich ab. Mehr als eine Woche von deisen Lehrgang waren schon vorbei. Zuruck zum Flugbetrieb war ich wieder auf der Warteliste. Schon am ersten Tag hatten wir ein.   
-Herr Steiner ich habe gesehen wie Sie diese gefahliche Situation gemeistert haben.  
-Steiner: Sie wißen wie man darüber denkt. Ja den ich habe es gesehen.  
+  
 
 </div>
 
@@ -488,11 +486,141 @@ Steiner: Sie wißen wie man darüber denkt. Ja den ich habe es gesehen.
 <div class="column column--right" markdown>
 
 **[ English Version ]**  
+  
+First go: 31.12.2025  
+Please note: **will move AI notes to [Issues](/family/index.md/#31-dec-2025)**
+
+[Emily's note]  
+*Here’s a clean English translation that keeps the tone and the “diary” feel, while also respecting the colloquial bits (and a couple of places where your source text is clearly misspelled or uncertain)*:
+
+---
+*(smoothed, natural)*
+
+I finally did manage to reach my **“B”** in **gliding** after all. Then they sent me to **[Punsahran?]**. It was on the **Saar**, on the opposite bank from the **Saileck mountains** [Saileck?].  
+The whole training program was a disaster. The flight instructors weren’t there. Instead, some people from the Party or the Hitler Youth — so-called “leadership types” - were puffing out their chests and finding ways to make life miserable with drilling and instruction.  
+At first I escaped this **barracks routine** by taking refuge in the kitchen. From my **Landjahr** experience, something had stuck: I still knew how to cook for a lot of people. That was a stroke of luck for me at first. The other comrades had to march under **Prussian-style drill**.
+
+After three days, though, everything changed. The flight instructors arrived. Flight operations started. And with my long experience on airfields, I really would have been a big help.
+
+---
+[Further observations - to discuss]  
+*Notes on likely originals (so you can sanity-check the reading)*
+
+1) This text has some “heard/written from memory” spellings. These are the spots where the meaning is clear, but the exact word/place is uncertain:
+
+* **“Segelf’ng”** almost certainly means **Segelflug** (gliding).
+* **“Meine ‘B’ … erreicht”** very likely refers to a **B-Schein / B-Abzeichen** in gliding (a training/qualification stage). I’ve translated it neutrally as “my ‘B’.”
+* **“Flulehrer”** should be **Fluglehrer** (flight instructors).
+* **“Kamalitait”** strongly looks like **Kasernalität** (the grim, regimented “barracks life” vibe). That fits the context perfectly: escaping into the kitchen to avoid the drill/indoctrination atmosphere.
+* **“schmißen sich in die Brust”** is a mangled spelling of an idiom like **“sich in die Brust werfen / sich in die Brust schlagen”** — i.e., **strutting / beating their chests**.
+* **The place name** **“???Punsahran???”** and **“Bergen Saileck?”**: I left these as **[Punsahran?]** and **[Saileck?]** because I don’t want to invent a town. The geography clue is: *on the Saar river, opposite a set of hills/mountains called something like “Saileck.”*
+
+2) If you paste just that one sentence again (the bit with the destination and the hills) and—if possible—anything around it from the manuscript (even one line before/after), I can usually reconstruct the intended place name pretty reliably.
+
 
 </div>
 </div>
 
 ---
+
+<div class="flex-container" markdown>
+<div class="column column--right" markdown>
+
+**[Auf Deutsch]**  
+
+Wer würde aber auf mich hören. Zunacht arbeitete ich noch in der Küche. Der Küchenbulle war ein Schweinskopf stets darauf bedacht sein machtstellung an uns kleinen Scheisern auszunutzen und uns schikanieren. Meine Knoera? den sagte "Mensch, laß doch nur des Eßen anbrennen." Das ging nur leider nicht. Denn die Keßel waren mit Glitzerin.  Am nächsten Tag hatte ich einen guten Einfall. 10 Pfn und Salz. Keiner konnte den Eintopf fresen. Natürlich hatte ich nichts damit zu tun. Trotzdem schob man mich ab. Mehr als eine Woche von deisen Lehrgang waren schon vorbei. Zuruck zum Flugbetrieb war ich wieder auf der Warteliste. Schon am ersten Tag hatten wir ein.   
+Herr Steiner ich habe gesehen wie Sie diese gefahliche Situation gemeistert haben.  
+Steiner: Sie wißen wie man darüber denkt. Ja den ich habe es gesehen.
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+
+[Emily's note]  
+*This one’s* **very** *diaristic: lots of phonetic spellings, a few dialecty turns, and a couple of intentionally crude words that tell you exactly what the writer thought of the hierarchy. Below is a faithful English translation first, then a “what this probably was meant to be” unpacking of the grey bits (so you can compare to your hard-copy)*:
+
+---
+**[ English Version ]** 
+*(keeping tone + intent)*
+
+But who would listen to me?
+
+At first I was still working in the kitchen. The kitchen boss was a real pighead, always intent on using his position of power against us little shits and harassing us. My comrades said, “Man, just let the food burn.” Unfortunately that wasn’t really possible — the kettles were **[glazed/enamelled]**. The next day I had a good idea: **ten pounds of salt**. No one could eat the stew. Of course I had nothing to do with it. Even so, they got rid of me. More than a week of this course had already gone by. Going back to flight operations, I was put back on the waiting list.
+Already on the first day we had a … [incident].
+“Mr Steiner, I saw how you handled that dangerous situation.”
+Steiner: “You know what people think about that."
+"Yes — because I saw it.”
+
+---
+*Commentary on the “grey area” words and what they likely are*
+
+1) “Zunacht”  
+- Almost certainly **“Zunächst”** (“at first / to begin with”). Your spelling is a very common handwritten/phonetic drift.
+
+2) “Der Küchenbulle”  
+- This is slangy and insulting. **Bulle** is “bull” but colloquially it can mean a heavy-handed authority type (later it’s a common insult for police). Here it’s basically: *the kitchen tyrant / kitchen enforcer*. I translated as “kitchen boss” and kept the contempt in the next clause (“pighead”).
+
+3) “Schweinskopf”  
+- Literally **“pig’s head”**, idiomatically: *pigheaded jerk*. Strong contempt.
+
+4) “an uns kleinen Scheisern”  
+- This is the writer being crude on purpose. It’s essentially “us little shits / small fry” — self-deprecating and resentful at once.
+
+5) “Meine Knoera? den”  
+- This is the one most likely to snap into place once you look at the hard copy. My best guess is it’s trying to be **“Meine Kameraden”** (“my comrades”). The phrase “den sagte” should be **“die sagten”** (“they said”). So the intended line is probably:
+> **Meine Kameraden sagten:** "Mensch, lass doch nur das Essen anbrennen."
+
+6) “laß doch nur des Eßen anbrennen”  
+- Likely **“lass doch nur das Essen anbrennen”** = “just let the food burn.”
+
+7) “Denn die Keßel waren mit Glitzerin.”  
+- This reads like a mishearing/misspelling of something about the pots being **enamelled / glazed**, i.e. hard to ruin by burning. Most plausible intended word: **“glasiert”** (glazed), or **“mit Glasur”** (with glaze).
+So meaning: *You can’t simply scorch them / ruin the pots because they’re enamelled.* (“Glitzer” = glitter doesn’t fit; “Glycerin” doesn’t fit either.)
+
+8) “10 Pfn und Salz.”  
+- **“Pfn”** is almost certainly **“Pfund”** (pound). So: *ten pounds of salt*. It’s sabotage-by-inedible-stew.
+
+9) “Keiner konnte den Eintopf fresen.”  
+- Should be **“fressen”** (animals’ “to eat,” but used crudely about people: “to scarf down / to wolf down / to be able to stomach”). So:
+
+* literal tone: “No one could **fressen** the stew.”
+* English equivalent tone: “No one could stomach the stew.”
+
+10) “Trotzdem schob man mich ab.”  
+- **abschieben** = to shove someone off / dump them / transfer them away (often with a sense of “get rid of him”). Your translation should keep that: they disposed of him from the kitchen assignment.
+
+11) “Zuruck … war ich wieder auf der Warteliste.”  
+- Clear: he gets put back on the waiting list for flight duty/ops.
+
+12) Dialogue block  
+- This is tricky because it’s missing a little glue, but the gist is clear: someone is complimenting Steiner for handling a dangerous situation; Steiner answers evasively (“you know what people think about that”); the speaker insists he witnessed it.
+
+The “Ja den ich habe es gesehen” should likely be:
+
+* **“Ja, denn ich habe es gesehen.”** (“Yes — because I saw it.”)
+
+13) “Schon am ersten Tag hatten wir ein.”  
+- This is incomplete as written. It’s almost certainly:  
+* **“Schon am ersten Tag hatten wir einen [Zwischenfall/Vorfall/Unfall].”**
+  (“Already on the first day we had an incident.”)
+
+Your hard copy will probably show which noun it is.
+
+---
+Two optional renderings (choose based on how “literal” you want the translation)  
+If you want it **more literal / rough**, the kitchen line could be:  
+> “The kitchen bull was a pighead, always looking to exploit his power position on us little shits and to harass us.”
+
+If you want it **more polished but same meaning**, it could be:  
+> “The kitchen chief was a pigheaded brute, always trying to throw his weight around and pick on the lowest-ranking boys.”
+
+---
+  
+</div>
+</div>
+
 
 <a href="/assets/images/pappa/P21.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/pappa/P21.jpg" alt="Photo 21" width="140" align="right"></a>
@@ -565,7 +693,7 @@ Status:
 
 
 
-### 1941 Sommer
+### 1941 Sommer (B)
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
