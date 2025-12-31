@@ -269,13 +269,9 @@ Whereas if you want the *rawness* preserved:
 
 Both are faithful — they just make different choices about how much literal crudity to keep versus how much to naturalise.
 
-If you’d like, when you’ve got your niece + brother’s comments back, paste any disputed lines and I’ll do a “translator’s variants” pass: **(A) literal**, **(B) natural diary English**, **(C) toned-down but still honest**. That usually makes family review dead easy because everyone can point to the version that “sounds like him.”
-
 ---
 
-That makes sense — and I’m with you: if the text is a diary, the *whole point* is that it doesn’t self-edit. The rough edges aren’t decorative; they’re evidence.
-
-If you want to keep it “as written” but also make it defensible to a reader who might flinch (or to your brother, if he’s worried about tone), there are a couple of tidy ways to frame it without sanitising the translation itself:
+If the text is a diary, the *whole point* is that it doesn’t self-edit. The rough edges aren’t decorative; they’re evidence. If you want to keep it “as written” but also make it defensible to a reader who might flinch, there are a couple of tidy ways to frame it without sanitising the translation itself:
 
 ##### A good principle
 
@@ -310,7 +306,7 @@ If the desire is for something printable without losing meaning, you can keep th
 
 But if your instinct is “no, the crudity belongs in the voice,” I’d stick with your approach.
 
-If you paste the full entry once you’ve checked the hard copy (especially the missing noun after “Schon am ersten Tag hatten wir ein…”), I can produce a single, unified translation in consistent diary voice — and then a *side-by-side* sanitized alternative for your brother (if he insists), without changing your preferred version.
+If you paste the full entry once you’ve checked the hard copy (especially the missing noun after “Schon am ersten Tag hatten wir ein…”), I can produce a single, unified translation in consistent diary voice — and then a *side-by-side* sanitized alternative for those who might insist on it, without changing your preferred version.
 
 
 <hr style="height:16px;border-width:0;color:navy;background-color:purple">
