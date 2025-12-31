@@ -238,15 +238,23 @@ Finally found the moral strength to continue this project. I will invoke 'Emily'
 
 I hope for input from either Jess or Martin or both on this translation. I'm also reviewing hard copy to transcribe that has not been done so far. Oh, and one observation from [Free Association](/family/pappa1.md/#free-association-31):
 
-Tentelfisch wie Drachen. Hagfisch. Aloha Freitag. Die Sprache. Die Menschen Das Heimweh. **Daheim, da ist nichts.** Arbeiten auf den Nachbarinseln. Verschiden Sand Sandgemählde.  
+Tentelfisch wie Drachen.  
+Hagfisch.  
+Aloha Freitag.  
+Die Sprache.  
+Die Menschen  
+Das Heimweh.  
+**Daheim, da ist nichts.**  
+Arbeiten auf den Nachbarinseln.  
+Verschiden Sand Sandgemählde.  
 Says it all.
 
 ---
 
-**On document tone, here's Emily's view or Dad's verbiage.**
+**On document tone, here's Emily's view on Dad's verbiage.**
 
 [Emily]  
-A couple of small calibrations based on what you’ve just said:
+A couple of small calibrations:
 
 * **Scheißkopf / Schweinskopf**: in English register, **“arsehole”** is often the closest *social* equivalent (as you put it), because it lands as a blunt character judgement rather than a quirky literal image. **“Shithead”** is also a very direct match when you want the childish/crude sting to stay audible.
 
