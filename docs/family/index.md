@@ -238,9 +238,80 @@ Finally found the moral strength to continue this project. I will invoke 'Emily'
 
 I hope for input from either Jess or Martin or both on this translation. I'm also reviewing hard copy to transcribe that has not been done so far. Oh, and one observation from [Free Association](/family/pappa1.md/#free-association-31):
 
-Tentelfisch wie Drachen. Hagfisch. Aloha Freitag. Die Sprache. Die Menschen Das Heimweh. **Daheim, da ist nichts.** Arbeiten auf den Nachbarinseln. Verschiden Sand Sandgemählde.
-
+Tentelfisch wie Drachen. Hagfisch. Aloha Freitag. Die Sprache. Die Menschen Das Heimweh. **Daheim, da ist nichts.** Arbeiten auf den Nachbarinseln. Verschiden Sand Sandgemählde.  
 Says it all.
+
+---
+
+**On document tone, here's Emily's view or Dad's verbiage.**
+
+[Emily]  
+A couple of small calibrations based on what you’ve just said:
+
+* **Scheißkopf / Schweinskopf**: in English register, **“arsehole”** is often the closest *social* equivalent (as you put it), because it lands as a blunt character judgement rather than a quirky literal image. **“Shithead”** is also a very direct match when you want the childish/crude sting to stay audible.
+
+  * If the diary voice is meant to feel *spiky and unfiltered*, I’d keep **“shithead”**.
+  * If you want the same contempt but in a slightly more natural Australian/UK-feeling cadence, **“arsehole”** works beautifully.
+
+* **“an uns kleinen Scheißern”**: that one is actually slightly different to **Scheißkopf** — it’s not “you are X,” it’s “we are the little Xs,” i.e. self-deprecating, rank-aware, and resentful. In English the closest tones are:
+
+  * **“us little shits”** (very close, keeps the bite)
+  * **“us little turds”** (slightly more comic/juvenile)
+  * **“us small fry”** (cleaner, loses the crude edge)
+
+So if you want a “dad voice” version that reads like a human English diary (not like a translation), you could legitimately render that kitchen sentence as:
+
+> “The kitchen boss was a complete arsehole — always throwing his weight around and picking on the likes of us.”
+
+Whereas if you want the *rawness* preserved:
+
+> “The kitchen boss was a shithead, always using his position to bully us little shits.”
+
+Both are faithful — they just make different choices about how much literal crudity to keep versus how much to naturalise.
+
+If you’d like, when you’ve got your niece + brother’s comments back, paste any disputed lines and I’ll do a “translator’s variants” pass: **(A) literal**, **(B) natural diary English**, **(C) toned-down but still honest**. That usually makes family review dead easy because everyone can point to the version that “sounds like him.”
+
+---
+
+That makes sense — and I’m with you: if the text is a diary, the *whole point* is that it doesn’t self-edit. The rough edges aren’t decorative; they’re evidence.
+
+If you want to keep it “as written” but also make it defensible to a reader who might flinch (or to your brother, if he’s worried about tone), there are a couple of tidy ways to frame it without sanitising the translation itself:
+
+##### A good principle
+
+Translate **the insult-strength**, not the literal noun. Your dad didn’t choose refined language, so the English shouldn’t either.
+
+* **Schweinskopf / Scheißkopf** → *“shithead”* is basically perfect when you’re preserving blunt contempt.
+* **Bulle** in “Küchenbulle” → keep it as **“kitchen bully”** or **“kitchen enforcer”**; “boss” alone can soften it too much.
+* **an uns kleinen Scheißern** → “us little shits” is actually accurate *and* carries the self-deprecation/rank resentment.
+
+##### Two Options
+
+*Two “standing as written” options you can pick from (both diary-accurate)*
+
+**Option 1: hard literal, still natural**
+
+> The kitchen bully was a real shithead, always looking for ways to use his little bit of power against us and to harass us.
+
+**Option 2: even closer to the German rhythm**
+
+> The kitchen bully was a pigheaded shithead, always set on exploiting his position over us little shits and making our lives miserable.
+
+(That second one keeps the German habit of stacking contempt nouns. It’s ugly — but that’s the point.)
+
+##### A compromise
+
+*you don’t have to use, but can offer if needed*
+
+If the desire is for something printable without losing meaning, you can keep the translation “accurate” and move the crudity into a note:
+
+* Text: “The kitchen chief was a bullying brute…”
+* Note: “German uses very coarse insults here (‘Scheiß-’, ‘Schweins-’) — tone is explicitly crude.”
+
+But if your instinct is “no, the crudity belongs in the voice,” I’d stick with your approach.
+
+If you paste the full entry once you’ve checked the hard copy (especially the missing noun after “Schon am ersten Tag hatten wir ein…”), I can produce a single, unified translation in consistent diary voice — and then a *side-by-side* sanitized alternative for your brother (if he insists), without changing your preferred version.
+
 
 <hr style="height:16px;border-width:0;color:navy;background-color:purple">
 
