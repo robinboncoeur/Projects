@@ -403,7 +403,7 @@ If the text is a diary, the *whole point* is that it doesn’t self-edit. The ro
 
 
 
-### A good principle
+#### A good principle
 
 Translate **the insult-strength**, not the literal noun. Your dad didn’t choose refined language, so the English shouldn’t either.
 
@@ -413,7 +413,7 @@ Translate **the insult-strength**, not the literal noun. Your dad didn’t choos
 
 
 
-### Two Options
+#### Two Options
 
 *Two “standing as written” options you can pick from (both diary-accurate)*
 
@@ -429,7 +429,7 @@ Translate **the insult-strength**, not the literal noun. Your dad didn’t choos
 
 
 
-### A compromise
+#### A compromise
 
 *you don’t have to use, but can offer if needed*
 
@@ -505,7 +505,7 @@ If you paste the sentence around “Nur eben Uwe ließ mich nicht fliegen E * zw
 
 ### 1945 Lungenentzündung
 
-These notes are from the translation on [1945 Lungenentzündung (pneumonia)](/family/pappa1.md/#1945-lungenentzündung). This is a *first-pass* translation. Analysis and re-wording to follow.  
+These notes are from the translation on [1945 Lungenentzündung (pneumonia)](/family/pappa1.md/#1945-lungenentzundung). This is a *first-pass* translation. Analysis and re-wording to follow.  
 
 ---
 
@@ -527,6 +527,8 @@ If you want a slightly grittier version that keeps more of his clipped German rh
 
 
 ### Neiße
+
+These notes are from the translation on [1945 Neiße](/family/pappa1.md/#1945-neie). This is a *first-pass* translation. Analysis and re-wording to follow.  
 
 [Q]  
 This one has me completely puzzled. No idea what he's on about, here:  
@@ -550,7 +552,7 @@ Below is a translation that keeps the voice, and I’ll bracket the garbled word
 
 
 
-### What I think
+#### What I think
 *the “mystery words” probably are*
 
 ---
@@ -579,7 +581,7 @@ In other words: the important content is the FW 190 emergency landing on a froze
 
 ---
 
-### What’s “going on”
+#### What’s “going on”
 *in plain terms*
 
 This reads like a postwar/late-war escape vignette:
@@ -593,7 +595,7 @@ That last line (“If K had known what awaited him at the terminal…”) is a c
 
 ---
 
-### Tiny polishing suggestion
+#### Tiny polishing suggestion
 (if you’re editing for readability later)
 
 If you want the English to feel as clipped and punchy as his German, this paragraph works beautifully with short sentences:
@@ -614,7 +616,7 @@ Below is a careful English translation, preserving his blunt, autobiographical c
 
 ---
 
-### English translation
+#### English translation
 
 **If K had known what awaited him at the terminal station, he certainly would have trusted himself somewhere else.**
 But when they finally reached the end of the line, the locomotive driver let him know — incomprehensibly — **“Now you have to get out.”**
@@ -694,8 +696,8 @@ Here’s a **more literal, jagged** version that stays closer to his sentence or
 
 
 
-### Literal-ish English
-#### First half
+#### Literal-ish English
+##### First half
 (closer to his German)
 
 ---
@@ -712,7 +714,7 @@ Then K made a big error. Curiosity forced him to look over the edge, and there w
 
 Now, so easily K was not to be intimidated. He had after all already had some things behind him. The train drove very slowly. The sign “Picking flowers during the trip” would have been appropriate **[cut off]**. The railwaymen paid attention to him as if he were not present. Everyone had fear of the other.
 
-#### Second half
+##### Second half
 (keeping his rhythm)
 
 If K had known what would be in store for him at the end station, he surely would have trusted himself somewhere else.
@@ -753,7 +755,7 @@ If you paste the two cut-offs (**“Türm-…”** and the bit after **“wäre 
 
 ### Flieger
 
-These notes are from the translation on [1945 Lungenentzündung (pneumonia)](/family/pappa1.md/#flieger). This is a *first-pass* translation. Analysis and re-wording to follow.  
+These notes are from the translation on [1940 Flieger (b)](/family/pappa1.md/#1940-flieger-b). This is a *first-pass* translation. Analysis and re-wording to follow.  
 
 [Emily]  
 Yes — this is almost certainly from his **glider training** (sailplane) period. The giveaways are the training context, the talk of single-seaters/no two-seaters, “Hochstart” (a winch/aerotow *high start*), “Knüppel” (stick), and the “negative” (negative angle/attitude, or negative g-load / pitch-down) leading to an impact.
