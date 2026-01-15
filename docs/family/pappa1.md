@@ -24,7 +24,7 @@
 <div class="column column--right" markdown>
 
 My own notes on what I am actually doing in the process of translating and formatting can be 
-![found here}(/family/index.md).  
+![found here](/family/pappa2.md).  
 
 The *general format* of this document will be:
 
@@ -345,7 +345,7 @@ Status:
 
 ## Airman Hahn, Kurt
 
-### 1940 Flieger
+### 1940: Flieger (a)
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -359,14 +359,7 @@ Jeden Sonntag traf sich eine Gruppe junger Leute in Weißenfels am sogenannten I
 Der Flugaparat mit dem sich die Jungens sich den ganzen Tag abmühten war er [cut-off word] Grunau 9. Das Ding flog tatsächlich. Kurtchen strengte sich zwar an stets sen-(cut-off word) Mann zu stehen nur wurde er immer übersehen. Er war eben zu klein und hatte noch nicht das richtige Gewicht.  
 Im nächste Frühjahr bekamen sie einen neuen-[cut-off word] Fluglehrer. In der Mittagspause fragte er wer von euch ist der 'Hahn Kurt'? Dieser Herr Munch war ein Arbeitskolege meines Vaters in den Leunawerken. Ein Urbaier in Lederhosen, seine Frau - in wir Jungens sofort alle verliebten - kam jeden Sontag mit.  
 
----
 
-*= Gemma3: Grammar Revision =*  Zum Kurtchens 15. Geburtstag hatte er nur einen Wunsch von seinem Vater: die Verzichtserklärung zu unterschreiben. Das war ein Dokument, das besagte, daß im Falle eines Unglücksfalls der Staat nicht für den Schaden aufkommen würde. Sein Vater schaute ihm ungläubig an.  
-"Was, fliegen willst du lernen? Erst mal richtig laufen!"  
-Eine Unterschrift war billig als Geschenk. Vater dachte, das wäre mal nur so eine fixe Idee seines Sohnes. Endlich durfte Kurtchen am Flugbetrieb teilnehmen. Das war aber auch so ziemlich alles.  
-Jeden Sonntag traf sich eine Gruppe junger Leute in Weißenfels am sogenannten Idiotenhügel.  
-Der Flugapparat, mit dem sich die Jungen den ganzen Tag abmühten, war eine Grunau 9. Das Ding flog tatsächlich. Kurtchen strengte sich zwar an, stets senkrecht zu stehen, nur wurde er immer übersehen. Er war eben zu klein und hatte noch nicht das richtige Gewicht.  
-Im nächsten Frühjahr bekamen sie einen neuen Fluglehrer. In der Mittagspause fragte er, wer von euch ist der 'Hahn Kurt'? Dieser Herr Münch war ein Arbeitskollege meines Vaters in den Leunawerken. Ein "Urlauber" in Lederhosen, seine Frau – in wir Jungens sofort alle verliebten – kam jeden Sonntag mit.  
 
 </div>
   
@@ -392,7 +385,7 @@ Mr. Münch was a work colleague of my father’s at the Leuna Factory. He was a 
 
 ---
 
-Moved observations to [Issues](/family/index.md/#02-oct-2025)
+Moved observations to [Issues](/family/pappa2.md/#02-oct-2025)
 
 <a href="/assets/images/pappa/P1.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/pappa/P1.jpg" alt="Photo 1" width="140" align="right"></a>
@@ -416,7 +409,7 @@ Status:
 
 
 
-### 1940 Prüfung
+### 1940: Prüfung
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -464,7 +457,65 @@ Status:
 
 
 
+
+
+
+### 1940: Flieger (b)
+
+Notes on the translation are [here](/family/pappa2.md/#1940-flieger-b)
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+
+**[Auf Deutsch]**  
+
+Dieser Steiner war eine verklemmte Person. Neimand nahm ihm richtig vor voll. Ich aber hatte nur noch 2 1/2 Wochen Zeit mein zu fliegen. Wie ich das eigenlich geschaft habe weiß ich bis heute noch nicht. Steiner war ein ausgezeichneter Ausbilder und pilot. Wir flogen das Gropanbabey. Es waren keine doppelsitzer zur verfügung. Oft dacht ich an Hern Münch etweder ihr fliegt entweder ihr fliegt oder fallt auf die Schnauze.  
+Nun einen von uns war nicht so glücklich oder genieft wie wir. Ein Ein gewißen Bone. Der arme Jung war ein Stotterer und mußte vielen Spott ertragen. Wer weiß ob es Selbsmord war oder nur Verkramfgung. Bei einem Hochstart schob er den Knüppel vorn. In eine negativen von etwa 10 krachte er in die Grasnarbe. In meinen ganzen Leben habe ich Angsträuns gehabt. Und jede gemieden.  
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+
+**[ English Version ]**  
+
+This Steiner was a tightly wound sort of person. Nobody really took him seriously. But I only had two and a half weeks left to get my flying done. How I actually managed it, I still don’t know to this day. Steiner was an excellent instructor and pilot. We flew the Grunau Baby. There were no two-seaters available. Often I thought of Mr Münch: either you fly — or you fly — or you land on your face.
+
+Now, one of us wasn’t as lucky or as gifted as we were — a certain Bone. The poor boy was a stutterer and had to endure a lot of mockery. Who knows whether it was suicide, or just a cramp/panic reaction. On a high launch he pushed the stick forward. At a negative of about ten [degrees] he crashed into the turf. In my whole life I have been afraid of loops [or aerobatics], and I avoided every one of them.
+
+</div>
+</div>
+
+---
+
+<a href="/assets/images/pappa/P20.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P20.jpg" alt="Photo 20" width="140" align="right"></a>
+
+Status:  
+- Init translation  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+
+
+
+
+
+
+
+
+
+
+
 ### 1941 Sommer (A)
+
+Notes on the translation are [here](/family/pappa2.md/#1941-sommer-a)
 
 <div class="flex-container" markdown>
 <div class="column column--right" markdown>
@@ -475,48 +526,18 @@ Status:
 Das ganze Ausbildunds program eine Katastrophe. Die Flulehrer waren nicht da. Nur von deer partei oder Hitler Jugend irgendwelche sogenannte Fürungsqualitäten schmißen sich in die Brust und fanden Wege was das Leben mit Exzerzieren und Schulung sauer zu machen. Zu nächst flüchtete mich aus dieser Kamalitait in die Küche. Aus meiner Landjahr Erfahrung war doch etwas hängen geblieben wie man für viele Menschen kocht. Da war zunächs ein Glück für mich. Die andere Kammeraden marschieren nach Preußischen Drill.  
 Allerdings nach drei Tagen änderte sich das Ganze. Die Flulehrer waren eingetroffen. Der Flugbetrieb fing an. Mit meiner langen Erfahrung auf den Flugplätzer ware ich doch sicher eine große Hilfe gewesen.  
 
----
-
-  
-
 </div>
 
----
 
 <div class="column column--right" markdown>
 
 **[ English Version ]**  
   
-First go: 31.12.2025  
-Please note: **will move AI notes to [Issues](/family/index.md/#31-dec-2025)**
-
-[Emily's note]  
-*Here’s a clean English translation that keeps the tone and the “diary” feel, while also respecting the colloquial bits (and a couple of places where your source text is clearly misspelled or uncertain)*:
-
----
-*(smoothed, natural)*
-
 I finally did manage to reach my **“B”** in **gliding** after all. Then they sent me to **[Punsahran?]**. It was on the **Saar**, on the opposite bank from the **Saileck mountains** [Saileck?].  
 The whole training program was a disaster. The flight instructors weren’t there. Instead, some people from the Party or the Hitler Youth — so-called “leadership types” - were puffing out their chests and finding ways to make life miserable with drilling and instruction.  
 At first I escaped this **barracks routine** by taking refuge in the kitchen. From my **Landjahr** experience, something had stuck: I still knew how to cook for a lot of people. That was a stroke of luck for me at first. The other comrades had to march under **Prussian-style drill**.
 
 After three days, though, everything changed. The flight instructors arrived. Flight operations started. And with my long experience on airfields, I really would have been a big help.
-
----
-[Further observations - to discuss]  
-*Notes on likely originals (so you can sanity-check the reading)*
-
-1) This text has some “heard/written from memory” spellings. These are the spots where the meaning is clear, but the exact word/place is uncertain:
-
-* **“Segelf’ng”** almost certainly means **Segelflug** (gliding).
-* **“Meine ‘B’ … erreicht”** very likely refers to a **B-Schein / B-Abzeichen** in gliding (a training/qualification stage). I’ve translated it neutrally as “my ‘B’.”
-* **“Flulehrer”** should be **Fluglehrer** (flight instructors).
-* **“Kamalitait”** strongly looks like **Kasernalität** (the grim, regimented “barracks life” vibe). That fits the context perfectly: escaping into the kitchen to avoid the drill/indoctrination atmosphere.
-* **“schmißen sich in die Brust”** is a mangled spelling of an idiom like **“sich in die Brust werfen / sich in die Brust schlagen”** — i.e., **strutting / beating their chests**.
-* **The place name** **“???Punsahran???”** and **“Bergen Saileck?”**: I left these as **[Punsahran?]** and **[Saileck?]** because I don’t want to invent a town. The geography clue is: *on the Saar river, opposite a set of hills/mountains called something like “Saileck.”*
-
-2) If you paste just that one sentence again (the bit with the destination and the hills) and—if possible—anything around it from the manuscript (even one line before/after), I can usually reconstruct the intended place name pretty reliably.
-
 
 </div>
 </div>
@@ -538,12 +559,8 @@ Steiner: Sie wißen wie man darüber denkt. Ja den ich habe es gesehen.
 
 <div class="column column--right" markdown>
 
-[Emily's note]  
-*This one’s* **very** *diaristic: lots of phonetic spellings, a few dialecty turns, and a couple of intentionally crude words that tell you exactly what the writer thought of the hierarchy. Below is a faithful English translation first, then a “what this probably was meant to be” unpacking of the grey bits (so you can compare to your hard-copy)*:
 
----
-**[ English Version ]** 
-*(keeping tone + intent)*
+**[ English Version ]**
 
 But who would listen to me?
 
@@ -553,71 +570,6 @@ Already on the first day we had a … [incident].
 Steiner: “You know what people think about that."
 "Yes — because I saw it.”
 
----
-*Commentary on the “grey area” words and what they likely are*
-
-1) “Zunacht”  
-- Almost certainly **“Zunächst”** (“at first / to begin with”). Your spelling is a very common handwritten/phonetic drift.
-
-2) “Der Küchenbulle”  
-- This is slangy and insulting. **Bulle** is “bull” but colloquially it can mean a heavy-handed authority type (later it’s a common insult for police). Here it’s basically: *the kitchen tyrant / kitchen enforcer*. I translated as “kitchen boss” and kept the contempt in the next clause (“pighead”).
-
-3) “Schweinskopf”  
-- Literally **“pig’s head”**, idiomatically: *pigheaded jerk*. Strong contempt.
-
-4) “an uns kleinen Scheisern”  
-- This is the writer being crude on purpose. It’s essentially “us little shits / small fry” — self-deprecating and resentful at once.
-
-5) “Meine Knoera? den”  
-- This is the one most likely to snap into place once you look at the hard copy. My best guess is it’s trying to be **“Meine Kameraden”** (“my comrades”). The phrase “den sagte” should be **“die sagten”** (“they said”). So the intended line is probably:
-> **Meine Kameraden sagten:** "Mensch, lass doch nur das Essen anbrennen."
-
-6) “laß doch nur des Eßen anbrennen”  
-- Likely **“lass doch nur das Essen anbrennen”** = “just let the food burn.”
-
-7) “Denn die Keßel waren mit Glitzerin.”  
-- This reads like a mishearing/misspelling of something about the pots being **enamelled / glazed**, i.e. hard to ruin by burning. Most plausible intended word: **“glasiert”** (glazed), or **“mit Glasur”** (with glaze).
-So meaning: *You can’t simply scorch them / ruin the pots because they’re enamelled.* (“Glitzer” = glitter doesn’t fit; “Glycerin” doesn’t fit either.)
-
-8) “10 Pfn und Salz.”  
-- **“Pfn”** is almost certainly **“Pfund”** (pound). So: *ten pounds of salt*. It’s sabotage-by-inedible-stew.
-
-9) “Keiner konnte den Eintopf fresen.”  
-- Should be **“fressen”** (animals’ “to eat,” but used crudely about people: “to scarf down / to wolf down / to be able to stomach”). So:
-
-* literal tone: “No one could **fressen** the stew.”
-* English equivalent tone: “No one could stomach the stew.”
-
-10) “Trotzdem schob man mich ab.”  
-- **abschieben** = to shove someone off / dump them / transfer them away (often with a sense of “get rid of him”). Your translation should keep that: they disposed of him from the kitchen assignment.
-
-11) “Zuruck … war ich wieder auf der Warteliste.”  
-- Clear: he gets put back on the waiting list for flight duty/ops.
-
-12) Dialogue block  
-- This is tricky because it’s missing a little glue, but the gist is clear: someone is complimenting Steiner for handling a dangerous situation; Steiner answers evasively (“you know what people think about that”); the speaker insists he witnessed it.
-
-The “Ja den ich habe es gesehen” should likely be:
-
-* **“Ja, denn ich habe es gesehen.”** (“Yes — because I saw it.”)
-
-13) “Schon am ersten Tag hatten wir ein.”  
-- This is incomplete as written. It’s almost certainly:  
-* **“Schon am ersten Tag hatten wir einen [Zwischenfall/Vorfall/Unfall].”**
-  (“Already on the first day we had an incident.”)
-
-Your hard copy will probably show which noun it is.
-
----
-Two optional renderings (choose based on how “literal” you want the translation)  
-If you want it **more literal / rough**, the kitchen line could be:  
-> “The kitchen bull was a pighead, always looking to exploit his power position on us little shits and to harass us.”
-
-If you want it **more polished but same meaning**, it could be:  
-> “The kitchen chief was a pigheaded brute, always trying to throw his weight around and pick on the lowest-ranking boys.”
-
----
-  
 </div>
 </div>
 
@@ -630,7 +582,7 @@ If you want it **more polished but same meaning**, it could be:
 
 Status:  
 - Init translation 2025.09.30  
-- Mod:  
+- Mod: 31.12.2025
 - Mod:  
 - Mod:  
 - Mod:  
@@ -695,27 +647,44 @@ Status:
 
 ### 1941 Sommer (B)
 
+Notes on the translation are [here](/family/pappa2.md/#1941-sommer-b)
+
 <div class="flex-container" markdown>
 <div class="column" markdown>
 
 **[Auf Deutsch]**  
 
-**Sommer 1941** Die Luftwaffe hatte uns erlaubt an den Wochenenden auf den Merseburger Flugplatz für die B und C zu schulen, a Die A prüfung hatte ich ja hinter mir, Doch nahm mich niemand so richtig für voll, Die Kleinen wurden nur zu leicht uebersehen. Monatelang war ich regelmäßig zum Flug dienst erschienen, aber niemand schenkte mir beachtung. Die Meisten meiner Kameraden hatten schon ihre B geflogen und ich hatte nicht einen einzige Flug.  
-Schließlich faßte ich mir ein Herz und fragte den Fluglehrer was er eigentlich gegen mich habe. Der Erfolg war daß ich den Nächsten Flug bekam. Ich war selig. Bleib mal sitzen, da hatte ich gleich meinen nächsten Flug. Zugereben diese Flüge spielten sich in der Parterre a-[cut-off word].  
+**Sommer 1941** Die Luftwaffe hatte uns erlaubt an den Wochenenden auf den Merseburger Flugplatz für die B und C zu schulen, a Die A prüfung hatte ich ja hinter mir, Doch nahm mich niemand so richtig für voll, Die Kleinen wurden nur zu leicht uebersehen. Monatelang war ich regelmäßig zum Flug dienst erschienen, aber niemand schenkte mir beachtung. Die Meisten meiner Kameraden hatten schon ihre B geflogen und ich hatte nicht einen einzige Flug.
+
+Schließlich faßte ich mir ein Herz und fragte den Fluglehrer was er eigentlich gegen mich habe. Der Erfolg war daß ich den Nächsten Flug bekam. Ich war selig. Bleib mal sitzen, da hatte ich gleich meinen nächsten Flug. Zugereben diese Flüge spielten sich in der Parterre a-[cut-off word]. 
+
 Ich hatte höchstens Briefkasten höhe erreicht, aber das spielte jetzt keine Rolle: jetzt war ich drin. Nur jetzt nichts verkehrt machen. Das ding fliegt von selber. Nur kleine Korekturen und die Flüge sahen gans sauber aus.  
-Am nächten Sontag hatte ich wieder zwei Flüge. Das fliegen auf den Merseburger Flugplatz war eine andere Art. Mitt den Gummiseil wären wir hier nicht weit gekommen. Ein über 1000 Meter langes Stahlsel war mit einer Seiltrommel an einen achtzilinder Motor gekuppelt. Mit deßen Hilfe wurden wir wie ein Drachen in die Luft gezogen.  
+Am nächten Sontag hatte ich wieder zwei Flüge. Das fliegen auf den Merseburger Flugplatz war eine andere Art. Mitt den Gummiseil wären wir hier nicht weit gekommen. Ein über 1000 Meter langes Stahlsel war mit einer Seiltrommel an einen achtzilinder Motor gekuppelt. Mit deßen Hilfe wurden wir wie ein Drachen in die Luft gezogen.
+
 Am nächsten Sonntag als ich ger-[cut-off word] gerade starten sollte fragte mich Uwe mein Fluglehrer ob ich mir eine Platzrunde zutraue. Der Wind hatte gedreht und der Start mußte auf di-[cut-off word] andere Seite des Flugplatzes verlegt werden. Uwe war mit mir sehr zufrie-[cut-off word] war ich doch genau am Landekreuz gelandet.  
 
 ---
 
-An den nächsten Sonntagen bekam ich je zwei Starts die stets zur vollen Zufriedenheit mines Fluglehres ausfiele. Schließlich fehlten mir nur noch zwei Flüge für die B und am nächsten Wochenend sollte ich zum Lehrgang nach Punschrau. 
+An den nächsten Sonntagen bekam ich je zwei Starts die stets zur vollen Zufriedenheit mines Fluglehres ausfiele.  
+Schließlich fehlten mir nur noch zwei Flüge für die B und am nächsten Wochenend sollte ich zum Lehrgang nach Punschrau.
+
 Uwe sagte, "Das kommt doch garnicht in Frage. Kanst du dich über die Woche ein paar Stunden frei machen? Ich schule die Woche über Luftwaffen Soldaten."
-Schon am Montag verdünnisierte ich mich von meiner Arbeit. Der poste nam Flugplatz kannte mich schon, und ließ mich ohne mir Schwierigkeiten zu machen herein. Sofort war ich in meinen Element. Ich war vorne und hinten wie Otto. Nur eben Uwe ließ mich nicht fliegen E * zwei Uhr prodozierte einer von den auserwählten Ikarußen einenen so jämmerlichen so Flug daß ich die Frage stellte: "Wie lange kann der Zögling noch so etwas aushalten?"
+Schon am Montag verdünnisierte ich mich von meiner Arbeit. Der poste nam Flugplatz kannte mich schon, und ließ mich ohne mir Schwierigkeiten zu machen herein. Sofort war ich in meinen Element. Ich war vorne und hinten wie Otto.
+  
+Nur eben Uwe ließ mich nicht fliegen. E * zwei Uhr prodozierte einer von den auserwählten Ikarußen einenen so jämmerlichen so Flug daß ich die Frage stellte: "Wie lange kann der Zögling noch so etwas aushalten?"
 Uwe schaute mich an. "Kuttel, du wirsrt mich doch nicht entteuschen."  
-Der Start wurde mehr nach hinten verlegt. Die Soldaten wußten nicht was das bedeuten sollte der kleine Pimpf klemmte sich hinter den 85 euer Knüppel. Die Männer mit dem Rückholwagen wollten sich schon in Bewegung setzen. Uwe sage nur:  
-"Warten sie mal, der kommt hierher zurück. Das Seil wurde eingehängt. Uwe hob die Tragfläche, Einwinken, Auswinken, das Seil spannte sich. Als es straff war ließ der Mann die Fahne sinken und ab ging die Post. Der Mann an der Winde gab Vollgas. Wie ein Drachen wurde ich in die Luft...  
+Der Start wurde mehr nach hinten verlegt. Die Soldaten wußten nicht was das bedeuten sollte der kleine Pimpf klemmte sich hinter den 85 euer Knüppel. Die Männer mit dem Rückholwagen wollten sich schon in Bewegung setzen. 
+
+Uwe sage nur: "Warten sie mal, der kommt hierher zurück."  
+
+Das Seil wurde eingehängt. Uwe hob die Tragfläche, Einwinken, Auswinken, das Seil spannte sich. Als es straff war ließ der Mann die Fahne sinken und ab ging die Post.  
+Der Mann an der Winde gab Vollgas. Wie ein Drachen wurde ich in die Luft...  
+
 ---
-...gezogen. In etwa 20 Meter Höhe nahm ich den Knüppel voll an den Bauch. Der Zögling stieg wie ein Drachen nach oben. Das Stahlseil machte das Geräusch einer gespannten Violinsaite: "Deung-Deuuung".  
+
+...gezogen. In etwa 20 Meter Höhe nahm ich den Knüppel voll an den Bauch. Der Zögling stieg wie ein Drachen nach oben. Das Stahlseil machte das Geräusch einer gespannten Violinsaite:
+
+"Deung-Deuuung".  
 
 </div>  
 
@@ -725,7 +694,35 @@ Der Start wurde mehr nach hinten verlegt. Die Soldaten wußten nicht was das bed
 
 **[ English Version ]**
 
-..
+The Luftwaffe had allowed us to go to the Merseburg airfield on weekends to train for the B and C certificates. I’d already done the A test, but nobody really took me seriously. The little ones were all too easily overlooked. For months I’d been turning up regularly for flight duty, but no one paid me any attention. Most of my comrades had already done their B flights, and I hadn’t had a single flight.
+
+At last I plucked up my courage and asked the instructor what he actually had against me. The result was that I got the next flight. I was over the moon. “Just stay seated,” they said, because I was immediately getting my next flight as well. Admittedly, these flights were taking place down at [—] (low level / close to the ground).
+
+I reached, at most, letterbox height, but it didn’t matter now: I was in. Now, just don’t do anything wrong. The thing flies by itself. Only small corrections—and the flights looked perfectly clean.  
+The next Sunday I had two flights again. Flying at the Merseburg airfield was a different sort of thing altogether. With a bungee launch we wouldn’t have gotten far here. A steel cable over a thousand meters long was coupled via a winch drum to an eight-cylinder engine. With its help we were hauled into the air like a kite.
+
+The next Sunday, when I was just about to launch [—], Uwe—my flight instructor—asked me whether I thought I could manage a circuit of the field. The wind had shifted and the launch had to be moved to the other side of the airfield. Uwe was very satisfied with me—after all, I’d landed exactly on the landing cross.
+  
+---
+
+Over the next Sundays I got two launches each time, and they always turned out to my instructor’s complete satisfaction. In the end I was only two flights short of the B, and the following weekend I was supposed to go on a training course in Punschrau.
+
+Uwe said, “That’s out of the question. Can you free up a few hours during the week? I train Luftwaffe soldiers during the week.”  
+So on Monday already I slipped away from work. The sentry at the airfield gate already knew me and let me in without giving me any trouble. I was in my element at once. I was all over the place like Otto — everywhere at once, front and back. 
+  
+Only Uwe still wouldn’t let me fly. At two o’clock one of the “chosen Icaruses” produced such a miserable flight that I asked, “How long is the trainee supposed to put up with that?”
+Uwe looked at me. “Kuttel, you’re not going to disappoint me.”
+They moved the launch point further back. The soldiers didn’t know what that was meant to signify. The little squirt wedged himself in behind the stick, the 85-horsepower tow having them all thinking it was time to get moving. The men with the retrieve wagon were already about to set off.
+
+Uwe only said: “Just wait a moment. He’ll be coming back here.”
+
+The cable was hooked on. Uwe lifted the wing. Signal in, signal out. The cable tightened. When it was taut the man lowered the flag and off we went. The man at the winch opened it right up. Like a kite I was pulled into the air…
+
+---
+
+…towed along. At about twenty metres altitude I pulled the stick hard right back into my belly. The trainee climbed like a kite, straight up. The steel cable made the sound of a violin string pulled tight:
+
+“Doong—doooong.”
 
 </div>
 </div>
@@ -742,7 +739,7 @@ Der Start wurde mehr nach hinten verlegt. Die Soldaten wußten nicht was das bed
 <img src="/assets/images/pappa/P3p.jpg" alt="Photo 3b" width="140" align="right"></a>
 
 Status:  
-- Init translation   
+- Init translation 2026.01.15   
 - Mod:  
 - Mod:  
 - Mod:  
@@ -773,8 +770,8 @@ Status:
 
 ---
 
-K war das egal. Da war weider eine Gelegenheit zum fliegen. Er wußte das man wgen weines jugendlichen Aussehens nicht ganz für voll nahm.  
-Am nächsten Morgen ging K schon sehr früh zum Gefechtsstand. Es was saukalt und der Schnee knischte under den Pelzstiefeln. Dort traf er Feldw. Krämer der schon auf ihn gewartet hatte. Dieser hündigte ihm winwn Marschbefehl aus. K sollte eine Me109K von Dortmund nach Halle fliegen. Dort würde er weitere Befehle bekommen. "Was ist los mit dem Gefechtsstand?" Krämer hatte K stehend erwartet. Der Gefechtsstand nur noch ein leerer Raum.  
+K war das egal. Da war weider eine Gelegenheit zum fliegen. Er wußte das man wgen weines jugendlichen Aussehens nicht ganz für voll nahm. Am nächsten Morgen ging K schon sehr früh zum Gefechtsstand. Es was saukalt und der Schnee knischte under den Pelzstiefeln. Dort traf er Feldw. Krämer der schon auf ihn gewartet hatte. Dieser hündigte ihm winwn Marschbefehl aus. K sollte eine Me109K von Dortmund nach Halle fliegen. Dort würde er weitere Befehle bekommen.  
+"Was ist los mit dem Gefechtsstand?" Krämer hatte K stehend erwartet. Der Gefechtsstand nur noch ein leerer Raum.  
 Ein Feldtelefon stand in einer Ecke. Das JG77 verlegt nach den Oste die Russen zu stoppen.  
 Letzte Nacht ist alles in eine Ju52 verladen und noch den Ostfront verfrachtet. Dabei war auch K Fallshirm.  
 
@@ -787,6 +784,8 @@ Letzte Nacht ist alles in eine Ju52 verladen und noch den Ostfront verfrachtet. 
 **[ English Version ]**  
   
 **The Flight Towards the East** The fighter wing (JG 77: Jagdgeschwader 77) was still stationed in Düsseldorf. There was a flight assignment to deliver a Messeschmidt 109 K. [Out of sheer convenience], nobody wanted to take it, so they drew lots. Supposedly it was down to just K and an ensign (Fähnrich). The Me 109 K was in Dortmund, and no one even knew the delivery destination. A lieutenant held two matches between thumb and forefinger and had K pick one. K reached for the longer matchstick, but the lieutenant gripped it tightly so the only one K could pull was the short one.
+
+---
 
 To K it didn’t matter, it was an opportunity to fly. He realised the others didn’t take him seriously because of his youth.  
 Early the next morning he went to the command post. It was damn cold and the snow crunched under his fur boots. There he met Feldwebel Krämer, who was waiting for him. Krämer handed him travel orders: K was to fly a Messerschmidt 109 K from Dortmund to Halle. He’d get further orders there.
@@ -878,6 +877,8 @@ Status:
 
 ### 1945 Lungenentzündung
 
+Notes on the translation are [here](/family/pappa2.md/##1945-lungenentzundung)
+
 <div class="flex-container" markdown>
 <div class="column" markdown>
 
@@ -893,6 +894,8 @@ Nach 3 x 4 Tagen war es eine Selbstverständlichkeit die Pritsche zu meiden. Pro
 
 **[English Version]**  
 
+After three stretches of four days it became second nature to avoid the bunk. Acting NCO Dantz had given me various instructions. After nine days I’d overcome the pneumonia. After two years it would be scarred over. During the time I was ill I hadn’t felt any hunger. But now a great hunger was tormenting me. I spent the whole day hovering near the kitchen.
+
 </div>
 </div>
 
@@ -902,7 +905,7 @@ Nach 3 x 4 Tagen war es eine Selbstverständlichkeit die Pritsche zu meiden. Pro
 <img src="/assets/images/pappa/P27.jpg" alt="Photo 27" width="140" align="right"></a>
 
 Status:  
-- Init translation  
+- Init translation  2026.01.15
 - Mod:  
 - Mod:  
 - Mod:  
@@ -1201,27 +1204,6 @@ Status:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Post-War
 
 ### 1946 Herbst
@@ -1300,6 +1282,18 @@ Status:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+## After The War
 ### 1945 Nach dem Kreig
 
 <div class="flex-container" markdown>
@@ -1337,6 +1331,109 @@ Status:
 - Mod:  
 
 <hr style="height:20px;border-width:0;color:purple;background-color:purple">
+
+
+
+
+
+
+
+
+
+### 1945: Neiße
+
+Notes on the translation are [here](/family/pappa2.md/#neie)
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+
+**[Auf Deutsch]**  
+
+Ja, das war der Standanim??? von Neiße. Fünf Monate zuvor hatte er diesen überflagen. Er konnte sich noch genau an die beiden Türm-(cut off word) and der Staumauer??? erinern. Hnehandie??? FW 190 die damals auf den zugefrorenen See notgelandet war. Da war ein Zug den nach Westen fuhr. Schon seit Stunden sass er in den Büschen und wartete. Die Bahnhofsgebäude waren auf der andere Seite.
+
+K hatte blasen an den Füßen von den vielen Laufen der letzten Tage. Die Sehnsucht bald nach Hause zu kommen war eben doch stürte als alle Vorsicht. Als die Lok endlich nach langen Warten sich in Bewegung setzte, sprang er auf und erklamm die Leiter des Tenders. Zwei paar Augen schauten ihn an. Aber er wußte es wareb deutsche Eisenbahnen die diese Lok fuhren. Er hatte eben lange genug gehord und sie deutsch sprechen hören. 
+
+Dann machte K einen großen Fehler. Die Neugier zwang ihn über die kante zu schauen und da waren die Fauste eines russischen Offiziers. Nun so leicht war K nicht einzuschluchtern. Hatte er doch schon Einiges hinter sich. Der Zu fuhr sehr langsam. Das Schild Blumen pflücken wärend der Fahrt wäre angebracht genese-(cut-off word). Die Eisenbahner beachteten ihn als wäre er nicht vorhanden. Ein Jeder hatte Angst von den Anderen. Hätte K gewußte was ihm in der Endstation blüht hätte er sich...  
+
+---
+
+...sicher doch beßer anvertraut. Als sie doch die Endstation erreichten ließ der Lokführer ihm unverstündlich wißen: "Jetzt mußt du raus."  
+Erst konnte K sehen wo er eigentlich war. Die Haare waren ihm zu Berge gestanden. Aber das ging ja nicht.  
+Denn man hatte sie in drei Tage vor seiner Flucht sorgfältig abrasiert. Sogar die Schamhaare wegen der Filzläuse. Was ihm sehr hindelich war beim Laufen als wie [soliliselich] nachwuchsen. Sein erste Gedanke war: "Jetzt sitst du wieder drin."
+
+Waß er hier sah war ein Güterbahnhof mit mehreren Zügen von Vichwagen. Die Bewohner des Wagons warren Sensenmänner Abgemagerte Gestalten mit tragen Bewegungen mit einer Stimme die ein normaler mensch nicht hat. Sie hatten keine deutschen Uniformen sondern tragen alle die selben Struflingkleider.
+
+Der Kreig war etwa 6 Wochen vorbei. Diese menschen benötigten Ärzliche Hilfe und mußten unter diesen unmenschlichen Bedingungen vegatieren. K nahm seinen Hut and wickelte in seine verschoßen Jacke. Mit seiner Glatze, den primitiven Hemd und der Bäcker-[cut-off word] sah er aus als einer der Hoffnunglosen. Die Mittagsonne brant ihm auf die Glatze. Gott?? hatte doch gewußt warum wir Haare benötigten. Am liebsten wäre er davon gelaufen. Aber nur keine Panik. Langsam setzt er sich in Bewegung. Er strebte den Westangang des Bahnhofs zu. Es stank enzetzlich menschlichen Ausscheidungen. Er ließ den Unterkiefer hängen und mienite ein idiotisches Gesicht. Dabei fluchte er leise russische Fluche die er in Gefangenschaft gelernt hatte. Nur neimanden in die Augen schauen.  
+
+---
+
+Es waren polnische KZ Häftlinge die auf den Heinitrumsor??? warteten. Die deutschen Kreigsgefangenen mußten zu ihren Bestimmungs ort laufen weil die Bahn wagen der vielen gesprengten Brücken nicht fahren konnten.  
+
+---
+
+Jedoch diese armen Menschen wären schon nach den ersten Kilometern erschöpft gewesen. Auch deutschen Gefangenen waren auf den Straßen vor Erschöpfung gestorben.  
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+
+**[ English Version ]**  
+
+Yes, that was the [city skyline / city view / panorama] of Neiße. Five months earlier he had flown over it. He could still remember clearly the two tower—[cut off]—and the dam, and also the FW 190 that had made an emergency landing back then on the frozen lake. There was a train going west. For hours already he had been sitting in the bushes, waiting. The station buildings were on the other side.
+
+K had blisters on his feet from all the walking over the last few days. The longing to finally get home was stronger than all caution. When the locomotive at last began to move after a long wait, he sprang up and clambered onto the ladder of the tender. Two pairs of eyes looked at him. But he knew it was German railwaymen driving this locomotive. He’d listened long enough and heard them speaking German.
+
+Then K made a big mistake. Curiosity forced him to look over the edge — and there were the fists of a Russian officer. But K wasn’t easily intimidated. He’d already been through quite a lot.  
+The train was moving very slowly. A sign saying “Picking flowers while the train is moving” would have been appropriate. The railwaymen paid no attention to him, as if he didn’t exist. Everyone was afraid of everyone else.
+If K had known what was in store for him at the final station, he would have ...
+
+---
+
+... he certainly would have trusted himself somewhere else. But when they finally reached the end of the line, the locomotive driver let him know — incomprehensibly — “Now you have to get out.”  
+Only then could K see where he actually was. His hair stood on end. But that was impossible. Because three days before his escape they had carefully shaved it off. Even the pubic hair — because of crab lice. Which was very inconvenient when running, as it started to grow back [scratchy/stubbly].
+His first thought was: “Now you’re back inside again.”
+
+What he saw was a freight yard with several trains of cattle cars. The inhabitants of the wagons were like reapers — emaciated figures, moving heavily, with a voice no normal person has.  
+They wore no German uniforms, but all the same striped prisoner clothing.
+
+The war had been over about six weeks. These people needed medical help and had to vegetate under these inhuman conditions. K took his hat and wrapped it in his battered jacket. With his bald head, the crude shirt, and the baker’s [cap/apron/—], he looked like one of the hopeless ones.  
+The midday sun burned on his scalp. God had surely known why we need hair. Most of all he wanted to run. But no panic. Slowly he began to move.
+  
+He headed for the western exit of the station. It stank terribly of human waste. He let his lower jaw hang slack and put on an idiotic expression. At the same time he quietly cursed in Russian — curses he’d learned in captivity. Don’t look anyone in the eyes.
+
+---
+
+They were Polish concentration-camp prisoners waiting for the [Heinitrumsor???]. The German prisoners of war had to walk to their destination because the rail wagons couldn’t run — too many bridges had been blown up.
+
+---
+
+But those poor people would have been exhausted after the first kilometres. And German prisoners too had died on the roads from exhaustion.
+
+</div>
+</div>
+
+---
+
+<a href="/assets/images/pappa/P14.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P14.jpg" alt="Photo 14" width="140" align="right"></a>
+
+<a href="/assets/images/pappa/P14p.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/pappa/P14p.jpg" alt="Photo 14b" width="140" align="right"></a>
+
+Status:  
+- Init translation  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+
+
 
 
 
@@ -1408,72 +1505,6 @@ Status:
 
 
 
-### 19??: Neiße
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-
-**[Auf Deutsch]**  
-
-Ja, das war der Standanim??? von Neiße. Fünf Monate zuvor hatte er diesen überflagen. Er konnte sich noch genau an die beiden Türm-(cut off word) and der Staumauer??? erinern. Hnehandie??? FW 190 die damals auf den zugefrorenen See notgelandet war. Da war ein Zug den nach Westen fuhr. Schon seit Stunden sass er in den Büschen und wartete. Die Bahnhofsgebäude waren auf der andere Seite.  
-K hatte blasen an den Füßen von den vielen Laufen der letzten Tage. Die Sehnsucht bald nach Hause zu kommen war eben doch stürte als alle Vorsicht. Als die Lok endlich nach langen Warten sich in Bewegung setzte, sprang er auf und erklamm die Leiter des Tenders. Zwei paar Augen schauten ihn an. Aber er wußte es wareb deutsche Eisenbahnen die diese Lok fuhren. Er hatte eben lange genug gehord und sie deutsch sprechen hören. Dann machte K einen großen Fehler. Die Neugier zwang ihn über die kante zu schauen und da waren die Fauste eines russischen Offiziers. Nun so leicht war K nicht einzuschluchtern. Hatte er doch schon Einiges hinter sich. Der Zu fuhr sehr langsam. Das Schild Blumen pflücken wärend der Fahrt wäre angebracht genese-(cut-off word). Die Eisenbahner beachteten ihn als wäre er nicht vorhanden. Ein Jeder hatte Angst con den Anderen.   
-Hätte K gewußte was ihm in der Endstation blüht hätte er sich...  
-
----
-
-...sicher doch beßer anvertraut. Als sie doch die Endstation erreichten ließ der Lokführer ihm unverstündlich wißen: "Jetzt mußt du raus."  
-Erst konnte K sehen wo er eigentlich war. Die Haare waren ihm zu Berge gestanden. Aber das ging ja nicht.  
-Denn man hatte sie in drei Tage vor seiner Flucht sorgfältig abrasiert. Sogar die Schamhaare wegen der Filzläuse. Was ihm sehr hindelich war beim Laufen als wie [soliliselich] nachwuchsen. Sein erste Gedanke war: "Jetzt sitst du wieder drin."  
-Waß er hier sah war ein Güterbahnhof mit mehreren Zügen von Vichwagen. Die Bewohner des Wagons warren Sensenmänner Abgemagerte Gestalten mit tragen Bewegungen mit einer Stimme die ein normaler mensch nicht hat. Sie hatten keine deutschen Uniformen sondern tragen alle die selben Struflingkleider.  
-Der Kreig war etwa 6 Wochen vorbei. Diese menschen benötigten Ärzliche Hilfe und mußten unter diesen unmenschlichen Bedingungen vegatieren. K nahm seinen Hut and wickelte in seine verschoßen Jacke. Mit seiner Glatze, den primitiven Hemd und der Bäcker-[cut-off word] sah er aus als einer der Hoffnunglosen. Die Mittagsonne brant ihm auf die Glatze. Gott?? hatte doch gewußt warum wir Haare benötigten. Am liebsten wäre er davon gelaufen. Aber nur keine Panik. Langsam setzt er sich in Bewegung. Er strebte den Westangang des Bahnhofs zu. Es stank enzetzlich menschlichen Ausscheidungen. Er ließ den Unterkiefer hängen und mienite ein idiotisches Gesicht. Dabei fluchte er leise russische Fluche die er in Gefangenschaft gelernt hatte. Nur neimanden in die Augen schauen.  
-
----
-
-Es waren polnische KZ Häftlinge die auf den Heinitrumsor??? warteten. Die deutschen Kreigsgefangenen mußten zu ihren Bestimmungs ort laufen weil die Bahn wagen der vielen gesprengten Brücken nicht fahren konnten.  
-
----
-
-Jedoch diese armen Menschen wären schon nach den ersten Kilometern erschöpft gewesen. Auch deutschen Gefangenen waren auf den Straßen vor Erschöpfung gestorben.  
-
-</div>
-
----
-
-<div class="column column--right" markdown>
-
-**[ English Version ]**  
-  
-</div>
-</div>
-
----
-
-<a href="/assets/images/pappa/P14.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P14.jpg" alt="Photo 14" width="140" align="right"></a>
-
-<a href="/assets/images/pappa/P14p.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P14p.jpg" alt="Photo 14b" width="140" align="right"></a>
-
-Status:  
-- Init translation  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
-
-
-
-
-
-
-
-
-
-
 
 ### 1945 [REDO] 16
 
@@ -1530,42 +1561,7 @@ Status:
 
 
 
-### 19??: Flieger
 
-<div class="flex-container" markdown>
-<div class="column" markdown>
-
-**[Auf Deutsch]**  
-
-Dieser Steiner war eine verklemmte Person. Neimand nahm ihm richtig vor voll. Ich aber hatte nur noch 2 1/2 Wochen Zeit mein zu fliegen. Wie ich das eigenlich geschaft habe weiß ich bis heute noch nicht. Steiner war ein ausgezeichneter Ausbilder und pilot. Wir flogen das Gropanbabey. Es waren keine doppelsitzer zur verfügung. Oft dacht ich an Hern Münch etweder ihr fliegt entweder ihr fliegt oder fallt auf die Schnauze.  
-Nun einen von uns war nicht so glücklich oder genieft wie wir. Ein Ein gewißen Bone. Der arme Jung war ein Stotterer und mußte vielen Spott ertragen. Wer weiß ob es Selbsmord war oder nur Verkramfgung. Bei einem Hochstart schob er den Knüppel vorn. In eine negativen von etwa 10 krachte er in die Grasnarbe. In meinen ganzen Leben habe ich Angsträuns gehabt. Und jede gemieden.  
-
-</div>
-
----
-
-<div class="column column--right" markdown>
-
-**[ English Version ]**  
-
-</div>
-</div>
-
----
-
-<a href="/assets/images/pappa/P20.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P20.jpg" alt="Photo 20" width="140" align="right"></a>
-
-Status:  
-- Init translation  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
