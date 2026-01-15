@@ -24,7 +24,7 @@
 <div class="column column--right" markdown>
 
 My own notes on what I am actually doing in the process of translating and formatting can be 
-![found here](/family/pappa2.md).  
+[found here](/family/pappa2.md).  
 
 The *general format* of this document will be:
 
@@ -40,7 +40,7 @@ The *general format* of this document will be:
 - The *magnifying glass* [ 🔎 ] indicates this is but a rough first-draught translation, and bears examining more closely for ... um ... whatever might not align correctly with the original text.  
 🌅 An image (or images) of the original document - right-click and "View in a new Tab" to inspect the document.
 
-  </div>
+</div>
 </div>
 
 <hr style="height:16px;border-width:0;color:navy;background-color:purple">
@@ -507,7 +507,7 @@ Now, one of us wasn’t as lucky or as gifted as we were — a certain Bone. The
 <img src="/assets/images/pappa/P20.jpg" alt="Photo 20" width="140" align="right"></a>
 
 Status:  
-- Init translation  
+- Init translation  2026.01.15
 - Mod:  
 - Mod:  
 - Mod:  
@@ -1439,7 +1439,7 @@ But those poor people would have been exhausted after the first kilometres. And 
 <img src="/assets/images/pappa/P14p.jpg" alt="Photo 14b" width="140" align="right"></a>
 
 Status:  
-- Init translation  
+- Init translation  2026.01.15
 - Mod:  
 - Mod:  
 - Mod:  
