@@ -6,7 +6,7 @@
   .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
 </style>
 
-<hr style="height:8px;border-width:0;color:navy;background-color:purple">
+<hr style="height:4px;border-width:0;color:navy;background-color:purple">
 
 
 
@@ -43,7 +43,12 @@ The *general format* of this document will be:
   </div>
 </div>
 
-<hr style="height:8px;border-width:0;color:navy;background-color:purple">
+<hr style="height:16px;border-width:0;color:navy;background-color:purple">
+
+
+
+
+
 
 
 
@@ -228,7 +233,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:8px;border-width:0;color:purple;background-color:purple">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -281,7 +286,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:8px;border-width:0;color:purple;background-color:purple">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -330,7 +335,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr style="height:16px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -343,7 +348,16 @@ Status:
 
 
 
-## Airman Hahn, Kurt
+
+
+
+
+
+
+
+## The War
+
+**Airman Hahn, Kurt**
 
 ### 1940: Flieger (a)
 
@@ -864,7 +878,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:20px;border-width:0;color:purple;background-color:purple">
+<hr style="height:4px;border-width:0;color:purple;background-color:purple">
 
 
 
@@ -1191,7 +1205,17 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr style="height:16px;border-width:0;color:purple;background-color:purple">
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1286,14 +1310,6 @@ Status:
 
 
 
-
-
-
-
-
-
-
-## After The War
 ### 1945 Nach dem Kreig
 
 <div class="flex-container" markdown>
@@ -1431,7 +1447,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr style="height:16px;border-width:0;color:purple;background-color:purple">
 
 
 
