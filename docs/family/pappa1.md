@@ -359,7 +359,7 @@ Status:
 
 **Airman Hahn, Kurt**
 
-### 1940: Flieger (a)
+### 1940 Flieger a
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -474,7 +474,7 @@ Status:
 
 
 
-### 1940: Flieger (b)
+### 1940 Flieger b
 
 Notes on the translation are [here](/family/pappa2.md/#1940-flieger-b)
 
@@ -891,7 +891,7 @@ Status:
 
 ### 1945 Lungenentzündung
 
-Notes on the translation are [here](/family/pappa2.md/##1945-lungenentzundung)
+Notes on the translation are [here](/family/pappa2.md/#1945-lungenentzundung)
 
 <div class="flex-container" markdown>
 <div class="column" markdown>

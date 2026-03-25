@@ -176,7 +176,7 @@ In receipt of the physical documents. I have begun restructuring the translation
 
 ## 02 Oct 2025
 
-Observations on [1940 Flieger](/family/pappa1.md/#1940-flieger) follow.
+Observations on [1940 Flieger](/family/pappa1.md/#1940-flieger-a) follow.
 
 Here is why I don't worry that AI is going to take over our world by being smarter than us and outwitting us. Consider the following discourse. For example: the last sentence of the original document included the word 'Urbaier', which breaks down to 'Ur' = 'typical'; and 'Baier' = 'person from Bayern (Bavaria)'. Gemma incorrectly translated this to 'Urlauber' = 'tourist'. A key takeaway is that one cannot simply assume LLMs are going to correctly interpret the sense of a phrase. My discussion with Gemma3 continued thus as I requested 'her' to translate into English:  
 
@@ -753,9 +753,9 @@ If you paste the two cut-offs (**“Türm-…”** and the bit after **“wäre 
 
 
 
-### Flieger
+### 1940 Flieger B
 
-These notes are from the translation on [1940 Flieger (b)](/family/pappa1.md/#1940-flieger-b). This is a *first-pass* translation. Analysis and re-wording to follow.  
+These notes are from the translation on [1940 Flieger b](/family/pappa1.md/#1940-flieger-b). This is a *first-pass* translation. Analysis and re-wording to follow.  
 
 [Emily]  
 Yes — this is almost certainly from his **glider training** (sailplane) period. The giveaways are the training context, the talk of single-seaters/no two-seaters, “Hochstart” (a winch/aerotow *high start*), “Knüppel” (stick), and the “negative” (negative angle/attitude, or negative g-load / pitch-down) leading to an impact.

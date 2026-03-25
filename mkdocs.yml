@@ -66,6 +66,7 @@ nav:
 
   - Tech:
     - tech/index.md
+    - Art Society: tech/rcas.md
     - Browser: tech/browser.md
     - Linux: tech/Linux.md
     - Markdown: tech/Markdown.md
@@ -78,7 +79,7 @@ nav:
 plugins:
   - search
   - tags
-  
+
 validation:
   links:
     absolute_links: relative_to_docs
@@ -102,4 +103,3 @@ markdown_extensions:
   - pymdownx.blocks.caption
   - pymdownx.inlinehilite
   - pymdownx.snippets
-
