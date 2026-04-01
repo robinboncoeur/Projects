@@ -64,9 +64,18 @@ nav:
     - Health: other/Health.md
     - Matter: other/Matter.md
 
+  - RCAS:
+    - rcas/index.md
+    - Docs 1: rcas/BookingDoc1.md
+    - Mar 24: rcas/rcas26-03-24.md
+    - Mar 25: rcas/rcas26-03-25.md
+    - Mar 27: rcas/rcas26-03-27.md
+    - Mar 30: rcas/rcas26-03-30.md
+    - Apr 01: rcas/rcas26-04-01.md
+    - Empty_: rcas/rcas26-04-00.md
+
   - Tech:
     - tech/index.md
-    - Art Society: tech/rcas.md
     - Browser: tech/browser.md
     - Linux: tech/Linux.md
     - Markdown: tech/Markdown.md
