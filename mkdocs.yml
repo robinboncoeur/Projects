@@ -11,7 +11,6 @@ theme:
       toggle:
         icon: material/weather-night # indigo
         name: Switch to Dark Mode
-      accent: pink
     # Dark mode
     - scheme: slate
       primary: indigo
@@ -38,52 +37,53 @@ nav:
   - Home: index.md
 
   - Blogs:
-    - blogs/index.md
-    - Blog 2022: blogs/Blog22.md
-    - Blog 2024: blogs/Blog24.md
-
+      - blogs/index.md
+      - Blog 2022: blogs/Blog22.md
+      - Blog 2024: blogs/Blog24.md
 
   - Family:
-    - family/index.md
-    - Pappa's Account: family/pappa1.md
-    - Translation Notes: family/pappa2.md
+      - family/index.md
+      - Pappa's Account: family/pappa1.md
+      - Translation Notes: family/pappa2.md
 
   - Music:
-    - music/index.md
-    - Harmony: music/Harmony.md
-    - Sketches: music/Sketches.md
-    - Transcriptions: music/Transcript.md
-    - Violins: music/Violins.md
+      - music/index.md
+      - Harmony: music/Harmony.md
+      - Sketches: music/Sketches.md
+      - Transcriptions: music/Transcript.md
+      - Violins: music/Violins.md
 
   - Other:
-    - other/index.md
-    - Foodie: other/Foodie.md
-    - Garden21: other/Garden21.md
-    - Garden22: other/Garden22.md
-    - Garden25: other/Garden25.md
-    - Health: other/Health.md
-    - Matter: other/Matter.md
+      - other/index.md
+      - Foodie: other/Foodie.md
+      - Garden21: other/Garden21.md
+      - Garden22: other/Garden22.md
+      - Garden25: other/Garden25.md
+      - Health: other/Health.md
+      - Matter: other/Matter.md
 
   - RCAS:
-    - rcas/index.md
-    - Docs 1: rcas/BookingDoc1.md
-    - Mar 24: rcas/rcas26-03-24.md
-    - Mar 25: rcas/rcas26-03-25.md
-    - Mar 27: rcas/rcas26-03-27.md
-    - Mar 30: rcas/rcas26-03-30.md
-    - Apr 01: rcas/rcas26-04-01.md
-    - Empty_: rcas/rcas26-04-00.md
+      - rcas/index.md
+      - Docs 1: rcas/BookingDoc1.md
+      - Mar 24: rcas/rcas26-03-24.md
+      - Mar 25: rcas/rcas26-03-25.md
+      - Mar 27: rcas/rcas26-03-27.md
+      - Mar 30: rcas/rcas26-03-30.md
+      - Apr 01: rcas/rcas26-04-01.md
+      - Apr 05: rcas/rcas26-04-05.md
+      - Empty_: rcas/rcas26-04-00.md
+      - JavaSc: rcas/Codev01a.md
+      - FormPg: rcas/Formv01a.md
 
   - Tech:
-    - tech/index.md
-    - Browser: tech/browser.md
-    - Linux: tech/Linux.md
-    - Markdown: tech/Markdown.md
-    - Miscellanae: tech/OStuff.md
-    - Network: tech/Network.md
-    - Python: tech/Python.md
-    - Repair: tech/Repair.md
-
+      - tech/index.md
+      - Browser: tech/browser.md
+      - Linux: tech/Linux.md
+      - Markdown: tech/Markdown.md
+      - Miscellanae: tech/OStuff.md
+      - Network: tech/Network.md
+      - Python: tech/Python.md
+      - Repair: tech/Repair.md
 
 plugins:
   - search
