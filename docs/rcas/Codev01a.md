@@ -2555,3 +2555,691 @@ That way you don’t introduce extra moving parts before v1 settles.
   </body>
 </html>
 ```
+
+
+
+
+
+## Process Approval Row Function
+
+```javascript
+function processApprovalRow_(sheet, row, headers) {
+  const calendar = getTargetCalendar_();
+  if (!calendar) {
+    throw new Error('Calendar not found. Check CALENDAR_MODE / CALENDAR_ID.');
+  }
+
+  const rowValues = sheet.getRange(row, 1, 1, sheet.getLastColumn()).getValues()[0];
+
+  const fullName = valueByHeader_(rowValues, headers, CONFIG.HEADERS.FULL_NAME);
+  const fnEmail = valueByHeader_(rowValues, headers, CONFIG.HEADERS.EMAIL);
+  const courseName = valueByHeader_(rowValues, headers, CONFIG.HEADERS.COURSE_NAME);
+  const requestedRoom = valueByHeader_(rowValues, headers, CONFIG.HEADERS.ROOM);
+  const assignedRoom = valueByHeader_(rowValues, headers, CONFIG.HEADERS.ASSIGNED_ROOM);
+  const effectiveRoomRaw = trim_(assignedRoom) || trim_(requestedRoom);
+  const room = normalizeRoom_(effectiveRoomRaw);
+  const bookingDate = valueByHeader_(rowValues, headers, CONFIG.HEADERS.EVENT_DATE);
+  const startTime = valueByHeader_(rowValues, headers, CONFIG.HEADERS.START_TIME);
+  const endTime = valueByHeader_(rowValues, headers, CONFIG.HEADERS.END_TIME);
+  const recurring = trim_(valueByHeader_(rowValues, headers, CONFIG.HEADERS.RECURRING));
+  const frequency = trim_(valueByHeader_(rowValues, headers, CONFIG.HEADERS.FREQUENCY));
+  const repeatUntil = valueByHeader_(rowValues, headers, CONFIG.HEADERS.REPEAT_UNTIL);
+  const existingEventId = trim_(valueByHeader_(rowValues, headers, CONFIG.HEADERS.CALENDAR_EVENT_ID));
+
+  const statusCol = headers[CONFIG.HEADERS.STATUS];
+  const eventIdCol = headers[CONFIG.HEADERS.CALENDAR_EVENT_ID];
+  const procNoteCol = headers[CONFIG.HEADERS.PROCESSING_NOTE];
+
+  if (!statusCol) throw new Error(`Missing header: ${CONFIG.HEADERS.STATUS}`);
+  if (!eventIdCol) throw new Error(`Missing header: ${CONFIG.HEADERS.CALENDAR_EVENT_ID}`);
+  if (!procNoteCol) throw new Error(`Missing header: ${CONFIG.HEADERS.PROCESSING_NOTE}`);
+
+  if (existingEventId) {
+    sheet.getRange(row, procNoteCol).setValue('Already created; skipped duplicate approval.');
+    return;
+  }
+
+  if (!room) {
+    sheet.getRange(row, statusCol).setValue(CONFIG.STATUS_VALUES.CONFLICT);
+    sheet.getRange(row, procNoteCol).setValue(`Unknown room: ${effectiveRoomRaw}`);
+    return;
+  }
+
+  if (!bookingDate || !startTime || !endTime) {
+    sheet.getRange(row, statusCol).setValue(CONFIG.STATUS_VALUES.CONFLICT);
+    sheet.getRange(row, procNoteCol).setValue('Missing date/time fields.');
+    return;
+  }
+
+  const start = combineDateAndTime_(bookingDate, startTime);
+  const end = combineDateAndTime_(bookingDate, endTime);
+
+  if (
+    !(start instanceof Date) || isNaN(start.getTime()) ||
+    !(end instanceof Date) || isNaN(end.getTime())
+  ) {
+    sheet.getRange(row, statusCol).setValue(CONFIG.STATUS_VALUES.CONFLICT);
+    sheet.getRange(row, procNoteCol).setValue('Invalid date/time values.');
+    return;
+  }
+
+  const now = new Date();
+  if (start < now) {
+    sheet.getRange(row, statusCol).setValue(CONFIG.STATUS_VALUES.CONFLICT);
+    sheet.getRange(row, procNoteCol).setValue('Booking start time is in the past.');
+    return;
+  }
+
+  if (end <= start) {
+    sheet.getRange(row, statusCol).setValue(CONFIG.STATUS_VALUES.CONFLICT);
+    sheet.getRange(row, procNoteCol).setValue('End time must be after start time.');
+    return;
+  }
+
+  if (recurring === 'Yes') {
+    if (!frequency || !repeatUntil) {
+      sheet.getRange(row, statusCol).setValue(CONFIG.STATUS_VALUES.CONFLICT);
+      sheet.getRange(row, procNoteCol).setValue(
+        'Recurring booking is missing Frequency or Repeat Until.'
+      );
+      return;
+    }
+
+    if (repeatUntil < bookingDate) {
+      sheet.getRange(row, statusCol).setValue(CONFIG.STATUS_VALUES.CONFLICT);
+      sheet.getRange(row, procNoteCol).setValue(
+        'Repeat Until must be on or after the Event Date.'
+      );
+      return;
+    }
+  }
+
+  const overlapping = calendar.getEvents(start, end);
+
+  const sameRoomConflict = overlapping.some(event => {
+    const eventRoom = normalizeRoom_(event.getLocation());
+    return eventRoom === room;
+  });
+
+  if (sameRoomConflict) {
+    sheet.getRange(row, statusCol).setValue(CONFIG.STATUS_VALUES.CONFLICT);
+    sheet.getRange(row, procNoteCol).setValue(
+      `Conflict detected at approval time: ${room} is already booked.`
+    );
+    return;
+  }
+
+  const title = `${fullName || 'Tutor'} (${room})`;
+
+  const descriptionLines = [
+    `Full Name: ${fullName || ''}`,
+    `Email: ${fnEmail || ''}`,
+    `Room: ${room}`,
+    `Course Name: ${courseName || ''}`,
+    `Recurring: ${recurring || 'No'}`,
+    `Frequency: ${frequency || ''}`,
+    `Repeat Until: ${repeatUntil || ''}`
+  ];
+
+  const event = calendar.createEvent(title, start, end, {
+    location: room,
+    description: descriptionLines.join('\n')
+  });
+
+  sheet.getRange(row, eventIdCol).setValue(event.getId());
+
+  if (recurring === 'Yes') {
+    sheet.getRange(row, procNoteCol).setValue(
+      `Calendar event created successfully in ${room}. Recurring logic not yet implemented.`
+    );
+  } else {
+    sheet.getRange(row, procNoteCol).setValue(
+      `Calendar event created successfully in ${room}.`
+    );
+  }
+}
+```
+
+
+
+
+
+
+
+## Corrected javascript in HTML
+
+```text
+<script>
+  const form = document.getElementById('bookingForm');
+  const messageBox = document.getElementById('message');
+  const recurringSelect = document.getElementById('recurring');
+  const frequencyField = document.getElementById('frequencyField');
+  const repeatUntilField = document.getElementById('repeatUntilField');
+  const frequencyInput = document.getElementById('frequency');
+  const repeatUntilInput = document.getElementById('repeatUntil');
+  const eventDateInput = document.getElementById('eventDate');
+
+  function showMessage(text, type) {
+    messageBox.textContent = text;
+    messageBox.className = `message ${type}`;
+  }
+
+  function clearMessage() {
+    messageBox.textContent = '';
+    messageBox.className = 'message';
+  }
+
+  function timeToMinutes(timeStr) {
+    const [hours, minutes] = timeStr.split(':').map(Number);
+    return hours * 60 + minutes;
+  }
+
+  function setMinimumEventDate() {
+    const today = new Date();
+    const yyyy = today.getFullYear();
+    const mm = String(today.getMonth() + 1).padStart(2, '0');
+    const dd = String(today.getDate()).padStart(2, '0');
+
+    eventDateInput.min = `${yyyy}-${mm}-${dd}`;
+  }
+
+  function toggleRecurringFields() {
+    const isRecurring = recurringSelect.value === 'Yes';
+
+    frequencyField.classList.toggle('hidden', !isRecurring);
+    repeatUntilField.classList.toggle('hidden', !isRecurring);
+
+    frequencyInput.required = isRecurring;
+    repeatUntilInput.required = isRecurring;
+
+    if (!isRecurring) {
+      frequencyInput.value = '';
+      repeatUntilInput.value = '';
+    }
+  }
+
+  recurringSelect.addEventListener('change', toggleRecurringFields);
+  toggleRecurringFields();
+  setMinimumEventDate();
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    clearMessage();
+
+    const formData = {
+      fullName: form.fullName.value.trim(),
+      email: form.email.value.trim(),
+      courseName: form.courseName.value.trim(),
+      room: form.room.value,
+      eventDate: form.eventDate.value,
+      startTime: form.startTime.value,
+      endTime: form.endTime.value,
+      recurring: form.recurring.value,
+      frequency: form.frequency.value,
+      repeatUntil: form.repeatUntil.value
+    };
+
+    if (
+      !formData.fullName ||
+      !formData.email ||
+      !formData.courseName ||
+      !formData.room ||
+      !formData.eventDate ||
+      !formData.startTime ||
+      !formData.endTime ||
+      !formData.recurring
+    ) {
+      showMessage('Please complete all required fields.', 'error');
+      return;
+    }
+
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+
+    const selectedDate = new Date(formData.eventDate + 'T00:00:00');
+
+    if (selectedDate < today) {
+      showMessage('Please choose today or a future date.', 'error');
+      return;
+    }
+
+    if (
+      timeToMinutes(formData.startTime) % 30 !== 0 ||
+      timeToMinutes(formData.endTime) % 30 !== 0
+    ) {
+      showMessage('Please use 30-minute increments only.', 'error');
+      return;
+    }
+
+    if (timeToMinutes(formData.endTime) <= timeToMinutes(formData.startTime)) {
+      showMessage('End time must be later than start time.', 'error');
+      return;
+    }
+
+    if (formData.recurring === 'Yes') {
+      if (!formData.frequency || !formData.repeatUntil) {
+        showMessage('Please complete the recurring booking fields.', 'error');
+        return;
+      }
+
+      if (formData.repeatUntil < formData.eventDate) {
+        showMessage('Repeat Until must be on or after the Event Date.', 'error');
+        return;
+      }
+    }
+
+    google.script.run
+      .withSuccessHandler(function (response) {
+        showMessage(response.message, 'success');
+        form.reset();
+        toggleRecurringFields();
+        setMinimumEventDate();
+      })
+      .withFailureHandler(function (error) {
+        showMessage(error.message || 'Something went wrong.', 'error');
+      })
+      .submitBooking(formData);
+  });
+</script>
+```
+
+
+
+
+
+
+
+
+
+## Final Entire Script
+
+```text
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+
+    const form = document.getElementById('bookingForm');
+    const messageBox = document.getElementById('message');
+    const recurringSelect = document.getElementById('recurring');
+    const frequencyField = document.getElementById('frequencyField');
+    const repeatUntilField = document.getElementById('repeatUntilField');
+    const frequencyInput = document.getElementById('frequency');
+    const repeatUntilInput = document.getElementById('repeatUntil');
+    const eventDateInput = document.getElementById('eventDate');
+
+    function showMessage(text, type) {
+      messageBox.textContent = text;
+      messageBox.className = `message ${type}`;
+    }
+
+    function clearMessage() {
+      messageBox.textContent = '';
+      messageBox.className = 'message';
+    }
+
+    function timeToMinutes(timeStr) {
+      const [hours, minutes] = timeStr.split(':').map(Number);
+      return hours * 60 + minutes;
+    }
+
+    function setMinimumEventDate() {
+      const today = new Date();
+      const yyyy = today.getFullYear();
+      const mm = String(today.getMonth() + 1).padStart(2, '0');
+      const dd = String(today.getDate()).padStart(2, '0');
+
+      eventDateInput.min = `${yyyy}-${mm}-${dd}`;
+    }
+
+    function toggleRecurringFields() {
+      const isRecurring = recurringSelect.value === 'Yes';
+
+      frequencyField.classList.toggle('hidden', !isRecurring);
+      repeatUntilField.classList.toggle('hidden', !isRecurring);
+
+      frequencyInput.required = isRecurring;
+      repeatUntilInput.required = isRecurring;
+
+      if (!isRecurring) {
+        frequencyInput.value = '';
+        repeatUntilInput.value = '';
+      }
+    }
+
+    // Initialise UI state
+    recurringSelect.addEventListener('change', toggleRecurringFields);
+    toggleRecurringFields();
+    setMinimumEventDate();
+
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      clearMessage();
+
+      const formData = {
+        fullName: form.fullName.value.trim(),
+        email: form.email.value.trim(),
+        courseName: form.courseName.value.trim(),
+        room: form.room.value,
+        eventDate: form.eventDate.value,
+        startTime: form.startTime.value,
+        endTime: form.endTime.value,
+        recurring: form.recurring.value,
+        frequency: form.frequency.value,
+        repeatUntil: form.repeatUntil.value
+      };
+
+      // Required fields
+      if (
+        !formData.fullName ||
+        !formData.email ||
+        !formData.courseName ||
+        !formData.room ||
+        !formData.eventDate ||
+        !formData.startTime ||
+        !formData.endTime ||
+        !formData.recurring
+      ) {
+        showMessage('Please complete all required fields.', 'error');
+        return;
+      }
+
+      // Prevent past dates
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+
+      const selectedDate = new Date(formData.eventDate + 'T00:00:00');
+
+      if (selectedDate < today) {
+        showMessage('Please choose today or a future date.', 'error');
+        return;
+      }
+
+      // 30-minute increments
+      if (
+        timeToMinutes(formData.startTime) % 30 !== 0 ||
+        timeToMinutes(formData.endTime) % 30 !== 0
+      ) {
+        showMessage('Please use 30-minute increments only.', 'error');
+        return;
+      }
+
+      // End after start
+      if (timeToMinutes(formData.endTime) <= timeToMinutes(formData.startTime)) {
+        showMessage('End time must be later than start time.', 'error');
+        return;
+      }
+
+      // Recurring validation
+      if (formData.recurring === 'Yes') {
+        if (!formData.frequency || !formData.repeatUntil) {
+          showMessage('Please complete the recurring booking fields.', 'error');
+          return;
+        }
+
+        if (formData.repeatUntil < formData.eventDate) {
+          showMessage('Repeat Until must be on or after the Event Date.', 'error');
+          return;
+        }
+      }
+
+      // Submit to Apps Script
+      google.script.run
+        .withSuccessHandler(function (response) {
+          showMessage(response.message, 'success');
+          form.reset();
+          toggleRecurringFields();
+          setMinimumEventDate();
+        })
+        .withFailureHandler(function (error) {
+          showMessage(error.message || 'Something went wrong.', 'error');
+        })
+        .submitBooking(formData);
+    });
+
+  });
+</script>
+```
+
+
+
+
+
+
+
+
+## Handle Assigned Room v2
+
+```javascript
+function handleAssignedRoomEdit_(e, sheet, row, headers) {
+  const oldValue = String(e.oldValue || '').trim();
+  const newValue = String(e.value || '').trim();
+
+  // If nothing materially changed, do nothing
+  if (oldValue === newValue) return;
+
+  const rowValues = sheet.getRange(row, 1, 1, sheet.getLastColumn()).getValues()[0];
+  const status = valueByHeader_(rowValues, headers, CONFIG.HEADERS.STATUS);
+  const requestedRoom = valueByHeader_(rowValues, headers, CONFIG.HEADERS.ROOM);
+
+  const oldEffectiveRoom = oldValue || requestedRoom;
+  const newEffectiveRoom = newValue || requestedRoom;
+
+  // If effective room did not actually change, do nothing
+  if (oldEffectiveRoom === newEffectiveRoom) return;
+
+  // Approved booking: remove live event and reset to Pending
+  if (status === CONFIG.STATUS_VALUES.APPROVED) {
+    removeLiveCalendarEvent_(
+      sheet,
+      row,
+      headers,
+      `Assigned room changed from ${oldEffectiveRoom} to ${newEffectiveRoom}. Booking reset to Pending for re-approval.`,
+      CONFIG.STATUS_VALUES.PENDING
+    );
+    return;
+  }
+
+  // Conflict booking: re-check whether the new effective room still conflicts
+  if (status === CONFIG.STATUS_VALUES.CONFLICT) {
+    const statusCol = findHeaderColumn_(headers, CONFIG.HEADERS.STATUS);
+    const noteCol = findHeaderColumn_(headers, CONFIG.HEADERS.PROCESSING_NOTE);
+
+    const bookingDate = valueByHeader_(rowValues, headers, CONFIG.HEADERS.EVENT_DATE);
+    const startTime = valueByHeader_(rowValues, headers, CONFIG.HEADERS.START_TIME);
+    const endTime = valueByHeader_(rowValues, headers, CONFIG.HEADERS.END_TIME);
+
+    const start = combineDateAndTime_(bookingDate, startTime);
+    const end = combineDateAndTime_(bookingDate, endTime);
+
+    if (!(start instanceof Date) || isNaN(start) || !(end instanceof Date) || isNaN(end)) {
+      sheet.getRange(row, noteCol).setValue(
+        'Assigned room changed, but date/time could not be evaluated. Please review booking details.'
+      );
+      return;
+    }
+
+    const sameRoomConflict = hasRoomConflict_(
+      sheet,
+      row,
+      headers,
+      newEffectiveRoom,
+      start,
+      end
+    );
+
+    if (sameRoomConflict) {
+      sheet.getRange(row, statusCol).setValue(CONFIG.STATUS_VALUES.CONFLICT);
+      sheet.getRange(row, noteCol).setValue(
+        `Assigned room changed from ${oldEffectiveRoom} to ${newEffectiveRoom}, but conflict remains: ${newEffectiveRoom} is already booked for that time.`
+      );
+    } else {
+      sheet.getRange(row, statusCol).setValue(CONFIG.STATUS_VALUES.PENDING);
+      sheet.getRange(row, noteCol).setValue(
+        `Assigned room changed from ${oldEffectiveRoom} to ${newEffectiveRoom}. Conflict cleared. Booking reset to Pending for re-approval.`
+      );
+    }
+
+    return;
+  }
+}
+```
+
+
+
+
+
+
+
+
+
+
+## Handle Assigned Room v3
+
+```javascript
+function handleAssignedRoomEdit_(e, sheet, row, headers) {
+  const oldValue = String(e.oldValue || '').trim();
+  const newValue = String(e.value || '').trim();
+
+  // If nothing materially changed, do nothing
+  if (oldValue === newValue) return;
+
+  const rowValues = sheet.getRange(row, 1, 1, sheet.getLastColumn()).getValues()[0];
+  const status = trim_(valueByHeader_(rowValues, headers, CONFIG.HEADERS.STATUS));
+  const requestedRoom = valueByHeader_(rowValues, headers, CONFIG.HEADERS.ROOM);
+  const noteCol = findHeaderColumn_(headers, CONFIG.HEADERS.PROCESSING_NOTE);
+
+  const oldEffectiveRoom = normalizeRoom_(oldValue || requestedRoom);
+  const newEffectiveRoom = normalizeRoom_(newValue || requestedRoom);
+
+  const oldEffectiveRoomDisplay = oldEffectiveRoom || oldValue || requestedRoom || '(blank)';
+  const newEffectiveRoomDisplay = newEffectiveRoom || newValue || requestedRoom || '(blank)';
+
+  // If effective room did not actually change, do nothing
+  if (oldEffectiveRoom === newEffectiveRoom) return;
+
+  // If the booking is live, changing room invalidates approval and removes the event
+  if (status === CONFIG.STATUS_VALUES.APPROVED) {
+    removeLiveCalendarEvent_(
+      sheet,
+      row,
+      headers,
+      `Assigned Room changed from ${oldEffectiveRoomDisplay} to ${newEffectiveRoomDisplay}; approval invalidated and returned to Pending.`,
+      CONFIG.STATUS_VALUES.PENDING
+    );
+    return;
+  }
+
+  // If the booking is currently in conflict, keep Conflict but update the note
+  if (status === CONFIG.STATUS_VALUES.CONFLICT) {
+    sheet.getRange(row, noteCol).setValue(
+      `Assigned Room changed from ${oldEffectiveRoomDisplay} to ${newEffectiveRoomDisplay}. Re-approve to test availability for the new room.`
+    );
+    return;
+  }
+
+  // For Pending / Rejected / Cancelled, just note the room change
+  sheet.getRange(row, noteCol).setValue(
+    `Assigned Room updated from ${oldEffectiveRoomDisplay} to ${newEffectiveRoomDisplay}.`
+  );
+}
+```
+
+
+
+
+
+
+
+
+## Handle Assigned Room v4
+
+```javascript
+function handleAssignedRoomEdit_(e, sheet, row, headers) {
+  const oldValue = String(e.oldValue || '').trim();
+  const newValue = String(e.value || '').trim();
+
+  // If nothing materially changed, do nothing
+  if (oldValue === newValue) return;
+
+  const rowValues = sheet.getRange(row, 1, 1, sheet.getLastColumn()).getValues()[0];
+  const currentStatus = trim_(valueByHeader_(rowValues, headers, CONFIG.HEADERS.STATUS));
+  const requestedRoomRaw = valueByHeader_(rowValues, headers, CONFIG.HEADERS.ROOM);
+  const noteCol = findHeaderColumn_(headers, CONFIG.HEADERS.PROCESSING_NOTE);
+
+  const oldEffectiveRoomRaw = oldValue || requestedRoomRaw;
+  const newEffectiveRoomRaw = newValue || requestedRoomRaw;
+
+  const oldEffectiveRoom = normalizeRoom_(oldEffectiveRoomRaw);
+  const newEffectiveRoom = normalizeRoom_(newEffectiveRoomRaw);
+
+  const oldEffectiveRoomDisplay = oldEffectiveRoom || oldEffectiveRoomRaw || '(blank)';
+  const newEffectiveRoomDisplay = newEffectiveRoom || newEffectiveRoomRaw || '(blank)';
+
+  // If effective room did not actually change, do nothing
+  if (oldEffectiveRoom === newEffectiveRoom) return;
+
+  // If the booking is live, changing room invalidates approval and removes the event
+  if (currentStatus === CONFIG.STATUS_VALUES.APPROVED) {
+    removeLiveCalendarEvent_(
+      sheet,
+      row,
+      headers,
+      `Assigned Room changed from ${oldEffectiveRoomDisplay} to ${newEffectiveRoomDisplay}; approval invalidated and returned to Pending.`,
+      CONFIG.STATUS_VALUES.PENDING
+    );
+    return;
+  }
+
+  // If the booking is currently in conflict, automatically re-test the new room
+  if (currentStatus === CONFIG.STATUS_VALUES.CONFLICT) {
+    const statusCol = findHeaderColumn_(headers, CONFIG.HEADERS.STATUS);
+
+    const bookingDate = valueByHeader_(rowValues, headers, CONFIG.HEADERS.EVENT_DATE);
+    const startTime = valueByHeader_(rowValues, headers, CONFIG.HEADERS.START_TIME);
+    const endTime = valueByHeader_(rowValues, headers, CONFIG.HEADERS.END_TIME);
+
+    const start = combineDateAndTime_(bookingDate, startTime);
+    const end = combineDateAndTime_(bookingDate, endTime);
+
+    if (!(start instanceof Date) || isNaN(start) || !(end instanceof Date) || isNaN(end)) {
+      sheet.getRange(row, noteCol).setValue(
+        `Assigned Room changed from ${oldEffectiveRoomDisplay} to ${newEffectiveRoomDisplay}, but the booking date/time could not be evaluated. Please review and re-approve manually.`
+      );
+      return;
+    }
+
+    if (end <= start) {
+      sheet.getRange(row, noteCol).setValue(
+        `Assigned Room changed from ${oldEffectiveRoomDisplay} to ${newEffectiveRoomDisplay}, but the booking has an invalid time range. Please review and re-approve manually.`
+      );
+      return;
+    }
+
+    const sameRoomConflict = hasRoomConflict_(
+      sheet,
+      row,
+      headers,
+      newEffectiveRoom,
+      start,
+      end
+    );
+
+    if (sameRoomConflict) {
+      sheet.getRange(row, statusCol).setValue(CONFIG.STATUS_VALUES.CONFLICT);
+      sheet.getRange(row, noteCol).setValue(
+        `Assigned Room changed from ${oldEffectiveRoomDisplay} to ${newEffectiveRoomDisplay}, but a conflict still exists for that room and time.`
+      );
+    } else {
+      sheet.getRange(row, statusCol).setValue(CONFIG.STATUS_VALUES.PENDING);
+      sheet.getRange(row, noteCol).setValue(
+        `Assigned Room changed from ${oldEffectiveRoomDisplay} to ${newEffectiveRoomDisplay}. Conflict cleared; booking returned to Pending for re-approval.`
+      );
+    }
+    return;
+  }
+
+  // For Pending / Rejected / Cancelled, just note the room change
+  sheet.getRange(row, noteCol).setValue(
+    `Assigned Room updated from ${oldEffectiveRoomDisplay} to ${newEffectiveRoomDisplay}.`
+  );
+}
+```
