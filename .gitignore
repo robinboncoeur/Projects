@@ -1,8 +1,4 @@
 .DS_Store
 *.pyc
-/OldDOCs/
-/.vscode/
 /site/
-/docs/tech/Linux(hidden).md
-/Research.md
-/saves/
+/NoWWW/
