@@ -1,4 +1,4 @@
-# Test Checklist
+# Testing v0.1a
 
 
 ## Checklist
@@ -10,7 +10,7 @@
 
 ### ✅ Clean Testing Sequence
 
-Here’s a practical, no-nonsense checklist you can work through with your tester. Think of it as: `Can this survive real humans?` 😄 
+Here’s a practical, no-nonsense checklist you can work through. Think of it as: `Will this App survive real humans?` 😄 
 
 The picture is there to remind us not all we see is real. 🙄 I need to keep that in mind when I code. 😶‍🌫️
 
@@ -18,17 +18,17 @@ The picture is there to remind us not all we see is real. 🙄 I need to keep th
 
 ### 🔹 Phase 1 — Basic Form Behaviour
 
-* [_] Open `/exec` link (not `/dev`)
-* [_] Logo displays correctly
-* [_] Layout looks clean on desktop
-* [_] Try mobile (optional but nice)
+* 🔲 Open `/exec` link (not `/dev`)
+* 🔲 Logo displays correctly
+* 🔲 Layout looks clean on desktop
+* 🔲 Try mobile (optional but nice)
 
 #### Field validation
 
-* [_] Leave required fields blank → error shown
-* [_] Enter past date → blocked by picker / browser
-* [_] Enter end time earlier than start → error shown
-* [_] Enter non-30-min time → error shown
+* 🔲 Leave required fields blank → error shown
+* 🔲 Enter past date → blocked by picker / browser
+* 🔲 Enter end time earlier than start → error shown
+* 🔲 Enter non-30-min time → error shown
 
 ---
 
@@ -36,11 +36,11 @@ The picture is there to remind us not all we see is real. 🙄 I need to keep th
 
 #### Normal booking
 
-* [_] Submit valid booking
-* [_] Success message appears
-* [_] Form resets
-* [_] Row appears in sheet
-* [_] Status = `Pending`
+* 🔲 Submit valid booking
+* 🔲 Success message appears
+* 🔲 Form resets
+* 🔲 Row appears in sheet
+* 🔲 Status = `Pending`
 
 ---
 
@@ -48,10 +48,10 @@ The picture is there to remind us not all we see is real. 🙄 I need to keep th
 
 In the sheet:
 
-* [_] Change `Status` from `Pending` → `Approved`
-* [_] Calendar event is created
-* [_] `Processing Note` updated
-* [_] Event ID written
+* 🔲 Change `Status` from `Pending` → `Approved`
+* 🔲 Calendar event is created
+* 🔲 `Processing Note` updated
+* 🔲 Event ID written
 
 ---
 
@@ -59,15 +59,15 @@ In the sheet:
 
 #### Create a clash
 
-* [_] Create booking A (Approved)
-* [_] Create booking B (same room + overlapping time)
-* [_] Try to approve booking B
+* 🔲 Create booking A (Approved)
+* 🔲 Create booking B (same room + overlapping time)
+* 🔲 Try to approve booking B
 
 Expected:
 
-* [_] Status becomes `Conflict`
-* [_] Processing Note explains conflict
-* [_] No calendar event created
+* 🔲 Status becomes `Conflict`
+* 🔲 Processing Note explains conflict
+* 🔲 No calendar event created
 
 ---
 
@@ -75,34 +75,34 @@ Expected:
 
 #### Resolve conflict
 
-* [_] Change `Assigned Room` on conflicted booking
-* [_] Confirm:
+* 🔲 Change `Assigned Room` on conflicted booking
+* 🔲 Confirm:
 
   * note updates correctly
   * status behaves as expected (your current design: stays `Conflict`)
 
 #### Approved booking change
 
-* [_] Take an approved booking
-* [_] Change `Assigned Room`
+* 🔲 Take an approved booking
+* 🔲 Change `Assigned Room`
 
 Expected:
 
-* [_] Calendar event deleted
-* [_] Status → `Pending`
-* [_] Note updated
+* 🔲 Calendar event deleted
+* 🔲 Status → `Pending`
+* 🔲 Note updated
 
 ---
 
 ### 🔹 Phase 6 — Cancellation Flow
 
-* [_] Change `Status` → `Cancelled` on approved booking
+* 🔲 Change `Status` → `Cancelled` on approved booking
 
 Expected:
 
-* [_] Calendar event removed
-* [_] Event ID cleared
-* [_] Note updated
+* 🔲 Calendar event removed
+* 🔲 Event ID cleared
+* 🔲 Note updated
 
 ---
 
@@ -110,14 +110,14 @@ Expected:
 
 #### Validation
 
-* [_] Select “Recurring = Yes” without fields → error
-* [_] Enter invalid repeatUntil < eventDate → error
+* 🔲 Select “Recurring = Yes” without fields → error
+* 🔲 Enter invalid repeatUntil < eventDate → error
 
 #### Valid recurring
 
-* [_] Submit valid recurring booking
-* [_] Approve it
-* [_] Confirm expected behaviour (depending on your implementation)
+* 🔲 Submit valid recurring booking
+* 🔲 Approve it
+* 🔲 Confirm expected behaviour (depending on your implementation)
 
 ---
 
@@ -125,20 +125,20 @@ Expected:
 
 With your partner:
 
-* [_] She submits a booking via form
-* [_] You see it in sheet
-* [_] You approve it
-* [_] Calendar updates correctly
+* 🔲 She submits a booking via form
+* 🔲 You see it in sheet
+* 🔲 You approve it
+* 🔲 Calendar updates correctly
 
 ---
 
 ### 🔹 Phase 9 — Edge Cases (Quick Sweep)
 
-* [_] Blank Assigned Room → still uses requested Room
-* [_] Change time after Pending → still valid
-* [_] Change time after Approved → triggers reset (if implemented)
-* [_] Very short booking (30 mins) → works
-* [_] Long booking → works
+* 🔲 Blank Assigned Room → still uses requested Room
+* 🔲 Change time after Pending → still valid
+* 🔲 Change time after Approved → triggers reset (if implemented)
+* 🔲 Very short booking (30 mins) → works
+* 🔲 Long booking → works
 
 ---
 
@@ -146,12 +146,12 @@ With your partner:
 
 Before going live:
 
-* [_] Confirm web app setting:
+* 🔲 Confirm web app setting:
 
   👉 **Execute as: Me**
   👉 **Who has access: Anyone with the link**
 
-* [_] Test form from:
+* 🔲 Test form from:
 
   * different browser
   * incognito window
