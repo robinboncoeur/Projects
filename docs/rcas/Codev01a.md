@@ -1,8 +1,20 @@
-# Booking App v.1
+# Booking App v0.1a
 
 ## Original
 ### 05.Apr.2026
 
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+
+
+
+
+
+
+
+
+
+
+## Main Script
 
 ```javascript
 /**
@@ -564,8 +576,10 @@ function setPendingOnFormSubmit(e) {
     statusCell.setValue(CONFIG.STATUS_VALUES.PENDING);
   }
 }
+
 ```
 
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
 
 
 
@@ -1225,12 +1239,19 @@ function setPendingOnFormSubmit(e) {
 }
 ```
 
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+
+
+
+
+
+
+
+
 
 
 
 ## Constants
-
-
 
 So, the first thing I'm copying are the constants:
 
@@ -1275,6 +1296,7 @@ const CONFIG = {
 
 Wasn't sure if 'RESPONSE_SHEET_NAME' was a required const, so I just used the sheet name for it.
 
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
 
 
 
@@ -1287,9 +1309,7 @@ Wasn't sure if 'RESPONSE_SHEET_NAME' was a required const, so I just used the sh
 
 
 ## Status Edit Logic
-### Process the Row via Approval
-
-
+### Process Row via Approval
 
 ```javascript
 function processApprovalRow_(sheet, row, headers) {
@@ -1405,12 +1425,18 @@ function processApprovalRow_(sheet, row, headers) {
 }
 ```
 
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
 
 
 
 
 
-## Process Approval Row
+
+
+
+
+
+## Process Approval Row v2
 
 ```javascript
 function processApprovalRow_(sheet, row, headers) {
@@ -1526,13 +1552,21 @@ function processApprovalRow_(sheet, row, headers) {
 }
 ```
 
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
 
 
 
 
 
-## Process Appr Row
-### Lots of Errors
+
+
+
+
+
+
+## Process Approval Row v3
+
+**Note**: this is throwing lots of errors
 
 ```javascript
 function processApprovalRow_(sheet, row, headers) {
@@ -1664,6 +1698,7 @@ function processCancellationRow_(sheet, row, headers, oldStatus) {
 }
 ```
 
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
 
 
 
@@ -1671,7 +1706,11 @@ function processCancellationRow_(sheet, row, headers, oldStatus) {
 
 
 
-## Process Apprl Row
+
+
+
+
+## Process Approval Row v4
 
 ```javascript
 function processApprovalRow_(sheet, row, headers) {
@@ -1795,6 +1834,7 @@ function processApprovalRow_(sheet, row, headers) {
 }
 ```
 
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
 
 
 
@@ -1873,12 +1913,20 @@ function submitBooking(formData) {
 }
 ```
 
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
 
 
 
 
 
-## Save handleAssignedRoomEdit()
+
+
+
+
+
+
+
+## handleAssignedRoomEdit()
 
 ```javascript
 function handleAssignedRoomEdit_(e, sheet, row, headers) {
@@ -1955,12 +2003,19 @@ function handleAssignedRoomEdit_(e, sheet, row, headers) {
 }
 ```
 
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
 
 
 
 
 
-## full retest handleAssignedRoomEdit
+
+
+
+
+
+
+## handleAssignedRoomEdit() v2
 
 ```javascript
 function handleAssignedRoomEdit_(e, sheet, row, headers) {
@@ -2075,7 +2130,18 @@ If the booking is **Pending / Rejected / Cancelled**:
 
 ---
 
-### Full automatic re-test version
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+
+
+
+
+
+
+
+
+
+
+## Full automatic re-test version
 
 ```javascript
 function handleAssignedRoomEdit_(e, sheet, row, headers) {
@@ -2171,7 +2237,7 @@ function handleAssignedRoomEdit_(e, sheet, row, headers) {
 
 ---
 
-### The one thing you’d need to check is this line:
+**The one thing you’d need to check is this line**:
 
 ```javascript
 const sameRoomConflict = hasRoomConflict_(
@@ -2193,7 +2259,7 @@ So the logic is right, but the helper name may need to be swapped to your real o
 
 ---
 
-## Why I would not rush to adopt it
+**Why I would not rush to adopt it**
 
 This version is cleverer, but also a little less obvious to a human user because:
 
@@ -2206,14 +2272,11 @@ Your current approach is more old-fashioned, but very transparent:
 
 That’s often nicer in admin tools 😊
 
-## My recommendation
+---
 
-Keep your current version live.
+My recommendation is to keep your current version live. Save this automatic-retest version in a notes file or comment block for later, in case someone eventually asks for a smoother workflow. That way you don’t introduce extra moving parts before v1 settles.
 
-Save this automatic-retest version in a notes file or comment block for later, in case someone eventually asks for a smoother workflow.
-
-That way you don’t introduce extra moving parts before v1 settles.
-
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
 
 
 
@@ -2227,7 +2290,7 @@ That way you don’t introduce extra moving parts before v1 settles.
 ## The Booking Form
 ### 06-Apr-2026
 
-```text
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -2555,6 +2618,12 @@ That way you don’t introduce extra moving parts before v1 settles.
   </body>
 </html>
 ```
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+
+
+
+
+
 
 
 
@@ -2699,6 +2768,7 @@ function processApprovalRow_(sheet, row, headers) {
   }
 }
 ```
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
 
 
 
@@ -2708,7 +2778,7 @@ function processApprovalRow_(sheet, row, headers) {
 
 ## Corrected javascript in HTML
 
-```text
+```html
 <script>
   const form = document.getElementById('bookingForm');
   const messageBox = document.getElementById('message');
@@ -2843,6 +2913,10 @@ function processApprovalRow_(sheet, row, headers) {
 </script>
 ```
 
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+
+
+
 
 
 
@@ -2853,7 +2927,7 @@ function processApprovalRow_(sheet, row, headers) {
 
 ## Final Entire Script
 
-```text
+```html
 <script>
   document.addEventListener('DOMContentLoaded', function () {
 
@@ -2998,6 +3072,7 @@ function processApprovalRow_(sheet, row, headers) {
   });
 </script>
 ```
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
 
 
 
@@ -3083,6 +3158,7 @@ function handleAssignedRoomEdit_(e, sheet, row, headers) {
 }
 ```
 
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
 
 
 
@@ -3143,6 +3219,7 @@ function handleAssignedRoomEdit_(e, sheet, row, headers) {
 }
 ```
 
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
 
 
 
@@ -3243,3 +3320,6 @@ function handleAssignedRoomEdit_(e, sheet, row, headers) {
   );
 }
 ```
+
+
+<hr style="height:24px; border-width:0; color:blue; background-color:blue" />

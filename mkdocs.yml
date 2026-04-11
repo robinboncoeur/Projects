@@ -64,7 +64,7 @@ nav:
 
   - RCAS:
       - rcas/index.md
-      - Docs 1: rcas/BookingDoc1.md
+      - Docs 1: rcas/BookingDoc.md
       - Mar 24: rcas/rcas26-03-24.md
       - Mar 25: rcas/rcas26-03-25.md
       - Mar 27: rcas/rcas26-03-27.md
@@ -74,7 +74,8 @@ nav:
       - Apr 06: rcas/rcas26-04-06.md
       - Empty: rcas/rcas26-00-00.md
       - FormPage: rcas/Formv01a.md
-      - JavaScript: rcas/Codev01a.md
+      - Code Base 0.1a: rcas/Codev01a.md
+      - Code Base 0.1b: rcas/Codev01b.md
       - Test Checklist: rcas/testChecklist.md
 
   - Tech:
