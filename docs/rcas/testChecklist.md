@@ -10,7 +10,9 @@
 
 ### ✅ Clean Testing Sequence
 
-Here’s a practical, no-nonsense checklist you can work through with your tester. Think of it as: `Can this survive real humans?` 😄
+Here’s a practical, no-nonsense checklist you can work through with your tester. Think of it as: `Can this survive real humans?` 😄 
+
+The picture is there to remind us not all we see is real. 🙄 I need to keep that in mind when I code. 😶‍🌫️
 
 ---
 
@@ -154,38 +156,5 @@ Before going live:
   * different browser
   * incognito window
 
----
-
-🌷 One very important reassurance: `I'm hoping we won't have to add each tutor once we go live.` You won’t — as long as:
-
-  * web app = **Anyone with the link**
-  * execute as = **Me**
-
-Then:
-
-  * tutors just use the form
-  * they do NOT need spreadsheet or script access
-  * everything runs under your authority
-
----
-
-🌿 Final thought for tomorrow
-
-Don’t try to “perfect” everything. You’re looking for:
-
-  * 🔴 things that break
-  * 🟡 things that confuse
-  * 🟢 things that feel smooth
-
-If it survives this list without surprises, you’re **well into “safe to release” territory**.
-
----
-
-When you’re back tomorrow, we can also:
-
-  * tighten UX (loading state, nicer messages)
-  * or prep a tiny user guide for tutors
-
-For now — you’ve earned the pause 🌷
 
 <hr style="height:24px;border-width:0;color:black;background-color:black">

@@ -1,72 +1,117 @@
-/* ===== Tall sticky header with background image ===== */
-:root { --hero-h: 180px; }   /* visual height of your banner */
+/* Import fonts first */
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Libre+Franklin:wght@400&display=swap");
 
-/* Import fonts from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Libre+Franklin:wght@400&display=swap');
-
-/* Site title styling */
-.md-header .md-header__title {
-  font-family: 'Great Vibes', cursive;
-  font-size: 2.2rem;
-  font-weight: 400;
-  color: #11f !important;                     /* choose #fff if your image is dark */
-  text-shadow: 0 2px 4px rgba(0,0,0,.55);
-  letter-spacing: 0;                          /* scripts prefer tighter tracking */
-  line-height: 1.3;
+/* ===== Core sizing ===== */
+:root {
+  --hero-h: 120px;
 }
 
-/* Nav links styling */
-.md-header-nav__link {
-  font-family: 'Libre Franklin', sans-serif;
-  font-size: 1rem;
-  color: #f8f8f8 !important;
-  text-shadow: 0 1px 2px rgba(0,0,0,.35);
-}
-
-/* Hover effect */
-.md-header-nav__link:hover {
-  color: #ffd6e8 !important;
-}
-
-/* Header background and overlay */
-/* Makes header sticky           */
+/* ===== Header shell ===== */
 .md-header {
-  position: fixed;          /* was: relative */
-  top: 0; left: 0; right: 0;
-  z-index: 20;              /* keep it above content/sidebars */
-  background: url("../images/header_bg.jpg") center/cover no-repeat;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 20;
+  background: url("/assets/images/header_bg.jpg") center/cover no-repeat;
 }
 
-
-/* Make header taller and align the nav/title at the bottom */
 .md-header__inner {
   min-height: var(--hero-h);
   align-items: flex-end;
-  padding-bottom: .75rem;
+  padding-bottom: 0.75rem;
   box-sizing: border-box;
 }
 
-/* Compensate main content so it doesn't slide under the fixed header */
-.md-main {
-  margin-top: calc(var(--hero-h) + 4px);  /* your existing offset */
-}
-
-/* Keep the gradient overlay working */
 .md-header::after {
   content: "";
-  position: absolute; inset: 0;
-  background: linear-gradient(to bottom, rgba(0,0,0,0) 40%, rgba(0,0,0,.35) 100%);
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0) 40%,
+    rgba(0, 0, 0, 0.35) 100%
+  );
   pointer-events: none;
 }
 
-/* ----- Theme-aware text colors (optional but robust) ----- */
-[data-md-color-scheme="default"] .md-header .md-header__title { color: #ff9 !important; }
-[data-md-color-scheme="slate"]   .md-header .md-header__title { color: #ff9 !important;  }
-[data-md-color-scheme="slate"]   .md-header-nav__link         { color: #f0f0f0 !important; }
+/* Push page content below fixed header */
+.md-main {
+  margin-top: calc(var(--hero-h) + 4px);
+}
 
-/* ----- Mobile adjustments ----- */
+/* ===== Site title ===== */
+.md-header .md-header__title {
+  font-family: "Great Vibes", cursive;
+  font-size: 2.2rem;
+  font-weight: 400;
+  color: #ff9 !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.55);
+  letter-spacing: 0;
+  line-height: 1.35;
+  padding-right: 0.2em;
+  overflow: visible;
+}
+
+.md-header__ellipsis,
+.md-header__topic,
+.md-header .md-ellipsis {
+  overflow: visible !important;
+  text-overflow: clip !important;
+}
+
+.md-header .md-ellipsis {
+  display: inline-block;
+  padding-right: 0.18em;
+}
+/* ===== Top tabs ===== */
+.md-tabs {
+  height: 1.6rem;
+}
+
+.md-tabs__list {
+  line-height: 1.2rem;
+}
+
+.md-tabs__link {
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 0.82rem;
+  color: #f8f8f8 !important;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.md-tabs__link:hover {
+  color: #ffd6e8 !important;
+}
+
+/* ===== Side navigation ===== */
+.md-nav__item {
+  padding-top: 0.15rem;
+  padding-bottom: 0.15rem;
+}
+
+.md-nav__link {
+  line-height: 1.2;
+}
+
+/* ===== Dark-mode tweaks ===== */
+[data-md-color-scheme="slate"] .md-tabs__link {
+  color: #f0f0f0 !important;
+}
+
+/* ===== Mobile ===== */
 @media (max-width: 720px) {
-  :root { --hero-h: 140px; }                  /* shorter banner on phones */
-  .md-header .md-header__title { font-size: 1.8rem; }
-  .md-main { margin-top: calc(var(--hero-h) - 84px); }
+  :root {
+    --hero-h: 110px;
+  }
+
+  .md-header .md-header__title {
+    font-size: 1.8rem;
+  }
+
+  .md-main {
+    margin-top: calc(var(--hero-h) + 4px);
+  }
 }
