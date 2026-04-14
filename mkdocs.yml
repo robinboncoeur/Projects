@@ -36,6 +36,11 @@ extra_css:
 nav:
   - Home: index.md
 
+  - apps:
+      - apps/index.md
+      - TxnTrk Apr 13: TxnTracker01.md
+      - TxnTrk Apr 14: TxnTracker02.md
+
   - Blogs:
       - blogs/index.md
       - Blog 2022: blogs/Blog22.md
