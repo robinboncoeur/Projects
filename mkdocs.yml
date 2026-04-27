@@ -86,6 +86,7 @@ nav:
   - Tech:
       - tech/index.md
       - Browser: tech/browser.md
+      - Docker: tech/docker.md
       - Linux: tech/Linux.md
       - Markdown: tech/Markdown.md
       - Miscellanae: tech/OStuff.md

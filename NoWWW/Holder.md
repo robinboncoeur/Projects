@@ -1274,3 +1274,29 @@ Wasn't sure if 'RESPONSE_SHEET_NAME' was a required const, so I just used the sh
 
 
 ## Status Edit Logic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+robyn@robyns-mbp art % cd /Users/robyn/Sites/projects && mkdocs serve     
+ERROR   -  Config value 'nav': Expected nav item to be a dict of size 1, got dict with keys ('Browser', 'Docker')
+
+Aborted with a configuration error!
+robyn@robyns-mbp projects % 
+
+
+
+In the AppScript environment, we have 'Code.gs, Index.html (the booking form) and
