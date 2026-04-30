@@ -110,3 +110,44 @@ Better:
 That keeps the support window named, even if loosely.
 
 You’ve done the generous thing. Now the next generous thing is making sure the system can outlive your direct involvement. That is not withdrawing care; it is making the care durable. ✨
+
+
+
+
+
+
+
+
+
+
+## Other stuff
+
+UUID=7f363d42-41de-4225-b1a7-27d972925268  /mnt/cloudbackup  ext4  defaults,nofail  0  2
+
+
+
+
+
+
+
+
+
+RCAS BOOKINGS LAPTOP
+
+Use this laptop only for RCAS bookings.
+
+1. Log in with the Bookings account.
+2. Click Chrome.
+3. Use the pinned tabs:
+   - Gmail
+   - Google Drive
+   - Calendar
+   - Booking Form
+   - Booking App Workbook
+
+Do not remove pinned tabs.
+Do not install extra software.
+Do not change Google account settings.
+Do not delete files from Google Drive.
+
+If something goes wrong, take a photo of the screen and email Robyn.
