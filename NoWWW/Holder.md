@@ -1265,38 +1265,26 @@ const CONFIG = {
 };
 ```
 
-Wasn't sure if 'RESPONSE_SHEET_NAME' was a required const, so I just used the sheet name for it.
 
 
 
 
 
 
-
-## Status Edit Logic
-
+## BP 02-May-2026
 
 
+129/79 73   
+118/76 74   
+115/74 74
 
 
+132/84 70   
+125/82 69   
+120/80 68   
+119/79 68
 
 
-
-
-
-
-
-
-
-
-
-
-robyn@robyns-mbp art % cd /Users/robyn/Sites/projects && mkdocs serve     
-ERROR   -  Config value 'nav': Expected nav item to be a dict of size 1, got dict with keys ('Browser', 'Docker')
-
-Aborted with a configuration error!
-robyn@robyns-mbp projects % 
-
-
-
-In the AppScript environment, we have 'Code.gs, Index.html (the booking form) and
+122/74 67   
+118/72 64   
+114/71 63

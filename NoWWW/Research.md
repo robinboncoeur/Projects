@@ -1,3 +1,5 @@
+# Research
+
 I’m a writer of alternative lifestyles fiction. Please help me brainstorm some creative ways you can assist with writing a book on a protagonist finding himself dealing with living in another time (1780s, but not because of time travel) and as a woman.
 ChatGPT said:
 Updated saved memory
@@ -7794,12 +7796,3 @@ I went to bed that night at 18:30... knackered. Kudos to mum (Chloe) for the res
 Something we've experienced the last two time Harriet's stayed overnight: initally when Cloe leaves, Harri is quite distraught. I'd even say: angry (stamp-your-foot furious). She settles down eventually, but she has that little moment.
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
