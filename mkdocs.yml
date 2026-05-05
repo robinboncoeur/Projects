@@ -38,8 +38,8 @@ nav:
 
   - apps:
       - apps/index.md
-      - TxnTrk Apr 13: TxnTracker01.md
-      - TxnTrk Apr 14: TxnTracker02.md
+      - TxnTrk Apr 13: apps/TxnTracker01.md
+      - TxnTrk Apr 14: apps/TxnTracker02.md
 
   - Blogs:
       - blogs/index.md
@@ -78,6 +78,7 @@ nav:
       - Apr 01: rcas/rcas26-04-01.md
       - Apr 05: rcas/rcas26-04-05.md
       - Apr 06: rcas/rcas26-04-06.md
+      - Apr 06: rcas/rcas26-04-19.md
       - Facebook: rcas/rcas26-05-05.md
       - Empty: rcas/rcas26-00-00.md
       - FormPage: rcas/Formv01a.md
