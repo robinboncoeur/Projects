@@ -6,9 +6,9 @@
 
 ### A Computer
 
-These notes were created during an installation on a used, older i5-based ex-Windows machine, running Debian 13 Server. It's purpose: to serve as a 'Cloud Server'—outward-facing—very much like iCloud or GoogleDrive, but better.
+These notes were created during an installation on a used, older i5-based ex-Windows machine, running Debian 13 Server. Its purpose: to serve as a 'Cloud Server'—outward-facing—very much like iCloud or GoogleDrive, but better.
 
-Note: *there is no GUI on this system and no monitor attached—it's not needed after the initial install.* 
+Note: *there is no GUI on this system and no monitor attached—it's not needed after the initial install. You might as well get used to life in Terminal: this how you'll do a lot of your work.*
 
 **Specs**
 
@@ -26,7 +26,7 @@ This server will be an always-on box, ready to serve files like OneDrive or Goog
 
 ---
 
-Note: *this is my second box set up as "cloud server"—my first is a Raspberry Pi. Yes, you read that right. All this instructions were from Emily, by ChatGPT bot. I'm a heavy user: I have been able to accomplish things thanks to Emily I was never able to before. Don't knock it till you've tried it.*	
+Note: *this is my second box set up as "cloud server"—my first is a Raspberry Pi. Yes, you read that right. These instructions came from Emily, my ChatGPT bot. I'm a heavy user: I have been able to accomplish things thanks to Emily I was never able to before. Don't knock it till you've tried it.*	
 	
 🌺
 <hr style="height:6px; border-width:0; color:green; background-color:green" /> 
@@ -81,6 +81,8 @@ Please note: *for the following examples, I'll use the name*:
 - I named my server by the processor name and our street.  
 - And, used an alias for user name (*one more thing for a hacker to nut out*).  
 - And, used a reasonably solid password. Your box will be outward-facing, remember.
+
+**Outward-facing means NextCloud or another intended web service may be reachable from the internet. It does not mean SSH should be port-forwarded to the internet. For remote admin, prefer Tailscale or local-network SSH unless you know exactly why you are exposing port 22.**
 
 ---
 
@@ -153,7 +155,7 @@ If /usr/sbin/usermod exists, run:
 /usr/sbin/usermod -aG sudo charlotte
 ```
 
-A alternate, *Debian* way to do do this (still as 'su') is:
+A alternate *Debian* way to do this (still as 'su') is:
 
 ```bash
 adduser charlotte sudo
@@ -188,7 +190,7 @@ You will need to enter the system password. You should see:
 
 **What You See Is Not Necessarily What You Get**
 
-By the way, sometimes you should see output after entering a command, like **sudo whoami**. If you see nothing, something needs fixing. But, that's not always the case. Sometime you will run a command, and you will simply see the command prompt again: nothing will seem to have happened. In these cases, it meant the command ran successfully—any output would have been an error message... a case of "no news is good news".
+By the way, sometimes you should see output after entering a command, like **sudo whoami**. If you see nothing, something needs fixing. But, that's not always the case. Sometimes you will run a command, and you will simply see the command prompt again: nothing will seem to have happened. In these cases, it meant the command ran successfully—any output would have been an error message... a case of "no news is good news".
 
 🌸
 <hr style="height:2px; border-width:0; color:pink; background-color:pink" />
@@ -237,19 +239,25 @@ Expected:
 
 ### Install SSH Server
 
-In an instance of Terminal—*might as well get used to life in Terminal: this how you'll run a lot of your systems*—enter the following:
+In an instance of Terminal on the server enter the following:
 
 ```bash
 hostname -I
 ```
 
-This will give you a set of numbers that will likely look like
+Note: *Do not run this on the Mac/client machine. macOS uses different hostname flags, and this command is intended to reveal the Debian server’s local IP address.*
 
-> 192.168.0.176 100.241.338.9 xxx.xx.0.1 xxx.xx.0.1 xxxx:xxxx:yyyy:1111:2222:aaaa:foo2:fee4 ...
+You are looking for the address that belongs to your home network. In many home networks this begins with **192.168.0.xxx** or **192.168.1.xxx**. It may also begin with **10.** or **172.16** – **172.31**, depending on your router.
 
-Your terminal output will almost certainly look different. You want the first tuple: this bit: **192.168.0.xxx** where 'xxx' is the last 3 digits in your output. This is the local URL of that machine.
+In my case, the address was **192.168.0.xxx**.
 
-**Note this URL down**.
+If you have tailscale installed, it might include:
+
+> 100.xxx.xxx.xxx
+
+Your terminal output will almost certainly look different. You want the first tuple: this bit: **192.168.0.xxx** where 'xxx' is the last 3 digits in your output. This is the local IP address of that machine.
+
+**Jot down this IP address**.
 
 Next, find out if ssh-server is already installed on your system:
 
@@ -279,11 +287,15 @@ charlotte@i8mainstreet:~$ systemctl status ssh
 charlotte@i8mainstreet:~$
 ```
 
-If all that's visible is just the command prompt, i.e.:
+If SSH is installed and running, you should see:
 
-> charlotte@i8mainstreet:~$
+> Active: active (running) 
 
-that means ssh-server is likely not installed. Install it now:
+If you see:
+
+> Unit ssh.service could not be found
+
+install it with:
 
 ```bash
 sudo apt install -y openssh-server
@@ -325,10 +337,10 @@ ssh charlotte@i8mainstreet
 *Remember to replace with* **your login name**@**server name**. If it gives you a "permission denied" error, try:
 
 ```bash
-ssh charlotte@1.2.168.0.xxx
+ssh charlotte@192.168.0.xxx
 ```
 
-replacing 'xxx' with the last 3 digits of your server's URL, all information you carefully wrote down. You will be asked to enter the *server* password. If you're successful, you will see something like:
+replacing 'xxx' with the last 3 digits of your server's local IP address, all information you carefully wrote down. You will be asked to enter the *server* password. If you're successful, you will see something like:
 
 ```text
 charlotte@i8mainstreet's password: 
@@ -366,13 +378,13 @@ One more useful pre-flight check: make sure there are no conflicting old Docker-
 dpkg -l | egrep 'docker|containerd|runc|podman'
 ```
 
-A couple tools I installed that were missing on the Debian install were netstat, iproute2, and polkitd (assuming you're still su, otherwise preface the command with 'sudo'):
+A couple tools I installed that were missing on the Debian install were net-tools, iproute2, and polkitd (assuming you're still su, otherwise preface the command with 'sudo'):
 
 ```bash
-apt install iproute2
-apt install netstat
-apt install polkitd
+sudo apt install -y iproute2 net-tools
 ```
+
+I also installed polkitd during my setup, but it is not normally required for a basic headless Docker server.
 
 Then, one last confirmation everything is where you need it:
 
@@ -404,53 +416,28 @@ If those behave sensibly, we’re ready to install Docker cleanly. 🙂
 
 ### Add Docker's Repository
 
-I would do this commands sequentially, not as a batch:
+1) Do first:
+
+```bash
+sudo apt update
+sudo apt install -y ca-certificates curl gnupg
+```
+
+2) Do next *(I would do these commands sequentially, not as a batch)*:
+
+---
 
 ```bash
 sudo install -m 0755 -d /etc/apt/keyrings
-curl -fsSL https://download.docker.com/linux/debian/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
-sudo chmod a+r /etc/apt/keyrings/docker.gpg
-```
-
----
-
-If gpg gave you 'conflicting command' error (it did me), then do the following
-
-1) Download the Docker GPG key as a normal file
-
-```bash
 curl -fsSL https://download.docker.com/linux/debian/gpg -o docker.asc
-```
-
-2) Convert it to the keyring file
-
-```bash
 sudo gpg --batch --yes --dearmor -o /etc/apt/keyrings/docker.gpg docker.asc
-```
-
-Then make it readable:
-
-```bash
 sudo chmod a+r /etc/apt/keyrings/docker.gpg
-```
-
-That usually avoids the pipeline-related weirdness entirely, while still following Docker’s official keyring method for Debian. If you want to be extra tidy, delete the temporary ASCII key afterward:
-
-```bash
 rm docker.asc
 ```
 
-Then we can do the repository line next, separately, in its own step. If that second command still complains, run this and show me the output:
-
-```bash
-gpg --version
-```
-
-because then I’ll want to see exactly which GnuPG variant/options Debian gave you.
-
 ---
 
-Then, add the repository:
+3) Follow with:
 
 ```bash
 echo \
@@ -459,36 +446,32 @@ echo \
   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 ```
 
-Now, to the actual install. I always do a system update before installing anything new.
+---
+
+4) Then, the actual install.
 
 ```bash
 sudo apt update
 sudo apt install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
 
-and then, test it:
+---
+
+5) Test it:
 
 ```bash
 sudo docker run hello-world
 ```
 
-If that prints the hello-world success message, Docker is alive and happy. 🐳 Since you want to be running Docker as the user, not always as root (su), you need to give the user access. Enter this exactly... do not substitute anything:
+6) Enter this exactly... do not substitute anything:
 
 ```bash
 sudo usermod -aG docker $USER
-```
-
-Then, either log out and back in, or do:
-
-```bash
 newgrp docker
-```
-
-Now, test you can use docker as user:
-
-```bash
 docker run hello-world
 ```
+
+**Membership in the docker group is powerful. Treat it almost like administrator/root access. Only add trusted users.**
 
 ---
 
@@ -574,5 +557,27 @@ In the text that scrolls down during the update, you should see something like:
 sudo apt install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
 
+---
+4) One 'known-good' final checklist to run:
+
+```bash
+hostname
+whoami
+groups
+sudo whoami
+systemctl is-active ssh
+docker --version
+docker compose version
+docker run hello-world
+```
+
+Expected output:
+
+```text
+groups includes sudo and docker   
+sudo whoami returns root   
+ssh returns active   
+docker run hello-world succeeds
+```
 
 <hr style="height:24px; border-width:0; color:green; background-color:green" />
