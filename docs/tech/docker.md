@@ -155,7 +155,7 @@ If /usr/sbin/usermod exists, run:
 /usr/sbin/usermod -aG sudo charlotte
 ```
 
-A alternate *Debian* way to do this (still as 'su') is:
+An alternate *Debian* way to do this (still as 'su') is:
 
 ```bash
 adduser charlotte sudo
@@ -239,13 +239,19 @@ Expected:
 
 ### Install SSH Server
 
-In an instance of Terminal on the server enter the following:
+In an instance of Terminal on the **Linux server** enter the following:
 
 ```bash
 hostname -I
 ```
 
-Note: *Do not run this on the Mac/client machine. macOS uses different hostname flags, and this command is intended to reveal the Debian server’s local IP address.*
+Note: *Do not run this on the Mac/client machine. macOS uses different hostname flags, and this command is intended to reveal the Debian server’s local IP address. On macOS, `hostname -I` and `ip -4 addr` are Linux commands and won’t work.*
+
+To see local network addresses on a Mac, use:
+
+```bash
+ifconfig | grep "inet " | grep -v 127.0.0.1
+```
 
 You are looking for the address that belongs to your home network. In many home networks this begins with **192.168.0.xxx** or **192.168.1.xxx**. It may also begin with **10.** or **172.16** – **172.31**, depending on your router.
 
@@ -475,90 +481,7 @@ docker run hello-world
 
 ---
 
-If you see this error:
-
-> Package docker-ce is not available
-
-almost always means the Docker repo was added, but not correctly recognised by apt. At the time I did this, on Debian 13 (trixie), Docker’s repository didn’t yet have a “trixie” release label, so this bit:
-
-> $(. /etc/os-release && echo "$VERSION_CODENAME")
-
-expanded to:
-
-> trixie
-
-…but Docker may only provide packages for:
-
-> bookworm (Debian 12)
-
-So apt saw the repo, but found no packages for trixie. This won't be a problem, eventually. 
-
----
-1) The fix is simple:
-
-```bash
-sudo nano /etc/apt/sources.list.d/docker.list
-```
-
-Find something that looks like:
-
-> deb [arch=amd64 signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/debian trixie stable
-
-Replace it with:
-
-> deb [arch=amd64 signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/debian bookworm stable
-
-Press [Ctrl]+[O], [Enter] and then [Ctrl]+[X].
-
----
-
-If you find that **/etc/apt/sources.list.d/docker.list** is empty or doesn't exist:
-
-```bash
-ls -l /etc/apt/sources.list.d/docker.list
-cat /etc/apt/sources.list.d/docker.list
-```
-
-Create the folder, then write the information into the file (do sequentially):
-
-```bash
-sudo mkdir -p /etc/apt/sources.list.d
-echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/debian bookworm stable"
-sudo tee /etc/apt/sources.list.d/docker.list
-```
-
-and then run:
-
-```bash
-cat /etc/apt/sources.list.d/docker.list
-```
-
-to verify it. If that line appears:
-
-> charlotte@i8mainstreet:~$ cat /etc/apt/sources.list.d/docker.list   
-> deb [arch=amd64 signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/debian trixie stable   
-> charlotte@i8mainstreet:~$ 
-
----
-2) Follow with a system update:
-
-```bash
-sudo apt update
-```
-
-In the text that scrolls down during the update, you should see something like:
-
-> Get: https://download.docker.com/linux/debian bookworm ...
-
----
-3) Install Docker again
-
-```bash
-sudo apt install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
-```
-
----
-4) One 'known-good' final checklist to run:
+7) One 'known-good' final checklist to run:
 
 ```bash
 hostname
