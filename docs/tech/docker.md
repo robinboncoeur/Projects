@@ -1,10 +1,12 @@
-# How to Docker
+# Docker
+
+<img src="/assets/images/tech/DFront.jpg" width="1000" align="center">
 
 ## What You'll Need
 
 ### A Computer
 
-These notes are for an installation on a used, older i5-based ex-Windows machine, running Debian 13 Server. It's purpose: to serve as a 'Cloud Server'—outward-facing—very much like iCloud or GoogleDrive, but better.
+These notes were created during an installation on a used, older i5-based ex-Windows machine, running Debian 13 Server. It's purpose: to serve as a 'Cloud Server'—outward-facing—very much like iCloud or GoogleDrive, but better.
 
 Note: *there is no GUI on this system and no monitor attached—it's not needed after the initial install.* 
 
@@ -46,19 +48,43 @@ This is easiest if done with keyboard and monitor attached. For the Raspberry PI
 <a href="/assets/images/tech/DebianServer01.jpg" target="_blank" rel="noopener">
   <img src="/assets/images/tech/DebianServer01.jpg" alt="" width="380" align="right"></a>
 
-For my Debian 13 server box, I got an el-cheapo graphics card (no fan, sips power) and borrowed a keyboard from another system. As is apparent from the image, the back of the box shows two connections: network and power. No monitor, no mouse, no keyboard. To be honest, the graphics card can be removed. It serves no purpose—everything is done remotely, via ssh. 
+For my Debian 13 server box, I got an el-cheapo graphics card (no fan, sips power) and borrowed a keyboard from another system. As is apparent from the image, the back of the box shows two connections: network and power. 
+
+No monitor, no mouse, no keyboard. 
+
+To be honest, the graphics card can be removed. It serves no purpose—everything is done remotely, via ssh. 
 
 Headless.
 
-The only thing you will need to note somewhere during the install of the operating system are:
+---
+🌿
+
+The only thing you will need to **jot down** during the install of the operating system are:
 
 * **name of the box**
 * **user name**
 * **the password** 
 
-Please note: *for the following examples, I'll use the name 'charlotte' as user/login name, and 'i8mainstreet' as server name*. I called my box by the processor name and our street. And, used an alias (*not my real name, either: one more thing for a hacker to nut out*). And, used a reasonably solid password. Your box will be outward-facing, remember.
+---
+Please note: *for the following examples, I'll use the name*: 
 
-I found with Debian 13 Server, a lot of things weren't installed, things my other Linux boxes had pre-installed, things like sudo, curl and ssh. You might want to check whether they are (do these steps one at a time):
+> **charlotte** 
+
+*as user/login name, and:*
+
+> **i8mainstreet** 
+
+*as server name. Just substitute as needed.* 
+
+---
+
+- I named my server by the processor name and our street.  
+- And, used an alias for user name (*one more thing for a hacker to nut out*).  
+- And, used a reasonably solid password. Your box will be outward-facing, remember.
+
+---
+
+I found with Debian 13 Server, a lot of things weren't installed—things my other Linux boxes had pre-installed—apps like sudo, curl and ssh. You might want to check whether they are on your installation (do these steps one at a time):
 
 ```bash
 which sudo
@@ -67,12 +93,13 @@ which gpg
 which ssh
 ```
 
-If any of these come back *without* some text below your command prompt, like:
+If any of these come back *without* some text below your command prompt, unlike:
 
-> charlotte@i8mainstreet:~$ which curl
-> /usr/bin/curl
+> charlotte@i8mainstreet:~$ **which curl**   
+> /usr/bin/curl   
+> charlotte@i8mainstreet:~$
 
-you will need to install it. You will definitely want to do this with **sudo**. You will need to act as super user (su):
+where bash tells you that 'curl' is installed in '/usr/bin/', you will need to install it. You will definitely want to do this with **sudo**. You will need to act as super user (su):
 
 ```bash
 su -
@@ -86,7 +113,7 @@ apt install sudo -y
 /usr/sbin/usermod -aG sudo charlotte
 ```
 
-where 'charlotte' is your user name on that system. *Now you see why the user name and password is important to remember*. 
+*Now you see why the user name and password is important to jot down*. 
 
 You can even install all of them as a group:
 
@@ -96,7 +123,9 @@ apt update
 apt install -y sudo ca-certificates curl gnupg openssh-server
 ```
 
-I had a problem with 'usermod'—so I had to install it (I did as su):
+---
+
+I had a problem with 'usermod'—it gave me a "not found" error—so I had to install it (I did as su):
 
 ```bash
 su -
@@ -114,8 +143,8 @@ dpkg -L passwd | grep usermod
 
 You should see:
 
-> whoami → root
-> a real file listed at /usr/sbin/usermod
+> whoami → root  
+> a real file listed at /usr/sbin/usermod  
 > dpkg -L passwd → /usr/sbin/usermod
 
 If /usr/sbin/usermod exists, run:
@@ -136,7 +165,11 @@ You will need to reboot the system for these changes to take effect. Since you'r
 systemctl reboot
 ```
 
-Note: *in the past, I used "shutdown -r now" to reboot.*
+---
+
+Note: *in the past, I used* **shutdown -r now** *to reboot.*
+
+---
 
 After you've logged in again, test whether **sudo** is working:
 
@@ -146,7 +179,7 @@ sudo whoami
 
 You will need to enter the system password. You should see:
 
-> [sudo] password for charlotte: 
+> [sudo] password for charlotte:   
 > root
 
 'root' is the default super user name on Linux systems.
@@ -157,6 +190,7 @@ You will need to enter the system password. You should see:
 
 By the way, sometimes you should see output after entering a command, like **sudo whoami**. If you see nothing, something needs fixing. But, that's not always the case. Sometime you will run a command, and you will simply see the command prompt again: nothing will seem to have happened. In these cases, it meant the command ran successfully—any output would have been an error message... a case of "no news is good news".
 
+🌸
 <hr style="height:2px; border-width:0; color:pink; background-color:pink" />
 
 
@@ -186,6 +220,7 @@ Expected:
 
 > root
 
+🌸
 <hr style="height:2px; border-width:0; color:pink; background-color:pink" />
 
 
@@ -264,8 +299,7 @@ systemctl status ssh
 What's nice about this is that it will remain enabled by default. Even better: you won't have to manually key in each command (*even though sys-admins will tell you it's good practice: True*)... you can use [Ctrl]+[C] => [Ctrl]+[V]. Copy => paste.
 
 🌺
-
-<hr style="height:4px; border-width:0; color:black; background-color:green" />
+<hr style="height:6px; border-width:0; color:black; background-color:green" />
 
 
 
@@ -312,7 +346,8 @@ charlotte@i8mainstreet:~$
 
 Yay! Good work!
 
-<hr style="height:4px; border-width:0; color:green; background-color:green" />
+🌺
+<hr style="height:6px; border-width:0; color:green; background-color:green" />
 
 
 
@@ -361,6 +396,7 @@ So your pre-Docker checklist is now looking very healthy:
 
 If those behave sensibly, we’re ready to install Docker cleanly. 🙂
 
+🌸
 <hr style="height:2px; border-width:0; color:pink; background-color:pink" />
 
 
@@ -537,255 +573,6 @@ In the text that scrolls down during the update, you should see something like:
 ```bash
 sudo apt install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
-
-—
-
-<hr style="height:2px; border-width:0; color:pink; background-color:pink" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ssh celestesh@i5seabrae
-
-
-portainer pw Fl3d3r.Bl0us3s
-
-
-
----
-
-
-## Next Steps
-
-[NextCloud](https://github.com/nextcloud/all-in-one#nextcloud-all-in-one)
-
-
-
-<hr style="height:4px; border-width:0; color:black; background-color:green" />
-
-
-
-
-
-
-
-
-
-## Context Summary
-
-Of course, Robyn 😊 — and you’ve earned a clean handover. This has been a *proper* build.
-
-Here’s a concise but complete context summary you can drop into a new thread:
-
----
-
-## 🧭 System Setup Context Summary (Debian + Docker + Tailscale + Portainer)
-
-### 🖥️ Host System
-
-* Fresh install of **Debian 13 (Trixie)**
-* Minimal install (no desktop environment)
-* User: `celestesh` (non-root, added to `sudo` and `docker` groups)
-* Access via:
-
-  * Local CLI
-  * SSH (preferred)
-
----
-
-### 🔐 Core System Configuration
-
-* `sudo` manually installed and configured
-* SSH installed and enabled:
-
-  ```bash
-  systemctl enable --now ssh
-  ```
-* SSH confirmed active on **port 22**
-
----
-
-### 🌐 Remote Access (Tailscale)
-
-* Installed via script:
-
-  ```bash
-  curl -fsSL https://tailscale.com/install.sh | sudo sh
-  ```
-* Node authenticated and visible on tailnet
-* Hostname: `i5seabrae`
-* Tailscale IP: `100.114.231.3`
-* Reachable via:
-
-  ```bash
-  ssh celestesh@i5seabrae
-  ```
-
----
-
-### 🐳 Docker Installation
-
-* Installed via official Docker repo
-* Required manual fix:
-
-  * Created `/etc/apt/sources.list.d/docker.list` explicitly
-* Packages installed:
-
-  * `docker-ce`
-  * `docker-ce-cli`
-  * `containerd.io`
-  * `docker-buildx-plugin`
-  * `docker-compose-plugin`
-* Verified with:
-
-  ```bash
-  docker run hello-world
-  ```
-* User added to Docker group:
-
-  ```bash
-  sudo usermod -aG docker $USER
-  ```
-
----
-
-### 📁 Directory Structure
-
-Created under home:
-
-```bash
-~/docker/
-  ├── portainer/
-  └── stacks/
-```
-
-Used for:
-
-* container configs
-* compose stacks
-* persistent data
-
----
-
-### 🧰 Portainer Setup
-
-* Deployed via Docker:
-
-```bash
-docker volume create portainer_data
-
-docker run -d \
-  --name portainer \
-  --restart=always \
-  -p 8000:8000 \
-  -p 9443:9443 \
-  -v /var/run/docker.sock:/var/run/docker.sock \
-  -v portainer_data:/data \
-  portainer/portainer-ce:latest
-```
-
-* Accessed via browser:
-
-  ```
-  https://<tailscale-ip>:9443
-  ```
-* Initial setup completed:
-
-  * Admin account created
-  * Local Docker environment connected
-
----
-
-### 🧠 Current System State
-
-* Fully functional **headless Docker host**
-* Secure remote access via Tailscale
-* Container management via Portainer UI
-* Clean, minimal, and stable base
-
----
-
-### 🧭 Next Logical Steps (not yet done)
-
-* Deploy first test stack (e.g. `whoami`)
-* Consider reverse proxy (e.g. Nginx Proxy Manager)
-* Possibly migrate services (e.g. Nextcloud from Pi → Docker host)
-* Organise container data under `~/docker/`
-
----
-
-### 💡 Notes
-
-* System is intentionally minimal — some utilities had to be installed manually (`sudo`, `curl`, `gnupg`, `net-tools`)
-* Early issues encountered:
-
-  * missing `sudo`
-  * `gpg` pipeline error → solved with 2-step method
-  * Docker repo file not created → manually written
-  * `pkttyagent` error → bypassed using root (`su -`)
-* All resolved cleanly
-
----
-
-### 🌿 Summary
-
-A fresh Debian system was successfully transformed into a:
-
-* secure
-* remotely accessible
-* container-ready
-* GUI-managed (Portainer)
-
-Docker host with a clean and scalable structure.
-
----
-
-When you come back, we can pick up from:
-👉 first stack deployment
-👉 reverse proxy
-👉 or service design
-
-Enjoy the writing — you’ve absolutely earned that shift in gears ✨
-
-<hr style="height:4px; border-width:0; color:green; background-color:green" />
-
-
-
-
-
-
-## Setting up NextCloud
-
-### the env file
-MYSQL_ROOT_PASSWORD=Th3D33p3nd
-MYSQL_PASSWORD=D33p3ndCl0ud
-NEXTCLOUD_ADMIN_USER=celestesh
-NEXTCLOUD_ADMIN_PASSWORD=Fl3d3r.M2us
-
----
-
-celestesh - Fl3d3r.M2us
-192.168.0.134
-
----
-
-sudo tailscale up
-celestesh@i5Seabrae:~/docker$ sudo tailscale up
-
-To authenticate, visit:
-
-	https://login.tailscale.com/a/de297ed014a76
-
 
 
 <hr style="height:24px; border-width:0; color:green; background-color:green" />
