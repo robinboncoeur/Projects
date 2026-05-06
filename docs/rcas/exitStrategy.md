@@ -1,7 +1,16 @@
-**Updated: Apr-2026**.
+# Exit Strategy
 
-Everything I publish here is my own original work. You’re welcome to download and share with attribution.
-That sounds like exactly the right read of the room, Robyn. 🌿
+🌺
+<hr style="height:6px; border-width:0; color:green; background-color:green" /> 
+
+
+
+
+
+
+## Discussion
+
+**Updated: Apr-2026**   
 
 The treasurer is the natural ally here because she will see the booking app not as “nice little tech thing Robyn built,” but as **revenue infrastructure**. Once the workbook starts making billable hours visible, consistent, and traceable, the maintenance conversation becomes much easier.
 
@@ -23,29 +32,31 @@ And yes — waiting until the first round of teething issues has surfaced is sen
 
 The v.2 folder was not pessimism. It was prudence.
 
-## I’d treat this as a staged transition
+### I’d treat this as a staged transition
 
 Not a big dramatic handover yet. More like:
 
-### Stage 1 — Bed-in period
+#### Stage 1 — Bed-in period
 
 You quietly fix bugs, watch how real users interact with it, and keep notes.
 
-### Stage 2 — Stabilised v.2
+#### Stage 2 — Stabilised v.2
 
 You fold in the most important fixes and any essential workflow improvements.
 
-### Stage 3 — Admin handover
+#### Stage 3 — Admin handover
 
 Two RCAS people learn routine operation.
 
-### Stage 4 — Maintenance plan
+#### Stage 4 — Maintenance plan
 
 The committee identifies an external maintainer or agrees on a small budget line for occasional support.
 
 That way, you are not dumping complexity on a new president while she is cleaning up governance rubble.
 
-## The governance context matters
+---
+
+### The governance context matters
 
 A former admin style of laissez-aller plus micromanagement plus autocracy is a spectacularly toxic blend. It usually leaves behind exactly the sort of mess where systems are half-informal, half-overcontrolled, undocumented, person-dependent, and weirdly fragile.
 
@@ -63,7 +74,9 @@ That is genuinely important.
 
 But it also means people may emotionally treat the system as rescue. That is where your boundary will matter later.
 
-## For now, I’d keep a quiet “maintenance evidence log”
+---
+
+### Maintenance Evidence Log
 
 Nothing grand. Just a private note somewhere:
 
@@ -81,7 +94,9 @@ This becomes useful later when you say:
 
 It gives the conversation substance. Not “Robyn feels burdened,” but “Here is what ongoing maintenance actually looks like.”
 
-## The moment to raise it formally
+---
+
+### The moment to raise it formally
 
 I’d wait until you can say:
 
@@ -95,7 +110,9 @@ And with the treasurer, you can frame it in her language:
 
 That phrase — **revenue infrastructure** — is probably the key.
 
-## A gentle warning
+---
+
+### A gentle warning
 
 Even while letting the dust settle, don’t let “temporary support” silently become the permanent arrangement.
 
@@ -111,6 +128,8 @@ That keeps the support window named, even if loosely.
 
 You’ve done the generous thing. Now the next generous thing is making sure the system can outlive your direct involvement. That is not withdrawing care; it is making the care durable. ✨
 
+🌺
+<hr style="height:4px; border-width:0; color:green; background-color:green" /> 
 
 
 
@@ -119,20 +138,7 @@ You’ve done the generous thing. Now the next generous thing is making sure the
 
 
 
-
-## Other stuff
-
-UUID=7f363d42-41de-4225-b1a7-27d972925268  /mnt/cloudbackup  ext4  defaults,nofail  0  2
-
-
-
-
-
-
-
-
-
-RCAS BOOKINGS LAPTOP
+## RCAS BOOKINGS LAPTOP
 
 Use this laptop only for RCAS bookings.
 
@@ -151,3 +157,6 @@ Do not change Google account settings.
 Do not delete files from Google Drive.
 
 If something goes wrong, take a photo of the screen and email Robyn.
+
+🌺
+<hr style="height:24px; border-width:0; color:green; background-color:green" />

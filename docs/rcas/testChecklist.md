@@ -3,7 +3,8 @@
 
 ## Checklist
 
-<img src="/assets/images/docimgs/260331aa.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+<img src="/assets/images/rcas/Logo-RCASsm.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 
 ---
@@ -11,8 +12,6 @@
 ### ✅ Clean Testing Sequence
 
 Here’s a practical, no-nonsense checklist you can work through. Think of it as: `Will this App survive real humans?` 😄 
-
-The picture is there to remind us not all we see is real. 🙄 I need to keep that in mind when I code. 😶‍🌫️
 
 ---
 

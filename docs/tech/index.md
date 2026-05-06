@@ -1,16 +1,5 @@
 # Anything Tech
 
-## Index
-
-💻  [ ⇨ Linux](/tech/Linux.md)  
-💻  [ ⇨ Markdown](/tech/Markdown.md)  
-💻  [ ⇨ Miscellanae](/tech/OStuff.md)  
-💻  [ ⇨ Network](/tech/Network.md)  
-💻  [ ⇨ Python](/tech/Python.md)  
-💻  [ ⇨ PC Repair](/tech/Repair.md)  
-
----
-
 [Main Page](../index.md)
 
 <hr style="height:8px;border-width:0;color:black;background-color:black">
@@ -21,47 +10,34 @@
 
 
 
-## Foreword
-
-**Originally:**  
-Some time ago, I wanted to email some pictures to Martin and Esther: this was on 2022-Apr-15. Got about halfway through and Gmail told me I would exceed the size limit (25mb). Which seems silly in this day and age: this was without trying to send a video, even. Just pictures. Note: nowadays if you exceed the size limit, it plops the attachment on your GoogleDrive with a link, and does it seamlessly, but that's now. Back then, it wasn't quite so easy.
-
-So, which solutions to try?
-
-I decided tightbytes.com would act as my public file server via Github, using Cloudflare to create static web pages. What appealed about doing project progress sharing this way was:
-
-- I could share a LOT of information about projects quickly  
-- The information was hidden in obscurity of "no-one gives a rat's nether-regions about what I'm doing". Have a look at [my website: Tightbytes.com](https://www.tightbytes.com). Visitors? none.  
-- Updating was a lot quicker on GitHub than on Tightbytes: I would edit locally in Brackets, then use Sphinx/Make-the-Docs to make the static HTML pages, and Github Desktop to manage the update to GithubPages.  
-- Since the pages were hosted on GitHub, other family and friends could collaborate on this pages, and even add pages of their own.
-
-Time moves on. I got a notification from Hostinger my next 2-year subscription was going to set me back AUD $546.00 - (USD#359.00 / 48 months).
-
-It was time to rethink things, including how the pages are created and maintained. 
-
-Sphinx/ReadTheDocs was more trouble than benefit: in essence it was using a wrench as a hammer. So, began migrating the 'Projects' site from AllHelp (Sphinx/ReadTheDocs - ReST) to markdown (MkDocs), hosted on Cloudflare. I would upload files and images to my github site (free) and then Cloudflare would dynamically create the webpages.  
-There are (and will be) subdomains for all the old Help pages: projects.tightbytes.com, art.projects.com, appmgr.tightbytes.com, keys2life.tightbytes.com and so on.
-
-<hr style="height:4px;border-width:0;color:black;background-color:black">
-
-
-
-
-
-
 
 ## Update Log
 
+Update 2026.05.06:
+
+- added docker.md to 'Tech'
+
+---
+
+Update 2026.03.24:
+
+- added 'RCAS'
+- added notes on developing for Google Apps in javascript in 'RCAS'
+
+---
 Update 2025.10.29:  
-- added Person2.md to the visual folder
+- added Person2.md to the 'Visual' folder
 - splintering Blog2025 into months ... Sep2025 / Oct2025
 
+---
 
 Update 2025.10.24:  
 - changed garden and blog post order to oldest at the top, newest at the bottom  
 - Splintered out Blogs and Garden by year  
 - Started migrating entries in the old wordpress-based tightbytes site into this 'projects' site  
 - Shrank image size, turning images into clickable links
+
+---
 
 Update 2025.10.10: **NOT** using this css:
 
@@ -108,6 +84,34 @@ Update 2025.08.21: Migrating 'Projects' site from AllHelp (ReST) to markdown (Mk
 Still not sure what to do about that.
 
 There will be subdomains for the Help (and other) pages: projects.tightbytes.com, appmgr.tightbytes.com, keys2life.tightbytes.com and so on.
+
+<hr style="height:4px;border-width:0;color:black;background-color:black">
+
+
+
+
+
+
+## What This Is About
+
+**Originally:**  
+Some time ago, I wanted to email some pictures to Martin and Esther: this was on 2022-Apr-15. Got about halfway through and Gmail told me I would exceed the size limit (25mb). Which seems silly in this day and age: this was without trying to send a video, even. Just pictures. Note: nowadays if you exceed the size limit, it plops the attachment on your GoogleDrive with a link, and does it seamlessly, but that's now. Back then, it wasn't quite so easy.
+
+So, which solutions to try?
+
+I decided tightbytes.com would act as my public file server via Github, using Cloudflare to create static web pages. What appealed about doing project progress sharing this way was:
+
+- I could share a LOT of information about projects quickly  
+- The information was hidden in obscurity of "no-one gives a rat's nether-regions about what I'm doing". Have a look at [my website: Tightbytes.com](https://www.tightbytes.com). Visitors? none.  
+- Updating was a lot quicker on GitHub than on Tightbytes: I would edit locally in Brackets, then use Sphinx/Make-the-Docs to make the static HTML pages, and Github Desktop to manage the update to GithubPages.  
+- Since the pages were hosted on GitHub, other family and friends could collaborate on this pages, and even add pages of their own.
+
+Time moves on. I got a notification from Hostinger my next 2-year subscription was going to set me back AUD $546.00 - (USD#359.00 / 48 months).
+
+It was time to rethink things, including how the pages are created and maintained. 
+
+Sphinx/ReadTheDocs was more trouble than benefit: in essence it was using a wrench as a hammer. So, began migrating the 'Projects' site from AllHelp (Sphinx/ReadTheDocs - ReST) to markdown (MkDocs), hosted on Cloudflare. I would upload files and images to my github site (free) and then Cloudflare would dynamically create the webpages.  
+There are (and will be) subdomains for all the old Help pages: projects.tightbytes.com, art.projects.com, appmgr.tightbytes.com, keys2life.tightbytes.com and so on.
 
 <hr style="height:4px;border-width:0;color:black;background-color:black">
 

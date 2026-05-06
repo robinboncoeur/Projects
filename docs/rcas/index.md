@@ -1,8 +1,10 @@
 # Redlands Coast Art Society
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+🌹
 
-🌹🌼🌹 [Documentation v0.1](BookingDoc.md)  
+<hr style="height:4px; border-width:0; color:blue; background-color:blue" />
+
+🌼 [Documentation v0.1](BookingDoc.md)  
 
 
 
@@ -135,5 +137,6 @@ The system is designed to:
 - make state changes explicit
 - support confident decision-making
 
+🌹
 
-<hr style="height:24px;border-width:0;color:blue;background-color:blue">
+<hr style="height:24px; border-width:0; color:blue; background-color:blue" />
