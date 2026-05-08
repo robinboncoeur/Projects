@@ -1,6 +1,6 @@
 # Docker
 
-<img src="/assets/images/tech/DFront.jpg" width="1000" align="center">
+<img src="/assets/images/tech/Dfront.jpg" width="1000" align="center">
 
 ## What You'll Need
 
