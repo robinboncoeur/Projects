@@ -90,6 +90,7 @@ nav:
       - tech/index.md
       - Browser: tech/browser.md
       - Docker: tech/docker.md
+      - Docker-Restore: tech/docker-restore.md
       - Linux: tech/Linux.md
       - Markdown: tech/Markdown.md
       - Miscellanae: tech/OStuff.md
