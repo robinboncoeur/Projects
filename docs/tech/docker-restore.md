@@ -1,10 +1,10 @@
 # ComfyUI Docker Restore Notes
 
 ## Files
-- robyn-comfyui-cu128-py312.tar.gz
-- comfyui-data-backup.tar.gz
-- docker-compose.yml
-- start.sh
+- robyn-comfyui-cu128-py312.tar.gz   
+- comfyui-data-backup.tar.gz   
+- docker-compose.yml   
+- start.sh   
 
 ## Restore Procedure
 
@@ -33,6 +33,8 @@ tar -xzf comfyui-data-backup.tar.gz
 ```
 
 ### 4. Start container
+
+Note: *might want to run it the first time without the -d, to watch for errors*.
 
 ```bash
 docker compose up -d
