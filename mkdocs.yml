@@ -42,11 +42,6 @@ nav:
       - Pappa's Account: family/pappa1.md
       - Translation Notes: family/pappa2.md
 
-  - Blogs:
-      - blogs/index.md
-      - Blog 2022: blogs/Blog22.md
-      - Blog 2024: blogs/Blog24.md
-
   - Other:
       - other/index.md
       - Foodie: other/Foodie.md
