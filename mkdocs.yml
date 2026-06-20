@@ -37,27 +37,15 @@ extra_css:
 nav:
   - Home: index.md
 
-  - apps:
-      - apps/index.md
-      - TxnTrk Apr 13: apps/TxnTracker01.md
-      - TxnTrk Apr 14: apps/TxnTracker02.md
-
-  - Blogs:
-      - blogs/index.md
-      - Blog 2022: blogs/Blog22.md
-      - Blog 2024: blogs/Blog24.md
-
   - Family:
       - family/index.md
       - Pappa's Account: family/pappa1.md
       - Translation Notes: family/pappa2.md
 
-  - Music:
-      - music/index.md
-      - Harmony: music/Harmony.md
-      - Sketches: music/Sketches.md
-      - Transcriptions: music/Transcript.md
-      - Violins: music/Violins.md
+  - Blogs:
+      - blogs/index.md
+      - Blog 2022: blogs/Blog22.md
+      - Blog 2024: blogs/Blog24.md
 
   - Other:
       - other/index.md
