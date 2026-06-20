@@ -1,60 +1,51 @@
 # My Projects
 
-## Links
 
-**Note:** *This is a temporary measure for access to the site for readers on a phone or tablet. I need to get the banner resizing properly. Hopefully soon: in the meantime, here's links to the main pages.*
+[![Old Kaimu][Br02]{ .artC width="1100" }][Br02]
 
----
 
-[Family](/family/index.md/)  
-[ ⇨ Pappa's Account](/family/pappa1.md)
+<hr class="section-break strong" />
 
----
 
-<a href="/assets/images/misc/02music05.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/misc/02music05.jpg" alt="Where" width="200" align="right"></a>
 
-[Music](/music/index.md/)  
-🌸🌸🌹 [ ⇨ Harmony](/music/Harmony.md)  
-🌸🌹🌸 [ ⇨ Sketches](/music/Sketches.md)  
-🌹🌸🌸 [ ⇨ Violin Care](/music/Violins.md)  
-🌸🌹🌸 [ ⇨ Transcriptions](/music/Transcript.md)  
-🌸🌸🌹   
 
----
 
-<a href="/assets/images/misc/03garden08.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/misc/03garden08.jpg" alt="We" width="200"align="right"></a>
 
-[Other](/other/index.md/)  
-🌸🌹🌸 [ ⇨ Foodle](/other/Foodie.md)  
-🌹🌸🌹 [ ⇨ Garden21](/other/Garden21.md)  
-🌼🌹🌼 [ ⇨ Garden22](/other/Garden22.md)  
-🌹🌼🌹 [ ⇨ Garden25](/other/Garden25.md)  
-🌸🌹🌸 [ ⇨ Health](/other/Health.md)     
-🌹🌸🌹 [ ⇨ Stuff that Matters](/other/Matter.md)  
 
----
+##  Welcome 😊
 
-<a href="/assets/images/misc/04pc09.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/misc/04pc09.jpg" alt="Go" width="200"align="right"></a>
+This is a site collecting often-used strategies, as well as a central meeting place for cooperative work.
 
-[Tech](/tech/index.md/)  
-💻  [ ⇨ Browser](/tech/browser.md)  
-💻  [ ⇨ Linux](/tech/Linux.md)  
-💻  [ ⇨ Markdown](/tech/Markdown.md)  
-💻  [ ⇨ Miscellanae](/tech/OStuff.md)  
-💻  [ ⇨ Network](/tech/Network.md)  
-💻  [ ⇨ Python](/tech/Python.md)  
-💻  [ ⇨ PC Repair](/tech/Repair.md)  
 
----
+### The Technology
 
-<a href="/assets/images/misc/05blog08.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/misc/05blog08.jpg" alt="Next?" width="160"align="right"></a>
+The visual work here was created using ComfyUI, a node-based Stable Diffusion interface to vision models. The vision models are designed for creating images based on a text prompt, or in some cases, another image. This gives me the flexibility to build, test, revise, and refine images as part of the storytelling process. 
 
-[Blogs](/blogs/index.md/)  
-🌹🌼🌹 [ ⇨ Blogposts 2022](/blogs/Blog22.md)  
-🌹🌼🌹 [ ⇨ Blogposts 2024](/blogs/Blog24.md)   
 
-<hr style="height:20px;border-width:0;color:blue;background-color:blue">
+[![Robyn asking Emily writing tips][St00]{ .artR width="260" }][St00]
+
+
+The text is accompanied by audio files of the narration, recorded for the most part in ElevenLabs, a state-of-the-art Text-To-Speech audio file generator. The audio files are embellished by short clips of the sort of music that provided the emotional atmosphere when I wrote. 
+
+The music was created by transcribing notes from musical scores (PDFs) into MuseScore, then rendering and refining the result in Reaper, a digital audio workstation. I only use public-domain or otherwise permissible source material: the musical scores.
+
+Large Language Models are a central part of my creative workflow—not as a substitute for imagination, but as a demanding collaborator: useful for research, structure, revision, and turning rough language into clean, enjoyable prose.
+
+<hr class="section-break strong" />
+
+
+
+
+
+<!--  Image references  -->
+
+[Br02]: assets/images/base/Bnr02c.jpg
+[St00]: assets/images/base/00Writer.jpg
+
+
+<!--
+
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
+
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
+/-->

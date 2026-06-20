@@ -31,7 +31,8 @@ theme:
     - content.code.copy
 
 extra_css:
-  - assets/css/custom.css
+  - stylesheets/custom.css
+  - stylesheets/extras.css
 
 nav:
   - Home: index.md
@@ -66,6 +67,7 @@ nav:
       - Garden25: other/Garden25.md
       - Health: other/Health.md
       - Matter: other/Matter.md
+      - Refuse: other/Refusal.md
 
   - RCAS:
       - rcas/index.md

@@ -1,6 +1,18 @@
 # Translation Notes
 
 
+[![Kaimu][Br02]{ .artC width="1100" }][Br02]
+
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+
 ## Start of Project
 
 **[ 4 Jul 2025 ]**  
@@ -27,7 +39,7 @@ Additional steps will include:
 
 We will have to subsequently realign the document pages into some sort of logical order. This will require a collaborative effort.
 
-<hr style="height:8px;border-width:0;color:navy;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -38,7 +50,7 @@ We will have to subsequently realign the document pages into some sort of logica
 
 Some images are over-exposed through the scanning process. The bright light of the scanner makes both sides of the page visible in the resulting .png image: this undermines legibility. Also, the typed documents (P1.png through P3.png) were not centred properly when they were scanned and so portions of words are missing.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -53,7 +65,7 @@ Some images are over-exposed through the scanning process. The bright light of t
 * The first images (P1, P2, P3 and P3plus) are all typed. However, the scan was not well-centred and cut off words on the right margin. Below, I have noted which words appear to be cut off with "-[cut-off word]".  
 * Issues with P14 and P14plus, cut-off words and scanned text hard to make out. Needs to be photographed, and centred properly.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -73,7 +85,7 @@ The sentence: 'Ein Urbaier in Lederhosen, seine Frau – in wir Jungens sofort a
 
 At least Gemma tries to explain her reasoning, which is a step up from the hallucinations of LLMs such as older versions of ChatGPT or even DeepSeek-v1, which also 'explained' its thought-process, however erroneous it turned out to be.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -92,7 +104,7 @@ I've decided the image downloads would be quicker - and the page would *'weigh'*
 - Pages 35 through 46 appear at first blush to be private correspondence between Dad and Mom... not sure how appropriate it would be to enter this private stuff. Even the stuff on P31 is a bit... iffy.  
 I'm going to start with running some of these entries through Gemma3 after reviewing them again. I've taken to surrounding words I'm not sure about with square brackets: '[ ]'. I've also replaced most of the .pngs with .jpgs for faster load times.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -107,7 +119,7 @@ Did a fair bit of translating today:
 [1945: Dortmund](/family/pappa1.md/#1945-dortmund)  
 [1946: Herbst](/family/pappa1.md/#1946-herbst)  
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -152,7 +164,7 @@ Jeden Sonntag traf sich eine Gruppe junger Leute in Weißenfels am sogenannten I
 Der Flugapparat, mit dem sich die Jungen den ganzen Tag abmühten, war eine Grunau 9. Das Ding flog tatsächlich. Kurtchen strengte sich zwar an, stets senkrecht zu stehen, nur wurde er immer übersehen. Er war eben zu klein und hatte noch nicht das richtige Gewicht.  
 Im nächsten Frühjahr bekamen sie einen neuen Fluglehrer. In der Mittagspause fragte er, wer von euch ist der 'Hahn Kurt'? Dieser Herr Münch war ein Arbeitskollege meines Vaters in den Leunawerken. Ein "Urlauber" in Lederhosen, seine Frau – in wir Jungens sofort alle verliebten – kam jeden Sonntag mit.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -165,7 +177,7 @@ Im nächsten Frühjahr bekamen sie einen neuen Fluglehrer. In der Mittagspause f
 
 In receipt of the physical documents. I have begun restructuring the translation page to reflect chronology vs image sequence. Some of the chronology of events we will have to determine contextually: we probably won't know exact dates for certain entries.
 
-<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -192,7 +204,7 @@ So no, AI isn't going to replace us any time soon. If ever.
 
 BTW, that exchange between him and his dad over the waiver revealed where Dad got his sarcasm from.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -204,13 +216,14 @@ BTW, that exchange between him and his dad over the waiver revealed where Dad go
 
 Did a bit of shuffling based on date and even more: context. So, moved 2 entries into 1939, and also 1940. Just did a quick translation... needs to be read more carefully for accuracy.
 
-<hr style="height:2px;border-width:0;color:red;background-color:red">
+<hr class="section-break soft" />
 
 
 
 Took out this bit from [1946: Herbst](/family/pappa1.md/#1946-herbst):
 
-*Faithful translation An autumn of hunger. O dear reader, do you know what hunger is? My Hunger is written with a capital letter. It pulls through your guts. Yes, hunger hurts. It is a pain very close to your soul.  
+*Faithful translation*   
+An autumn of hunger. O dear reader, do you know what hunger is? My Hunger is written with a capital letter. It pulls through your guts. Yes, hunger hurts. It is a pain very close to your soul.  
 
 “Give us this day our daily bread.” There isn’t even a single crust. In the morning you get up and first have to sit on the edge of the bed. It goes black before your eyes and it takes a while before you can stand. The shirt sticks to your body. From the nights you’ve sweated. Whoever has ever eaten his bread with tears, whoever sat weeping through sorrowful nights on his bed—he does not know you, you heavenly powers.  
 
@@ -222,7 +235,7 @@ Keeping the literary version, for now. Now that I have the actual hard copy, wil
 
 "Köter" is a perjorative word for a dog: similar to the English "mutt" or "cur", dog of mixed breed.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -248,7 +261,7 @@ Done:
 Plan:  
 - Going to a stationery shop to pick up a "display book" to house the original document pages.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -282,10 +295,8 @@ Daheim, da ist nichts. "At home is... nothing."" Says it all.
 [Emily's note]  
 *Here’s a clean English translation that keeps the tone and the “diary” feel, while also respecting the colloquial bits (and a couple of places where your source text is clearly misspelled or uncertain)*:
 
----
 *(smoothed, natural)*
 
----
 [Further observations - to discuss]  
 *Notes on likely originals (so you can sanity-check the reading)*
 
@@ -373,7 +384,7 @@ If you want it **more polished but same meaning**, it could be:
 
 **On document tone, here's Emily's view on Dad's verbiage.**
 
-[Emily]  
+[Emily]   
 A couple of small calibrations:
 
 * **Scheißkopf / Schweinskopf**: in English register, **“arsehole”** is often the closest *social* equivalent (as you put it), because it lands as a blunt character judgement rather than a quirky literal image. **“Shithead”** is also a very direct match when you want the childish/crude sting to stay audible.
@@ -400,6 +411,7 @@ Both are faithful — they just make different choices about how much literal cr
 ---
 
 If the text is a diary, the *whole point* is that it doesn’t self-edit. The rough edges aren’t decorative; they’re evidence. If you want to keep it “as written” but also make it defensible to a reader who might flinch, there are a couple of tidy ways to frame it without sanitising the translation itself:
+
 
 
 
@@ -442,7 +454,7 @@ But if your instinct is “no, the crudity belongs in the voice,” I’d stick 
 
 If you paste the full entry once you’ve checked the hard copy (especially the missing noun after “Schon am ersten Tag hatten wir ein…”), I can produce a single, unified translation in consistent diary voice — and then a *side-by-side* sanitized alternative for those who might insist on it, without changing your preferred version.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -499,7 +511,7 @@ Quick notes on a few oddities (dialect / spelling / likely intended meaning)
 [Emily]  
 If you paste the sentence around “Nur eben Uwe ließ mich nicht fliegen E * zwei Uhr…” exactly as it appears in the manuscript (even if messy), I can tighten that one paragraph further — that’s the one spot where a couple of stray characters make it hard to be 100% sure of the intended grammar.
 
-<hr style="height:2px;border-width:0;color:red;background-color:red">
+<hr class="section-break soft" />
 
 
 
@@ -522,7 +534,7 @@ Small notes (for later decisions)
 [Emily]  
 If you want a slightly grittier version that keeps more of his clipped German rhythm (less “polished English”), tell me and I’ll do an alternate pass.
 
-<hr style="height:2px;border-width:0;color:red;background-color:red">
+<hr class="section-break soft" />
 
 
 
@@ -548,14 +560,13 @@ Totally fair to be puzzled — the passage reads like a half-remembered snapshot
 
 Below is a translation that keeps the voice, and I’ll bracket the garbled words with my best reconstruction.
 
-<hr style="height:2px;border-width:0;color:red;background-color:red">
+<hr class="section-break soft" />
 
 
 
 #### What I think
-*the “mystery words” probably are*
+*the “mystery words” probably are:*  
 
----
 1) “Standanim???”
 
 This really looks like a misread of something like:
@@ -566,7 +577,6 @@ This really looks like a misread of something like:
 So I’d render the first sentence confidently as:
 * “Yes, that was the skyline (panorama) of Neiße.”
 
----
 2) “an der Staumauer??? … erinnern”
 * This part is solid: he remembers two towers and the dam (Staumauer). There really was a dam/reservoir near Nysa (Neisse), so this tracks.
 
@@ -575,7 +585,7 @@ So I’d render the first sentence confidently as:
 * “Und an die FW 190 …” (“And [I remember] the FW 190…”)
 
 -or-
-* “Ich erinnere mich an die FW 190 …”
+* “Ich erinnere mich an die FW 190…”
 
 In other words: the important content is the FW 190 emergency landing on a frozen lake — the garble is just the lead-in.
 
@@ -591,7 +601,7 @@ This reads like a postwar/late-war escape vignette:
 * He believes the crew are German (and they probably are), but the presence of a Russian officer suggests the train is under Soviet control/inspection, or transporting personnel, or moving through a zone where Soviet officers ride/carry authority.
 * The railwaymen “don’t see him” because acknowledging him is dangerous: helping could be punished, and denouncing might also backfire. So everyone acts blind.
 
-That last line (“If K had known what awaited him at the terminal…”) is a classic setup for arrest / interrogation / detention / forced labor / being handed over.
+That last line (“If K had known what awaited him at the terminal…”) is a classic setup for arrest / interrogation / detention / forced labour / being handed over.
 
 ---
 
@@ -607,10 +617,10 @@ Then he looked over the edge — and met a Russian officer’s fists.
 
 If you can, type the first line exactly as it appears in the manuscript (even if it looks wrong): “Standanim” might become instantly obvious from the handwriting (e.g., “Stadtanblick”). And if you can recover the cut-off after “Türm-”, I can make that opening image really crisp.
 
-<hr style="height:2px;border-width:0;color:red;background-color:red">
+<hr class="section-break soft" />
 
 
-Absolutely — and with this second part, the scene snaps into focus. He’s describing a **post-war rail yard full of liberated (or being transferred) concentration-camp prisoners and POWs**, under chaotic handover conditions, and he’s trying to **pass as one of the “hopeless” prisoners** to avoid being singled out by Soviets/guards/railway authority. It’s grim, but it *is* coherent.
+With this second part, the scene snaps into focus. He’s describing a **post-war rail yard full of liberated (or being transferred) concentration-camp prisoners and POWs**, under chaotic handover conditions, and he’s trying to **pass as one of the “hopeless” prisoners** to avoid being singled out by Soviets/guards/railway authority. It’s grim, but it *is* coherent.
 
 Below is a careful English translation, preserving his blunt, autobiographical cadence. I’ll keep the odd spellings as your dad’s, but I’ll translate the intended meaning. Where a word is garbled (like *Heinitrumsor???*), I’ll mark it and suggest what it might be.
 
@@ -687,20 +697,18 @@ So the text is not random: it’s a survival manoeuvre in a volatile post-surren
 
 ---
 
-[Emily]  
+[Emily]   
 Here’s the **same literal-ish, jagged** style for the *first half* (train/tender/Russian officer), keeping his pacing and his slightly clipped, observational rhythm. I’ll keep the uncertain manuscript bits bracketed.
 ...and...   
 Here’s a **more literal, jagged** version that stays closer to his sentence order, repetition, and the slightly breathless “I’m remembering this as I write it” cadence. I’ll still make it intelligible English, but I won’t smooth away his edges.
 
-<hr style="height:2px;border-width:0;color:red;background-color:red">
+<hr class="section-break soft" />
 
 
 
 #### Literal-ish English
 ##### First half
 (closer to his German)
-
----
 
 Yes, that was the **[city view / skyline]** of Neiße. Five months earlier he had flown over it. He could still remember exactly the two tower—**[cut off]**—at the dam **[Staumauer]**. And the **FW 190** that had then made an emergency landing on the frozen lake.
 
@@ -740,8 +748,6 @@ It stank horribly of human excretions. He let his lower jaw hang and made an idi
 They were Polish concentration-camp prisoners who were waiting for the **[Heinitrumsor???]**. The German prisoners of war had to walk to their place of destination because the rail wagons could not run, because of the many blown bridges.
 
 However these poor people would already have been exhausted after the first kilometres. Also German prisoners had died on the roads from exhaustion.
-
----
 
 ---
 
@@ -809,7 +815,7 @@ If you can confirm whether the name is **“Bone”** or something like **“Bö
 
 
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
 
 
 
@@ -819,6 +825,23 @@ If you can confirm whether the name is **“Bone”** or something like **“Bö
 
 
 
-<hr style="height:16px;border-width:0;color:navy;background-color:purple">
 
-[Main Page](../index.md)
+
+
+
+
+<!--  Image references  -->
+
+[Br02]: ../assets/images/base/Bnr02c.jpg
+[St00]: ../assets/images/base/00Writer.jpg
+
+
+<!--
+
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
+
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
+/-->
+
+
+<hr class="section-break strong" />

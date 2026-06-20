@@ -1,12 +1,14 @@
 # Autobiography
 
-<style>
-  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
-  .column {flex: 1 1 0; min-width: 0;}
-  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
-</style>
 
-<hr style="height:4px;border-width:0;color:navy;background-color:purple">
+[![Freiburg 1944][Br02]{ .artC width="1100" }][Br02]
+
+
+<hr class="section-break strong" />
+
+
+
+
 
 
 
@@ -14,11 +16,18 @@
 
 <!-- Note to self: do not indent!!  /-->
 
+<style>
+  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
+  .column {flex: 1 1 0; min-width: 0;}
+  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
+</style>
+
 <div class="flex-container" markdown>
 <div class="column" markdown>
 
-<a href="/assets/images/pappa/P0.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P0.jpg" alt="Cover" width="480" align="right"></a>
+
+[![Img][St00]{ .artR width="480" }][St00]
+
 
 </div>
 <div class="column column--right" markdown>
@@ -43,7 +52,7 @@ The *general format* of this document will be:
 </div>
 </div>
 
-<hr style="height:16px;border-width:0;color:navy;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -87,8 +96,7 @@ My parents had rented a small flat on the top floor of the Coja house, with slop
 
 ---
 
-<a href="/assets/images/pappa/P29.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P29.jpg" alt="Photo 29" width="140" align="right"></a>
+[![Img][St29]{ .artR width="140" }][St29]
 
 Status:  
 - Init translation 2025.09.30  
@@ -99,7 +107,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -141,8 +149,7 @@ Next to K’s parents lived the Rhodes: truly lovely, kind people. The father wa
 
 ---
 
-<a href="/assets/images/pappa/P30.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P30.jpg" alt="Photo 30" width="140" align="right"></a>
+[![Img][St30]{ .artR width="140" }][St30]
 
 Status:  
 - Init translation 2025.09.30  
@@ -153,7 +160,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -218,11 +225,9 @@ He had never seen Auntie like that before. When they arrived at the school, she 
 
 1933 is totally a guess... needs to be confirmed.
 
-<a href="/assets/images/pappa/P8.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P8.jpg" alt="Photo 8" width="140" align="right"></a>
+[![Img][St08]{ .artR width="140" }][St08]
 
-<a href="/assets/images/pappa/P8p.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P8p.jpg" alt="Photo 8b" width="140" align="right"></a>
+[![Img][Sp08]{ .artR width="140" }][Sp08]
 
 Status:  
 - Init translation 2025.09.30  
@@ -233,7 +238,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -274,8 +279,7 @@ The session then continued with racial reflections. Naturally, only people with 
 
 ---
 
-<a href="/assets/images/pappa/P25.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P25.jpg" alt="Photo 25" width="140" align="right"></a>
+[![Img][St25]{ .artR width="140" }][St25]
 
 Status:  
 - Init translation 2025.09.30  
@@ -286,7 +290,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -323,8 +327,7 @@ At the next meeting it was decided that I was to start as a technical draftsman 
 
 ---
 
-<a href="/assets/images/pappa/P24.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P24.jpg" alt="Photo 24" width="140" align="right"></a>
+[![Img][St24]{ .artR width="140" }][St24]
 
 Status:  
 - Init translation 2025.09.30  
@@ -335,7 +338,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:16px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -401,8 +404,7 @@ Mr. Münch was a work colleague of my father’s at the Leuna Factory. He was a 
 
 Moved observations to [Issues](/family/pappa2.md/#02-oct-2025)
 
-<a href="/assets/images/pappa/P1.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P1.jpg" alt="Photo 1" width="140" align="right"></a>
+[![Img][St01]{ .artR width="140" }][St01]
 
 Status:  
 - Init translation 2025.09.30  
@@ -413,7 +415,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -450,8 +452,7 @@ Before long he had the chance to witness an air show. One of Father’s workmate
 
 ---
 
-<a href="/assets/images/pappa/P23.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P23.jpg" alt="Photo 23" width="140" align="right"></a>
+[![Img][St23]{ .artR width="140" }][St23]
 
 Status:  
 - Init translation 2025.09.30  
@@ -462,7 +463,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -503,8 +504,7 @@ Now, one of us wasn’t as lucky or as gifted as we were — a certain Bone. The
 
 ---
 
-<a href="/assets/images/pappa/P20.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P20.jpg" alt="Photo 20" width="140" align="right"></a>
+[![Img][St20]{ .artR width="140" }][St20]
 
 Status:  
 - Init translation  2026.01.15
@@ -515,7 +515,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -587,12 +587,9 @@ Steiner: “You know what people think about that."
 </div>
 </div>
 
+[![Img][St21]{ .artR width="140" }][St21]
 
-<a href="/assets/images/pappa/P21.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P21.jpg" alt="Photo 21" width="140" align="right"></a>
-
-<a href="/assets/images/pappa/P21p.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P21p.jpg" alt="Photo 21b" width="140" align="right"></a>
+[![Img][Sp21]{ .artR width="140" }][Sp21]
 
 Status:  
 - Init translation 2025.09.30  
@@ -603,7 +600,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -637,8 +634,7 @@ Status:
 
 ---
 
-<a href="/assets/images/pappa/P17.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P17.jpg" alt="Photo 17" width="140" align="right"></a>
+[![Img][St17]{ .artR width="140" }][St17]
 
 Status:  
 - Init translation 2025.09.30  
@@ -649,7 +645,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -743,14 +739,11 @@ The cable was hooked on. Uwe lifted the wing. Signal in, signal out. The cable t
 
 ---
 
-<a href="/assets/images/pappa/P2.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P2.jpg" alt="Photo 2" width="140" align="right"></a>
+[![Img][St02]{ .artR width="140" }][St02]
 
-<a href="/assets/images/pappa/P3.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P3.jpg" alt="Photo 3" width="140" align="right"></a>
+[![Img][St03]{ .artR width="140" }][St03]
 
-<a href="/assets/images/pappa/P3p.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P3p.jpg" alt="Photo 3b" width="140" align="right"></a>
+[![Img][Sp03]{ .artR width="140" }][Sp03]
 
 Status:  
 - Init translation 2026.01.15   
@@ -761,7 +754,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -811,11 +804,9 @@ Early the next morning he went to the command post. It was damn cold and the sno
 
 ---
 
-<a href="/assets/images/pappa/P11.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P11.jpg" alt="Photo 11" width="140" align="right"></a>
+[![Img][St11]{ .artR width="140" }][St11]
 
-<a href="/assets/images/pappa/P11p.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P11p.jpg" alt="Photo 11b" width="140" align="right"></a>
+[![Img][Sp11]{ .artR width="140" }][Sp11]
 
 Status:  
 - Init translation 2025.10.10  
@@ -826,7 +817,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -866,8 +857,7 @@ In Dortmund he received new flight orders: he was now heading to Halle. That was
 
 ---
 
-<a href="/assets/images/pappa/P13.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P13.jpg" alt="Photo 13" width="140" align="right"></a>
+[![Img][St13]{ .artR width="140" }][St13]
 
 Status:  
 - Init translation 2025.09.28  
@@ -878,7 +868,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -915,8 +905,7 @@ After three stretches of four days it became second nature to avoid the bunk. Ac
 
 ---
 
-<a href="/assets/images/pappa/P27.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P27.jpg" alt="Photo 27" width="140" align="right"></a>
+[![Img][St27]{ .artR width="140" }][St27]
 
 Status:  
 - Init translation  2026.01.15
@@ -927,7 +916,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -977,8 +966,7 @@ The children were sitting on an Opel Kadett.
 
 ---
 
-<a href="/assets/images/pappa/P18.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P18.jpg" alt="Photo 18" width="140" align="right"></a>
+[![Img][St18]{ .artR width="140" }][St18]
 
 Status:  
 - Init translation 2025.09.30  
@@ -989,7 +977,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -1033,11 +1021,9 @@ A *fellow who resembled* the Grim Reaper walked back and forth as if under commi
 
 ---
 
-<a href="/assets/images/pappa/P6.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P6.jpg" alt="Photo 6" width="140" align="right"></a>
+[![Img][St06]{ .artR width="140" }][St06]
 
-<a href="/assets/images/pappa/P7.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P7.jpg" alt="Photo 7" width="140" align="right"></a>
+[![Img][St07]{ .artR width="140" }][St07]
 
 Status:  
 - Init translation 2025.10.10  
@@ -1048,7 +1034,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -1089,8 +1075,7 @@ The next day, after the bread was handed out, I forced myself to go outside agai
 
 ---
 
-<a href="/assets/images/pappa/P10.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P10.jpg" alt="Photo 10" width="140" align="right"></a>
+[![Img][St10]{ .artR width="140" }][St10]
 
 Status:  
 - Init translation 2025.09.30  
@@ -1101,7 +1086,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -1147,8 +1132,7 @@ There were crates with three cylinders; the lids had been removed.
 
 ---
 
-<a href="/assets/images/pappa/P15.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P15.jpg" alt="Photo 15" width="140" align="right"></a>
+[![Img][St15]{ .artR width="140" }][St15]
 
 Status:  
 - Init translation 2025.09.30  
@@ -1159,7 +1143,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -1193,8 +1177,7 @@ The way to the west exit was made even harder by the coarse ballast of the track
 
 ---
 
-<a href="/assets/images/pappa/P5.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P5.jpg" alt="Photo 5" width="140" align="right"></a>
+[![Img][St05]{ .artR width="140" }][St05]
 
 Status:  
 - Init translation 2025.09.30  
@@ -1205,7 +1188,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:16px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -1280,11 +1263,9 @@ K kept stroking the mutt. The poor dog probably got nothing but beatings from th
 
 ---
 
-<a href="/assets/images/pappa/P4.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P4.jpg" alt="Photo 4" width="140" align="right"></a>
+[![Img][St04]{ .artR width="140" }][St04]
 
-<a href="/assets/images/pappa/P4p.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P4p.jpg" alt="Photo 4b" width="140" align="right"></a>
+[![Img][Sp04]{ .artR width="140" }][Sp04]
 
 Status:  
 - Init translation 2025.09.28  
@@ -1295,7 +1276,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -1334,8 +1315,7 @@ There were about 13,000 prisoners in the Tschenstochau camp. It had been built b
 
 ---
 
-<a href="/assets/images/pappa/P9.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P9.jpg" alt="Photo 9" width="140" align="right"></a>
+[![Img][St09]{ .artR width="140" }][St09]
 
 Status:  
 - Init translation 2025.09.28  
@@ -1346,7 +1326,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:20px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -1432,11 +1412,9 @@ But those poor people would have been exhausted after the first kilometres. And 
 
 ---
 
-<a href="/assets/images/pappa/P14.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P14.jpg" alt="Photo 14" width="140" align="right"></a>
+[![Img][St14]{ .artR width="140" }][St14]
 
-<a href="/assets/images/pappa/P14p.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P14p.jpg" alt="Photo 14b" width="140" align="right"></a>
+[![Img][Sp14]{ .artR width="140" }][Sp14]
 
 Status:  
 - Init translation  2026.01.15
@@ -1447,7 +1425,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:16px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -1499,8 +1477,7 @@ Status:
 
 ---
 
-<a href="/assets/images/pappa/P12.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P12.jpg" alt="Photo 12" width="140" align="right"></a>
+[![Img][St12]{ .artR width="140" }][St12]
 
 Status:  
 - Init translation  
@@ -1511,7 +1488,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -1549,11 +1526,9 @@ Martini schaute mich trumphierend an, als hätte er gerade in die Lotterie gewon
 
 ---
 
-<a href="/assets/images/pappa/P16.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P16.jpg" alt="Photo 16" width="140" align="right"></a>
+[![Img][St16]{ .artR width="140" }][St16]
 
-<a href="/assets/images/pappa/P16p.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P16p.jpg" alt="Photo 16b" width="140" align="right"></a>
+[![Img][Sp16]{ .artR width="140" }][Sp16]
 
 Status:  
 - Init translation  
@@ -1564,7 +1539,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -1601,11 +1576,9 @@ Status:
 </div>
 </div>
 
-<a href="/assets/images/pappa/P22.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P22.jpg" alt="Photo 22" width="140" align="right"></a>
+[![Img][St22]{ .artR width="140" }][St22]
 
-<a href="/assets/images/pappa/P22p.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P22p.jpg" alt="Photo 22b" width="140" align="right"></a>
+[![Img][Sp22]{ .artR width="140" }][Sp22]
 
 Status:  
 - Init translation  
@@ -1616,7 +1589,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -1643,11 +1616,9 @@ Status:
 </div>
 </div>
 
-<a href="/assets/images/pappa/P26.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P26.jpg" alt="Photo 26" width="140" align="right"></a>
+[![Img][St26]{ .artR width="140" }][St26]
 
-<a href="/assets/images/pappa/P26p.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P26p.jpg" alt="Photo 26b" width="140" align="right"></a>
+[![Img][Sp26]{ .artR width="140" }][Sp26]
 
 Status:  
 - Init translation  
@@ -1658,7 +1629,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -1689,8 +1660,7 @@ Wo soll ich nun anfangen. Auf meine Geburt kann ich mich beim besten Willen nich
 
 ---
 
-<a href="/assets/images/pappa/P19.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P19.jpg" alt="Photo 19" width="140" align="right"></a>
+[![Img][St19]{ .artR width="140" }][St19]
 
 Status:  
 - Init translation  
@@ -1701,7 +1671,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -1736,8 +1706,7 @@ K Mutter kam mit Frau [LL] überein, daß K. ihr Goldsohn jeden Morgen zum Schul
 
 ---
 
-<a href="/assets/images/pappa/P28.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P28.jpg" alt="Photo 28" width="140" align="right"></a>
+[![Img][St28]{ .artR width="140" }][St28]
 
 Status:  
 - Init translation  
@@ -1748,7 +1717,7 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:4px;border-width:0;color:purple;background-color:purple">
+<hr class="section-break strong" />
 
 
 
@@ -1775,8 +1744,7 @@ Meine Geschichte später unsere Ge. Die Notjahr der Ostz. Waßer Burucratze schn
 </div>
 </div>
 
-<a href="/assets/images/pappa/P31.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/pappa/P31.jpg" alt="Photo 31" width="140" align="right"></a>
+[![Img][St31]{ .artR width="140" }][St31]
 
 Status:  
 - Init translation  
@@ -1787,6 +1755,59 @@ Status:
 - Mod:  
 - Mod:  
 
-<hr style="height:16px;border-width:0;color:navy;background-color:purple">
 
-[Main Page](../index.md)
+
+
+<!--  Image references  -->
+
+[Br02]: ../assets/images/base/Bnr02b.jpg
+
+[St00]: ../assets/images/pappa/P0.jpg
+[St01]: ../assets/images/pappa/P1.jpg
+[St02]: ../assets/images/pappa/P2.jpg
+[St03]: ../assets/images/pappa/P3.jpg 
+[Sp03]: ../assets/images/pappa/P3p.jpg
+[St04]: ../assets/images/pappa/P4.jpg 
+[Sp04]: ../assets/images/pappa/P4p.jpg
+[St05]: ../assets/images/pappa/P5.jpg 
+[St06]: ../assets/images/pappa/P6.jpg 
+[St07]: ../assets/images/pappa/P7.jpg 
+[St08]: ../assets/images/pappa/P8.jpg
+[Sp08]: ../assets/images/pappa/P8p.jpg
+[St09]: ../assets/images/pappa/P9.jpg
+[St10]: ../assets/images/pappa/P10.jpg
+[St11]: ../assets/images/pappa/P11.jpg
+[Sp11]: ../assets/images/pappa/P11p.jpg
+[St12]: ../assets/images/pappa/P12.jpg
+[St13]: ../assets/images/pappa/P13.jpg
+[St14]: ../assets/images/pappa/P14.jpg
+[Sp14]: ../assets/images/pappa/P14p.jpg
+[St15]: ../assets/images/pappa/P15.jpg
+[St16]: ../assets/images/pappa/P16.jpg
+[Sp16]: ../assets/images/pappa/P16p.jpg
+[St17]: ../assets/images/pappa/P17.jpg
+[St18]: ../assets/images/pappa/P18.jpg
+[St19]: ../assets/images/pappa/P19.jpg
+[St20]: ../assets/images/pappa/P20.jpg
+[St21]: ../assets/images/pappa/P21.jpg
+[Sp21]: ../assets/images/pappa/P21p.jpg
+[St23]: ../assets/images/pappa/P23.jpg
+[St24]: ../assets/images/pappa/P24.jpg
+[St25]: ../assets/images/pappa/P25.jpg
+[St26]: ../assets/images/pappa/P26.jpg
+[Sp26]: ../assets/images/pappa/P26p.jpg
+[St27]: ../assets/images/pappa/P27.jpg
+[St28]: ../assets/images/pappa/P28.jpg
+[St29]: ../assets/images/pappa/P29.jpg
+[St30]: ../assets/images/pappa/P30.jpg
+[St31]: ../assets/images/pappa/P31.jpg
+
+
+<!--
+
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
+
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
+/-->
+
+<hr class="section-break strong" />

@@ -1,5 +1,17 @@
 # Family Projects 
 
+
+[![Freiburg 1944][Br02]{ .artC width="1100" }][Br02]
+
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
 ## Pappa's Account
 
 ### Foreword
@@ -14,7 +26,21 @@ I would suggest keeping Dad's account as written in **German** as part of the bo
 
 ---
 
-[Main Page](../index.md)  
+<hr class="section-break strong" />
 
 
-<hr style="height:16px;border-width:0;color:navy;background-color:purple">
+
+
+
+<!--  Image references  -->
+
+[Br02]: ../assets/images/base/Bnr02b.jpg
+[St00]: ../assets/images/base/00Writer.jpg
+
+
+<!--
+
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
+
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
+/-->
