@@ -1,14 +1,33 @@
 # Health
 
-## Mental Health
+[![Coffee][Br02]{ .artC width="1100" }][Br02]
 
+
+<hr class="section-break strong" />
+
+
+
+
+
+## Update: 2026-June-20
+
+I have been on Mounjaro since January, and since then, I've been 'dry': no alcohol. And will not make it part of my life, ever again. It is poisonous. All the lovely strategies about liver-cleansing are reasonably meaningless if you keep pouring toxins at the liver.
+
+I've gone from 111kg to 95kg. I intend to get down to 86kg, eventually. Not in a hurry: it will happen. I feel completely different, even though I'm 73. Life is a brighter, happier place.
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+## Mental Health
 ### Dad's 'Diary'
 
 Martin recently sent me some images of documents our Dad created about his experiences during the war (WWII) and beyond. Martin and I—and Jessica—felt the reflections our Dad had would be useful. I would take it one step further: I feel the perspective he offered would be enlightening to us living in the 21st century as to what to expect from an increasingly authoritarian regime: they lived through that in the late 1940s. It did not go well for most folks. Hunger was real, it was horrific. The promises of the 3rd Reich were not delivered. There are lessons to learn from this.
 
-
-
-
+<hr class="section-break strong" />
 
 
 
@@ -19,7 +38,6 @@ Martin recently sent me some images of documents our Dad created about his exper
 
 
 ## Vaccines
-
 ### Covid-19 and Vaccination
 
 The death rate from the vaccine (the mRNA vaccines) is about 0.0001%.
@@ -32,6 +50,7 @@ The incidence if you’re not is about 11% who still had symptoms in January 202
 
 Most people who have been vaccinated report anything from feeling the needle to having a sore upper arm for a day or a couple of days. So overall, it’s not affecting many people.
 
+<hr class="section-break strong" />
 
 
 
@@ -39,7 +58,6 @@ Most people who have been vaccinated report anything from feeling the needle to 
 
 
 ## Liver Cleansing
-
 ### Weight-loss Tracking
 
 I'd actually started tracking my weight back in November, when I was 113.35 kg (almost 250lbs). Did a dry November which extended into December, had a bit of wine over the holidays and particularly when I retired the first part of January. Julia and I visited some of her Rural Aid volunteers in Eumundi the second weekend in January, after which I stopped all consumption of any fermented (alcoholic) beverages.
@@ -66,8 +84,10 @@ Overall, it **has** been pretty steady (on average). Here's June so far:
 
 ![Calendar](https://www.tightbytes.com/images/projects/health/06Jun-WIP.png)
 
+<hr class="section-break strong" />
 
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+
+
 
 
 
@@ -88,11 +108,7 @@ So, I ask myself: what causes fluid retention? Lustig indicates in one of his di
 
 That I should have that profound a response (a 2kg fluid weight gain!) tells me a fair bit about the state of my liver, and sets at question what Lustig said about rapid liver function recovery: apparently restoring a liver back to normal is a longer process than he thought.
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-
-
-
+<hr class="section-break soft" />
 
 
 ### Robert Lustig, MD, MSL
@@ -111,12 +127,10 @@ Dr. Lustig is a pediatric neuroendocrinologist who’s spent his forty-plus year
 
 He’s authored one-hundred thirty peer-reviewed articles, eighty academic chapters and reviews, and dozens of op-eds for the public. He now has a new book to explain the eight pathologies that underlie all chronic disease and document how processed food has impacted our health, economy, and environment over the past fifty years. - Dave Asprey
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr class="section-break soft" />
 
 
-
-
-### Sugar is Poison
+### Sugar (and alcohol) is Poison
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XH6Rg9I858E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -126,7 +140,7 @@ Rob has become a leading public health authority on the impact sugar has on fuel
 
 If you're addicted to sugar or think it's not that bad, you're going to want to watch this!
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr class="section-break soft" />
 
 
 
@@ -137,7 +151,7 @@ If you're addicted to sugar or think it's not that bad, you're going to want to 
 
 The Bitter Truth About Sugar, Calories, and Processed Food with Dr. Robert Lustig, on Commune.
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr class="section-break soft" />
 
 
 
@@ -194,9 +208,7 @@ Discussion with Dr Rangan Chatterjee on the fact that fructose (outside of fruit
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Ok1RLV7hgs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-
+<hr class="section-break soft" />
 
 
 
@@ -208,7 +220,7 @@ Prof. Robert Lustig, paediatric neuro-endocrinologist and best-selling author of
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aS49s7N4cJE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -218,7 +230,6 @@ Prof. Robert Lustig, paediatric neuro-endocrinologist and best-selling author of
 
 
 ## Other Observations
-
 ### The Actual Challenge
 
 Wonder why counting calories doesn't work? Maybe because 'a calorie is **NOT** a calorie'? (And "nutrition" is not a thing?)
@@ -238,6 +249,8 @@ e. It's not what you burn, it's how many ATP vs. heat your mitochondria partitio
 You think you can count those? If so, I've got a bridge to sell you...
 
 It's about what happens at the sub-cellular level. That's where the focus needs to be.
+
+<hr class="section-break soft" />
 
 
 
@@ -262,9 +275,7 @@ I did, and eventually, my wife did. And a year later, my ALT is less than 23 (st
 
 The science needs distilling to the lay person's ability to "get it". And even for some "medical professionals".
 
-
-
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -287,6 +298,7 @@ Worried about if cooking your garlic later will mean less garlic flavor? Don’t
 
 The next time you’re tempted to add your garlic first because you think it’ll boost flavor, think again.
 
+<hr class="section-break soft" />
 
 
 
@@ -346,59 +358,21 @@ Overall, Lustig suggests that a focus on dopamine-based pleasure-seeking, as pro
 
 
 
-## Other Pointers Unrelated to Physical
-
-Is [Tucker Carlson Believeable?](https://www.businessinsider.com/fox-news-karen-mcdougal-case-tucker-carlson-2020-9)
-
-America the greatest?
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aNghg1Y-WIc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-
-Sidney Powell
-   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jCuSsbsZsSs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-
-Law Enforcement
-   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N7VfFYl-LVU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-
-America’s ‘Exceptional’ Problem With Violence
-   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nC6pNriTFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-
-Tucker Carlson: Last Week Tonight
-   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XMGxxRRtmHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
 
-The System: Who Rigged It, How We Fix It | Robert Reich
-   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_sjfchNsiM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr class="section-break strong" />
 
 
-
-Interview with Oklahoma State Sen. Nathan Dahm | The Problem with Jon Stewart
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tCuIxIJBfCY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<!--  Image references  -->
 
 
+[Br02]: ../assets/images/base/Bnr02e.jpg
+[St00]: ../assets/images/base/00Writer.jpg
+[St09]: ../assets/images/base/09aParis.jpg
 
+<!--
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
+/-->

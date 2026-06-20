@@ -1,18 +1,24 @@
 # Redlands Coast Art Society
 
-🌹
 
-<hr style="height:4px; border-width:0; color:blue; background-color:blue" />
+[![Old Kaimu][Br02]{ .artC width="1100" }][Br02]
 
-🌼 [Documentation v0.1](BookingDoc.md)  
+
+<hr class="section-break strong" />
+
+
+
+
 
 
 
 
 
 ## Introduction
-
 ### 1. Purpose
+
+🌼 [Documentation v0.1](BookingDoc.md)  
+
 
 The RCAS Booking Manager is designed to provide a reliable, structured way to manage room bookings for the Studio and Gallery.
 It ensures:
@@ -139,4 +145,17 @@ The system is designed to:
 
 🌹
 
-<hr style="height:24px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
+
+
+<!--  Image references  -->
+
+
+[Br02]: ../assets/images/base/Bnr02c.jpg
+[St00]: ../assets/images/base/00Writer.jpg
+[St09]: ../assets/images/base/09aParis.jpg
+
+<!--
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
+/-->

@@ -1,5 +1,16 @@
 # Seabrae Garden 2021 
 
+
+[![Works][Br02]{ .artC width="1100" }][Br02]
+
+
+<hr class="section-break strong" />
+
+
+
+
+
+
 **INDEX**  
 [Footpath in Disrepair](#footpath-in-disrepair)  
 [Footpath Works](#footpath-works)  
@@ -7,9 +18,7 @@
 [WIP](#wip)  
 [Patio Footpath](#patio-footpath)  
 
----
-
-[Main Page](../index.md)  
+  
 
 ---
 
@@ -21,7 +30,7 @@ Note: *be sure to turn on 'night-time' mode (it's the little moon icon next to t
   .column {width: 100%;}
 </style>
 
-<hr style="height:8px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
 
 
 
@@ -67,6 +76,7 @@ Note: *be sure to turn on 'night-time' mode (it's the little moon icon next to t
   </div>
 </div>
 
+<hr class="section-break strong" />
 
 
 
@@ -96,7 +106,7 @@ The design was not up to the challenge, resulting in sagging retaining timber:
 
 The worst part was that the pumice-gravel would stick to my shoes, which tracked into the house, risking scratching our bamboo flooring.
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
 
 
 
@@ -130,7 +140,7 @@ As is clearly noticable, I purchased the timber from a rather dodgy mob in Cleve
 
 A lot of that timber had sappy knots and other defects, some which were so bad I had to trim them off before I painted them with three coats of [Timber Protecta](https://www.bowens.com.au/p/diggers-eco-in-ground-timber-protecta/). The remaining timber still had some warping wich made the edge-joins less than perfect. I reckon with time this slight problem will become less noticable. 
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
 
 
 
@@ -159,7 +169,7 @@ The main challenge with the use of crusher-dust and pumice-gravel was that weeds
 
 whereas, that pumice-gravel, even with river-rock underneath it and weedmat, allowed weeds to grow. I'm all for weeds, but do want to control where they grow. We tried spraying with a vinegar/salt/dish-soap mixture to control the weeds - we have bees, so we're not about to use a off-the-shelf herbicide - and as for the most part it works easily as well as the toxic stuff, it is not a long-term solution.
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
 
 
 
@@ -176,7 +186,7 @@ Here's where things ended up in June/July (other projects were demanding my atte
 
 And so things stayed for nine months or so. Work (like, at the hospital) sort-of gets in the way.
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
 
 
 
@@ -191,5 +201,17 @@ I have neglected these pages for the past months as projects piled up and updati
 
 Long story short: my twenty-five year old brain was dictating utter nonsense to my now seventy year old body, the one with bulging L5-S1 discs and degenerative processes, and because I pushed myself, I am now paying the price. I've developed a bad sciatica for which even a CT-guided nerve-root injection hasn't sort-of done much yet (well, it's early days). End result: forced rest.
 
-<hr style="height:16px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
 
+
+<!--  Image references  -->
+
+
+[Br02]: ../assets/images/base/Bnr02f.jpg
+[St00]: ../assets/images/base/00Writer.jpg
+[St09]: ../assets/images/base/09aParis.jpg
+
+<!--
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
+/-->

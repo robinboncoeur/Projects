@@ -1,5 +1,17 @@
 # Seabrae Garden 2022
 
+
+[![Works][Br02]{ .artC width="1100" }][Br02]
+
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
 **INDEX**  
 [Cucumbers and Parsley](#cucumbers-and-parsley)  
 [Terrible Drainage](#terrible-drainage)  
@@ -12,16 +24,14 @@
 [Shadehouse Ideas](#shadehouse-ideas)  
 [Pathetic Henhouse](#pathetic-henhouse)  
 
----
 
-[Main Page](../index.md)  
 
 <style>
   .flex-container {display: flex; gap: 20px;}
   .column {width: 100%;}
 </style>
 
-<hr style="height:8px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
 
 
 
@@ -58,7 +68,7 @@ We'll see how we go.
 **ETA: 2025-08-26**  
 It didn't work. The little rascals worked their way under the lip of the plastic container and ate everything. Was appears to be actually working now is *feeding* those critters down the bottom of the yard, in our compost towers, far away from the front garden. They get plenty of tucker down there and so (hopefully) will leave the house and garden alone. Win-win.
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
 
 
 
@@ -93,7 +103,7 @@ At the bottom of this bed, I'm going to have to reinforce the bottom of the side
 
 Actually have a bit of time to update this page as we're have a young visitor - Harriet! - and gave myself the excuse that it was too warm to work on it today. However, it cooled down nicely, and after doing a bit of "blue-ing" on rusty stuff I'm trying to "resurrect", I finally got stuck into it and finished pulling the dead stuff out.
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
 
 
 
@@ -117,7 +127,7 @@ That bit behind the air-con took ages to finish. Just couldn't get up the resolv
 
 So, now the river-rock rescued from the front has a place to go. I'll be filling most of the "cavity" with rescued river-rock, and have just a layer at the top surrounding the flagstones of freshly-purchased rock.
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
 
 
 
@@ -151,7 +161,7 @@ In the ShadeHouse area, the torn shade sail is put down first, in an effort to e
 Those shade-sails would normally have ended up in landfill.
 
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
 
 
 
@@ -175,7 +185,7 @@ What can't be appreciated is the fact that all the river rock had to be 'sieved'
 
 Shown here on the right is the method used to tie timber pieces together.
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
 
 
 
@@ -211,7 +221,7 @@ You sort-of appreciate the process more once I get the wire brush on the item. I
 
 Good as gold.
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
 
 
 
@@ -255,7 +265,9 @@ It will be replaced with river rock (seen beside the grow bed in the image on th
 
 No more weeds! Unlike that nasty pumice, river rock won't get caught in my shoes and dragged back into the house to wreck our bamboo flooring. I'll have those flagstone walkway things for people to walk on - river rock is a bit rough on bare feet, and most people go barefoot most of the time. Probably need to pick up a few more flagstones.
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
+
+
 
 
 
@@ -296,7 +308,7 @@ Flagstones will provide a place for people to walk.
 
 Meanwhile, the **finished** bit -- the patio footpath -- encouraged me to keep on keeping on.
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
 
 
 
@@ -323,7 +335,7 @@ Hopefully the rain will come this arvo as promised and test the drainage pipe I'
 
 ETA: The rain came. The test went well.
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
 
 
 
@@ -371,7 +383,7 @@ A [full video collection](https://www.youtube.com/embed/uqwWdranB5A) on the subj
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7qXgbrIYcFE" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
 
 
 
@@ -387,7 +399,17 @@ A [full video collection](https://www.youtube.com/embed/uqwWdranB5A) on the subj
 
 Whilst this isn't so much about the shadehouse/greenhouse, Julia is picking up six more "rescue hens" this weekend, so the push was on to get the henhouse ready. The house was built of fairly ordinary quality material, so in time due to moisture leaking through the roof timber, the ceiling had totally rotted out (under the roof). We decided that - for now - we would replace that rotted plywood with a plastic liner. This should keep the girls dry this year, which promises to be a rather wet year. I'll probably need to come up with a more robust, permanent solution as even the roof bits will likely rot in time and will need to be replaced. Yes, the house is "cute", but buyer beware: it wasn't built to last, by any stretch of the imagination. I reckon the shadehouse isn't much better.
 
-<hr style="height:16px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
+<!--  Image references  -->
 
+
+[Br02]: ../assets/images/base/Bnr02f.jpg
+[St00]: ../assets/images/base/00Writer.jpg
+[St09]: ../assets/images/base/09aParis.jpg
+
+<!--
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
+/-->

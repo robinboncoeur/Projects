@@ -1,7 +1,11 @@
 # Exit Strategy
 
-🌺
-<hr style="height:6px; border-width:0; color:green; background-color:green" /> 
+[![Old Kaimu][Br02]{ .artC width="1100" }][Br02]
+
+
+<hr class="section-break strong" />
+
+
 
 
 
@@ -54,7 +58,10 @@ The committee identifies an external maintainer or agrees on a small budget line
 
 That way, you are not dumping complexity on a new president while she is cleaning up governance rubble.
 
----
+<hr class="section-break soft" />
+
+
+
 
 ### The governance context matters
 
@@ -74,7 +81,10 @@ That is genuinely important.
 
 But it also means people may emotionally treat the system as rescue. That is where your boundary will matter later.
 
----
+<hr class="section-break soft" />
+
+
+
 
 ### Maintenance Evidence Log
 
@@ -94,7 +104,10 @@ This becomes useful later when you say:
 
 It gives the conversation substance. Not “Robyn feels burdened,” but “Here is what ongoing maintenance actually looks like.”
 
----
+<hr class="section-break soft" />
+
+
+
 
 ### The moment to raise it formally
 
@@ -110,7 +123,10 @@ And with the treasurer, you can frame it in her language:
 
 That phrase — **revenue infrastructure** — is probably the key.
 
----
+<hr class="section-break soft" />
+
+
+
 
 ### A gentle warning
 
@@ -129,7 +145,7 @@ That keeps the support window named, even if loosely.
 You’ve done the generous thing. Now the next generous thing is making sure the system can outlive your direct involvement. That is not withdrawing care; it is making the care durable. ✨
 
 🌺
-<hr style="height:4px; border-width:0; color:green; background-color:green" /> 
+<hr class="section-break strong" />
 
 
 
@@ -159,4 +175,17 @@ Do not delete files from Google Drive.
 If something goes wrong, take a photo of the screen and email Robyn.
 
 🌺
-<hr style="height:24px; border-width:0; color:green; background-color:green" />
+<hr class="section-break strong" />
+
+
+<!--  Image references  -->
+
+
+[Br02]: ../assets/images/base/Bnr02c.jpg
+[St00]: ../assets/images/base/00Writer.jpg
+[St09]: ../assets/images/base/09aParis.jpg
+
+<!--
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
+/-->

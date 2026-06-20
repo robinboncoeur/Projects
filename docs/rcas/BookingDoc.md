@@ -1,3 +1,6 @@
+# Documentation v1b
+
+<!--
 ---
 title: "RCAS Booking Manager"
 subtitle: "Documentation Pack"
@@ -23,6 +26,7 @@ header-includes:
   - |
     \cfoot{\thepage}
 ---
+/-->
 
 <img src="/assets/images/rcas/Logo-RCASsm.jpg" style="float: right; width: 130px; margin-left: 20px" />
 

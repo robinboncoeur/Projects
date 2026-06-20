@@ -8,6 +8,69 @@
 
 
 
+
+
+## Other Pointers Unrelated to Physical
+
+Is [Tucker Carlson Believeable?](https://www.businessinsider.com/fox-news-karen-mcdougal-case-tucker-carlson-2020-9)
+
+America the greatest?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aNghg1Y-WIc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr class="section-break soft" />
+
+
+Sidney Powell
+   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jCuSsbsZsSs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr class="section-break soft" />
+
+
+Law Enforcement
+   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N7VfFYl-LVU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr class="section-break soft" />
+
+
+America’s ‘Exceptional’ Problem With Violence
+   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nC6pNriTFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr class="section-break soft" />
+
+
+Tucker Carlson: Last Week Tonight
+   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XMGxxRRtmHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr class="section-break soft" />
+
+
+
+The System: Who Rigged It, How We Fix It | Robert Reich
+   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_sjfchNsiM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr class="section-break soft" />
+
+
+
+Interview with Oklahoma State Sen. Nathan Dahm | The Problem with Jon Stewart
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tCuIxIJBfCY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+## Quora QnA
+
 [Question]
 I think Donald Trump has done more for this country than Barack Obama has done his whole career. Can you change my mind?
 

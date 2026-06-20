@@ -1,5 +1,15 @@
 # Food Ideas
 
+[![Coffee][Br02]{ .artC width="1100" }][Br02]
+
+
+<hr class="section-break strong" />
+
+
+
+
+
+
 ## Foodie: 2025-09-13
 
 So, I'm going to review this page... a lot of the links no longer work, so I might have to ash-can it.
@@ -262,7 +272,7 @@ Sri Lankan Curry Powder:
 	Whole Pods Curry Leaves
 	Clove Buds 'Hand-Select', Whole
 
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -384,7 +394,7 @@ Will my sourdough double in size if it's cold fermented?
 
 It will not! But don't be fooled, that doesn't mean that it won't puff up during baking. The cold temperature of the fridge slows down the yeast so the bacteria in the bread have time to work and create sour flavors while the gluten develops. Your bread will still rise beautifully and have a great oven spring because the yeast hasn't consumed all the available food, they'll reactivate during the baking process.
 
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -395,3 +405,17 @@ Remember::
  Alle Dinge sind Gift, und nichts ist ohne Gift; allein die Dosis macht, dass ein Ding kein Gift ist. All things are poison, and nothing is without poison; the dosage alone makes it so a thing is not a poison.  —Paracelsus, 1538
 
 
+<hr class="section-break strong" />
+
+
+<!--  Image references  -->
+
+
+[Br02]: ../assets/images/base/Bnr02e.jpg
+[St00]: ../assets/images/base/00Writer.jpg
+[St09]: ../assets/images/base/09aParis.jpg
+
+<!--
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
+/-->

@@ -1,15 +1,31 @@
-# Other Projects
+# Bits-n-Bobs
 
-## Index
-
-🌼🌹🌼 [ ⇨ Foodle](/other/Foodie.md)  
-🌹🌸🌹 [ ⇨ Garden21](/other/Garden21.md)  
-🌼🌹🌼 [ ⇨ Garden22](/other/Garden22.md)  
-🌹🌸🌹 [ ⇨ Garden25](/other/Garden25.md)    
-🌼🌹🌼 [ ⇨ Health](/other/Health.md)  
-🌹🌸🌹 [ ⇨ Stuff that Matters](/other/Matter.md)  
+[![Coffee][Br02]{ .artC width="1100" }][Br02]
 
 
-<hr style="height:8px;border-width:0;color:black;background-color:black">
+<hr class="section-break strong" />
 
-[Back to the Main Page](../index.md)
+
+
+
+
+
+
+## I Put Here
+
+...what sort of doesn't fit anywhere else.
+
+<hr class="section-break strong" />
+
+
+<!--  Image references  -->
+
+
+[Br02]: ../assets/images/base/Bnr02e.jpg
+[St00]: ../assets/images/base/00Writer.jpg
+[St09]: ../assets/images/base/09aParis.jpg
+
+<!--
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
+/-->

@@ -1,21 +1,31 @@
 # Seabrae Garden 2025
 
+
+[![Works][Br02]{ .artC width="1100" }][Br02]
+
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+
 *INDEX**  
 [Successes](#successes)   
 [Path and Bed](#path-and-bed)  
 [Cleaning River Rock](#cleaning-river-rock)  
 [Garden Bed Liner](#garden-bed-liner)  
 
----
-
-[Main Page](../index.md)  
 
 <style>
   .flex-container {display: flex; gap: 20px;}
   .column {width: 100%;}
 </style>
 
-<hr style="height:16px;border-width:0;color:navy;background-color:green">
+<hr class="section-break strong" />
 
 
 
@@ -165,7 +175,7 @@ So, there are several layers to remove on a coffee cherry:
 
 Queensland being so dry, it's not hard to get them properly drying. The challenge was removing the parchment and silver skin, in order to end up with just the green bean.
 
-<hr style="height:4px;border-width:0;color:navy;background-color:green">
+<hr class="section-break strong" />
 
 
 
@@ -203,7 +213,7 @@ Okay, the consistency (*think: mouth-feel*) isn't the greatest - a bit like munc
 
 As you can see, the timber is slowly decaying, hence the need for a liner. I'll use some left-over banners from Julia's Rural Aid days... we don't throw much. Working with soil is actually fun, almost relaxing. Working with rocks? Not so much. Still, hope to get it all done before the real heat starts.
 
-<hr style="height:4px;border-width:0;color:navy;background-color:navy">
+<hr class="section-break strong" />
 
 
 
@@ -269,7 +279,7 @@ The least fun one can have is shovelling rocks. The mob at... well, I won't say 
 
 Anyway, the hard yakka has been sieving / washing away the mud out of the rock. Talk about a slow, painful process. It'll get there, but not without a HUGE effort!
 
-<hr style="height:4px;border-width:0;color:navy;background-color:green">
+<hr class="section-break strong" />
 
 
 
@@ -375,4 +385,17 @@ Right-o! Done!
 Boy howdy... talk about hard yakka. But yeah, Done. I'll need to finish filling the bed with compost and soil I'm pulling out of the beds next to the living room that are going to be replaced by a sandpit for the little ones. However, I'll be getting John to help me with that.
 
 
-<hr style="height:16px;border-width:0;color:navy;background-color:green">
+<hr class="section-break strong" />
+
+
+<!--  Image references  -->
+
+
+[Br02]: ../assets/images/base/Bnr02f.jpg
+[St00]: ../assets/images/base/00Writer.jpg
+[St09]: ../assets/images/base/09aParis.jpg
+
+<!--
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
+/-->
