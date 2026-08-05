@@ -1,36 +1,8 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
-    <base target="_top" />
+    <base target="_top">
     <style>
-      /*
-    =================================================================
-
-    HOW TO READ CSS SELECTORS
-    Selectors tell the browser *which HTML elements* the following
-    rules apply to.
-
-    Examples:
-        body        -> the <body> element
-        h1          -> every <h1> heading
-        .container  -> every element with class="container"
-        .grid       -> every element with class="grid"
-        #summary    -> the element with id="summary"
-
-    Note: Unlike Python, a leading '.' does NOT mean "belongs to".
-          In CSS, it simply means "this is a class selector".
-
-    .message.success
-        An element that has BOTH the "message" and "success" classes.
-    .message .success
-        An element with class="success" that is INSIDE an element
-        with class="message".
-    button:hover
-        A button currently being hovered over by the mouse.
-
-    =================================================================
-    */
-
       body {
         font-family: Arial, sans-serif;
         margin: 0;
@@ -44,7 +16,7 @@
         background: white;
         padding: 24px;
         border-radius: 12px;
-        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+        box-shadow: 0 2px 10px rgba(0,0,0,0.08);
       }
 
       h1 {
@@ -52,60 +24,10 @@
         font-size: 1.6rem;
       }
 
-      .section-draw {
-        background: #fff8f7;
-
-        /*  Add space between the section content and its outer edge.
-          Without padding, labels and controls sit directly against the
-          coloured background boundary.*/
-
-        padding: 18px;
-
-        /*  Soften the corners of the section.  */
-
-        border-radius: 10px;
-
-        /*  Add a faint border so the edge remains visible even on screens
-            where the background tint is difficult to distinguish.  */
-
-        border: 1px solid #eadfdd;
-
-        /*  Add a subtle shadow beneath the section.
-          The first value moves the shadow horizontally.
-          The second moves it vertically.
-          The third controls blur.
-          The fourth controls spread.
-          rgba() supplies black with low opacity.*/
-
-        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
-
-        /*  Keep successive sections from running into one another.  */
-
-        margin-bottom: 20px;
-      }
-
-      /*
-      --------------------------------------------------------------
-         SELECTOR: .grid
-
-         The leading '.' means "class". Any HTML element written as
-         class="grid" will receive these layout rules.
-
-         This selector is responsible only for arranging child
-         elements into two columns. It has nothing to do with
-         colours, fonts or buttons.
-      ---------------------------------------------------------------
-      */
-
       .grid {
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 16px 20px;
-      }
-
-      .single-session-grid {
-        display: grid;
-        grid-template-columns: 2fr 1fr 1fr;
       }
 
       .field {
@@ -115,12 +37,6 @@
 
       .field.full {
         grid-column: 1 / -1;
-      }
-
-      .short-input {
-        display: flex;
-        width: 10rem;
-        flex-direction: column;
       }
 
       label {
@@ -185,128 +101,78 @@
       }
     </style>
   </head>
-
   <body>
     <div class="container">
       <div class="logo-wrap">
-        <img src="https://redlandcoastartsocietyinc.github.io/BookingApp/images/Logo.png"
-          alt="Redland Coast Art Society Inc logo" class="logo" style="width: 150px" />
+        <img src="https://celestesgrl.github.io/rcas/images/Logo-RCASsm.png" alt="Art Society logo" class="logo" style="width=150px;">
       </div>
-
-      <h1>Booking Requests</h1>
-
+      <h1>Booking Request - Testing</h1>
       <form id="bookingForm">
+        <div class="grid">
 
-
-
-        <!-- ====================================
-                   The Tutor Info Section
-        -->
-        <section class="section-draw">
-          <h2>Tutor Details</h2>
-          <div class="grid">
-            <div class="field">
-              <label for="fullName">Tutor Full Name</label>
-              <input type="text" id="fullName" name="fullName" required />
-            </div>
-
-            <div class="field">
-              <label for="phone">Mobile</label>
-              <input type="text" id="phone" name="phone" required />
-            </div>
-
-            <div class="field">
-              <label for="email">Email</label>
-              <input type="email" id="email" name="email" required />
-            </div>
+          <!-- Changed from plain text field to drop down -->
+          <div class="field">
+            <label for="fullName">Full Name</label>
+            <select
+              id="fullName"
+              name="fullName"
+              required
+              >
+              <option value="">Select your name...</option>
+            </select>
           </div>
-        </section>
 
-
-
-        <!-- ====================================
-                 The Session Info Section
-        -->
-        <section class="section-draw">
-          <h2>Session Information</h2>
-          <div class="grid">
-            <div class="field full">
-              <label for="courseName">Session Name</label>
-              <input type="text" id="courseName" name="courseName" required />
-            </div>
-
-            <div class="field">
-              <label for="room">Room</label>
-              <select id="room" name="room" required>
-                <option value="">Select a room</option>
-                <option value="Studio">Studio</option>
-                <option value="Gallery">Gallery</option>
-              </select>
-            </div>
+          <div class="field full">
+            <label for="courseName">Class Name</label>
+            <input type="text" id="courseName" name="courseName" required>
           </div>
-        </section>
 
-
-
-        <!-- ====================================
-                 The Booking Pattern Section
-        -->
-        <section class="section-draw">
-          <h2>Booking Pattern Details</h2>
-          <div class="grid">
-            <fieldset>
-              <legend>Booking Pattern</legend>
-
-              <label>
-                <input type="radio" name="bookingPattern" value="single" checked />
-                Single Session
-              </label><br />
-
-              <label>
-                <input type="radio" name="bookingPattern" value="weekly" />
-                Regular Weekly/Fortnightly Sessions
-              </label><br />
-
-              <label>
-                <input type="radio" name="bookingPattern" value="custom" />
-                Choose Individual Dates
-              </label>
-            </fieldset>
+          <div class="field">
+            <label for="room">Room</label>
+            <select id="room" name="room" required>
+              <option value="">Select a room</option>
+              <option value="Studio">Studio</option>
+              <option value="Gallery">Gallery</option>
+            </select>
           </div>
-        </section>
 
-        <section id="singleSessionSection" class="section-draw">
-          <h2>Single Session Details</h2>
-
-          <div class="grid single-session-grid">
-            <div class="field">
-              <label for="singleDate">Date</label>
-              <input type="date" id="singleDate" name="singleDate" />
-            </div>
-
-            <div class="field">
-              <label for="singleStartTime">Start Time</label>
-              <input type="time" id="singleStartTime" name="singleStartTime" />
-            </div>
-
-            <div class="field">
-              <label for="singleEndTime">End Time</label>
-              <input type="time" id="singleEndTime" name="singleEndTime" />
-            </div>
+          <div class="field">
+            <label for="eventDate">Event Date</label>
+            <input type="date" id="eventDate" name="eventDate" required>
           </div>
-        </section>
 
-        <section id="weeklySessionSection" class="section-draw hidden">
-          <h2>Weekly/Fortnightly Session Details</h2>
+          <div class="field">
+            <label for="startTime">Start Time</label>
+            <input type="time" id="startTime" name="startTime" step="1800" required>
+          </div>
 
-          <p>Weekly booking fields will go here.</p>
-        </section>
+          <div class="field">
+            <label for="endTime">End Time</label>
+            <input type="time" id="endTime" name="endTime" step="1800" required>
+          </div>
 
-        <section id="customDatesSection" class="section-draw hidden">
-          <h2>Choose Individual Dates</h2>
+          <div class="field">
+            <label for="recurring">Recurring?</label>
+            <select id="recurring" name="recurring" required>
+              <option value="No" selected>No</option>
+              <option value="Yes">Yes</option>
+            </select>
+          </div>
 
-          <p>Custom date rows will go here.</p>
-        </section>
+          <div class="field hidden" id="frequencyField">
+            <label for="frequency">Frequency</label>
+            <select id="frequency" name="frequency">
+              <option value="">Select frequency</option>
+              <option value="Weekly">Weekly</option>
+              <option value="Fortnightly">Fortnightly</option>
+            </select>
+          </div>
+
+          <div class="field hidden" id="repeatUntilField">
+            <label for="repeatUntil">Repeat Until</label>
+            <input type="date" id="repeatUntil" name="repeatUntil">
+          </div>
+        </div>
 
         <div class="actions">
           <button type="submit">Submit Booking Request</button>
@@ -316,154 +182,330 @@
       </form>
     </div>
 
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        const form = document.getElementById("bookingForm");
-        const messageBox = document.getElementById("message");
-        const recurringSelect = document.getElementById("recurring");
-        const frequencyField = document.getElementById("frequencyField");
-        const repeatUntilField = document.getElementById("repeatUntilField");
-        const frequencyInput = document.getElementById("frequency");
-        const repeatUntilInput = document.getElementById("repeatUntil");
-        const eventDateInput = document.getElementById("sessionDate");
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
 
-        function showMessage(text, type) {
-          messageBox.textContent = text;
-          messageBox.className = `message ${type}`;
-        }
+    // ==================================================
+    // Static Data
+    // ==================================================
 
-        function clearMessage() {
-          messageBox.textContent = "";
-          messageBox.className = "message";
-        }
+    const tutors = [
+  {
+    id: "celeste",
+    name: "Celeste Shelley",
+    email: "celeste@wardrobe.org.au",
+    phone: "0400 111 111"
+  },
+  {
+    id: "charlotte",
+    name: "Charlotte Rossignol",
+    email: "charlotte@wardrobe.org.au",
+    phone: "0400 111 112"
+  },
+  {
+    id: "sarah",
+    name: "Sarah St Michaels",
+    email: "sarah@wardrobe.org.au",
+    phone: "0400 111 113"
+  },
+  {
+    id: "brittany",
+    name: "Brittany Finlayson",
+    email: "brittany@wardrobe2.org.au",
+    phone: "0400 111 114"
+  },
+  {
+    id: "harriet",
+    name: "Harriet Maleny",
+    email: "harriet@wardrobe2.org.au",
+    phone: "0400 111 115"
+  },
+  {
+    id: "mara",
+    name: "Mara Tallbanks",
+    email: "mara@wardrobe.org.au",
+    phone: "0400 111 116"
+  },
+  {
+    id: "lisa",
+    name: "Lisa Intern",
+    email: "lisa@wardrobe2.org.au",
+    phone: "0400 111 117"
+  },
+  {
+    id: "ellie",
+    name: "Ellen Montville",
+    email: "ellie@wardrobe2.org.au",
+    phone: "0400 111 118"
+  },
+  {
+    id: "lucy",
+    name: "Lucy Tester",
+    email: "lucy@wardrobe.org.au",
+    phone: "0400 111 119"
+  },
+  {
+    id: "lauren",
+    name: "Lauren Rossignol",
+    email: "lauren@wardrobe.org.au",
+    phone: "0400 111 120"
+  },
+];
 
-        function timeToMinutes(timeStr) {
-          const [hours, minutes] = timeStr.split(":").map(Number);
-          return hours * 60 + minutes;
-        }
 
-        function setMinimumEventDate() {
-          const today = new Date();
-          const yyyy = today.getFullYear();
-          const mm = String(today.getMonth() + 1).padStart(2, "0");
-          const dd = String(today.getDate()).padStart(2, "0");
+    // ==================================================
+    // Element References
+    // ==================================================
 
-          eventDateInput.min = `${yyyy}-${mm}-${dd}`;
-        }
+    const form = document.getElementById('bookingForm');
+    const messageBox = document.getElementById('message');
 
-        function toggleRecurringFields() {
-          const isRecurring = recurringSelect.value === "Yes";
+    const recurringSelect = document.getElementById('recurring');
+    const frequencyField = document.getElementById('frequencyField');
+    const repeatUntilField = document.getElementById('repeatUntilField');
 
-          frequencyField.classList.toggle("hidden", !isRecurring);
-          repeatUntilField.classList.toggle("hidden", !isRecurring);
+    const frequencyInput = document.getElementById('frequency');
+    const repeatUntilInput = document.getElementById('repeatUntil');
+    const eventDateInput = document.getElementById('eventDate');
 
-          frequencyInput.required = isRecurring;
-          repeatUntilInput.required = isRecurring;
 
-          if (!isRecurring) {
-            frequencyInput.value = "";
-            repeatUntilInput.value = "";
-          }
-        }
+    // ==================================================
+    // Message Functions
+    // ==================================================
 
-        // Initialise UI state
-        recurringSelect.addEventListener("change", toggleRecurringFields);
-        toggleRecurringFields();
-        setMinimumEventDate();
+    function showMessage(text, type) {
+      messageBox.textContent = text;
+      messageBox.className = `message ${type}`;
+    }
 
-        form.addEventListener("submit", function (e) {
-          e.preventDefault();
-          clearMessage();
+    function clearMessage() {
+      messageBox.textContent = '';
+      messageBox.className = 'message';
+    }
 
-          const formData = {
-            fullName: form.fullName.value.trim(),
-            email: form.email.value.trim(),
-            courseName: form.courseName.value.trim(),
-            room: form.room.value,
-            eventDate: form.eventDate.value,
-            startTime: form.startTime.value,
-            endTime: form.endTime.value,
-            recurring: form.recurring.value,
-            frequency: form.frequency.value,
-            repeatUntil: form.repeatUntil.value,
-          };
 
-          // Required fields
-          if (
-            !formData.fullName ||
-            !formData.email ||
-            !formData.courseName ||
-            !formData.room ||
-            !formData.eventDate ||
-            !formData.startTime ||
-            !formData.endTime ||
-            !formData.recurring
-          ) {
-            showMessage("Please complete all required fields.", "error");
-            return;
-          }
+    // ==================================================
+    // Utility Functions
+    // ==================================================
 
-          // Prevent past dates
-          const today = new Date();
-          today.setHours(0, 0, 0, 0);
+    function timeToMinutes(timeStr) {
+      const [hours, minutes] = timeStr.split(':').map(Number);
 
-          const selectedDate = new Date(formData.eventDate + "T00:00:00");
+      return hours * 60 + minutes;
+    }
 
-          if (selectedDate < today) {
-            showMessage("Please choose today or a future date.", "error");
-            return;
-          }
 
-          // 30-minute increments
-          if (
-            timeToMinutes(formData.startTime) % 30 !== 0 ||
-            timeToMinutes(formData.endTime) % 30 !== 0
-          ) {
-            showMessage("Please use 30-minute increments only.", "error");
-            return;
-          }
+    // ==================================================
+    // Date Functions
+    // ==================================================
 
-          // End after start
-          if (
-            timeToMinutes(formData.endTime) <= timeToMinutes(formData.startTime)
-          ) {
-            showMessage("End time must be later than start time.", "error");
-            return;
-          }
+    function setMinimumEventDate() {
+      const today = new Date();
 
-          // Recurring validation
-          if (formData.recurring === "Yes") {
-            if (!formData.frequency || !formData.repeatUntil) {
-              showMessage(
-                "Please complete the recurring booking fields.",
-                "error",
-              );
-              return;
-            }
+      const yyyy = today.getFullYear();
+      const mm = String(today.getMonth() + 1).padStart(2, '0');
+      const dd = String(today.getDate()).padStart(2, '0');
 
-            if (formData.repeatUntil < formData.eventDate) {
-              showMessage(
-                "Repeat Until must be on or after the Event Date.",
-                "error",
-              );
-              return;
-            }
-          }
+      eventDateInput.min = `${yyyy}-${mm}-${dd}`;
+    }
 
-          // Submit to Apps Script
-          google.script.run
-            .withSuccessHandler(function (response) {
-              showMessage(response.message, "success");
-              form.reset();
-              toggleRecurringFields();
-              setMinimumEventDate();
-            })
-            .withFailureHandler(function (error) {
-              showMessage(error.message || "Something went wrong.", "error");
-            })
-            .submitBooking(formData);
-        });
+
+    // ==================================================
+    // Form Display Functions
+    // ==================================================
+
+    function toggleRecurringFields() {
+      const isRecurring = recurringSelect.value === 'Yes';
+
+      frequencyField.classList.toggle('hidden', !isRecurring);
+      repeatUntilField.classList.toggle('hidden', !isRecurring);
+
+      frequencyInput.required = isRecurring;
+      repeatUntilInput.required = isRecurring;
+
+      if (!isRecurring) {
+        frequencyInput.value = '';
+        repeatUntilInput.value = '';
+      }
+    }
+
+
+    // ==================================================
+    // Tutor Functions
+    // ==================================================
+
+    function populateTutorDropdown() {
+
+      debugger;
+      const fullNameSelect = document.getElementById('fullName');
+
+      tutors.forEach(function (tutor) {
+        const option = document.createElement('option');
+        option.value = tutor.id;
+        option.textContent = tutor.name;
+        fullNameSelect.appendChild(option);
       });
-    </script>
-  </body>
+    }
+
+
+    // ==================================================
+    // Initialisation
+    // ==================================================
+
+    // populate controls
+    populateTutorDropdown();
+
+    // register event handlers
+    recurringSelect.addEventListener('change', toggleRecurringFields);
+
+    //set inital UI state
+    toggleRecurringFields();
+    setMinimumEventDate();
+
+
+    // ==================================================
+    // Form Submission
+    // ==================================================
+
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      clearMessage();
+
+
+      // --------------------------------------------------
+      // Collect Form Data
+      // --------------------------------------------------
+
+      const formData = {
+        fullName: form.fullName.value.trim(),
+        email: form.email.value.trim(),
+        courseName: form.courseName.value.trim(),
+        room: form.room.value,
+        eventDate: form.eventDate.value,
+        startTime: form.startTime.value,
+        endTime: form.endTime.value,
+        recurring: form.recurring.value,
+        frequency: form.frequency.value,
+        repeatUntil: form.repeatUntil.value
+      };
+
+
+      // --------------------------------------------------
+      // Required Field Validation
+      // --------------------------------------------------
+
+      if (
+        !formData.fullName ||
+        !formData.email ||
+        !formData.courseName ||
+        !formData.room ||
+        !formData.eventDate ||
+        !formData.startTime ||
+        !formData.endTime ||
+        !formData.recurring
+      ) {
+        showMessage('Please complete all required fields.', 'error');
+        return;
+      }
+
+
+      // --------------------------------------------------
+      // Date Validation
+      // --------------------------------------------------
+
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+
+      const selectedDate = new Date(
+        formData.eventDate + 'T00:00:00'
+      );
+
+      if (selectedDate < today) {
+        showMessage(
+          'Please choose today or a future date.',
+          'error'
+        );
+
+        return;
+      }
+
+
+      // --------------------------------------------------
+      // Time Validation
+      // --------------------------------------------------
+
+      if (
+        timeToMinutes(formData.startTime) % 30 !== 0 ||
+        timeToMinutes(formData.endTime) % 30 !== 0
+      ) {
+        showMessage(
+          'Please use 30-minute increments only.',
+          'error'
+        );
+
+        return;
+      }
+
+      if (
+        timeToMinutes(formData.endTime) <=
+        timeToMinutes(formData.startTime)
+      ) {
+        showMessage(
+          'End time must be later than start time.',
+          'error'
+        );
+
+        return;
+      }
+
+
+      // --------------------------------------------------
+      // Recurring Booking Validation
+      // --------------------------------------------------
+
+      if (formData.recurring === 'Yes') {
+        if (!formData.frequency || !formData.repeatUntil) {
+          showMessage(
+            'Please complete the recurring booking fields.',
+            'error'
+          );
+
+          return;
+        }
+
+        if (formData.repeatUntil < formData.eventDate) {
+          showMessage(
+            'Repeat Until must be on or after the Event Date.',
+            'error'
+          );
+
+          return;
+        }
+      }
+
+
+      // --------------------------------------------------
+      // Submit to Apps Script
+      // --------------------------------------------------
+
+      google.script.run
+        .withSuccessHandler(function (response) {
+          showMessage(response.message, 'success');
+
+          form.reset();
+          toggleRecurringFields();
+          setMinimumEventDate();
+        })
+        .withFailureHandler(function (error) {
+          showMessage(
+            error.message || 'Something went wrong.',
+            'error'
+          );
+        })
+        .submitBooking(formData);
+    });
+
+  });
+</script>
+</body>
 </html>
