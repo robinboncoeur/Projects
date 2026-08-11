@@ -16,8 +16,9 @@ theme:
       primary: indigo
       accent: pink
       toggle:
-        icon: material/weather-sunny # indigo
+        icon: material/weather-sunny # light
         name: Switch to Light Mode
+
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -53,10 +54,9 @@ nav:
 
   - RCAS:
       - rcas/index.md
-      - Test Index: rcas.index.html
       - Docs v1b: rcas/BookingDoc.md
       - Exit Str: rcas/exitStrategy.md
-        Portal: rcas/Portal.md
+      - Portal: rcas/Portal.md
       - Mar 24: rcas/rcas26-03-24.md
       - Mar 25: rcas/rcas26-03-25.md
       - Mar 27: rcas/rcas26-03-27.md
@@ -65,10 +65,16 @@ nav:
       - Apr 05: rcas/rcas26-04-05.md
       - Apr 06: rcas/rcas26-04-06.md
       - Apr 19: rcas/rcas26-04-19.md
+      - May 05: rcas/rcas26-05-05.md
+      - Aug 11: rcas/rcas26-08-11.md
       - Facebook: rcas/rcas26-05-05.md
       - FormPage: rcas/Formv01a.md
-      - Code Base 0.1a: rcas/Codev01a.md
-      - Code Base 0.1b: rcas/Codev01b.md
+      - Code Base 1.1: rcas/Codev01a.md
+      - Code Base 1.2: rcas/Codev01b.md
+      - Code Base 1.3: rcas/Codev01c.md
+      - Code Base 1.3a: rcas/Codev01ca.md
+      - Code Base 1.4a: rcas/Codev01da.md
+      - Code Base 1.4b: rcas/Codev01db.md
       - Test Checklist: rcas/testChecklist.md
 
   - Tech:

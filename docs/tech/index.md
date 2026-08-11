@@ -6,7 +6,7 @@
 
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 😲 — —
 
-<hr style="height:8px;border-width:0;color:black;background-color:black">
+<hr class="section-break strong" />
 
 
 
@@ -67,8 +67,9 @@ Also, figured out (thanks, Emily) how to create a [clickable image link](/tech/M
 
 ---
 
+<!--
 Update 2025.10.04: Moved [Blog posts](/blogs/index.md) into their own category.
-
+-->
 ---
 
 Update 2025.10.02: Added a category Visual Art. Anything to do with art or video has been moved there. Also, with the receipt of Dad's autobiography, have recommenced photographing physical medium, translation and opening the account for discussion..
@@ -89,7 +90,7 @@ Still not sure what to do about that.
 
 There will be subdomains for the Help (and other) pages: projects.tightbytes.com, appmgr.tightbytes.com, keys2life.tightbytes.com and so on.
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr class="section-break strong" />
 
 
 
@@ -117,8 +118,7 @@ It was time to rethink things, including how the pages are created and maintaine
 Sphinx/ReadTheDocs was more trouble than benefit: in essence it was using a wrench as a hammer. So, began migrating the 'Projects' site from AllHelp (Sphinx/ReadTheDocs - ReST) to markdown (MkDocs), hosted on Cloudflare. I would upload files and images to my github site (free) and then Cloudflare would dynamically create the webpages.  
 There are (and will be) subdomains for all the old Help pages: projects.tightbytes.com, art.projects.com, appmgr.tightbytes.com, keys2life.tightbytes.com and so on.
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
-
+<hr class="section-break strong" />
 
 
 
@@ -163,7 +163,7 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 </audio>
 
 
-<hr style="height:4px;border-width:0;color:black;background-color:black">
+<hr class="section-break strong" />
 
 
 
@@ -178,7 +178,7 @@ Sorry, going to put this up: needs to be said.
 
 <iframe width="840" height="472" src="https://www.youtube.com/embed/h_2orPxL27M" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr style="height:8px;border-width:0;color:black;background-color:black">
+<hr class="section-break strong" />
 
 
 
