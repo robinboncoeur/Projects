@@ -8,9 +8,7 @@
 
 ## Checklist
 
-<img src="/assets/images/rcas/Logo-RCASsm.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
----
+[![Writer][St00]{ .artR width="460" }][St00]
 
 ### ✅ Clean Testing Sequence
 
@@ -159,4 +157,19 @@ Before going live:
   * incognito window
 
 
+🌹
+
 <hr class="section-break strong" />
+
+
+<!--  Image references  -->
+
+
+[Br02]: ../assets/images/base/Bnr02c.jpg
+[St00]: ../assets/images/base/00Writer.jpg
+[St09]: ../assets/images/base/09aParis.jpg
+
+<!--
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
+/-->

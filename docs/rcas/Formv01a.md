@@ -1,9 +1,20 @@
 # Booking App v.1a Forms
 
+[![Old Kaimu][Br02]{ .artC width="1100" }][Br02]
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+
 ## Code Base
 ### 05.Apr.2026
 
-<img src="/assets/images/docimgs/260331aa.jpg" style="float: right; width: 300px; margin-left: 20px" />
+[![Writer][St00]{ .artR width="460" }][St00]
 
 ```javascript
 function doGet() {
@@ -600,3 +611,21 @@ function parseTimeToMinutes(timeStr) {
   </body>
 </html>
 ```
+
+
+🌹
+
+<hr class="section-break strong" />
+
+
+<!--  Image references  -->
+
+
+[Br02]: ../assets/images/base/Bnr02c.jpg
+[St00]: ../assets/images/base/00Writer.jpg
+[St09]: ../assets/images/base/09aParis.jpg
+
+<!--
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
+/-->

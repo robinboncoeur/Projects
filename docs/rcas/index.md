@@ -1,8 +1,6 @@
 # Redlands Coast Art Society
 
-
 [![Old Kaimu][Br02]{ .artC width="1100" }][Br02]
-
 
 <hr class="section-break strong" />
 
