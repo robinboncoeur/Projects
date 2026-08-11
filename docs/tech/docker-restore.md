@@ -1,5 +1,11 @@
 # ComfyUI Docker Restore Notes
 
+<hr class="section-break strong" />
+
+
+
+
+
 ## Files
 - robyn-comfyui-cu128-py312.tar.gz   
 - comfyui-data-backup.tar.gz   
@@ -43,3 +49,5 @@ docker compose up -d
 ### 5. Access
 
 http://localhost:8188
+
+<hr class="section-break strong" />

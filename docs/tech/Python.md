@@ -1,5 +1,11 @@
 # Python including Pip
 
+<hr class="section-break strong" />
+
+
+
+
+
 ## Pip Installs
 
 ### yt-dlp
@@ -18,7 +24,7 @@ When you get this **ERROR: Did not get any data blocks** invoke:
 
 See which one will allow download. Youmay end up with a .3gp file.
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr class="section-break strong" />
 
 
 
@@ -43,7 +49,7 @@ Installed gspread and oauth2client via pip3:
     pip3 install gspread oauth2client
 ```
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr class="section-break strong" />
 
 
 
@@ -55,7 +61,7 @@ Installed gspread and oauth2client via pip3:
 
 [Mouse vs Python Series Python 101](https://www.youtube.com/watch?v=k0zZcnZHYAo&list=PLN0iJDXT7K2u3xVle4-9N1_DLqIh0sfys)
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr class="section-break strong" />
 
 
 
@@ -224,7 +230,7 @@ Now the first 5 rows of the output should look like this.
 
 We picked these 3 columns with double square brackets df_excel[[‘average’, ‘pass/fail’, ‘grades’]] and the first 5 rows can be displayed with the .head() method.
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr class="section-break strong" />
 
 
 
@@ -429,7 +435,7 @@ There are many things you can do in a Python plot such as adding labels to the g
 
 That’s it! Now you’re ready to take advantage of all the benefits Python and Pandas offers! All the code used in this article is available on my Github.
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr class="section-break strong" />
 
 
 
@@ -670,5 +676,4 @@ And there you go, an automatically generated Microsoft Word report with numbers 
   template.save('Automated_report.docx')  
 ```
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
+<hr class="section-break strong" />

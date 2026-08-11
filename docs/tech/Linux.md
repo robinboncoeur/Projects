@@ -1,5 +1,12 @@
 # Managing My OSes
 
+<hr class="section-break strong" />
+
+
+
+
+
+
 ## Windows 11
 
 ### TPM2 vs CPU
@@ -14,7 +21,7 @@ Thought I'd have a look at her 'old' motherboard. It's a [Gigabyte GA-A320M-S2H]
 
 So, I figured out the reason. Finally. I think. I **hope**! The CPU is not supported: it needs to be a series 2000 AMD processor or newer. So, I've ordered a R5-2600 Processor 6 Cores 3.4GHz Base 3.9GHz Turbo 19MB Cache AM4 Socket CPU from Alibaba for AUD$40. Worth a try, anyway.
 
-<hr style="height:8px;border-width:0;color:green;background-color:green">
+<hr class="section-break strong" />
 
 
 
@@ -179,7 +186,7 @@ If Telstra assigns IPv6, be sure your firewall has **matching v6 rules** (UFW ha
 
 If you want, I can sketch a DMZ ruleset (OPNsense or plain `nftables`) and a minimal Caddy reverse-proxy config for Debian next.
 
-<hr style="height:4px;border-width:0;color:green;background-color:green">
+<hr class="section-break strong" />
 
 
 
@@ -242,7 +249,7 @@ and you should be good.
 
 [WHV5M3XPNX]
 
-<hr style="height:4px;border-width:0;color:green;background-color:green">
+<hr class="section-break strong" />
 
 
 
@@ -262,4 +269,4 @@ For **immediate** results, Run (try as normal user and root):
     source /etc/environment && export PATH
 ```
 
-<hr style="height:8px;border-width:0;color:green;background-color:green">
+<hr class="section-break strong" />

@@ -1,5 +1,12 @@
 # Browser Issues
 
+<hr class="section-break strong" />
+
+
+
+
+
+
 ## Background Colour
 
 Got you, Robyn. YouTube’s theme can be stored per-account (server-side) or per-browser via cookies/local storage. If that storage gets blocked/cleared—or you’re switching Google profiles—it snaps back to light. Here’s a tight fix list that usually nails it:
@@ -61,7 +68,6 @@ If it’s still reverting after those, tell me your browser (Chrome/Safari/Firef
 - In Chrome, check `chrome://flags` → **Auto Dark Mode for Web Contents** = Default/Disabled.
   
 
-<hr style="height:8px;border-width:0;color:green;background-color:green">
+<hr class="section-break strong" />
 
 [Back to the Main Page](../index.md)
-

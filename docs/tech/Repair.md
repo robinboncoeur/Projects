@@ -2,7 +2,7 @@
 
 This page started out as a **Repairing Macbooks** page, but I'm going to put all repairs I do on things here, just to remind myself how it's done.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 ## Repairs on Macs
@@ -19,7 +19,7 @@ And the machine worked beautifully!
 
 So, that's what got me started.
 
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -62,7 +62,7 @@ And I'm currently working on another Macbook Pro that had been pretty roughly tr
 
 ... so we'll see what ends up happening to this machine.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -118,7 +118,7 @@ When installing a new battery, you should calibrate it after installation in ord
 
 If you notice any unusual behavior or problems after installing your new battery, you may need to reset your MacBook's SMC.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -138,7 +138,7 @@ Replaced the speakers on Julia's 2011 Macbook Pro. This was a bit involved, as o
 
 I didn't realise this at first, but the bottom of the 2012 Macbook is actually held on by **three** differeent sets of screws (I thought they were just long and short ones). This bit of advice came from my [GOTO iFixit site](https://www.ifixit.com/Guide/MacBook+Pro+13-Inch+Unibody+Mid+2012+Battery+Replacement/10365) step one - copy this link into your browser: https://www.ifixit.com/Guide/MacBook+Pro+13-Inch+Unibody+Mid+2012+Battery+Replacement/10365
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -195,7 +195,7 @@ I will give this a try. thank you.
 
 I had the same problem even when using the latest Catalina patcher version 1.4.4. The "sudo nvram..." command solved the problem of Microsoft office apps, Chrome browser, Edge browser crashing at start up.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -273,5 +273,4 @@ I had the same problem even when using the latest Catalina patcher version 1.4.4
 [Not really for Mac, but a Linux guide to JACK](http://www.tedfelix.com/linux/linux-midi.html)
 
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
+<hr class="section-break strong" />

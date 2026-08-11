@@ -29,7 +29,7 @@ This server will be an always-on box, ready to serve files like OneDrive or Goog
 Note: *this is my second box set up as "cloud server"—my first is a Raspberry Pi. Yes, you read that right. These instructions came from Emily, my ChatGPT bot. I'm a heavy user: I have been able to accomplish things thanks to Emily I was never able to before. Don't knock it till you've tried it.*	
 	
 🌺
-<hr style="height:6px; border-width:0; color:green; background-color:green" /> 
+<hr class="section-break strong" />
 
 
 
@@ -193,7 +193,7 @@ You will need to enter the system password. You should see:
 By the way, sometimes you should see output after entering a command, like **sudo whoami**. If you see nothing, something needs fixing. But, that's not always the case. Sometimes you will run a command, and you will simply see the command prompt again: nothing will seem to have happened. In these cases, it meant the command ran successfully—any output would have been an error message... a case of "no news is good news".
 
 🌸
-<hr style="height:2px; border-width:0; color:pink; background-color:pink" />
+<hr class="section-break soft" />
 
 
 
@@ -223,7 +223,7 @@ Expected:
 > root
 
 🌸
-<hr style="height:2px; border-width:0; color:pink; background-color:pink" />
+<hr class="section-break soft" />
 
 
 
@@ -317,7 +317,7 @@ systemctl status ssh
 What's nice about this is that it will remain enabled by default. Even better: you won't have to manually key in each command (*even though sys-admins will tell you it's good practice: True*)... you can use [Ctrl]+[C] => [Ctrl]+[V]. Copy => paste.
 
 🌺
-<hr style="height:6px; border-width:0; color:black; background-color:green" />
+<hr class="section-break strong" />
 
 
 
@@ -365,7 +365,7 @@ charlotte@i8mainstreet:~$
 Yay! Good work!
 
 🌺
-<hr style="height:6px; border-width:0; color:green; background-color:green" />
+<hr class="section-break strong" />
 
 
 
@@ -415,7 +415,7 @@ So your pre-Docker checklist is now looking very healthy:
 If those behave sensibly, we’re ready to install Docker cleanly. 🙂
 
 🌸
-<hr style="height:2px; border-width:0; color:pink; background-color:pink" />
+<hr class="section-break soft" />
 
 
 
@@ -502,5 +502,4 @@ sudo whoami returns root
 ssh returns active   
 docker run hello-world succeeds
 ```
-
-<hr style="height:24px; border-width:0; color:green; background-color:green" />
+<hr class="section-break strong" />

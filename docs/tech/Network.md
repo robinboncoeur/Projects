@@ -1,5 +1,12 @@
 # Networking Essentials
 
+<hr class="section-break strong" />
+
+
+
+
+
+
 ## Everyday Home Network Checklist
 
 [Thanks, Emily (ChatGPT)]
@@ -17,7 +24,7 @@
 
 ✅ Do this once, stays set.
 
-<hr style="height:4px;border-width:0;color:green;background-color:green">
+<hr class="section-break strong" />
 
 
 
@@ -31,7 +38,7 @@
   2. Give it a simple share name (no spaces, e.g. `SharedDocs`).
   3. Set **Permissions** → Everyone → Read (or Read/Write if needed).
 
-<hr style="height:4px;border-width:0;color:green;background-color:green">
+<hr class="section-break strong" />
 
 
 
@@ -54,7 +61,7 @@
 
   *(replace with Julias2025’s actual IP, found via `ipconfig`)*
 
-<hr style="height:4px;border-width:0;color:green;background-color:green">
+<hr class="section-break strong" />
 
 
 
@@ -71,7 +78,7 @@
 
 ➡️ Now it’ll appear as a normal drive every time you log in.
 
-<hr style="height:4px;border-width:0;color:green;background-color:green">
+<hr class="section-break strong" />
 
 
 
@@ -88,7 +95,7 @@
 * **If name lookup fails:** use the IP address.
 * **If still stubborn:** run `net use * /delete` in Command Prompt to flush connections.
 
-<hr style="height:4px;border-width:0;color:green;background-color:green">
+<hr class="section-break strong" />
 
 
 
@@ -103,7 +110,7 @@
   * Then use `Julias2025\ShareUser` when prompted.
 
 
-<hr style="height:8px;border-width:0;color:green;background-color:green">
+<hr class="section-break strong" />
 
 
 
@@ -125,7 +132,7 @@ In Terminal:
 
 ...where "7050" is an arbitrary port number.
 
-<hr style="height:4px;border-width:0;color:green;background-color:green">
+<hr class="section-break strong" />
 
 
 
@@ -164,7 +171,7 @@ With that done, now request a new IP address, with the same command as before:
   sudo dhclient
 ```
 
-<hr style="height:4px;border-width:0;color:green;background-color:green">
+<hr class="section-break strong" />
 
 
 
@@ -194,6 +201,4 @@ That turns it off, you can check with the “link show” command from earlier. 
   sudo ip link set <interface_name> up
 ```
 
-<hr style="height:8px;border-width:0;color:green;background-color:green">
-
-
+<hr class="section-break strong" />

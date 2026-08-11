@@ -1,5 +1,12 @@
 # Other Projects
 
+<hr class="section-break strong" />
+
+
+
+
+
+
 ## My Projects Pages 
 
 It's about sharing. That was sort-of my primary motivation for [TightBytes](https://tightbytes.com) - which sees pretty much no visitors ... whatever - and is what drives these pages. As you can tell from the next section, a bit of the reason was so I had a centralised location for reminders and links to stuff and so forth. Getting old makes one a bit forgetful, and I'll sometimes find myself out and about - away from my PC - trying to do something I absolutely *Know* how to do... yeah, but can't remember **exactly** how. Perhaps the reason I forget is because I use so many "tools". 
@@ -29,7 +36,7 @@ A markup language allows you to insert formatting 'tags' right into the text its
 
 HTML is just one such markup language. reStructuredText is another. The current pages are formatted using markdown (MkDocs). I also write in VBA and Python... after a while, I've ended up needing a reference on how to do certain things in a language I hadn't used in a while.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -41,20 +48,20 @@ Grid for two simple layouts
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r1IitKbJRFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 Slide Show
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJERnXiFFug" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 [Why people use CSS frameworks](https://ishadeed.com/article/conditional-css-has-nth-last-child/?utm_source=convertkit&utm_medium=email&utm_campaign=Why+people+use+CSS+frameworks%20-%2010872019)
 
 [AstroDocs](https://docs.astro.build/en/editor-setup/)
 
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -71,7 +78,7 @@ Using as an example a document called "KeysToLife", the following approach more-
 
 I now use [Github Desktop](https://desktop.github.com) which makes the process infinitely simpler, particularly when I stuff things up: it suggests solutions, which the commandline approach doesn't do.
 
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -106,7 +113,7 @@ If you click on the 'Dark theme: On' menu item, it will turn Dark Theme: Off.
 
 ![Chrome](http://www.tightbytes.com/images/projects/conundrums/Cm_Chrome-3.png)
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -132,7 +139,7 @@ In Visual Studio Code, you can use the following steps to select all the text be
 
 By following these steps, you can easily select all the text between two instances in Visual Studio Code.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -160,7 +167,7 @@ That's in your email invitation. Doing so will add it to your Calendar, which wi
 
 When you click on that event, it will bring up that event, and in the event you'll simply click on the "Join with Google Meet" link, which will bring up Google Meet, activating video and you're good to go.
 
-<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -210,7 +217,7 @@ you'll be prompted to send invitations to to everyone on the guest list - saves 
 
 ![Meet](http://www.tightbytes.com/images/projects/conundrums/Meet/Meet-13.png)
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -259,7 +266,7 @@ Should be good to go.
 
 To put your music on your iPhone, you can use the Apple Cloud or Google's Drive. I don't have an iPhone so I don't know the process, but it should be fairly straight-forward.
 
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -288,7 +295,7 @@ Oh well, it was US$100. You get what you pay for.
 
 Speaking of courses, since I use [Musescore](https://musescore.org/en) for composing music, it totally made sense to sign up for the full "Musescore bank of courses"... there's heaps of really useful information on [these pages](https://musescore.com/courses), particularly as they were having an 85% off sale. Turns out: it totally is worth every penny! Remember, Musescore is a free download. You want to write music? this is the way to go.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -305,7 +312,7 @@ So far, I have this:
 
 It's wintertime in Southeast Queensland. Nights are quite cool - actually feels cold to us. The noise of cars and other machines finally diminish in the evening, for which I'm rather grateful. That's what I'm trying to say with the first few bars of this piece. 
 
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -333,7 +340,7 @@ When he hit 100K subscribers, he put out this excellent video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9USTddwNoXU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -391,7 +398,7 @@ Thank you Nate White.
 BTW: 
 Scientists don’t *think* (assume) anything, they make no assumptions. Science is evidence-driven. There is a fallacy in this assertion.
 
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -417,7 +424,7 @@ Note: *Make sure your document doesn't contain nested instances of the start and
 
 Remember to exercise caution when modifying or deleting text using regex, as it can have unintended consequences. Always make sure to have a backup of your file before performing such operations.
 
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -440,4 +447,4 @@ F# major: F# major is the major key that is a semitone above B minor. It provide
 
 These are just a few examples of keys that complement the B minor key. Ultimately, the choice of complementary keys will depend on the musical context and the desired emotional effect.
 
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
