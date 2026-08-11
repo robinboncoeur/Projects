@@ -1,9 +1,9 @@
-# Booking App v0.1a
+# Booking App v1.1
 
 ## Original
 ### 05.Apr.2026
 
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -579,7 +579,7 @@ function setPendingOnFormSubmit(e) {
 
 ```
 
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -1239,7 +1239,7 @@ function setPendingOnFormSubmit(e) {
 }
 ```
 
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -1296,7 +1296,7 @@ const CONFIG = {
 
 Wasn't sure if 'RESPONSE_SHEET_NAME' was a required const, so I just used the sheet name for it.
 
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -1425,7 +1425,7 @@ function processApprovalRow_(sheet, row, headers) {
 }
 ```
 
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -1552,7 +1552,7 @@ function processApprovalRow_(sheet, row, headers) {
 }
 ```
 
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -1698,7 +1698,7 @@ function processCancellationRow_(sheet, row, headers, oldStatus) {
 }
 ```
 
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -1834,7 +1834,7 @@ function processApprovalRow_(sheet, row, headers) {
 }
 ```
 
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -1913,7 +1913,7 @@ function submitBooking(formData) {
 }
 ```
 
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -2003,7 +2003,7 @@ function handleAssignedRoomEdit_(e, sheet, row, headers) {
 }
 ```
 
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -2130,7 +2130,7 @@ If the booking is **Pending / Rejected / Cancelled**:
 
 ---
 
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -2276,7 +2276,7 @@ That’s often nicer in admin tools 😊
 
 My recommendation is to keep your current version live. Save this automatic-retest version in a notes file or comment block for later, in case someone eventually asks for a smoother workflow. That way you don’t introduce extra moving parts before v1 settles.
 
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -2618,7 +2618,7 @@ My recommendation is to keep your current version live. Save this automatic-rete
   </body>
 </html>
 ```
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -2768,7 +2768,7 @@ function processApprovalRow_(sheet, row, headers) {
   }
 }
 ```
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -2913,7 +2913,7 @@ function processApprovalRow_(sheet, row, headers) {
 </script>
 ```
 
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -3072,7 +3072,7 @@ function processApprovalRow_(sheet, row, headers) {
   });
 </script>
 ```
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -3158,7 +3158,7 @@ function handleAssignedRoomEdit_(e, sheet, row, headers) {
 }
 ```
 
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -3219,7 +3219,7 @@ function handleAssignedRoomEdit_(e, sheet, row, headers) {
 }
 ```
 
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 

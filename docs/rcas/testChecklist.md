@@ -1,11 +1,14 @@
 # Testing v0.1a
 
+<hr class="section-break strong" />
+
+
+
+
 
 ## Checklist
 
-
 <img src="/assets/images/rcas/Logo-RCASsm.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
 
 ---
 
@@ -156,4 +159,4 @@ Before going live:
   * incognito window
 
 
-<hr style="height:24px;border-width:0;color:black;background-color:black">
+<hr class="section-break strong" />
