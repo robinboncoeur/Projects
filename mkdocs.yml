@@ -45,6 +45,7 @@ nav:
 
   - Other:
       - other/index.md
+      - EVSolar: other/EVSolarProj.md
       - Foodie: other/Foodie.md
       - Garden21: other/Garden21.md
       - Garden22: other/Garden22.md
