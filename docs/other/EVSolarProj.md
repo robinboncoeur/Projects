@@ -1,7 +1,19 @@
-# EV / Solar Project — Context Summary
+# EV / Solar Project
 
-**Date:** 12 August 2026  
+[![Dolphin][Ot01]{ .artR width="220" }][Ot01]
+
+**Context Summary**  
+**Date:** 12 August 2026    
 **Status:** Investigation stage — no purchase decisions made.
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
 
 ## Why replace the Hyundai?
 
@@ -25,9 +37,13 @@ The replacement requirement is fundamentally:
 
 The i20 will probably **not be traded in**. A relative returning to Australia will soon need a vehicle, and Robyn and Julia are considering donating the i20 to them. This would allow a reliable car with a known history to remain useful rather than accepting a trivial trade-in value.
 
----
+<hr class="section-break strong" />
 
-# Why consider an EV?
+
+
+
+
+## Why consider an EV?
 
 Since a replacement vehicle is becoming functionally justified anyway, Robyn is questioning the wisdom of buying another ICE vehicle and committing to another decade or more of petrol-powered transport.
 
@@ -44,7 +60,7 @@ The EV does **not** need to "pay for itself" to be justified. It needs to:
 
 ---
 
-# Existing Solar Installation
+### Existing Solar Installation
 
 The house already has rooftop solar, installed around **2014**, the same year the i20 was purchased.
 
@@ -57,6 +73,13 @@ Solar panels can remain useful considerably longer than twelve years, and the in
 Therefore:
 
 > **Do not replace the existing solar simply because it is old. Measure its condition and performance first.**
+
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## First action: independent-ish paid solar assessment
 
@@ -85,6 +108,8 @@ Their current appointment delay appears to be roughly **2–4 weeks**.
 
 Robyn has bookmarked them. Julia ("TPTB") appears comfortable with the idea. Robyn intends to confirm with Julia and probably arrange an inspection next week.
 
+---
+
 ### Brief for the assessor
 
 The desired request is essentially:
@@ -112,9 +137,14 @@ The ideal result may simply be:
 
 No solar replacement decision should be made until this assessment has been completed.
 
----
+<hr class="section-break strong" />
 
-# EV Charger
+
+
+
+
+
+## EV Charger
 
 An earlier provisional allowance of **AUD $6,000–$7,000** for an EV charger was probably much too high.
 
@@ -140,9 +170,15 @@ The charger uses household electrical supply. Solar-aware charging can preferent
 
 A charger is also better regarded as **household infrastructure** rather than part of the consumable cost of one particular EV. It can service future EVs as well.
 
----
+<hr class="section-break strong" />
 
-# Vehicle Requirements
+
+
+
+
+
+
+## Vehicle Requirements
 
 The developing specification is:
 
@@ -172,7 +208,7 @@ Julia has also raised a legitimate concern about **BYD after-sales support**. Th
 
 ---
 
-# Range Requirement — Eddie Test
+### Range Requirement — Eddie Test
 
 Range became substantially more important once the normal family-driving requirement was quantified.
 
@@ -207,13 +243,23 @@ The objective is:
 
 Motorway speeds, air-conditioning, weather, battery ageing and deviations from nominal test range should all be allowed for.
 
----
+<hr class="section-break strong" />
 
-# BYD Dolphin Essential — Current Benchmark
+
+
+
+
+## Choices
+
+### BYD Dolphin Essential
+
+[![Dolphin][Ot01]{ .artR width="360" }][Ot01]
+
+**Current Benchmark**
 
 A current Queensland listing was found for:
 
-## 2026 BYD Dolphin Essential
+* 2026 BYD Dolphin Essential
 
 **Drive-away price:** approximately **AUD $32,475**
 
@@ -225,6 +271,10 @@ Advertised specifications shown in the listing:
 - 16-inch alloy wheels;
 - four passenger doors plus hatch;
 - available in Queensland.
+
+---
+
+[![Dolphin][Ot02]{ .artR width="360" }][Ot02]
 
 This particular 2026 specification is substantially more attractive than the earlier ~340 km figure that had initially been used in the discussion.
 
@@ -247,6 +297,10 @@ Possible legitimate reasons to spend more include:
 - meaningfully greater useful range;
 - substantially stronger local servicing/support.
 
+
+[![Dolphin][Ot03]{ .artR width="360" }][Ot03]
+
+
 Things that are of little importance include unnecessary performance, oversized wheels and cosmetic specification-sheet features.
 
 The Dolphin's 16-inch wheels may actually be desirable because they can provide:
@@ -256,15 +310,27 @@ The Dolphin's 16-inch wheels may actually be desirable because they can provide:
 - cheaper replacement tyres;
 - less vulnerability to pothole damage.
 
----
+<hr class="section-break strong" />
 
-# Other EVs Discussed
+
+
+
+
+
+
+### EVs under Discussion
 
 The current market has inexpensive EVs beginning well below the original expected ~$36,000 price.
 
 Cars discussed include:
 
-### BYD Atto 1 Essential
+<hr class="section-break soft" />
+
+
+
+#### BYD Atto 1 Essential
+
+[![Atto1 Essential][Ot07]{ .artR width="180" }][Ot07]
 
 Approximately **$23,990 + on-road costs**.
 
@@ -272,13 +338,25 @@ Five-door EV and currently one of Australia's least expensive new EVs.
 
 Rejected for Robyn's use because its ~220 km nominal range leaves insufficient comfortable margin for routine Redland Bay–Deebing Heights family trips.
 
-### BYD Atto 1 Premium
+<hr class="section-break soft" />
+
+
+
+#### BYD Atto 1 Premium
+
+[![Atto1 Premium][Ot08]{ .artR width="180" }][Ot08]
 
 Approximately **$27,990 + ORC**, with roughly 310 km nominal range.
 
 Possible, but once range and family requirements are considered, spending somewhat more on the Dolphin appears more attractive.
 
-### BYD Dolphin Essential
+<hr class="section-break soft" />
+
+
+
+#### BYD Dolphin Essential
+
+[![Dolphin][Ot01]{ .artR width="180" }][Ot01]
 
 Approximately **$32,475 drive-away** for the specific current Queensland 2026 listing found.
 
@@ -286,7 +364,13 @@ Approximately **410 km advertised range** in that listing.
 
 Currently the vehicle to beat.
 
-### MG4
+<hr class="section-break soft" />
+
+
+
+#### MG4
+
+[![MG4][Ot12]{ .artR width="180" }][Ot12]
 
 Worth comparison because of competitive pricing and range.
 
@@ -294,15 +378,27 @@ Julia has previously found the MG interior somewhat **plasticky**.
 
 Nevertheless, it should not automatically be eliminated if its overall value, support and driving characteristics are strong.
 
-### Geely EX2
+<hr class="section-break soft" />
+
+
+
+#### Geely EX2
+
+[![Geely][Ot09]{ .artR width="180" }][Ot09]
 
 Another inexpensive EV worth investigating.
 
 Potentially strong value and deserving of a physical inspection/test drive.
 
----
+<hr class="section-break strong" />
 
-# Local Support
+
+
+
+
+
+
+## Local Support
 
 Local servicing matters.
 
@@ -323,9 +419,14 @@ The same questions should be asked of MG and Geely.
 
 A manufacturer's written warranty is not the entire after-sales story.
 
----
+<hr class="section-break strong" />
 
-# Physical Test-Drive Method
+
+
+
+
+
+## Physical Test-Drive Method
 
 Specifications alone will not determine the winner.
 
@@ -358,9 +459,14 @@ Then:
 
 Neither Robyn nor Julia should have to rationalise a car they dislike merely because it is inexpensive.
 
----
+<hr class="section-break strong" />
 
-# Financial Working Estimate
+
+
+
+
+
+## Financial Working Estimate
 
 Assuming the existing solar installation is healthy and requires no substantial replacement:
 
@@ -386,9 +492,14 @@ This assumes:
 
 Any solar-system replacement or major electrical upgrade would be a separate capital decision.
 
----
+<hr class="section-break strong" />
 
-# Current Decision Sequence
+
+
+
+
+
+## Current Decision Sequence
 
 The project should proceed in this order:
 
@@ -435,9 +546,15 @@ There is a genuine reason to replace it, but **no emergency requiring a hurried 
 
 This allows Robyn and Julia to investigate first and spend second.
 
----
+<hr class="section-break strong" />
 
-# Current Project Principle
+
+
+
+
+
+
+## Current Project Principle
 
 The key change in thinking during the discussion was:
 
@@ -458,3 +575,29 @@ No equipment should be replaced merely because it is old.
 No technology should be purchased merely because it is new.
 
 **Measure first. Buy what solves the actual problem.**
+
+<hr class="section-break strong" />
+
+
+
+
+<!--  Image references  -->
+
+
+[Ot01]: ../assets/images/misc/EVDolphin1.jpg
+[Ot02]: ../assets/images/misc/EVDolphin2.jpg
+[Ot03]: ../assets/images/misc/EVDolphin3.jpg
+[Ot04]: ../assets/images/misc/EVDolphin4.jpg
+[Ot05]: ../assets/images/misc/EVDolphin5.jpg
+[Ot06]: ../assets/images/misc/EVDolphinPrem.jpg
+[Ot07]: ../assets/images/misc/EVAttoEss.jpg
+[Ot08]: ../assets/images/misc/EVAttoPrem.jpg
+[Ot09]: ../assets/images/misc/EVGeely1.jpg
+[Ot10]: ../assets/images/misc/EVGeely2.jpg
+[Ot11]: ../assets/images/misc/EVGeelyEX2.jpg
+[Ot12]: ../assets/images/misc/EVMG4a.jpg
+
+<!--
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
+/-->
