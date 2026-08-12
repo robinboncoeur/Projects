@@ -1,6 +1,6 @@
 # EV / Solar Project
 
-[![Dolphin][Ot01]{ .artR width="220" }][Ot01]
+[![Dolphin][Otf1]{ .artR width="220" }][Otf1]
 
 **Context Summary**  
 **Date:** 12 August 2026    
@@ -253,7 +253,7 @@ Motorway speeds, air-conditioning, weather, battery ageing and deviations from n
 
 ### BYD Dolphin Essential
 
-[![Dolphin][Ot01]{ .artR width="360" }][Ot01]
+[![Dolphin][Ota1]{ .artR width="360" }][Ota1]
 
 **Current Benchmark**
 
@@ -274,7 +274,7 @@ Advertised specifications shown in the listing:
 
 ---
 
-[![Dolphin][Ot02]{ .artR width="360" }][Ot02]
+[![Dolphin][Otc1]{ .artR width="360" }][Otc1]
 
 This particular 2026 specification is substantially more attractive than the earlier ~340 km figure that had initially been used in the discussion.
 
@@ -298,7 +298,7 @@ Possible legitimate reasons to spend more include:
 - substantially stronger local servicing/support.
 
 
-[![Dolphin][Ot03]{ .artR width="360" }][Ot03]
+[![Dolphin][Otb1]{ .artR width="360" }][Otb1]
 
 
 Things that are of little importance include unnecessary performance, oversized wheels and cosmetic specification-sheet features.
@@ -310,6 +310,19 @@ The Dolphin's 16-inch wheels may actually be desirable because they can provide:
 - cheaper replacement tyres;
 - less vulnerability to pothole damage.
 
+[![Dolphin][Otd1]{ .artL width="160" }][Otd1]
+[![Dolphin][Ote1]{ .artL width="160" }][Ote1]
+[![Dolphin][Otg1]{ .artL width="160" }][Otg1]
+[![Dolphin][Oth1]{ .artL width="160" }][Oth1]
+[![Dolphin][Otl1]{ .artL width="160" }][Otl1]
+
+<hr class="section-break soft" />
+
+[![Dolphin][Oti1]{ .artL width="160" }][Oti1]
+[![Dolphin][Otk1]{ .artL width="160" }][Otk1]
+[![Dolphin][Otf1]{ .artL width="160" }][Otf1]
+[![Dolphin][Otj1]{ .artL width="160" }][Otj1]
+
 <hr class="section-break strong" />
 
 
@@ -320,9 +333,17 @@ The Dolphin's 16-inch wheels may actually be desirable because they can provide:
 
 ### EVs under Discussion
 
-The current market has inexpensive EVs beginning well below the original expected ~$36,000 price.
+Note: *WLTP: Worldwide Harmonised Light Vehicle Test Procedure, measuring, among other things, the range of an EV.*
 
-Cars discussed include:
+The current market has inexpensive EVs beginning well below the original expected ~$36,000 price. For your use, I'd establish this minimum:
+
+~300 km WLTP: absolute floor.
+~340–400 km WLTP: much more comfortable.
+400+ km: lovely, but probably not worth paying a large premium for by itself.
+
+As the Eddie run is part of the specification, set the WLTP target higher than “340-ish”. A look at the current Australian market suggests the sweet spot is about $30–35k. Not $24k. Not $45k. Somewhere around $30–35,000 drive-away-ish, depending on the deal.
+
+Why? Your normal long family run is already ~140 km return. You'll want a car where 180 km of real driving is boringly routine, even after several years of battery ageing and with aircon running. That means you'd prefer roughly 340 km WLTP minimum, with 400-ish being genuinely useful rather than specification-sheet jewellery.
 
 <hr class="section-break soft" />
 
@@ -330,13 +351,22 @@ Cars discussed include:
 
 #### BYD Atto 1 Essential
 
-[![Atto1 Essential][Ot07]{ .artR width="180" }][Ot07]
+[![Atto1 Essential][Ota2]{ .artR width="180" }][Ota2]
 
-Approximately **$23,990 + on-road costs**.
+* **$23,990 + on-road costs**  
+* **220 km nominal range**
 
 Five-door EV and currently one of Australia's least expensive new EVs.
 
-Rejected for Robyn's use because its ~220 km nominal range leaves insufficient comfortable margin for routine Redland Bay–Deebing Heights family trips.
+The BYD Atto 1 is a proper five-door hatchback—four passenger doors plus the hatch—so it passes your fundamental Grandma Must Be Able To Reach Harriet test. 😄
+
+It was introduced here specifically as BYD's tiny entry-level EV, and current Australian listings still put the Essential at $23,990 + on-road costs.
+
+**Rejected** for Robyn's use because its ~220 km nominal range leaves insufficient comfortable margin for routine Redland Bay–Deebing Heights family trips.
+
+Redland Bay → Deebing Heights → Redland Bay is about 140 km before you've done anything at the destination. Add a trip to shops, park, Kindy, detour, whatever, and I'd regard 160–180 km as a perfectly plausible Eddie-day.
+
+*A nominal 220 km WLTP range is therefore far too close for comfort. You could do it, but you'd be using a large fraction of the battery on a routine family trip. Add motorway speeds, air-conditioning, battery ageing and lousy weather and suddenly we're is watching the battery percentage instead of enjoying Eddie. No thanks.*
 
 <hr class="section-break soft" />
 
@@ -344,11 +374,16 @@ Rejected for Robyn's use because its ~220 km nominal range leaves insufficient c
 
 #### BYD Atto 1 Premium
 
-[![Atto1 Premium][Ot08]{ .artR width="180" }][Ot08]
+[![Atto1 Premium][Ota3]{ .artR width="180" }][Ota3]
 
-Approximately **$27,990 + ORC**, with roughly 310 km nominal range.
+* **$27,990 + on-road costs**  
+* **310 km nominal range**
 
 Possible, but once range and family requirements are considered, spending somewhat more on the Dolphin appears more attractive.
+
+The Atto 1 Premium at $27,990 jumps from about 220 km to 310 km WLTP range. That's $4,000 for another 90 km of nominal range plus equipment differences.
+
+But then *only another $2,000 gets you to the Dolphin Essential at $29,990, with about 410 km WLTP and a larger car.*
 
 <hr class="section-break soft" />
 
@@ -356,11 +391,25 @@ Possible, but once range and family requirements are considered, spending somewh
 
 #### BYD Dolphin Essential
 
-[![Dolphin][Ot01]{ .artR width="180" }][Ot01]
+[![Dolphin][Otg1]{ .artR width="180" }][Otg1]
 
-Approximately **$32,475 drive-away** for the specific current Queensland 2026 listing found.
+* **$32,475 — drive-away**  
+* **410 km nominal range**
 
-Approximately **410 km advertised range** in that listing.
+...'for the specific current Queensland 2026 listing found'. Approximately **410 km advertised range** in that listing.
+
+Even allowing an extremely conservative 25% haircut to that advertised 410 km for motorway speeds, aircon, conditions, battery ageing, etc., you're still around 307 km. And $32,475 drive-away is exactly the territory I was talking about. No mental arithmetic involving stamp duty, registration and dealer charges. That's the cheque-writing number.
+
+Could this actually be the right car? On paper, the answer is becoming quite possibly:
+
+* Four proper doors. ✓
+* Small hatchback rather than enormous SUV. ✓
+* 410 km advertised range. ✓
+* Blade battery. ✓
+* Enough performance for the job; 70 kW is perfectly adequate. ✓
+* $32,475 on the road. ✓
+* Local BYD presence. ✓
+* Available now. ✓
 
 Currently the vehicle to beat.
 
@@ -370,13 +419,19 @@ Currently the vehicle to beat.
 
 #### MG4
 
-[![MG4][Ot12]{ .artR width="180" }][Ot12]
+[![MG4][Ota5]{ .artR width="180" }][Ota5]
 
 Worth comparison because of competitive pricing and range.
 
-Julia has previously found the MG interior somewhat **plasticky**.
+Julia has previously found the MG interior somewhat **plasticky**. 😁 But don't dismiss Julia's plasticky MG quite yet. It should not automatically be eliminated if its overall value, support and driving characteristics are strong. Because the 54 kWh MG4 at $34,990 drive-away is precisely the sort of thing I meant by not becoming hypnotised by the lowest purchase price.
 
-Nevertheless, it should not automatically be eliminated if its overall value, support and driving characteristics are strong.
+For perhaps $3–5k more than the cheapest suitable Dolphin once everything is on the road, you're buying considerably more range margin. And MG has a very established dealer footprint around you. There's Bartons Capalaba MG practically next door to the BYD operation, plus Bartons Bayside MG at Wynnum.
+
+That gives MG a genuine point in the “something broke; now what?” column.
+
+But if Julia gets back into the MG4 and says: “Emily, it's still plasticky.” 
+
+I'm not going to tell her she's wrong. 😂
 
 <hr class="section-break soft" />
 
@@ -384,11 +439,15 @@ Nevertheless, it should not automatically be eliminated if its overall value, su
 
 #### Geely EX2
 
-[![Geely][Ot09]{ .artR width="180" }][Ot09]
+[![Geely][Ota4]{ .artR width="180" }][Ota4]
 
-Another inexpensive EV worth investigating.
+Another inexpensive EV worth investigating. Potentially strong value and deserving of a physical inspection/test drive. This one's brand new to Australia.
 
-Potentially strong value and deserving of a physical inspection/test drive.
+The EX2 Complete is $26,490 + ORC, so only $2,500 above the base Atto 1. It offers about 252 km WLTP, rear-wheel drive, a 14.6-inch touchscreen, wireless CarPlay/Android Auto and even a 70-litre front boot.
+
+I think this one absolutely deserves a sit-and-drive. Not least because there's already Bartons Geely in Capalaba.
+
+More interestingly, Geely's current Australian launch offer reportedly includes a 7 kW home charger through 31 August.
 
 <hr class="section-break strong" />
 
@@ -584,18 +643,29 @@ No technology should be purchased merely because it is new.
 <!--  Image references  -->
 
 
-[Ot01]: ../assets/images/misc/EVDolphin1.jpg
-[Ot02]: ../assets/images/misc/EVDolphin2.jpg
-[Ot03]: ../assets/images/misc/EVDolphin3.jpg
-[Ot04]: ../assets/images/misc/EVDolphin4.jpg
-[Ot05]: ../assets/images/misc/EVDolphin5.jpg
-[Ot06]: ../assets/images/misc/EVDolphinPrem.jpg
-[Ot07]: ../assets/images/misc/EVAttoEss.jpg
-[Ot08]: ../assets/images/misc/EVAttoPrem.jpg
-[Ot09]: ../assets/images/misc/EVGeely1.jpg
-[Ot10]: ../assets/images/misc/EVGeely2.jpg
-[Ot11]: ../assets/images/misc/EVGeelyEX2.jpg
-[Ot12]: ../assets/images/misc/EVMG4a.jpg
+[Ota1]: ../assets/images/misc/EVDolphin01.jpg
+[Otb1]: ../assets/images/misc/EVDolphin02.jpg
+[Otc1]: ../assets/images/misc/EVDolphin03.jpg
+[Otd1]: ../assets/images/misc/EVDolphin04.jpg
+[Ote1]: ../assets/images/misc/EVDolphin05.jpg
+[Otf1]: ../assets/images/misc/EVDolphinPr.jpg
+[Otg1]: ../assets/images/misc/EVDolphin06.jpg
+[Oth1]: ../assets/images/misc/EVDolphin07.jpg
+[Oti1]: ../assets/images/misc/EVDolphin08.jpg
+[Otj1]: ../assets/images/misc/EVDolphin09.jpg
+[Otk1]: ../assets/images/misc/EVDolphin10.jpg
+[Otl1]: ../assets/images/misc/EVDolphin11.jpg
+[Ota2]: ../assets/images/misc/EVAttoEss01.jpg
+[Otb2]: ../assets/images/misc/EVAttoEss02.jpg
+[Otc2]: ../assets/images/misc/EVAttoEss03.jpg
+[Otd2]: ../assets/images/misc/EVAttoEss04.jpg
+[Ote2]: ../assets/images/misc/EVAttoEss05.jpg
+[Otf2]: ../assets/images/misc/EVAttoEss06.jpg
+[Ota3]: ../assets/images/misc/EVAttoPre01.jpg
+[Ota4]: ../assets/images/misc/EVGeely1.jpg
+[Otb4]: ../assets/images/misc/EVGeely2.jpg
+[Otc4]: ../assets/images/misc/EVGeelyEX2.jpg
+[Ota5]: ../assets/images/misc/EVMG4a.jpg
 
 <!--
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
