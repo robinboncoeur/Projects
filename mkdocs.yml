@@ -71,10 +71,13 @@ nav:
       - FormPage: rcas/Formv01a.md
       - Code Base 1.1: rcas/Codev01a.md
       - Code Base 1.2: rcas/Codev01b.md
-      - Code Base 1.3: rcas/Codev01c.md
-      - Code Base 1.3a: rcas/Codev01ca.md
+      - Code Base 1.3a: rcas/Codev01c.md
+      - Code Base 1.3: rcas/Codev01ca.md
       - Code Base 1.4a: rcas/Codev01da.md
       - Code Base 1.4b: rcas/Codev01db.md
+      - Code Base 1.4: rcas/Codev01dc.md
+      - Code Base 1.5a: rcas/Codev01ea.md
+      - Feature Requests: rcas/FeatureReq.md
       - Test Checklist: rcas/testChecklist.md
 
   - Tech:

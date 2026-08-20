@@ -1,0 +1,13 @@
+chmod
+Dev
+ebook
+img
+Kontext
+reaticulate
+rsync
+rulebook
+soundfont
+sudo
+toserver
+tuplets
+unbuffered
