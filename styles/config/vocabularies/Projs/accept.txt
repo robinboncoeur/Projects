@@ -1,6 +1,8 @@
 chmod
+css
 Dev
 ebook
+Hostinger
 img
 Kontext
 reaticulate

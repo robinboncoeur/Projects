@@ -1,10 +1,5 @@
 # Anything Tech
 
-[Main Page](../index.md)
-
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧😊 📝 — — … …
-
-😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 😲 — —
 
 <hr class="section-break strong" />
 
@@ -26,7 +21,7 @@ Update 2026.05.06:
 Update 2026.03.24:
 
 - added 'RCAS'
-- added notes on developing for Google Apps in javascript in 'RCAS'
+- added notes on developing for Google Apps in JavaScript in 'RCAS'
 
 ---
 Update 2025.10.29:  
@@ -38,7 +33,7 @@ Update 2025.10.29:
 Update 2025.10.24:  
 - changed garden and blog post order to oldest at the top, newest at the bottom  
 - Splintered out Blogs and Garden by year  
-- Started migrating entries in the old wordpress-based tightbytes site into this 'projects' site  
+- Started migrating entries in the old WordPress-based TightBytes site into this 'projects' site  
 - Shrank image size, turning images into clickable links
 
 ---
@@ -85,7 +80,7 @@ Update 2025.08.24: In my previous Sphinx-based help files - reminding myself how
 
 ---
 
-Update 2025.08.21: Migrating 'Projects' site from AllHelp (ReST) to markdown (MkDocs), hosted on Cloudflare, with data githubbed then pages created dynamically in Cloudflare. This decision was taken as Tightbytes.com as a Wordpress website was costing a fortune (USD#359.00 / 48 months) which can't be justified. So, once my subscription with Hostinger expires in 2027.12.09, I will not renew, and all pages except the main wordpress page will have been migrated.  
+Update 2025.08.21: Migrating 'Projects' site from AllHelp (ReST) to markdown (MkDocs), hosted on Cloudflare, with data to GitHub then pages created dynamically in Cloudflare. This decision was taken as Tightbytes.com as a WordPress website was costing a fortune (USD#359.00 / 48 months) which can't be justified. So, once my subscription with Hostinger expires in 2027.12.09, I will not renew, and all pages except the main WordPress page will have been migrated.  
 Still not sure what to do about that.
 
 There will be subdomains for the Help (and other) pages: projects.tightbytes.com, appmgr.tightbytes.com, keys2life.tightbytes.com and so on.
@@ -104,18 +99,18 @@ Some time ago, I wanted to email some pictures to Martin and Esther: this was on
 
 So, which solutions to try?
 
-I decided tightbytes.com would act as my public file server via Github, using Cloudflare to create static web pages. What appealed about doing project progress sharing this way was:
+I decided tightbytes.com would act as my public file server via GitHub, using Cloudflare to create static web pages. What appealed about doing project progress sharing this way was:
 
 - I could share a LOT of information about projects quickly  
 - The information was hidden in obscurity of "no-one gives a rat's nether-regions about what I'm doing". Have a look at [my website: Tightbytes.com](https://www.tightbytes.com). Visitors? none.  
-- Updating was a lot quicker on GitHub than on Tightbytes: I would edit locally in Brackets, then use Sphinx/Make-the-Docs to make the static HTML pages, and Github Desktop to manage the update to GithubPages.  
+- Updating was a lot quicker on GitHub than on TightBytes: I would edit locally in Brackets, then use Sphinx/Make-the-Docs to make the static HTML pages, and GitHub Desktop to manage the update to GithubPages.  
 - Since the pages were hosted on GitHub, other family and friends could collaborate on this pages, and even add pages of their own.
 
 Time moves on. I got a notification from Hostinger my next 2-year subscription was going to set me back AUD $546.00 - (USD#359.00 / 48 months).
 
 It was time to rethink things, including how the pages are created and maintained. 
 
-Sphinx/ReadTheDocs was more trouble than benefit: in essence it was using a wrench as a hammer. So, began migrating the 'Projects' site from AllHelp (Sphinx/ReadTheDocs - ReST) to markdown (MkDocs), hosted on Cloudflare. I would upload files and images to my github site (free) and then Cloudflare would dynamically create the webpages.  
+Sphinx/ReadTheDocs was more trouble than benefit: in essence it was using a wrench as a hammer. So, began migrating the 'Projects' site from AllHelp (Sphinx/ReadTheDocs - ReST) to markdown (MkDocs), hosted on Cloudflare. I would upload files and images to my GitHub site (free) and then Cloudflare would dynamically create the Web pages.  
 There are (and will be) subdomains for all the old Help pages: projects.tightbytes.com, art.projects.com, appmgr.tightbytes.com, keys2life.tightbytes.com and so on.
 
 <hr class="section-break strong" />
@@ -155,7 +150,9 @@ These videos are about the music for the story 'Celeste's Girl':
 </div>
 
 
+<!-- vale off --> "Jeune"
 The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Celeste story. It also inspired this piece, 'Waterfall':
+<!-- vale on -->
 
 <audio controls="controls">
   <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
@@ -187,7 +184,7 @@ Sorry, going to put this up: needs to be said.
 
 
 
-### Template for page metatdata
+### Template for page metadata
 
 **Suggested by Emily (ChatGPT5)**
 
@@ -199,12 +196,18 @@ tags:
   - networking
   - windows11
   - home
-last_updated: 2025-08-28  
+Last-Updated: 2025-08-28  
 status: active   # active | needs-review | obsolete  
 author: Robyn Hahn
 
----
+<hr class="section-break strong" />
 
-<hr style="height:20px;border-width:0;color:black;background-color:black">
 
+
+<!-- 
 [Main Page](../index.md)
+
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧😊 📝 — — … …
+
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 😲 — —
+-->
