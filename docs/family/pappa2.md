@@ -3,7 +3,7 @@
 
 [![Kaimu][Br02]{ .artC width="1100" }][Br02]
 
-
+<!-- vale off -->
 <hr class="section-break strong" />
 
 
@@ -811,7 +811,7 @@ the “what is he on about?” bits
 
 If you can confirm whether the name is **“Bone”** or something like **“Böhne / Bohne”**, I can adjust the tone (because “Bohne” in German can sound like a nickname and might sharpen the social cruelty he’s describing).
 
-
+<hr class="section-break strong" />
 
 
 
@@ -832,24 +832,23 @@ I zoomed the page on my main monitor. I would try to read it out loud, hoping th
 
 Image 16 tells a dismal story of a witnessed hit-and-run, ending with the death of an elderly woman. It's quite a grisly account, which appeared to have affected him more than some of the horrors he experienced in the actual war.
 
+The events of image 22 appear to take place during K.'s youth. It is unclear at this stage what exactly transpired: too many of the words couldn't be parsed. I'll try another pass soon and see if some of the words resolve. I might take the harder words **as written** and see if Emily can make sense of them.
 
 
 
 
 
 
+<hr class="section-break strong" />
 
 <!--  Image references  -->
 
-[Br02]: ../assets/images/base/Bnr02c.jpg
-[St00]: ../assets/images/base/00Writer.jpg
+--8<-- "includes/image-references.md"
 
 
 <!--
-
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
-
-😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧👢✨…
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  —
 /-->
 
 

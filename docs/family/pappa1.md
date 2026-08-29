@@ -3,7 +3,7 @@
 
 [![Freiburg 1944][Br02]{ .artC width="1100" }][Br02]
 
-
+<!-- vale off -->
 <hr class="section-break strong" />
 
 
@@ -16,7 +16,6 @@
 
 <!-- Note to self: do not indent!!  /-->
 
-<!-- vale off -->
 
 <style>
   .flex-container {display: flex; gap: 20px; align-items: flex-start;}
@@ -34,22 +33,17 @@
 </div>
 <div class="column column--right" markdown>
 
-My own notes on what I am actually doing in the process of translating and formatting can be 
+My notes on the process of translating and formatting can be 
 [found here](/family/pappa2.md).  
 
 The *general format* of this document will be:
 
-🎖 The title of a section: **year:** **heading or a brief description**.
+🎖 The title of a section: **year heading**. The year might be a best guess.
     
-🎖 His German text (original) is on the left, and translation(s) on the right.  
+🎖 Pappa's text in German (original) on the left, and translation(s) on the right.  
     
-🎖 At the bottom of each section:  
-    
-🌅 Section status:
-
-- The *tick-mark* [ ✅ ] indicates this is ready for a final analysis and, hopefully, inserting into the 'canon'. By *canon* I mean, the official text, which will be in a subsequent document.    
-- The *magnifying glass* [ 🔎 ] indicates this is but a rough first-draught translation, and bears examining more closely for ... um ... whatever might not align correctly with the original text.  
-🌅 An image (or images) of the original document - right-click and "View in a new Tab" to inspect the document.
+🎖 At the bottom of each section is the status. Eventually, a green *tick-mark* [ ✅ ] will indicate that that entry is ready to insert into the 'canon'. By *canon* I mean, the official text.    
+An image (or images) of the original document are provided - right-click and "View in a new Tab" to inspect the document.
 
 </div>
 </div>
@@ -163,6 +157,55 @@ Status:
 - Mod:  
 
 <hr class="section-break strong" />
+
+
+
+
+
+
+
+
+
+### Karlchen's Jugend 22
+
+Notes are [here](/family/pappa2.md/#29-aug-2026)
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+**[Auf Deutsch]**  
+Karlchen's Jugend f?d in die sog. (sogenanten) System? Zeit. Die vielen Parteien mit ihren unterschied= hohen Ideen die Sozialen und Wirtschaftlichen Probleme zu lösen. Zum Nachteil der Deutchen gewann die volkolste Rasten. In seinen kindlichen noivi tätwusste Karkchen natürlish nicht was hier eigentlich vorging. Die meisten Erwachstenen übrigens auch nicht.
+Ostern 1930 kam K. in die Schule. Noch trug er den ablostrosen Anzug. Seine grossen braunen Kulleraugen schaute ängstlich in die Welt. Selbst die riesige Zuckertüte konnte seine kindliche Angst verässen. Seine Mutter erwälte nur zu oft, dass jetzt der Ernst des Lebens beginne und die gute Zeit vorbei sei. So gerne hatte er noch im Sandkasten der Stadtanlagen gespielt. Die Tante Lotte besucht oder mit edr Grossmutter im Schrchergarten geholfen.  
+Der Schulweg wurde ihm vorgeschrieben. Obwoll die viele Umwege durch die kleine Seitengassen die alte Stadt den Schulweg auf das doppelter verlängerte. Diese Strassen was gefölstet durch polnische Aufreusche und Tumulte der Parteien un Polizer Hoffen???? Gerhamol, den ein Jahr älter als K wusste immer wenn was los war. Sein Vater war SD somit war K immer gut informiert über die Zeitseschehen. I'm Hinterhof des Cojas traf sich öftens bei wichtigen Aufmänschen die Kom. ??? Kapelle. Die Dlasin?? str. waren Scholmeren. Portien Namke sorgte für den Tu?kt fein durch eine Kriegsverletzten linker Bein was etwas kürzer. bei links kam die Raute in schräglange wobei Namke kräftig von ober auf die Hamke hist. zder zgleischnitt der M. K. was gesichert Die Zosangen wurden geteilt. Aber im Hinterhof nicht ausgerufen, Denn in Verderhaus wohten zu viele Soziers
+<br>
+Kaum waren sie aus den vorobren Tor von Landl heraus, ging es schon los. Wer hat uns verraten. Die Zozialdemokraten. Was haben wir: Hunger. An der Ecke der Hintenstrasse büchte sich einer der armen hungrigen nach einer Zigarettenkippe. Dabei feil ihn eine Karchmurt aus der Tasche. Nichts destro Trotz ging er weiter. Mit Tälmann gegen Hindenburg. Was wählen wir. Liste vier. Dann spielter die Schahneriern Ronken Namke kamm in aktion. Man zang Völker höret die Singvokele auf zum letzten Gehefuhl die Internationale erkämft das Mehenschenrecht. Rot Front. Kampflieder wurden gesungen Gerh. u K. sangen mit. Obwohl die Väter Soziers er klang doch so schön.  
+Inzwischen war mann am Markt angelangt. Den Aufmarsch war von langen Hand vorbereitet. Von Neumarkt und anderen Stuumx waren die Kommunisten erschiesen. Auf die Treppe den Rathauses began eine Frau eine geifende Rede gegen die Kapitalisten. Die Jungens konnten nicht sehen was anging. Gerade also sie anfingen eine Telefonzelle zu erklettern die Polizei erschien mit Wasserwerfen. So ein Rindnich in ehren Nähe eine Handgranate abzog. Ein Todter un zwei schwerverletzte lenkten die Aufmerksamkeit den Jungens als Gerh. ging zu einen Klon. mit der Demerhung. Mein Freund blutet wie ein Schwein. Ein stück Glas von der Telefonzelle ztal in seinem Arm. Der Sann zog die Jungens in den nächsten Hausgang. K war Kreidelbleich. Mein Vater schlagt mich tot. Die Angst vor der Strafe war grösser als die Folgen der Verletzung. Zum Glück war es nur eine kleine Fleischwunde mit viel Blut. Mit Tot un Zenkofkut war die Lache behoben.
+
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+**[ English Version ]**  
+
+</div>
+</div>
+
+[![Img][St22]{ .artR width="140" }][St22]
+
+[![Img][Sp22]{ .artR width="140" }][Sp22]
+
+Status:  
+- Init translation  
+- Mod: 2026-08-29 Photographed, enhanced in GIMP; transcription, initial pass 
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+
+<hr class="section-break strong" />
+
 
 
 
@@ -1338,6 +1381,62 @@ Status:
 
 
 
+### 1945 16
+
+Notes are [here](/family/pappa2.md/#29-aug-2026)
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+
+**[Auf Deutsch]**  
+**1945**  
+Martini nach dem Krieg  
+Es war bitter Kalt im Winter 45. Der Hunger machte es fast unertraglich für uns diese schreckliche Zeit zu überstehen . Gegen 12:00 ging ich zu unserer Werkstatt. Als ich die Teich Str. überg??ren wollte kam ein russischer Lastwagen. Vor mir wollte eine alte Frau die Str. überg??ren. Die Russen gaben vollgas und die a. Frau wurde in die Luft geschleutert. Es klang als wurde man gegen eine Holzkiste schlagen. Dann was das Blut auf Fohrbahn. Nie hätte ich gedacht eine alte Frau habe so viel Blut. Keiner Kümerte sie darum. Warum auch da war ja noch nicht mehr zu retten. Nie in meinen Leben habe ich so elend gefühlt. 
+<hr>
+Nach den allen was ich erlebt hatte war es doch nur eine kleine Episode der Krausamkeit. Ander Ecke Läuchst st. traf ich Klupsch. Ein lausiger Genoße. "Paß auf, Hahn," sagte er, "wenn Du in die Wirtschaft kommst."  
+<hr>
+"...der Martini wartet für Dich." War wie angenehme Luft schlug mir entgegen als ich die Tür zur Werst öfnet. Wärme war ein Luxus wie etwas zu eßen in diese Zeiten. Ich schaute mich und sagte 'Schmahlzeit', den das Wort 'Mahlzeit' war nicht angebr. den neimand aß etwas nicht weil Keiner Hunger hatte. Der war genugend verhanden. Niemand hatte etwas zu Eßen. Die Stimmung war Bedruhend.  
+Martini schaute mich trumphierend an, als hätte er gerade in die Lotterie gewonnen. Mit einen diebischen Gesicht begrüßte er mich mit "Heil Hitler". Das war natürlich ironisch gemeint. Jadoch wußte ich gleich wo ich den Hebel ansetzen konnte.  
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+
+**[ English Version ]**  
+
+</div>
+</div>
+
+---
+
+[![Img][St16]{ .artR width="140" }][St16]
+
+[![Img][Sp16]{ .artR width="140" }][Sp16]
+
+Status:  
+- Init translation  
+- Mod: 2026-08-29 Photographed, enhanced in GIMP; transcription, initial pass 
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+
+
+
+
+
 ### 1945: Neiße
 
 Notes on the translation are [here](/family/pappa2.md/#neie)
@@ -1501,48 +1600,6 @@ Status:
 
 
 
-### 1945 [REDO] 16
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-
-**[Auf Deutsch]**  
-**1945**  
-Martini nach dem Krieg  
-Es war bitter Kalt im Winter 45. Der Hunger machte es fast unertraglich für uns diese schreckliche Zeit zu überstehen . Gegen 12:00 ging ich zu unserer Werkstatt. Als ich die Teich Str. überg??ren wollte kam ein russischer Lastwagen. Vor mir wollte eine alte Frau die Str. überg??ren. Die Russen gaben vollgas und die a. Frau wurde in die Luft geschleutert. Es klang als wurde man gegen eine Holzkiste schlagen. Dann was das Blut auf Fohrbahn. Nie hätte ich gedacht eine alte Frau habe so viel Blut. Keiner Kümerte sie darum. Warum auch da war ja noch nicht mehr zu retten. Nie in meinen Leben habe ich so elend gefühlt. 
-<hr>
-Nach den allen was ich erlebt hatte war es doch nur eine kleine Episode der Krausamkeit. Ander Ecke Läuchst st. traf ich Klupsch. Ein lausiger Genoße. "Paß auf, Hahn," sagte er, "wenn Du in die Wirtschaft kommst."  
-<hr>
-"...der Martini wartet für Dich." War wie angenehme Luft schlug mir entgegen als ich die Tür zur Werst öfnet. Wärme war ein Luxus wie etwas zu eßen in diese Zeiten. Ich schaute mich und sagte 'Schmahlzeit', den das Wort 'Mahlzeit' war nicht angebr. den neimand aß etwas nicht weil Keiner Hunger hatte. Der war genugend verhanden. Niemand hatte etwas zu Eßen. Die Stimmung war Bedruhend.  
-Martini schaute mich trumphierend an, als hätte er gerade in die Lotterie gewonnen. Mit einen diebischen Gesicht begrüßte er mich mit "Heil Hitler". Das war natürlich ironisch gemeint. Jadoch wußte ich gleich wo ich den Hebel ansetzen konnte.  
-
-</div>
-
----
-
-<div class="column column--right" markdown>
-
-**[ English Version ]**  
-
-</div>
-</div>
-
----
-
-[![Img][St16]{ .artR width="140" }][St16]
-
-[![Img][Sp16]{ .artR width="140" }][Sp16]
-
-Status:  
-- Init translation  
-- Mod: 2026-08-29 Photographed, enhanced in GIMP
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-
-<hr class="section-break strong" />
 
 
 
@@ -1553,52 +1610,6 @@ Status:
 
 
 
-
-
-
-
-
-
-
-
-
-
-### [REDO] 22
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-**[Auf Deutsch]**  
-Karlchen's Jugend f?d in die sog. (sogenanten) System? Zeit. Die vielen Parteien mit ihren unterschied= hohen Ideen die Sozialen und Wirtschaftlichen Probleme zu lösen. Zum Nachteil der Deutchen gewann die volkolste Rasten. In seinen kindlichen noivi tätwusste Karkchen natürlish nicht was hier eigentlich vorging. Die meisten Erwachstenen übrigens auch nicht.
-Ostern 1930 kam K. in die Schule. Noch trug er den ablostrosen Anzug. Seine grossen braunen Kulleraugen schaute ängstlich in die Welt. Selbst die riesige Zuckertüte konnte seine kindliche Angst verässen. Seine Mutter erwälte nur zu oft, dass jetzt der Ernst des Lebens beginne und die gute Zeit vorbei sei. So gerne hatte er noch im Sandkasten der Stadtanlagen gespielt. Die Tante Lotte besucht oder mit edr Grossmutter im Schrchergarten geholfen.  
-Der Schulweg wurde ihm vorgeschrieben. Obwoll die viele Umwege durch die kleine Seitengassen die alte Stadt den Schulweg auf das doppelter verlängerte. Diese Strassen was gefölstet durch polnische Aufreusche und Tumulte der Parteien un Polizer Hoffen???? Gerhamol, den ein Jahr älter als K wusste immer wenn was los war. Sein Vater war SD somit war K immer gut informiert über die Zeitseschehen. I'm Hinterhof des Cojas traf sich öftens bei wichtigen Aufmänschen die Kom. ??? Kapelle. Die Dlasin?? str. waren Scholmeren. Portien Namke sorgte für den Tu?kt fein durch eine Kriegsverletzten linker Bein was etwas kürzer. bei links kam die Raute in schräglange wobei Namke kräftig von ober auf die Hamke hist. zder zgleischnitt der M. K. was gesichert Die Zosangen wurden geteilt. Aber im Hinterhof nicht ausgerufen, Denn in Verderhaus wohten zu viele Soziers
-<br>
-
-
-
-</div>
-
----
-
-<div class="column column--right" markdown>
-**[ English Version ]**  
-
-</div>
-</div>
-
-[![Img][St22]{ .artR width="140" }][St22]
-
-[![Img][Sp22]{ .artR width="140" }][Sp22]
-
-Status:  
-- Init translation  
-- Mod:  2026-08-29 Re-photographed, processed in GIMP
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-
-<hr class="section-break strong" />
 
 
 
