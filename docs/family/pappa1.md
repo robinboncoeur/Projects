@@ -168,7 +168,7 @@ Status:
 
 ### Karlchen's Jugend 22
 
-Notes are [here](/family/pappa2.md/#29-aug-2026)
+Notes are [here](/family/pappa2/#29-aug-2026)
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -447,7 +447,7 @@ Mr. Münch was a work colleague of my father’s at the Leuna Factory. He was a 
 
 ---
 
-Moved observations to [Issues](/family/pappa2.md/#02-oct-2025)
+Moved observations to [Issues](/family/pappa2/#02-oct-2025)
 
 [![Img][St01]{ .artR width="140" }][St01]
 
@@ -522,7 +522,7 @@ Status:
 
 ### 1940 Flieger b
 
-Notes on the translation are [here](/family/pappa2.md/#1940-flieger-b)
+Notes on the translation are [here](/family/pappa2/#1940-flieger-b)
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -574,7 +574,7 @@ Status:
 
 ### 1941 Sommer (A)
 
-Notes on the translation are [here](/family/pappa2.md/#1941-sommer-a)
+Notes on the translation are [here](/family/pappa2/#1941-sommer-a)
 
 <div class="flex-container" markdown>
 <div class="column column--right" markdown>
@@ -702,7 +702,7 @@ Status:
 
 ### 1941 Sommer (B)
 
-Notes on the translation are [here](/family/pappa2.md/#1941-sommer-b)
+Notes are [here](/family/pappa2/#1941-sommer-b)
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -926,7 +926,7 @@ Status:
 
 ### 1945 Lungenentzündung
 
-Notes on the translation are [here](/family/pappa2.md/#1945-lungenentzundung)
+Notes are [here](/family/pappa2/#1945-lungenentzundung)
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -1383,7 +1383,7 @@ Status:
 
 ### 1945 16
 
-Notes are [here](/family/pappa2.md/#29-aug-2026)
+Notes are [here](/family/pappa2/#29-aug-2026)
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -1439,7 +1439,7 @@ Status:
 
 ### 1945: Neiße
 
-Notes on the translation are [here](/family/pappa2.md/#neie)
+Notes are [here](/family/pappa2/#neie)
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
