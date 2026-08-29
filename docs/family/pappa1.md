@@ -1570,7 +1570,9 @@ Status:
 **[Auf Deutsch]**  
 Karlchen's Jugend f?d in die sog. (sogenanten) System? Zeit. Die vielen Parteien mit ihren unterschied= hohen Ideen die Sozialen und Wirtschaftlichen Probleme zu lösen. Zum Nachteil der Deutchen gewann die volkolste Rasten. In seinen kindlichen noivi tätwusste Karkchen natürlish nicht was hier eigentlich vorging. Die meisten Erwachstenen übrigens auch nicht.
 Ostern 1930 kam K. in die Schule. Noch trug er den ablostrosen Anzug. Seine grossen braunen Kulleraugen schaute ängstlich in die Welt. Selbst die riesige Zuckertüte konnte seine kindliche Angst verässen. Seine Mutter erwälte nur zu oft, dass jetzt der Ernst des Lebens beginne und die gute Zeit vorbei sei. So gerne hatte er noch im Sandkasten der Stadtanlagen gespielt. Die Tante Lotte besucht oder mit edr Grossmutter im Schrchergarten geholfen.  
-Der Schulweg wurde ihm vorgeschrieben. Obwoll die viele Umwege durch die kleine Seitengassen die alte Stadt den Schulweg auf das doppelter verlangte
+Der Schulweg wurde ihm vorgeschrieben. Obwoll die viele Umwege durch die kleine Seitengassen die alte Stadt den Schulweg auf das doppelter verlängerte. Diese Strassen was gefölstet durch polnische Aufreusche und Tumulte der Parteien un Polizer Hoffen???? Gerhamol, den ein Jahr älter als K wusste immer wenn was los war. Sein Vater war SD somit war K immer gut informiert über die Zeitseschehen. I'm Hinterhof des Cojas traf sich öftens bei wichtigen Aufmänschen die Kom. ??? Kapelle. Die Dlasin?? str. waren Scholmeren. Portien Namke sorgte für den Tu?kt fein durch eine Kriegsverletzten linker Bein was etwas kürzer. bei links kam die Raute in schräglange wobei Namke kräftig von ober auf die Hamke hist. zder zgleischnitt der M. K. was gesichert Die Zosangen wurden geteilt. Aber im Hinterhof nicht ausgerufen, Denn in Verderhaus wohten zu viele Soziers
+<br>
+
 
 
 </div>
