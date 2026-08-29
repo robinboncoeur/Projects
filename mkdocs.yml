@@ -1,12 +1,23 @@
 site_name: Projects
 site_url: https://projects.tightbytes.com
-# edit_uri: 'http://127.0.0.1:8000/docs/'
+edit_uri: 'http://127.0.0.1:8000/docs/'
+use_directory_urls: true
+
+validation:
+  links:
+    absolute_links: ignore
+
+not_in_nav: |
+  /includes/image-references.md
+
 theme:
   name: material
+  icon: assets/images/iconL.png
+  logo: assets/images/logoL.png
   palette:
     # Light mode
     - scheme: default
-      primary: indigo
+      primary: pink
       accent: red
       toggle:
         icon: material/weather-night # indigo
@@ -14,16 +25,16 @@ theme:
     # Dark mode
     - scheme: slate
       primary: indigo
-      accent: pink
+      accent: white
       toggle:
-        icon: material/weather-sunny # light
+        icon: material/weather-sunny # indigo
         name: Switch to Light Mode
 
   features:
+    # - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
-    - navigation.expand
     - navigation.top
     - toc.integrate
     - search.suggest
@@ -95,12 +106,6 @@ nav:
 plugins:
   - search
   - tags
-
-validation:
-  links:
-    absolute_links: relative_to_docs
-    anchors: warn
-    unrecognized_links: warn
 
 markdown_extensions:
   - attr_list

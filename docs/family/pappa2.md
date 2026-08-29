@@ -1,7 +1,7 @@
 # Translation Notes
 
 
-[![Kaimu][Br02]{ .artC width="1100" }][Br02]
+[![Kaimu][Brb02]{ .artC width="1100" }][Brb02]
 
 <!-- vale off -->
 <hr class="section-break strong" />

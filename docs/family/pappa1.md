@@ -1,7 +1,7 @@
 # Autobiography
 
 
-[![Freiburg 1944][Br02]{ .artC width="1100" }][Br02]
+[![Freiburg 1944][Brb02]{ .artC width="1100" }][Brb02]
 
 <!-- vale off -->
 <hr class="section-break strong" />
@@ -12,9 +12,9 @@
 
 
 
-## Glossary
+## The Accounts
 
-<!-- Note to self: do not indent!!  /-->
+<!-- Note to self: do not indent!!  -->
 
 
 <style>
@@ -1528,6 +1528,7 @@ Status:
 
 <hr class="section-break strong" />
 
+<hr class="section-break strong" />
 
 
 
@@ -1602,22 +1603,6 @@ Status:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### [REDO] 26
 
 <div class="flex-container" markdown>
@@ -1650,6 +1635,10 @@ Status:
 - Mod:  
 
 <hr class="section-break strong" />
+
+
+
+
 
 
 
@@ -1777,50 +1766,9 @@ Status:
 
 
 
-
 <!--  Image references  -->
 
-[Br02]: ../assets/images/base/Bnr02b.jpg
-
-[St00]: ../assets/images/pappa/P0.jpg
-[St01]: ../assets/images/pappa/P1.jpg
-[St02]: ../assets/images/pappa/P2.jpg
-[St03]: ../assets/images/pappa/P3.jpg 
-[Sp03]: ../assets/images/pappa/P3p.jpg
-[St04]: ../assets/images/pappa/P4.jpg 
-[Sp04]: ../assets/images/pappa/P4p.jpg
-[St05]: ../assets/images/pappa/P5.jpg 
-[St06]: ../assets/images/pappa/P6.jpg 
-[St07]: ../assets/images/pappa/P7.jpg 
-[St08]: ../assets/images/pappa/P8.jpg
-[Sp08]: ../assets/images/pappa/P8p.jpg
-[St09]: ../assets/images/pappa/P9.jpg
-[St10]: ../assets/images/pappa/P10.jpg
-[St11]: ../assets/images/pappa/P11.jpg
-[Sp11]: ../assets/images/pappa/P11p.jpg
-[St12]: ../assets/images/pappa/P12.jpg
-[St13]: ../assets/images/pappa/P13.jpg
-[St14]: ../assets/images/pappa/P14.jpg
-[Sp14]: ../assets/images/pappa/P14p.jpg
-[St15]: ../assets/images/pappa/P15.jpg
-[St16]: ../assets/images/pappa/P16.jpg
-[Sp16]: ../assets/images/pappa/P16p.jpg
-[St17]: ../assets/images/pappa/P17.jpg
-[St18]: ../assets/images/pappa/P18.jpg
-[St19]: ../assets/images/pappa/P19.jpg
-[St20]: ../assets/images/pappa/P20.jpg
-[St21]: ../assets/images/pappa/P21.jpg
-[Sp21]: ../assets/images/pappa/P21p.jpg
-[St23]: ../assets/images/pappa/P23.jpg
-[St24]: ../assets/images/pappa/P24.jpg
-[St25]: ../assets/images/pappa/P25.jpg
-[St26]: ../assets/images/pappa/P26.jpg
-[Sp26]: ../assets/images/pappa/P26p.jpg
-[St27]: ../assets/images/pappa/P27.jpg
-[St28]: ../assets/images/pappa/P28.jpg
-[St29]: ../assets/images/pappa/P29.jpg
-[St30]: ../assets/images/pappa/P30.jpg
-[St31]: ../assets/images/pappa/P31.jpg
+--8<-- "includes/image-references.md"
 
 
 <!--
