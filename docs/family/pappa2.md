@@ -822,10 +822,11 @@ If you can confirm whether the name is **“Bone”** or something like **“Bö
 ## 29 Aug 2026
 
 Have started working on images 16 and 22. There is no discernible order to these documents. The steps I took to make them more readable were:  
-* high-resolution photo with my phone camera
-* import into GIMP
-* de-saturate
-* fix level, leaning to the right
+
+* high-resolution photo with my phone camera  
+* import into GIMP  
+* de-saturate  
+* fix level, leaning to the right  
 * rotate anti-clockwise
 
 I zoomed the page on my main monitor. I would try to read it out loud, hoping that with the context of the surrounding words a difficult word to parse could betray itself. This technique worked in the past.
