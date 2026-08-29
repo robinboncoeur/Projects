@@ -23,7 +23,7 @@ At this stage, the image order doesn't appear to correlate to any sort of order,
 
 Outlined here are the steps I'm taking:
 
-* adjust image brightness / contrast of the imagescontaining the text in GIMP to try to improve legibility
+* adjust image brightness / contrast of the images containing the text in GIMP to try to improve legibility
 * type in the words into PhoenixCode, a plain-text document processor
 * read the sentence out loud, and adjust based on what it sounds like (e.g., changed 'lieben' to 'lieber')
 * "build" the document using [ **cd /Users/me/Sites/projects && mkdocs serve** ]
@@ -95,7 +95,7 @@ At least Gemma tries to explain her reasoning, which is a step up from the hallu
 
 ## 08 Jul 2025
 
-I've decided the image downloads would be quicker - and the page would *'weigh'* less if I converted the .pngs to .jpgs. I'll put the originals in a 'Origs' subfolder in case someone wants to see the original scanned image.  
+I've decided the image downloads would be quicker - and the page would *'weigh'* less if I converted the .pngs to .jpgs. I'll put the originals in a 'Origs' sub-folder in case someone wants to see the original scanned image.  
 
 - Page 17 (P17.png) seems to be a fragment.
 
@@ -233,7 +233,7 @@ Keeping the literary version, for now. Now that I have the actual hard copy, wil
 
 *Translator’s note: the quoted lines echo Goethe’s famous verse (“Wer nie sein Brot mit Tränen aß …”), though here it’s recalled imperfectly. If you’d like, I can normalise the quotation or keep it as-is for authenticity.*
 
-"Köter" is a perjorative word for a dog: similar to the English "mutt" or "cur", dog of mixed breed.
+"Köter" is a pejorative word for a dog: similar to the English "mutt" or "cur", dog of mixed breed.
 
 <hr class="section-break strong" />
 
@@ -316,7 +316,7 @@ Daheim, da ist nichts. "At home is... nothing."" Says it all.
 *And on the second part:*
 
 [Emily's note]  
-*This one’s* **very** *diaristic: lots of phonetic spellings, a few dialecty turns, and a couple of intentionally crude words that tell you exactly what the writer thought of the hierarchy. Below is a faithful English translation first, then a “what this probably was meant to be” unpacking of the grey bits (so you can compare to your hard-copy)*.
+*This one’s* **very** *diaristic: lots of phonetic spellings, a few dialect-ish turns, and a couple of intentionally crude words that tell you exactly what the writer thought of the hierarchy. Below is a faithful English translation first, then a “what this probably was meant to be” unpacking of the grey bits (so you can compare to your hard-copy)*.
 
 *Commentary on the “grey area” words and what they likely are*
 
@@ -819,9 +819,18 @@ If you can confirm whether the name is **“Bone”** or something like **“Bö
 
 
 
-## xx Jan 2026
+## 29 Aug 2026
 
-Awaiting input from either Martin or Jess.
+Have started working on images 16 and 22. There is no discernible order to these documents. The steps I took to make them more readable were:  
+* high-resolution photo with my phone camera
+* import into GIMP
+* de-saturate
+* fix level, leaning to the right
+* rotate anti-clockwise
+
+I zoomed the page on my main monitor. I would try to read it out loud, hoping that with the context of the surrounding words a difficult word to parse could betray itself. This technique worked in the past.
+
+Image 16 tells a dismal story of a witnessed hit-and-run, ending with the death of an elderly woman. It's quite a grisly account, which appeared to have affected him more than some of the horrors he experienced in the actual war.
 
 
 

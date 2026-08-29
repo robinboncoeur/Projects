@@ -12,7 +12,7 @@
 ```javascript
 function doGet() {
   return HtmlService.createHtmlOutputFromFile('Index')
-    .setTitle('Booking Request - ver1.4')
+    .setTitle('Booking Request - ver1.5 - TESTING')
     .setXFrameOptionsMode(HtmlService.XFrameOptionsMode.ALLOWALL);
 }
 
@@ -783,8 +783,11 @@ function parseTimeToMinutes(timeStr) {
 ```javascript
 const CONFIG = {
   CALENDAR_MODE: 'id', // 'default' or 'id'
-  // NOTE: This ID was to a TEST calendar - changed at GoLIVE 18.08.2026
-  CALENDAR_ID: '1c26f492c1488f8852cbf50f1203ce8efe868869ee4aa77768f73249736a3549@group.calendar.google.com', // only used if CALENDAR_MODE = 'id'
+  // NOTE: This ID is to a TEST calendar - changed at GoLIVE 18.08.2026
+  // 1c26f492c1488f8852cbf50f1203ce8efe868869ee4aa77768f73249736a3549 = TESTING
+  // fb9defee74020745b9fe88a22a9f95429d6499037d116a29f151616c912a6683 = LIVE
+  CALENDAR_ID: '1c26f492c1488f8852cbf50f1203ce8efe868869ee4aa77768f73249736a3549@group.calendar.google.com', 
+  // only used if CALENDAR_MODE = 'id'
 
   SHEET_NAME: 'WebForm_Submissions',
   TUTORS_SHEET_NAME: 'Tutors',

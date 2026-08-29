@@ -16,6 +16,8 @@
 
 <!-- Note to self: do not indent!!  /-->
 
+<!-- vale off -->
+
 <style>
   .flex-container {display: flex; gap: 20px; align-items: flex-start;}
   .column {flex: 1 1 0; min-width: 0;}
@@ -1506,7 +1508,8 @@ Status:
 
 **[Auf Deutsch]**  
 **1945**  
-[ *The first half is unreadable - needs to be photographed, not scanned* ]  
+Martini nach dem Krieg  
+Es war bitter Kalt im Winter 45. Der Hunger machte es fast unertraglich für uns diese schreckliche Zeit zu überstehen . Gegen 12:00 ging ich zu unserer Werkstatt. Als ich die Teich Str. überg??ren wollte kam ein russischer Lastwagen. Vor mir wollte eine alte Frau die Str. überg??ren. Die Russen gaben vollgas und die a. Frau wurde in die Luft geschleutert. Es klang als wurde man gegen eine Holzkiste schlagen. Dann was das Blut auf Fohrbahn. Nie hätte ich gedacht eine alte Frau habe so viel Blut. Keiner Kümerte sie darum. Warum auch da war ja noch nicht mehr zu retten. Nie in meinen Leben habe ich so elend gefühlt. 
 <hr>
 Nach den allen was ich erlebt hatte war es doch nur eine kleine Episode der Krausamkeit. Ander Ecke Läuchst st. traf ich Klupsch. Ein lausiger Genoße. "Paß auf, Hahn," sagte er, "wenn Du in die Wirtschaft kommst."  
 <hr>
@@ -1532,7 +1535,7 @@ Martini schaute mich trumphierend an, als hätte er gerade in die Lotterie gewon
 
 Status:  
 - Init translation  
-- Mod:  
+- Mod: 2026-08-29 Photographed, enhanced in GIMP
 - Mod:  
 - Mod:  
 - Mod:  
@@ -1565,7 +1568,11 @@ Status:
 <div class="flex-container" markdown>
 <div class="column" markdown>
 **[Auf Deutsch]**  
-22 and 22plus need to be photographed. Difficult to read.  
+Karlchen's Jugend f?d in die sog. (sogenanten) System? Zeit. Die vielen Parteien mit ihren unterschied= hohen Ideen die Sozialen und Wirtschaftlichen Probleme zu lösen. Zum Nachteil der Deutchen gewann die volkolste Rasten. In seinen kindlichen noivi tätwusste Karkchen natürlish nicht was hier eigentlich vorging. Die meisten Erwachstenen übrigens auch nicht.
+Ostern 1930 kam K. in die Schule. Noch trug er den ablostrosen Anzug. Seine grossen braunen Kulleraugen schaute ängstlich in die Welt. Selbst die riesige Zuckertüte konnte seine kindliche Angst verässen. Seine Mutter erwälte nur zu oft, dass jetzt der Ernst des Lebens beginne und die gute Zeit vorbei sei. So gerne hatte er noch im Sandkasten der Stadtanlagen gespielt. Die Tante Lotte besucht oder mit edr Grossmutter im Schrchergarten geholfen.  
+Der Schulweg wurde ihm vorgeschrieben. Obwoll die viele Umwege durch die kleine Seitengassen die alte Stadt den Schulweg auf das doppelter verlangte
+
+
 </div>
 
 ---
@@ -1582,7 +1589,7 @@ Status:
 
 Status:  
 - Init translation  
-- Mod:  
+- Mod:  2026-08-29 Re-photographed, processed in GIMP
 - Mod:  
 - Mod:  
 - Mod:  
