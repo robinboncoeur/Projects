@@ -11,9 +11,9 @@
 
 
 
-
+<!-- vale off -->
 ## Pappa's Account
-
+<!-- vale on -->
 ### Foreword
 
 This is, for the time being, a living document. As such, it will change pretty much *daily* as the process continues.
