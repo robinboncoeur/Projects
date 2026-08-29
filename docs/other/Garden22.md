@@ -1,4 +1,4 @@
-# Seabrae Garden 2022
+# Garden 2022
 
 
 [![Works][Br02]{ .artC width="1100" }][Br02]
@@ -18,10 +18,10 @@
 [At the Patio](#at-the-patio)  
 [Some Progress](#progress)  
 [Bluing 101](#bluing-101)  
-[Shadehouse Foundation](#shadehouse-foundation)  
+[Shade-house Foundation](#shadehouse-foundation)  
 [Fixing Drainage](#fixing-drainage)  
 [In The Trenches](#in-the-trenches)  
-[Shadehouse Ideas](#shadehouse-ideas)  
+[Shade-house Ideas](#shadehouse-ideas)  
 [Pathetic Henhouse](#pathetic-henhouse)  
 
 
@@ -87,7 +87,7 @@ It didn't work. The little rascals worked their way under the lip of the plastic
         margin-left: 20px; margin-bottom: 10px;" />
 
 
-You know how when you start getting into a project, it sort-of just grows? We've been having problems with standing water in our front yard during heavy downpours. Whilst the house is built on a slab, we're seeing cracks develop where they just shouldn't. Some time ago we'd engaged some gardening dudes to put down some ag pipe to drain off that water. That ag pipe -- yes, those two black plastic pipes are humped over the watertank overflow. Not going to work, is it? Water has issues running uphill, I've been told.
+You know how when you start getting into a project, it sort-of just grows? We've been having problems with standing water in our front yard during heavy downpours. Whilst the house is built on a slab, we're seeing cracks develop where they just shouldn't. Some time ago we'd engaged some gardening dudes to put down some agriculture pipe to drain off that water. That agriculture pipe -- yes, those two black plastic pipes are humped over the water-tank overflow. Not going to work, is it? Water has issues running uphill, I've been told.
 
 Here's where it used to empty into, towards the mattock (pick) and the neighbour's fence:
 
@@ -121,7 +121,7 @@ Actually have a bit of time to update this page as we're have a young visitor - 
         margin-left: 20px; margin-bottom: 10px;" />
 
 
-Finally recommencing work on this project as I'm now retired and can focus on it. I started on the garden-bed area for the shadehouse which is next to the footpath which has river-rock that needs filtering / cleaning and well, that opened a can of worms. so it's going here.
+Finally recommencing work on this project as I'm now retired and can focus on it. I started on the garden-bed area for the shade-house which is next to the footpath which has river-rock that needs filtering / cleaning and well, that opened a can of worms. so it's going here.
 
 That bit behind the air-con took ages to finish. Just couldn't get up the resolve and energy to finish it. The pieces were warped when I bought them - got them for a decent price but they didn't let me select which ones I wanted. Won't be buying from that mob again. Overall, they look okay... up close, the flaws are more evident. I had already placed these timber pieces, but hadn't "tied" them together. They did sink a bit with all the rain we've been having so I had to do a bit of adjusting.
 
@@ -181,7 +181,7 @@ Those shade-sails would normally have ended up in landfill.
 
 There has been some headway on the patio footpath project. 
 
-What can't be appreciated is the fact that all the river rock had to be 'sieved' first, before it filled in the footpath. More rock will eventually surround the flagstones. The hardest bit of work was 'rescuing', via a sieve, the river rock mixed in with this nasty pumice-gravel, gravel which will end up under the shadehouse foundation.
+What can't be appreciated is the fact that all the river rock had to be 'sieved' first, before it filled in the footpath. More rock will eventually surround the flagstones. The hardest bit of work was 'rescuing', via a sieve, the river rock mixed in with this nasty pumice-gravel, gravel which will end up under the shade-house foundation.
 
 Shown here on the right is the method used to tie timber pieces together.
 
@@ -229,7 +229,7 @@ Good as gold.
 
 
 
-### Shadehouse Foundation
+### Shade-house Foundation
 
 **02.May.2022**  
 
@@ -283,7 +283,7 @@ No more weeds! Unlike that nasty pumice, river rock won't get caught in my shoes
 <img src="/assets/images/garden/22-05-03/gravel2.jpg" alt="Footpath" style="float: right; width: 400px;
         margin-left: 20px; margin-bottom: 10px;" />
 
-Pulled up that ag pipe which just ended there. This was 1) incredibly ineffective drainage and 2) a highly irresponsible *non-working* solution, as the water would drain towards the fence, compromising the intergrity of that wall.
+Pulled up that ag pipe which just ended there. This was 1) incredibly ineffective drainage and 2) a highly irresponsible *non-working* solution, as the water would drain towards the fence, compromising the integrity of that wall.
 
 <img src="/assets/images/garden/22-05-03/gravel3.jpg" alt="Footpath" style="float: left; width: 400px;
         margin-right: 20px; margin-bottom: 10px;" />
@@ -345,10 +345,10 @@ ETA: The rain came. The test went well.
 
 ## Structures
 
-### Shadehouse Ideas
+### Shade-house Ideas
 
 **06.Oct.2022**  
-Bit of a gap in this blog: working on the footpath during the rains - digging trenches for the runoff ag-pipe and carting off debris to the bottom of our little property has rsulted in a fairly significant back injury which kind-of put things on hold for a bit. Months later, I'm finally able - cautiously and slowly - to start work again on the frame for under the shadehouse, which itself is not the one I originally thought of putting in: it's a [store-bought one](https://www.vidaxl.com.au/e/vidaxl-greenhouse-anthracite-aluminium-3.61-m2/8719883813943.html).
+Bit of a gap in this blog: working on the footpath during the rains - digging trenches for the runoff ag-pipe and carting off debris to the bottom of our little property has resulted in a fairly significant back injury which kind-of put things on hold for a bit. Months later, I'm finally able - cautiously and slowly - to start work again on the frame for under the shade-house, which itself is not the one I originally thought of putting in: it's a [store-bought one](https://www.vidaxl.com.au/e/vidaxl-greenhouse-anthracite-aluminium-3.61-m2/8719883813943.html).
 
 <img src="/assets/images/garden/22-10-06/s-house1.jpg" alt="Not what we got" style="float: left; width: 400px;
         margin-right: 20px; margin-bottom: 10px;" />
@@ -357,13 +357,13 @@ Bit of a gap in this blog: working on the footpath during the rains - digging tr
         margin-left: 20px; margin-bottom: 10px;" />
 		
 During the unpacking, I've already identified a few issues: not really impressed with quality of materials. Oh well, we're committed... it will just have to do. 
-
-**Note added: 25-08-26**... *the material was actually absolute rubbish. One good windstorm and that 'shadehouse' would have sailed off to New Zealand. vidaxl wouldn't refund me, so I settled for replacing it with other, equally poorly built growbed-covers. vidaxl is anything but xlent. Buyer beware.*
-
+<!-- vale off -->
+**Note added: 25-08-26**... *the material was actually absolute rubbish. One good windstorm and that 'shade-house' would have sailed off to New Zealand. vidaxl wouldn't refund me, so I settled for replacing it with other, equally poorly built growbed-covers. vidaxl is anything but xlent. Buyer beware.*
+<!-- vale on -->
 <img src="/assets/images/garden/22-10-06/s-house3.jpg" alt="Not what we got" style="float: right; width: 400px;
         margin-left: 20px; margin-bottom: 10px;" />
 
-I had visions of designing my own shadehouse... built out of pipes. Even bought the elbows and stuff. The picture on the right was done in Blender. Yep, spent hours mucking around in Blender, but it never went much beyond the design phase. 
+I had visions of designing my own shade-house... built out of pipes. Even bought the elbows and stuff. The picture on the right was done in Blender. Yep, spent hours mucking around in Blender, but it never went much beyond the design phase. 
 
 *Reflecting today (Aug 26th, 2025) I blush to think how much I spent on Poser, and even Blender. It all looks a bit hokey, now.*
 
@@ -374,13 +374,13 @@ In the end, we went with another solution altogether. We still need sheds buildi
 Crucial to note here is what I'm observing as to my stamina: that injury setback has really undermined my ability to "bounce back". I'm going to have to take a far more measured approach.
 
 ---
-
+<!-- vale off -->
 We're getting into the whole permaculture thing in a more thoughtful way. Since Julia and I are both retired, we can focus our energies on doing this properly. Here are a couple of videos that are getting us started:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uqwWdranB5A" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A [full video collection](https://www.youtube.com/embed/uqwWdranB5A) on the subject goes into more detail on what exactly is at stake, and the approaches being proposed under the "permaculture" umbrella. Geoff Lawton has an additional perspective:
-	
+<!-- vale on -->	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7qXgbrIYcFE" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr class="section-break strong" />
@@ -394,10 +394,10 @@ A [full video collection](https://www.youtube.com/embed/uqwWdranB5A) on the subj
 ### Pathetic Henhouse
 
 **07.Oct.2022**  
-<img src="/assets/images/garden/22-10-07/roof1.jpg" alt="Chookhouse ceiling" style="float: right; width: 400px;
+<img src="/assets/images/garden/22-10-07/roof1.jpg" alt="Chook-house ceiling" style="float: right; width: 400px;
         margin-left: 20px; margin-bottom: 10px;" />
 
-Whilst this isn't so much about the shadehouse/greenhouse, Julia is picking up six more "rescue hens" this weekend, so the push was on to get the henhouse ready. The house was built of fairly ordinary quality material, so in time due to moisture leaking through the roof timber, the ceiling had totally rotted out (under the roof). We decided that - for now - we would replace that rotted plywood with a plastic liner. This should keep the girls dry this year, which promises to be a rather wet year. I'll probably need to come up with a more robust, permanent solution as even the roof bits will likely rot in time and will need to be replaced. Yes, the house is "cute", but buyer beware: it wasn't built to last, by any stretch of the imagination. I reckon the shadehouse isn't much better.
+Whilst this isn't so much about the shade-house/greenhouse, Julia is picking up six more "rescue hens" this weekend, so the push was on to get the henhouse ready. The house was built of fairly ordinary quality material, so in time due to moisture leaking through the roof timber, the ceiling had totally rotted out (under the roof). We decided that - for now - we would replace that rotted plywood with a plastic liner. This should keep the girls dry this year, which promises to be a rather wet year. I'll probably need to come up with a more robust, permanent solution as even the roof bits will likely rot in time and will need to be replaced. Yes, the house is "cute", but buyer beware: it wasn't built to last, by any stretch of the imagination. I reckon the shade-house isn't much better.
 
 <hr class="section-break strong" />
 

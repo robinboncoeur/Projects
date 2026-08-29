@@ -1,4 +1,4 @@
-# Seabrae Garden 2021 
+# Garden 2021 
 
 
 [![Works][Br02]{ .artC width="1100" }][Br02]
@@ -121,12 +121,12 @@ The project began with tearing out the rotten timber and sifted out the pumice-l
 <img src="/assets/images/garden/21-05-27/fp1.jpg" alt="Footpath" style="width: 900px;"/>
 
 then raked down the crusher-dust under this rock-gravel mix. This stuff was contaminated with dirt, which is a perfect medium for growing weeds. The evidence lay in the front garden bed area that weeds would not grow if the river-rock was deep enough (weeds need water, growth medium and light to grow) so removing this dirty crusher dust was a crucial first step.
-
+<!-- vale off -->
 The replacement timber was essentially treated fence posts: these were painted with two coats of Timber Protecta (to prevent rot) prior to placement. To prevent any sagging from the river-rock weight and walking, a sort of angle-cut support 2x8 pieces (also Timber-Protecta-coated) were screwed to the bottom of each retaining timber, as in the image:
 
 <img src="/assets/images/garden/21-05-27/fp2.jpg" alt="Footpath" style="width: 900px;"/>
 
-The reason I thought it a good idea to attach those short, base 2 x 8 pieces diagonally was in order to have a maximum of rock-holding capacity the attached retaining timber erect (to prevent the inevitable sagging with time and usage). We'll see if it works, longterm.
+The reason I thought it a good idea to attach those short, base 2 x 8 pieces diagonally was in order to have a maximum of rock-holding capacity the attached retaining timber erect (to prevent the inevitable sagging with time and usage). We'll see if it works, long-term.
 
 At the corner of the house, the retaining timber lengths are joined together with long stove bolts. Most of the lengths are arranged edge-to-edge and held together with metal plates on the inside of the timber:
 
@@ -136,10 +136,10 @@ so that on the outside of the retaining timber, all that is visible are bolts:
 
 <img src="/assets/images/garden/21-05-27/fp4.jpg" alt="Footpath" style="width: 900px;"/>
 
-As is clearly noticable, I purchased the timber from a rather dodgy mob in Cleveland, who refused to let me select the better pieces. They delivered - I don't have a ute - and I reckon they expressly chose the dodgier pieces. Anyway, never mind, I made do. They will remain nameless (rhymes with "Bill") : buyer beware, nevertheless.
+As is clearly noticeable, I purchased the timber from a rather dodgy mob in Cleveland, who refused to let me select the better pieces. They delivered - I don't have a ute - and I reckon they expressly chose the dodgier pieces. Anyway, never mind, I made do. They will remain nameless (rhymes with "Bill") : buyer beware, nevertheless.
 
-A lot of that timber had sappy knots and other defects, some which were so bad I had to trim them off before I painted them with three coats of [Timber Protecta](https://www.bowens.com.au/p/diggers-eco-in-ground-timber-protecta/). The remaining timber still had some warping wich made the edge-joins less than perfect. I reckon with time this slight problem will become less noticable. 
-
+A lot of that timber had sappy knots and other defects, some which were so bad I had to trim them off before I painted them with three coats of [Timber Protecta](https://www.bowens.com.au/p/diggers-eco-in-ground-timber-protecta/). The remaining timber still had some warping which made the edge-joins less than perfect. I reckon with time this slight problem will become less noticeable. 
+<!-- vale on -->
 <hr class="section-break strong" />
 
 
@@ -161,13 +161,13 @@ And here is what it looked like a year ago:
 <img src="/assets/images/garden/21-06-10/fp1.jpg" alt="Footpath" style="width: 900px;"/>
 
 
-The main challenge with the use of crusher-dust and pumice-gravel was that weeds would pretty much grow right through, and ultimately take over the footpath. As soon as dust accumulates in the pumice-gravel, it sinks down to the crusher-dust level, giving what should be an inert mineral base into a substrate for weed growth. Additionally, the person that Julia had engaged to redo the footpaths thought putting down *cardboard* - as in: container boxes - under the gravel as a weed deterrent was a good idea (it wasn't: cardboard breaks down quickly, and weeds aren't picky what they grow in) and chose that horrid pumic-gravel to cover the existing river-rock. I've been trying to filter out the river-rock to reuse it: not a trival task. I have been able to demonstrate that if the river-rock layer is deep enough, weeds will not grow:
+The main challenge with the use of crusher-dust and pumice-gravel was that weeds would pretty much grow right through, and ultimately take over the footpath. As soon as dust accumulates in the pumice-gravel, it sinks down to the crusher-dust level, giving what should be an inert mineral base into a substrate for weed growth. Additionally, the person that Julia had engaged to redo the footpaths thought putting down *cardboard* - as in: container boxes - under the gravel as a weed deterrent was a good idea (it wasn't: cardboard breaks down quickly, and weeds aren't picky what they grow in) and chose that horrid pumic-gravel to cover the existing river-rock. I've been trying to filter out the river-rock to reuse it: not a trivial task. I have been able to demonstrate that if the river-rock layer is deep enough, weeds will not grow:
 
 <img src="/assets/images/garden/21-06-10/fp3.jpg" alt="Footpath" style="width: 900px;"/>
 
 <img src="/assets/images/garden/21-06-10/fp4.jpg" alt="Footpath" style="width: 900px;"/>
 
-whereas, that pumice-gravel, even with river-rock underneath it and weedmat, allowed weeds to grow. I'm all for weeds, but do want to control where they grow. We tried spraying with a vinegar/salt/dish-soap mixture to control the weeds - we have bees, so we're not about to use a off-the-shelf herbicide - and as for the most part it works easily as well as the toxic stuff, it is not a long-term solution.
+whereas, that pumice-gravel, even with river-rock underneath it and weed-mat, allowed weeds to grow. I'm all for weeds, but do want to control where they grow. We tried spraying with a vinegar/salt/dish-soap mixture to control the weeds - we have bees, so we're not about to use a off-the-shelf herbicide - and as for the most part it works easily as well as the toxic stuff, it is not a long-term solution.
 
 <hr class="section-break strong" />
 

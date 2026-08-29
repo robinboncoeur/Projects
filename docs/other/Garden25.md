@@ -1,4 +1,4 @@
-# Seabrae Garden 2025
+# Garden 2025
 
 
 [![Works][Br02]{ .artC width="1100" }][Br02]
@@ -40,16 +40,18 @@
 
 **06.Aug.2025**  
 
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
+
 <img src="/assets/images/garden/25-08-06/renewbed-01.jpg" alt="Thyme" style="float: left; width: 400px;
         margin-right: 20px; margin-bottom: 10px;" />
 
-<img src="/assets/images/garden/25-08-06/renewbed-02.jpg" alt="Margoram" style="float: right; width: 400px;
+<img src="/assets/images/garden/25-08-06/renewbed-02.jpg" alt="Marjoram" style="float: right; width: 400px;
         margin-left: 20px; margin-bottom: 10px;" />
 
 
 Might show you failures as well, but for now, just what we've been successful at growing.
 
-On the left is thyme ... we're growing two varieties. This clump of 'common' thyme is from a bed yet to be lined. We've lined most of the garden beds, to prevent the timber from rotting. The image on the right is my pride-and-joy: Margoram!! 
+On the left is thyme ... we're growing two varieties. This clump of 'common' thyme is from a bed yet to be lined. We've lined most of the garden beds, to prevent the timber from rotting. The image on the right is my pride-and-joy: Marjoram!! 
 
 Can't even get it in the shops anymore here in Oz... but it's an essential for Italian dishes. Apparently, herbs tend to like sparse watering but I still try to keep the soil covered, to protect the microbiome.  
 
@@ -65,9 +67,9 @@ I believe these little battlers are lemon thyme. We'll see how they do in spring
 
 <img src="/assets/images/garden/25-08-06/Australian_Ibis.jpg" alt="Ibis" style="float: right; width: 400px;
         margin-left: 20px; margin-bottom: 10px;" />
-
+<!-- vale off -->
 The marigolds are also meant to ward off most pests, except perhaps the 'Threskiornis molucca', the ibis, or as we call them: 'bin chooks' (bin=rubbish bin; chook=chicken). These rather large birds -- roughly the size of a chicken -- don't actually eat the plants, but they trample on the young plants as they dig around for slugs... so I stuck a few sticks in the ground around the plants. Actually seems to be working.
-
+<!-- vale on -->
 The Australian White Ibis is a protected species in Australia and it is illegal to harm or kill them, according to state and national laws such as the NSW National Parks and Wildlife Act 1974 and the Queensland Nature Conservation Act 1992. While they are a protected species, their increasing numbers in urban areas have led some local councils to develop management plans to address community issues and balance the needs of the ibis with human infrastructure and the environment. The Australian White Ibis is a native bird and is protected under state-based legislation in various states, making it illegal to harm, collect eggs, or remove them.
 
 
@@ -92,7 +94,7 @@ I expect these will take off in the spring. I'll have to keep them trimmed back 
 
 
 On the left: perpetual spinach. Julia isn't fussed on the taste, but I love it.  
-On the right: basil, flowers (so Harri-girl has something to pick) and more margoram.
+On the right: basil, flowers (so Harri-girl has something to pick) and more marjoram.
 
 Apparently perpetual spinach is really nutritious. Also, very hardy -- it just grows and grows. BTW, this is the bed that I'll be emptying and putting a liner into.
 
@@ -100,11 +102,11 @@ Apparently perpetual spinach is really nutritious. Also, very hardy -- it just g
 <img src="/assets/images/garden/25-08-06/coffeeplant-01.jpg" alt="Coffee plants" style="float: right; width: 400px;
         margin-left: 20px; margin-bottom: 10px;" />
 
-
+<!-- vale off -->
 The coffee **bush** (breynia oblongifolia) is considered an invasive weed by Brisbane City Council. 
 
 They're not the same thing as the coffee *plant* (coffea arabica). The council just next to Brisbane City Council - Redlands Council, in which we live - used to have instructions on how to grow your own coffee plants. Those instructions seem to have been taken down.
-
+<!-- vale on -->
 As you can see, they're happy little self-seeding plants, so I get why environmental types are a bit cautious. They tend to feel the same way about blackberry bushes and guava trees.{{{sigh}}}
 
 
@@ -127,7 +129,7 @@ In the middle of this image is a full-grown coffee plant. I'll be chopping it ba
 By the way, this is one of those areas of the garden that too often gets neglected. There was a dead ficus tree that's finally in logs-ready-for-the-fireplace form, which was more of a hindrance than anything. That little electric chainsaw has proved its worth many times over by now.
 
 As far as working my little coffee 'plantation', to be honest, I was surprised just how labour-intensive the process is, going from cherries to roasted coffee beans. I've worked out a few strategies now to get the coffee beans to that green state ready for roasting, all without massive investments in equipment. Even so, just even picking the cherries: hard yakka.
-
+<!-- vale off -->
 I won't be ending my coffee subscription to [Artisti Coffee Roasters](https://artisti.com.au/collections/coffee-beans/products/delicate-coffee) any time soon.
 
 
@@ -174,7 +176,7 @@ So, there are several layers to remove on a coffee cherry:
   - the parchment (hull) and a really thin 'skin' called the 'silver skin' are removed
 
 Queensland being so dry, it's not hard to get them properly drying. The challenge was removing the parchment and silver skin, in order to end up with just the green bean.
-
+<!-- vale on -->
 <hr class="section-break strong" />
 
 
@@ -207,7 +209,7 @@ Besides the footpath, there was one bed I hadn't lined... this one:
         margin-left: 20px; margin-bottom: 10px;" />
 
 
-We were growing thyme, margoram and this amazing perpetual spinach - that big-leafed thing hanging on for dear life - that I hope to rescue. The taste is just amazing: you just barely show it any heat, and it turns into PopEye food!
+We were growing thyme, marjoram and this amazing perpetual spinach - that big-leafed thing hanging on for dear life - that I hope to rescue. The taste is just amazing: you just barely show it any heat, and it turns into PopEye food!
 
 Okay, the consistency (*think: mouth-feel*) isn't the greatest - a bit like munching on an uncooked *escargot* (snail) - but the flavour more than makes up for it.
 
@@ -261,7 +263,7 @@ Where before we had a rocky weed patch, we will only have rock, so things will r
         margin-right: 20px; margin-bottom: 10px;" />
 
 
-This was how the river rock was delivered: filty. Spray those weeds with poison and weed killer and hit them with a nuclear bomb and they will *STILL* come back. The steps to get rid of them permanently is:  
+This was how the river rock was delivered: filthy. Spray those weeds with poison and weed killer and hit them with a nuclear bomb and they will *STILL* come back. The steps to get rid of them permanently is:  
 
 1. pull all the weeds, carefully, to get plant / seeds / roots  
 2. run the river rock through the sieve, filtering out the dirt
@@ -327,7 +329,7 @@ Yes, I do still have the footpath to finish, but I'll be a lot slower getting th
 ---
 
 **20.Oct.2025**  
-Eating my frog. Up at 5:30, had my coffee, checked my email, steeling myself. Didn't start making noise -- Skillsaw, etc -- until after 7:30, out of deference to the neighbours.
+Eating my frog. Up at 5:30, had my coffee, checked my email, steeling myself. Didn't start making noise -- Skill-saw, etc -- until after 7:30, out of deference to the neighbours.
 
 Two hours later:
 
@@ -359,7 +361,7 @@ Now, there's **ONE** particular fly I can't abide at all: this one. (*'March fly
 Looks like a common housefly, doesn't she? However, she's at least three times as big, and has a bite that, in the past, has made me physically ill. Pretty sure I'm allergic to that bite: not just redness, swelling and cellulitis at the bite site, but feverish and weak.  
 Like, **ILL**.  
 And yes: "she".  
-Male horseflies do not bite; only female horseflies bite to obtain the blood they need for egg development. Males feed on nectar and plant nectars instead. Female horseflies need a protein-rich blood meal to help develop their eggs after fertilization. Males do not reproduce in this way and therefore do not need blood. Male horseflies feed on plant nectars and other plant exudates. Also, male horseflies have weaker mouthparts that are not capable of breaking skin to feed on blood. 
+Male horseflies do not bite; only female horseflies bite to obtain the blood they need for egg development. Males feed on nectar and plant nectar instead. Female horseflies need a protein-rich blood meal to help develop their eggs after fertilization. Males do not reproduce in this way and therefore do not need blood. Male horseflies feed on plant nectar and other plant exudates. Also, male horseflies have weaker mouthparts that are not capable of breaking skin to feed on blood. 
 
 So, when this lass showed up, I decided it was time for a break.
 

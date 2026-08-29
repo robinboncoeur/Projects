@@ -1,10 +1,15 @@
+ag
 chmod
+[Cc]hooks?
 css
 Dev
 ebook
 Hostinger
 img
+Kona
 Kontext
+microbiome
+Protecta
 reaticulate
 rsync
 rulebook
@@ -13,3 +18,4 @@ sudo
 toserver
 tuplets
 unbuffered
+Woolies
