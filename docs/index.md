@@ -22,7 +22,7 @@ This is a site collecting often-used strategies, as well as a central meeting pl
 The visual work here was created using ComfyUI, a node-based Stable Diffusion interface to vision models. The vision models are designed for creating images based on a text prompt, or in some cases, another image. This gives me the flexibility to build, test, revise, and refine images as part of the storytelling process. 
 
 
-[![Robyn asking Emily writing tips][St00]{ .artR width="260" }][St00]
+[![Robyn asking Emily writing tips][Wtr00]{ .artR width="260" }][Wtr00]
 
 
 The text is accompanied by audio files of the narration, recorded for the most part in ElevenLabs, a state-of-the-art Text-To-Speech audio file generator. The audio files are embellished by short clips of the sort of music that provided the emotional atmosphere when I wrote. 
