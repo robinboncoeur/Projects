@@ -1,7 +1,7 @@
 # My Projects
 
 
-[![Old Kaimu][Bra02]{ .artC width="1100" }][Bra02]
+[![Old Kaimu][Brc02]{ .artC width="1100" }][Brc02]
 
 
 <hr class="section-break strong" />
@@ -39,8 +39,7 @@ Large Language Models are a central part of my creative workflow—not as a subs
 
 <!--  Image references  -->
 
-[Br02]: assets/images/base/Bnr02c.jpg
-[St00]: assets/images/base/00Writer.jpg
+--8<-- "includes/image-references.md"
 
 
 <!--

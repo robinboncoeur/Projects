@@ -1,7 +1,5 @@
 # Images Link
 
-[Ts00]: /assets/images/base/00Emily.jpg
-[Wtr00]: /assets/images/base/00Writer.jpg
 [Bra01]: /assets/images/base/Bnr01a.jpg
 [Brb01]: /assets/images/base/Bnr01b.jpg
 [Brc01]: /assets/images/base/Bnr01c.jpg
@@ -12,6 +10,8 @@
 [Bra04]: /assets/images/base/Bnr04a.jpg
 [Brb03]: /assets/images/base/Bnr03b.jpg
 
+[Wtr00]: /assets/images/base/00Writer.jpg
+[Ts00]: /assets/images/base/00Emily.jpg
 [St00]: /assets/images/pappa/P0.jpg
 [St01]: /assets/images/pappa/P1.jpg
 [St02]: /assets/images/pappa/P2.jpg
