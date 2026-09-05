@@ -166,7 +166,7 @@ Status:
 
 
 
-### Kurtchen's Jugend 22
+### 1930 Jugend
 
 Initial notes are [here](/family/pappa2/#29-aug-2026)
 
