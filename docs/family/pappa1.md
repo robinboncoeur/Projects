@@ -189,22 +189,30 @@ Im Hinterhof der Cojas traf sich öfters bei wichtigen Aufmärschen die Kom. (*L
 
 <br>
   
-Kaum waren sie aus dem vorderen Tor von Landl heraus, ging es schon los. 
-Wer hat uns verraten. 
-Die Sozialdemokraten. 
-Was haben wir: Hunger. 
+Kaum waren sie aus dem vorderen Tor von Landl heraus, ging es schon los.  
+Wer hat uns verraten.   
+Die Sozialdemokraten.   
+Was haben wir: Hunger.   
 
-An der Ecke der Hüttenstrasse bückte sich einer der armen hungrigen nach einer Zigarettenkippe. Dabei fiel ihm eine Kartoffel aus der Tasche. Nichts destro Trotz ging er weiter. Mit Thälmann gegen Hindenburg. Was wählen wir. Liste vier. Dann spielten die Schalmeien. Pauker Namke kam in Aktion. Man sang: Völker hört die Signale! Auf zum letzten Gefecht! Die Internationale erkämpft das Menschenrecht. Rot Front. 
+An der Ecke der Hüttenstrasse bückte sich einer der armen hungrigen nach einer Zigarettenkippe. Dabei fiel ihm eine Kartoffel aus der Tasche. Nichts destro Trotz ging er weiter.   
+Mit Thälmann gegen Hindenburg.   
+Was wählen wir.   
+Liste vier.   
+Dann spielten die Schalmeien. Pauker Namke kam in Aktion.   
+Man sang: Völker hört die Signale!   
+Auf zum letzten Gefecht!   
+Die Internationale erkämpft das Menschenrecht.   
+Rot Front. 
 
 Kampflieder wurden gesungen. Gerh. u. K. sangen mit. Obwohl die Väter Sozis, es klang doch so schön. Inzwischen war man am Markt angelangt. Der Aufmarsch war von langer Hand vorbereitet. Von Neumarkt und anderen Orten waren die Kommunisten erschienen. Auf der Treppe des Rathauses begann eine Frau eine geifernde Rede gegen die Kapitalisten. Die Jungens konnten nicht sehen was anging. 
 
 Gerade als sie anfingen die Telefonzelle zu erklettern, erschien die Polizei mit Wasserwerfern. So ein Rindvieh in ihrer Nähe eine Handgranate abzog. Ein Toter und zwei Schwerverletzte lenkten die Aufmerksamkeit von den Jungens ab. 
 
-Gerh. ging zu einem Kerl mit der Bemerkung: „Mein Freund blutet wie ein Schwein.“ Ein Stück Glas Ein Stück Glas von der Telefonzelle stak in seinem Arm. 
+Gerh. ging zu einem Kerl mit der Bemerkung: “Mein Freund blutet wie ein Schwein.“ Ein Stück Glas Ein Stück Glas von der Telefonzelle stak in seinem Arm. 
 
 Der Mann zog die Jungens in den nächsten Hausgang. 
 
-K. war kreidebleich. „Mein Vater schlägt mich tot.“ Die Angst vor der Strafe war grösser als die Folgen der Verletzung. Zum Glück war es nur eine kleine Fleischwunde mit viel Blut. Mit Jod und Leukoplast war die Sache behoben.
+K. war kreidebleich. “Mein Vater schlägt mich tot.“ Die Angst vor der Strafe war grösser als die Folgen der Verletzung. Zum Glück war es nur eine kleine Fleischwunde mit viel Blut. Mit Jod und Leukoplast war die Sache behoben.
 
 
 </div>
@@ -214,31 +222,37 @@ K. war kreidebleich. „Mein Vater schlägt mich tot.“ Die Angst vor der Straf
 <div class="column column--right" markdown>
 **[ English Version ]**  
 
-Little Kurt’s youth fell into the so-called System era. The many parties with their different ideas to solve the social and economic problems. To the disadvantage of the Germans, the most radical party won. In his childlike naivety Little Kurt naturally did not know what was actually going on here. Most adults, incidentally, did not either.
+Little Kurt’s youth occurred during the so-called System era. The many parties with their different ideas to solve the social and economic problems. To the disadvantage of the Germans, the most radical party won. In his childlike naivety Little Kurt naturally did not know what was actually going on here. Most adults, incidentally, did not either.
 
-At Easter 1930 K. started school. He was still wearing the worn-out suit. His big brown round eyes looked anxiously into the world. "Not" even the enormous sugar cone could sweeten his childlike fear. His mother mentioned only too often that now the seriousness of life would begin and the good times would be over. How gladly he had still played in the sandpit of the municipal gardens. Visited Aunt Lotte or helped Grandmother in the allotment garden.
+At Easter 1930 K. started school. He was still wearing the worn-out suit. His big brown round eyes looked anxiously into the world. "Not" even the enormous sugar cone could sweeten his childlike fear. His mother mentioned only too often that now the seriousness of life would begin and the good times would be over. How gladly he would have still played in the sandpit of the municipal gardens. Visited Aunt Lotte or helped Grandmother in the allotment garden.
 
 The route to school was prescribed for him. Although the many detours through the little side streets of the old town doubled the route to school. The streets were endangered by political marches and tumults of the parties and police.
 
-Hoffmann Gerhard, who was one year older than K., always knew when something was going on. His father was SD (Sicherheitsdienst, the Nazi Party/SS intelligence and security service). So K. was always well informed about the events of the time.
+Hoffmann Gerhard, who was one year older than K., always knew when something was going on. His father was SD (*Sicherheitsdienst, the Nazi Party/SS intelligence and security service*). So K. was always well informed about the events of the time.
 
-In the rear courtyard of the Cojas the Comm. band often met for important marches. The wind players etc. were apprentice locksmiths. Porter Namke provided the beat. His left leg, through a war injury, was somewhat shorter. On the left the kettledrum tilted, whereupon Namke struck the kettledrum forcefully from above. The marching in step of the M.K. was assured. The slogans were distributed. But not called out in the rear courtyard. Because too many Social Democrats lived in the front building.
+In the rear courtyard of the Cojas the Com. (*Likely: Kommunistische*) band often met for important marches. The wind players etc. were apprentice locksmiths. Porter Namke provided the beat. His left leg, through a war injury, was somewhat shorter. On the left the kettledrum tilted, whereupon Namke struck the kettledrum forcefully from above. Marching in step of the M.K. (*Musikkapelle*) was assured. The slogans were distributed. But not called out in the rear courtyard. Because too many Social Democrats lived in the front building.
 
 <br>
 
-They had hardly come out through the front gate of Landl when it already started.
+They had hardly come out through the front gate of Landl when it already started.   
+Who betrayed us.   
+The Social Democrats.   
+What do we have: Hunger.   
 
-Who betrayed us.
-The Social Democrats.
-What do we have: Hunger.
-
-At the corner of Hüttenstrasse one of the poor hungry people bent down for a cigarette butt. In doing so a potato fell out of his pocket. None the less he went on. With Thälmann against Hindenburg. What do we vote for. List four. Then the shawms played. Drummer Namke went into action. They sang: Peoples, hear the signals! On to the final battle! The Internationale fights for the rights of mankind. Red Front.
+At the corner of Hüttenstrasse one of the poor hungry people bent down for a cigarette butt. In doing so a potato fell out of his pocket. None the less he went on.  
+With Thälmann against Hindenburg.   
+What do we vote for.   
+List four.   Then the shawms played. Drummer Namke went into action.  
+They sang: People, hear the signals!   
+On to the final battle!   
+The Internationale fights for the rights of mankind.   
+Red Front.
 
 Battle songs were sung. Gerh. and K. sang along. Although the fathers were Social Democrats, it sounded so beautiful. In the meantime they had arrived at the market. The march had been prepared well in advance. The Communists had appeared from Neumarkt and other places. On the steps of the town hall a woman began a vitriolic speech against the capitalists. The boys could not see what was going on.
 
-Just as they began to climb the telephone box, the police appeared with water cannons. Some idiot near them set off a hand grenade. One dead and two seriously injured diverted the boys' attention.
+Just as they began to climb the telephone booth, the police appeared with water cannons. Some idiot (*Rindvieh*) near them set off a hand grenade. One dead and two seriously injured diverted the boys' attention.
 
-Gerh. went to a fellow with the remark: “My friend is bleeding like a pig.” A piece of glass A piece of glass from the telephone box was stuck in his arm.
+Gerh. went to a fellow with the remark: “My friend is bleeding like a pig.” A piece of glass from the telephone booth was stuck in his arm.
 
 The man pulled the boys into the nearest entrance hall.
 
