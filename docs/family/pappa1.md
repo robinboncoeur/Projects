@@ -252,11 +252,11 @@ K. was chalk-white. “My father will beat me to death.” The fear of the punis
 [![Img][Sp22]{ .artR width="140" }][Sp22]
 
 Status:    
-- Mod: 2026-08-29 Photographed, enhanced in GIMP; transcription, initial pass 
-- Mod: 2026-09-05 Paleography, and initial translation 
-- Mod:  
-- Mod:  
-- Mod:  
+- Mod: 2026-08-29 Photographed, enhanced in GIMP; transcription, initial pass   
+- Mod: 2026-09-05 Paleography, and initial translation   
+- Mod:    
+- Mod:    
+- Mod:    
 - Mod:  
 
 <hr class="section-break strong" />
