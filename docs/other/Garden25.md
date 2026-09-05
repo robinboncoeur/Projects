@@ -40,7 +40,9 @@
 
 **06.Aug.2025**  
 
-[![Emily][Ts00]{ .artR width="260" }][Ts00]
+
+[![img][Gn0001]{ .artR width="400" }][Gn0001]
+
 
 <img src="/assets/images/garden/25-08-06/renewbed-01.jpg" alt="Thyme" style="float: left; width: 400px;
         margin-right: 20px; margin-bottom: 10px;" />

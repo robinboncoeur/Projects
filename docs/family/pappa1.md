@@ -166,19 +166,45 @@ Status:
 
 
 
-### Karlchen's Jugend 22
+### Kurtchen's Jugend 22
 
-Notes are [here](/family/pappa2/#29-aug-2026)
+Initial notes are [here](/family/pappa2/#29-aug-2026)
+
+Initial notes are [here](/family/em-0905)
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
+
 **[Auf Deutsch]**  
-Karlchen's Jugend f?d in die sog. (sogenanten) System? Zeit. Die vielen Parteien mit ihren unterschied= hohen Ideen die Sozialen und Wirtschaftlichen Probleme zu lösen. Zum Nachteil der Deutchen gewann die volkolste Rasten. In seinen kindlichen noivi tätwusste Karkchen natürlish nicht was hier eigentlich vorging. Die meisten Erwachstenen übrigens auch nicht.
-Ostern 1930 kam K. in die Schule. Noch trug er den ablostrosen Anzug. Seine grossen braunen Kulleraugen schaute ängstlich in die Welt. Selbst die riesige Zuckertüte konnte seine kindliche Angst verässen. Seine Mutter erwälte nur zu oft, dass jetzt der Ernst des Lebens beginne und die gute Zeit vorbei sei. So gerne hatte er noch im Sandkasten der Stadtanlagen gespielt. Die Tante Lotte besucht oder mit edr Grossmutter im Schrchergarten geholfen.  
-Der Schulweg wurde ihm vorgeschrieben. Obwoll die viele Umwege durch die kleine Seitengassen die alte Stadt den Schulweg auf das doppelter verlängerte. Diese Strassen was gefölstet durch polnische Aufreusche und Tumulte der Parteien un Polizer Hoffen???? Gerhamol, den ein Jahr älter als K wusste immer wenn was los war. Sein Vater war SD somit war K immer gut informiert über die Zeitseschehen. I'm Hinterhof des Cojas traf sich öftens bei wichtigen Aufmänschen die Kom. ??? Kapelle. Die Dlasin?? str. waren Scholmeren. Portien Namke sorgte für den Tu?kt fein durch eine Kriegsverletzten linker Bein was etwas kürzer. bei links kam die Raute in schräglange wobei Namke kräftig von ober auf die Hamke hist. zder zgleischnitt der M. K. was gesichert Die Zosangen wurden geteilt. Aber im Hinterhof nicht ausgerufen, Denn in Verderhaus wohten zu viele Soziers
+
+Kurtchen's Jugend fiel in die sog. sogenannte Systemzeit. Die vielen Parteien mit ihren unterschiedIdeen die Sozialen und Wirtschaftlichen Probleme zu lösen. Zum Nachteil der Deutschen gewann die radikalste Partei. In seiner kindlichen Naivität wusste Karlchen natürlich nicht was hier eigentlich vorging. Die meisten Erwachsenen übrigens auch nicht.
+
+Ostern 1930 kam K. in die Schule. Noch trug er den abgetragenen Anzug. Seine grossen braunen Kulleraugen schauten ängstlich in die Welt. Selbst die riesige Zuckertüte konnte seine kindliche Angst versüßen. Seine Mutter erwähnte nur zu oft, dass jetzt der Ernst des Lebens beginne und die gute Zeit vorbei sei. So gerne hatte er noch im Sandkasten der Stadtanlagen gespielt. Die Tante Lotte besucht oder mit der Grossmutter im Schrebergarten geholfen. 
+
+Der Schulweg wurde ihm vorgeschrieben. Obwohl die vielen Umwege durch die kleinen Seitengassen der alten Stadt den Schulweg auf das doppelte verlängerten. Die Strassen waren gefährdet durch politische Aufmärsche und Tumulte der Parteien und Polizei. 
+
+Hoffmann Gerhard, der ein Jahr älter als K. war, wusste immer wenn was los war. Sein Vater war SD (*Sicherheitsdienst, the Nazi Party/SS intelligence and security service*). So war K. immer gut informiert über das Zeitgeschehen. 
+
+Im Hinterhof der Cojas traf sich öfters bei wichtigen Aufmärschen die Kom. (*Likely: Kommunistische*) Kapelle. Die Bläser etc. waren Schlosserlehrlinge. Portier Namke sorgte für den Takt. Sein durch eine Kriegsverletzung linkes Bein war etwas kürzer. Bei links kam die Pauke in Schräglage, wobei Namke kräftig von oben auf die Pauke hieb. Der Gleichschritt der M.K. (*Musikkapelle*) war gesichert. Die Losungen wurden verteilt. Aber im Hinterhof nicht ausgerufen. Denn im Vorderhaus wohnten zu viele Sozis.
+
 <br>
-Kaum waren sie aus den vorobren Tor von Landl heraus, ging es schon los. Wer hat uns verraten. Die Zozialdemokraten. Was haben wir: Hunger. An der Ecke der Hintenstrasse büchte sich einer der armen hungrigen nach einer Zigarettenkippe. Dabei feil ihn eine Karchmurt aus der Tasche. Nichts destro Trotz ging er weiter. Mit Tälmann gegen Hindenburg. Was wählen wir. Liste vier. Dann spielter die Schahneriern Ronken Namke kamm in aktion. Man zang Völker höret die Singvokele auf zum letzten Gehefuhl die Internationale erkämft das Mehenschenrecht. Rot Front. Kampflieder wurden gesungen Gerh. u K. sangen mit. Obwohl die Väter Soziers er klang doch so schön.  
-Inzwischen war mann am Markt angelangt. Den Aufmarsch war von langen Hand vorbereitet. Von Neumarkt und anderen Stuumx waren die Kommunisten erschiesen. Auf die Treppe den Rathauses began eine Frau eine geifende Rede gegen die Kapitalisten. Die Jungens konnten nicht sehen was anging. Gerade also sie anfingen eine Telefonzelle zu erklettern die Polizei erschien mit Wasserwerfen. So ein Rindnich in ehren Nähe eine Handgranate abzog. Ein Todter un zwei schwerverletzte lenkten die Aufmerksamkeit den Jungens als Gerh. ging zu einen Klon. mit der Demerhung. Mein Freund blutet wie ein Schwein. Ein stück Glas von der Telefonzelle ztal in seinem Arm. Der Sann zog die Jungens in den nächsten Hausgang. K war Kreidelbleich. Mein Vater schlagt mich tot. Die Angst vor der Strafe war grösser als die Folgen der Verletzung. Zum Glück war es nur eine kleine Fleischwunde mit viel Blut. Mit Tot un Zenkofkut war die Lache behoben.
+  
+Kaum waren sie aus dem vorderen Tor von Landl heraus, ging es schon los. 
+Wer hat uns verraten. 
+Die Sozialdemokraten. 
+Was haben wir: Hunger. 
+
+An der Ecke der Hüttenstrasse bückte sich einer der armen hungrigen nach einer Zigarettenkippe. Dabei fiel ihm eine Kartoffel aus der Tasche. Nichts destro Trotz ging er weiter. Mit Thälmann gegen Hindenburg. Was wählen wir. Liste vier. Dann spielten die Schalmeien. Pauker Namke kam in Aktion. Man sang: Völker hört die Signale! Auf zum letzten Gefecht! Die Internationale erkämpft das Menschenrecht. Rot Front. 
+
+Kampflieder wurden gesungen. Gerh. u. K. sangen mit. Obwohl die Väter Sozis, es klang doch so schön. Inzwischen war man am Markt angelangt. Der Aufmarsch war von langer Hand vorbereitet. Von Neumarkt und anderen Orten waren die Kommunisten erschienen. Auf der Treppe des Rathauses begann eine Frau eine geifernde Rede gegen die Kapitalisten. Die Jungens konnten nicht sehen was anging. 
+
+Gerade als sie anfingen die Telefonzelle zu erklettern, erschien die Polizei mit Wasserwerfern. So ein Rindvieh in ihrer Nähe eine Handgranate abzog. Ein Toter und zwei Schwerverletzte lenkten die Aufmerksamkeit von den Jungens ab. 
+
+Gerh. ging zu einem Kerl mit der Bemerkung: „Mein Freund blutet wie ein Schwein.“ Ein Stück Glas Ein Stück Glas von der Telefonzelle stak in seinem Arm. 
+
+Der Mann zog die Jungens in den nächsten Hausgang. 
+
+K. war kreidebleich. „Mein Vater schlägt mich tot.“ Die Angst vor der Strafe war grösser als die Folgen der Verletzung. Zum Glück war es nur eine kleine Fleischwunde mit viel Blut. Mit Jod und Leukoplast war die Sache behoben.
 
 
 </div>
@@ -188,6 +214,36 @@ Inzwischen war mann am Markt angelangt. Den Aufmarsch war von langen Hand vorber
 <div class="column column--right" markdown>
 **[ English Version ]**  
 
+Little Kurt’s youth fell into the so-called System era. The many parties with their different ideas to solve the social and economic problems. To the disadvantage of the Germans, the most radical party won. In his childlike naivety Little Kurt naturally did not know what was actually going on here. Most adults, incidentally, did not either.
+
+At Easter 1930 K. started school. He was still wearing the worn-out suit. His big brown round eyes looked anxiously into the world. "Not" even the enormous sugar cone could sweeten his childlike fear. His mother mentioned only too often that now the seriousness of life would begin and the good times would be over. How gladly he had still played in the sandpit of the municipal gardens. Visited Aunt Lotte or helped Grandmother in the allotment garden.
+
+The route to school was prescribed for him. Although the many detours through the little side streets of the old town doubled the route to school. The streets were endangered by political marches and tumults of the parties and police.
+
+Hoffmann Gerhard, who was one year older than K., always knew when something was going on. His father was SD (Sicherheitsdienst, the Nazi Party/SS intelligence and security service). So K. was always well informed about the events of the time.
+
+In the rear courtyard of the Cojas the Comm. band often met for important marches. The wind players etc. were apprentice locksmiths. Porter Namke provided the beat. His left leg, through a war injury, was somewhat shorter. On the left the kettledrum tilted, whereupon Namke struck the kettledrum forcefully from above. The marching in step of the M.K. was assured. The slogans were distributed. But not called out in the rear courtyard. Because too many Social Democrats lived in the front building.
+
+<br>
+
+They had hardly come out through the front gate of Landl when it already started.
+
+Who betrayed us.
+The Social Democrats.
+What do we have: Hunger.
+
+At the corner of Hüttenstrasse one of the poor hungry people bent down for a cigarette butt. In doing so a potato fell out of his pocket. None the less he went on. With Thälmann against Hindenburg. What do we vote for. List four. Then the shawms played. Drummer Namke went into action. They sang: Peoples, hear the signals! On to the final battle! The Internationale fights for the rights of mankind. Red Front.
+
+Battle songs were sung. Gerh. and K. sang along. Although the fathers were Social Democrats, it sounded so beautiful. In the meantime they had arrived at the market. The march had been prepared well in advance. The Communists had appeared from Neumarkt and other places. On the steps of the town hall a woman began a vitriolic speech against the capitalists. The boys could not see what was going on.
+
+Just as they began to climb the telephone box, the police appeared with water cannons. Some idiot near them set off a hand grenade. One dead and two seriously injured diverted the boys' attention.
+
+Gerh. went to a fellow with the remark: “My friend is bleeding like a pig.” A piece of glass A piece of glass from the telephone box was stuck in his arm.
+
+The man pulled the boys into the nearest entrance hall.
+
+K. was chalk-white. “My father will beat me to death.” The fear of the punishment was greater than the consequences of the injury. Fortunately it was only a small flesh wound with a lot of blood. With iodine and Leukoplast the matter was dealt with.
+
 </div>
 </div>
 
@@ -195,10 +251,9 @@ Inzwischen war mann am Markt angelangt. Den Aufmarsch war von langen Hand vorber
 
 [![Img][Sp22]{ .artR width="140" }][Sp22]
 
-Status:  
-- Init translation  
+Status:    
 - Mod: 2026-08-29 Photographed, enhanced in GIMP; transcription, initial pass 
-- Mod:  
+- Mod: 2026-09-05 Paleography, and initial translation 
 - Mod:  
 - Mod:  
 - Mod:  

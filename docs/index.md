@@ -1,7 +1,7 @@
 # My Projects
 
 
-[![Old Kaimu][Br02]{ .artC width="1100" }][Br02]
+[![Old Kaimu][Bra02]{ .artC width="1100" }][Bra02]
 
 
 <hr class="section-break strong" />
