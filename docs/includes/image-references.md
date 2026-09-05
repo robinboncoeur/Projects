@@ -1,6 +1,7 @@
 # Images Link
 
-
+[Ts00]: /assets/images/base/00Emily.jpg
+[Wtr00]: /assets/images/base/00Writer.jpg
 [Bra01]: /assets/images/base/Bnr01a.jpg
 [Brb01]: /assets/images/base/Bnr01b.jpg
 [Brc01]: /assets/images/base/Bnr01c.jpg
@@ -40,6 +41,8 @@
 [St20]: /assets/images/pappa/P20.jpg
 [St21]: /assets/images/pappa/P21.jpg
 [Sp21]: /assets/images/pappa/P21p.jpg
+[St22]: /assets/images/pappa/P22.jpg
+[Sp22]: /assets/images/pappa/P22p.jpg
 [St23]: /assets/images/pappa/P23.jpg
 [St24]: /assets/images/pappa/P24.jpg
 [St25]: /assets/images/pappa/P25.jpg
