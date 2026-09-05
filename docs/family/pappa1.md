@@ -170,7 +170,7 @@ Status:
 
 Initial notes are [here](/family/pappa2/#29-aug-2026)
 
-Initial notes are [here](/family/em-0905)
+Transcription and translation notes are [here](/family/em-0905.md)
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
