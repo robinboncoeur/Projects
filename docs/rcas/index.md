@@ -157,3 +157,13 @@ The system is designed to:
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
 /-->
+
+
+<!-- Notes to Self 
+
+https://script.google.com/macros/s/AKfycbzfiE5czc3z23egkzcAQAij5emCs6GJSaf0Kwy6TlXPZXny6fa6m6VUQ3YU48GjN-2qOA/exec
+
+old-pw: RCASinc!2326
+pw: Tutor@RCAS0826#
+
+-->
