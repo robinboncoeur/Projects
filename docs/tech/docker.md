@@ -503,3 +503,10 @@ ssh returns active
 docker run hello-world succeeds
 ```
 <hr class="section-break strong" />
+
+
+<!--  Image references  -->
+
+--8<-- "includes/image-references.md"
+
+🌷

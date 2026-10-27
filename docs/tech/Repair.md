@@ -274,3 +274,9 @@ I had the same problem even when using the latest Catalina patcher version 1.4.4
 
 
 <hr class="section-break strong" />
+
+<!--  Image references  -->
+
+--8<-- "includes/image-references.md"
+
+🌷

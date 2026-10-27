@@ -204,6 +204,13 @@ author: Robyn Hahn
 
 
 
+<!--  Image references  -->
+
+--8<-- "includes/image-references.md"
+
+🌷
+
+
 <!-- 
 [Main Page](../index.md)
 

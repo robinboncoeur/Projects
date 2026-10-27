@@ -202,3 +202,9 @@ That turns it off, you can check with the “link show” command from earlier. 
 ```
 
 <hr class="section-break strong" />
+
+<!--  Image references  -->
+
+--8<-- "includes/image-references.md"
+
+🌷

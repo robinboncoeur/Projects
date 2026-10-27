@@ -91,7 +91,10 @@ If you just want a zoom overlay instead of a new tab, Material supports:
 
 Shout if you want me to sanity-check the relative path from a specific page.
 
-<hr style="height:8px;border-width:0;color:green;background-color:green">
 
-[Back to the Main Page](../index.md)
 
+<!--  Image references  -->
+
+--8<-- "includes/image-references.md"
+
+🌷

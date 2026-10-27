@@ -51,3 +51,10 @@ docker compose up -d
 http://localhost:8188
 
 <hr class="section-break strong" />
+
+
+<!--  Image references  -->
+
+--8<-- "includes/image-references.md"
+
+🌷

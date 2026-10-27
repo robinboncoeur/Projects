@@ -270,3 +270,10 @@ For **immediate** results, Run (try as normal user and root):
 ```
 
 <hr class="section-break strong" />
+
+
+<!--  Image references  -->
+
+--8<-- "includes/image-references.md"
+
+🌷

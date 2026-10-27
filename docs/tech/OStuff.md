@@ -448,3 +448,9 @@ F# major: F# major is the major key that is a semitone above B minor. It provide
 These are just a few examples of keys that complement the B minor key. Ultimately, the choice of complementary keys will depend on the musical context and the desired emotional effect.
 
 <hr class="section-break strong" />
+
+<!--  Image references  -->
+
+--8<-- "includes/image-references.md"
+
+🌷

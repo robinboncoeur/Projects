@@ -677,3 +677,9 @@ And there you go, an automatically generated Microsoft Word report with numbers 
 ```
 
 <hr class="section-break strong" />
+
+<!--  Image references  -->
+
+--8<-- "includes/image-references.md"
+
+🌷

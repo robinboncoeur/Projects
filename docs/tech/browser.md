@@ -70,4 +70,8 @@ If it’s still reverting after those, tell me your browser (Chrome/Safari/Firef
 
 <hr class="section-break strong" />
 
-[Back to the Main Page](../index.md)
+<!--  Image references  -->
+
+--8<-- "includes/image-references.md"
+
+🌷
