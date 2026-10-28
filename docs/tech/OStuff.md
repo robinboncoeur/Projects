@@ -1,5 +1,7 @@
 # Other Projects
 
+<!-- vale off -->
+
 <hr class="section-break strong" />
 
 
@@ -355,7 +357,7 @@ When he hit 100K subscribers, he put out this excellent video:
 
 Done with the Bullshit?
 
-Posted by  Elizabeth Lytle
+Posted by Elizabeth Lytle
 
 Ian Henderson
 

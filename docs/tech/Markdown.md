@@ -1,10 +1,11 @@
 # Markdown
 
-<style>
-  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
-  .column {flex: 1 1 0; min-width: 0;}
-  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
-</style>
+<hr class="section-break strong" />
+
+
+
+
+
 
 
 ## Cheatsheet
@@ -41,8 +42,7 @@ Shortcut link example:
 [b25]: ../visual/Blog25.md
 ```
 
-<hr style="height:8px;border-width:0;color:green;background-color:green">
-
+<hr class="section-break strong" />
 
 
 
@@ -54,8 +54,6 @@ Shortcut link example:
 ## Clickable Image Links
 
 ### Pure Markdown
-
-... and attr_list (you already have it enabled)
 
 Makes the image a link to itself and opens in a new tab:
 
@@ -73,7 +71,7 @@ Makes the image a link to itself and opens in a new tab:
 
 ### Raw HTML
 
-```html
+```text
 <a href="../images/pic.jpg" target="_blank" rel="noopener">
   <img src="../images/pic.jpg" alt="Alt text" width="320" loading="lazy">
 </a>
@@ -90,6 +88,10 @@ If you just want a zoom overlay instead of a new tab, Material supports:
 ```
 
 Shout if you want me to sanity-check the relative path from a specific page.
+
+<hr class="section-break strong" />
+
+
 
 
 

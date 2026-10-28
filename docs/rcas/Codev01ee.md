@@ -26,11 +26,11 @@
 
 1. Preserve the frozen TEST version first. Keep today's known-good v1.5 code/workbook as the historical alpha baseline. Don't turn the only copy into LIVE.  
 2. Create/copy the production workbook into the proper RCAS Google Drive working folder. That gives the LIVE system its permanent home before we wire anything to it.  
-3. Remove TESTING labels/test data from the production copy. That includes the visible Booking Request - ver 1.5 - TESTING heading and whatever TEST identification exists in the sheet/workbook. I'd keep the actual version number somewhere unobtrusive; it's useful provenance.  
+3. Remove TESTING labels/test data from the production copy. That includes the visible Booking Request - version 1.5 - TESTING heading and whatever TEST identification exists in the sheet/workbook. I'd keep the actual version number somewhere unobtrusive; it's useful provenance.  
 4. Point the production code at the LIVE RCAS calendar. In particular, verify CONFIG.CALENDAR_ID rather than merely assuming the copied code is pointing at the right calendar. This is the moment when mistakes start affecting real bookings.  
 5. Confirm the production workbook's installed triggers. We now know exactly what we require: the spreadsheet On edit trigger calling onApprovalEdit. And importantly, there should be no resurrected form-submit/Pending trigger.  
 6. Check permissions/ownership from the production location. RCAS account owns/has the necessary access to the workbook and LIVE calendar; tutors do not require workbook access.  
-7. Update the existing web-app deployment to the production code. As you say, editing the deployment means the /exec URL remains the same — excellent, because the Squarespace iframe doesn't then need another URL change. Keep Execute as RCAS and Who has access: Anyone, because we've established that's required for the iframe.  
+7. Update the existing web-app deployment to the production code. As you say, editing the deployment means the /exec URL remains the same — excellent, because the SquareSpace iframe doesn't then need another URL change. Keep Execute as RCAS and Who has access: Anyone, because we've established that's required for the iframe.  
 8. Run one controlled LIVE smoke test. Make a clearly identifiable short test booking in an otherwise free future slot; confirm sheet row → Approved → LIVE calendar event → Event ID. Then change it to Cancelled and confirm calendar deletion/Event ID clearing. After that, the production lifecycle has been tested once against the actual production resources.  
 
 **Then I'd call v1.5 LIVE.**

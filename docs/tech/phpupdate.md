@@ -356,7 +356,7 @@ Do not remove the installation until its lack of dependencies has been establish
 
 
 
-## 5. Raspberry Pi Nextcloud — seabrae
+## 5. Raspberry Pi Nextcloud — Seabrae
 
 **Host:** `seabrae`  
 **Operating system:** Debian 13, ARM64  
@@ -403,7 +403,7 @@ Trusted domains included:
 - `cloud.seabrae.org`
 - `192.168.0.36`
 - `seabrae`
-- A Tailscale IPv4 address and hostname
+- A TailScale IPv4 address and hostname
 
 The CLI URL was:
 

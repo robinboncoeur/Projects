@@ -1,5 +1,7 @@
 # Python including Pip
 
+<!-- vale off -->
+
 <hr class="section-break strong" />
 
 
@@ -22,7 +24,7 @@ When you get this **ERROR: Did not get any data blocks** invoke:
 	yt-dlp --list-formats https://www.youtube.com/watch?v=NameOfFile
 ```
 
-See which one will allow download. Youmay end up with a .3gp file.
+See which one will allow download. You may end up with a .3gp file.
 
 <hr class="section-break strong" />
 

@@ -1,8 +1,14 @@
 # Repairing Anything
 
+<!-- vale off -->
+
 This page started out as a **Repairing Macbooks** page, but I'm going to put all repairs I do on things here, just to remind myself how it's done.
 
 <hr class="section-break strong" />
+
+
+
+
 
 
 ## Repairs on Macs

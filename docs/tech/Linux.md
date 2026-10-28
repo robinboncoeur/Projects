@@ -15,18 +15,13 @@
 
 Thanks to the looming Windows10 expiry date, I've had to update all our Windows PCs to 11. For some, thanks to them being of recent manufacture, this was reasonably trivial. TPM2.0 was already on the motherboard or in the CPU, so it was a matter of upgrading the OS.
 
-In the case of one machine in particular, however, the issue with why it wouldn't accept the upgrade was a bit harder to nut out. I had ended up getting Julia a current-model CPU/motherboard (and even case) and installed Win 11 from scratch. Everything is on a terrabyte board-mounted SSD—no spinning disks, no 2.5 drives: just all on one drive.
+In the case of one machine in particular, however, the issue with why it wouldn't accept the upgrade was a bit harder to nut out. I had ended up getting Julia a current-model CPU/motherboard (and even case) and installed Win 11 from scratch. Everything is on a terabyte board-mounted SSD—no spinning disks, no 2.5 drives: just all on one drive.
 
-Thought I'd have a look at her 'old' motherboard. It's a [Gigabyte GA-A320M-S2H](https://www.gigabyte.com/Motherboard/GA-A320M-S2H-rev-1x#kf)—(AMD processors). As you can see, no mention of a TPM slot. However, when I examined the board itself, lo and behold: a TPM pinout! WTF? Well, I thought, "cool, I'll go ahead and upgrade this to Win 11 and flog it." Win 10 installed no dramas at all. Win 11? Nope. Tried the [Windows 11 workaround](https://www.youtube.com/watch?v=Yd3isXSBTUs) and it still would work!
+Thought I'd have a look at her 'old' motherboard. It's a [Gigabyte GA-A320M-S2H](https://www.gigabyte.com/Motherboard/GA-A320M-S2H-rev-1x#kf)—(AMD processors). As you can see, no mention of a TPM slot. However, when I examined the board itself, lo and behold: a TPM pin-out! WTF? Well, I thought, "cool, I'll go ahead and upgrade this to Win 11 and flog it." Win 10 installed no dramas at all. Win 11? Nope. Tried the [Windows 11 workaround](https://www.youtube.com/watch?v=Yd3isXSBTUs) and it still would work!
 
-So, I figured out the reason. Finally. I think. I **hope**! The CPU is not supported: it needs to be a series 2000 AMD processor or newer. So, I've ordered a R5-2600 Processor 6 Cores 3.4GHz Base 3.9GHz Turbo 19MB Cache AM4 Socket CPU from Alibaba for AUD$40. Worth a try, anyway.
+So, I figured out the reason. Finally. I think. I **hope**! The CPU is not supported: it needs to be a series 2000 AMD processor or newer. So, I've ordered a R5-2600 Processor 6 Cores 3.4GHz Base 3.9GHz Turbo 19MB Cache AM4 Socket CPU from AliBaba for AUD$40. Worth a try, anyway.
 
 <hr class="section-break strong" />
-
-
-
-
-
 
 
 
@@ -51,7 +46,10 @@ Hi Robyn—Linux hat on. Let’s tackle the two big hurdles first: (1) whether T
 
 * **Public IP / Static IP:** Telstra now offers a *static IPv4* add-on for home NBN/OptiComm for \~\$10/month, which is ideal for hosting. You add it yourself in My Telstra. ([Telstra.com][1])
 * **Port forwarding:** Telstra documents port-forwarding on its modems, which implies inbound connections are supported. ([Telstra.com][2])
-* **CGNAT:** On *fixed-line* NBN, Telstra typically does **not** put you behind CGNAT (their *mobile* network is CGNAT). A Whirlpool mod confirms this common split. If you ever do encounter CGNAT, there are clean workarounds (below). ([Whirlpool.net.au][3])
+* **CGNAT:** On *fixed-line* NBN, Telstra typically does **not** put you behind CGNAT (their *mobile* network is CGNAT). A Whirlpool mod confirms this common split. If you ever do encounter CGNAT, there are clean workarounds (below). 
+* ([Whirlpool.net.au][3])
+
+---
 
 **Feasibility checklist (10 minutes):**
 
@@ -60,7 +58,7 @@ Hi Robyn—Linux hat on. Let’s tackle the two big hurdles first: (1) whether T
 2. If you don’t want to rely on Dynamic DNS, enable Telstra’s **Static IP** add-on. ([Telstra.com][1])
 3. Temporary inbound test: on your server `python3 -m http.server 8080`, create a port-forward 8080→server, then hit `http://<your-public-ip>:8080` from your phone on 4G. If it loads, you’re green.
 
-> **Email hosting caution:** Even if port 25 isn’t filtered, deliverability is painful from residential IPs. Use a relay (Mailgun, Postmark, SES) and don’t expose 25/587 publicly unless you really must.
+> **Email hosting caution:** Even if port 25 isn’t filtered, deliverability is painful from a residential IP. Use a relay (Mailgun, Postmark, SES) and don’t expose 25/587 publicly unless you really must.
 
 #### 2) Keep the server *completely separate* from everything else
 
@@ -69,6 +67,8 @@ You’ve got three robust patterns; pick one based on budget and risk tolerance:
 - A) **Physical isolation (best): second NBN service on another UNI-D port**
 
 Order a **second** NBN service (can be Telstra or another ISP) on UNI-D 2/3/4 of the NBN FTTP NTD. Put a dedicated firewall + server behind it; nothing touches your home LAN. Telstra’s own guide notes that multiple UNI-D ports can be active. ([Telstra.com][4])
+
+---
 
 **Sketch:**  
 ONT(UNI-D1) → Home router/LAN  
@@ -87,12 +87,12 @@ Keep your existing Telstra NBN service but introduce a proper firewall (OPNsense
   Pros: One service, low cost.
   Cons: Slightly more complex to get right; mistakes can bridge networks.
 
-- C) **No inbound ports at all: Cloudflare Tunnel or Tailscale Funnel**
+- C) **No inbound ports at all: Cloudflare Tunnel or TailScale Funnel**
 
 Your server dials **out** to the provider; they terminate TLS and route traffic back to you. Great if CGNAT ever appears or you don’t want to expose your home IP.
 
-* **Cloudflare Tunnel (cloudflared):** free, handles certs, DDoS, WAF; map `site.example.com` → local `127.0.0.1:8080`. ([eddiez.me][5])
-* **Tailscale Funnel:** expose a local HTTP/TCP service publicly over HTTPS, toggleable per service. ([tailscale.com][6])
+* **Cloudflare Tunnel:** free, handles certs, DDoS, WAF; map `site.example.com` → local `127.0.0.1:8080`. ([eddiez.me][5])
+* **TailScale Funnel:** expose a local HTTP/TCP service publicly over HTTPS, toggle-able per service. ([TailScale.com][6])
   Pros: No NAT/port-forwarding, hides your IP, easy TLS.
   Cons: You depend on a third-party edge; some self-hosters prefer direct control.
 
@@ -143,13 +143,13 @@ sudo dpkg-reconfigure --priority=low unattended-upgrades
 ```
 
 * `fail2ban` with the stock `sshd` jail is fine to start.
-* Keep **AppArmor** enforcing; avoid random “disable apparmor” blog advice.
+* Keep **AppArmor** enforcing; avoid random “disable AppArmor” blog advice.
 
 **Optional but excellent**
 
-* **Tailscale** for admin: lock SSH to `tailscale0` only.
+* **TailScale** for admin: lock SSH to `tailscale0` only.
 * **Caddy** or **Nginx** as reverse proxy. If you’re not using Cloudflare Tunnel/Tailscale Funnel, let Caddy handle Let’s Encrypt automatically.
-* **Backups:** `restic` to Backblaze B2/Object Storage; test restores quarterly.
+* **Backups:** `restic` to BackBlaze B2/Object Storage; test restores quarterly.
 * **Monitoring:** `uptime-kuma` or just a remote `systemd` watchdog + `logwatch`.
 
 **IPv6**
@@ -169,7 +169,7 @@ If Telstra assigns IPv6, be sure your firewall has **matching v6 rules** (UFW ha
 
 * **A:** Order second service on UNI-D2; plug a small firewall (OPNsense box) → server. ([Telstra.com][4])
 * **B:** Introduce firewall, create VLANs, move server into DMZ; set strict rules.
-* **C:** Install **cloudflared** or **tailscale**; create the tunnel/funnel mapping. ([eddiez.me][5])
+* **C:** Install **cCloudFlare** or **TailScale**; create the tunnel/funnel mapping. ([eddiez.me][5])
 
 **Day 5–7: server hardening & smoke tests**
 
@@ -182,9 +182,9 @@ If Telstra assigns IPv6, be sure your firewall has **matching v6 rules** (UFW ha
 #### Quick answers to your initial concerns
 
 **“Does Telstra allow it?”** There’s no current Telstra doc forbidding self-hosting, and they actively document port-forwarding and sell a Static IP add-on for NBN—both are signs they expect inbound hosting use-cases.  
-**“Full separation from my other internet connections?”** The cleanest path is **a second service on another UNI-D port** (true physical separation). Logical isolation with VLAN/DMZ is also strong if done carefully.   **“What if CGNAT pops up?”** Use **Cloudflare Tunnel** or **Tailscale Funnel**—no inbound ports, public HTTPS, and you keep your home IP private.  
+**“Full separation from my other internet connections?”** The cleanest path is **a second service on another UNI-D port** (true physical separation). Logical isolation with VLAN/DMZ is also strong if done carefully.   **“What if CGNAT pops up?”** Use **Cloudflare Tunnel** or **TailScale Funnel**—no inbound ports, public HTTPS, and you keep your home IP private.  
 
-If you want, I can sketch a DMZ ruleset (OPNsense or plain `nftables`) and a minimal Caddy reverse-proxy config for Debian next.
+If you want, I can sketch a DMZ RuleSet (OPNsense or plain `nftables`) and a minimal Caddy reverse-proxy config for Debian next.
 
 <hr class="section-break strong" />
 
@@ -239,7 +239,7 @@ In this case, the 63x file held the key to which theme is used by GRUB. If none 
 - GRUB_FONT="/boot/grub/fonts/UbuntuMono32.pf2"
 - GRUB_THEME="/boot/grub/themes/creek/theme.txt"
  
-The second line will tell **update-grub** where to find the theme. Save your changes and nvoke:
+The second line will tell **update-grub** where to find the theme. Save your changes and invoke:
 
 ```bash
     sudo update-grub

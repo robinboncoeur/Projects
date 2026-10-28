@@ -1,6 +1,15 @@
 # Docker
 
-<img src="/assets/images/tech/Dfront.jpg" width="1000" align="center">
+[![Ing][Brb03]{ .artC width="1100" }][Brb03]
+
+<!-- vale off -->
+  
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## What You'll Need
 
@@ -82,7 +91,7 @@ Please note: *for the following examples, I'll use the name*:
 - And, used an alias for user name (*one more thing for a hacker to nut out*).  
 - And, used a reasonably solid password. Your box will be outward-facing, remember.
 
-**Outward-facing means NextCloud or another intended web service may be reachable from the internet. It does not mean SSH should be port-forwarded to the internet. For remote admin, prefer Tailscale or local-network SSH unless you know exactly why you are exposing port 22.**
+**Outward-facing means Nextcloud or another intended web service may be reachable from the internet. It does not mean SSH should be port-forwarded to the internet. For remote admin, prefer TailScale or local-network SSH unless you know exactly why you are exposing port 22.**
 
 ---
 

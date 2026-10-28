@@ -7,6 +7,9 @@
 
 
 
+
+
+
 ## Everyday Home Network Checklist
 
 [Thanks, Emily (ChatGPT)]
@@ -24,9 +27,7 @@
 
 ✅ Do this once, stays set.
 
-<hr class="section-break strong" />
-
-
+<hr class="section-break soft" />
 
 
 
@@ -38,10 +39,7 @@
   2. Give it a simple share name (no spaces, e.g. `SharedDocs`).
   3. Set **Permissions** → Everyone → Read (or Read/Write if needed).
 
-<hr class="section-break strong" />
-
-
-
+<hr class="section-break soft" />
 
 
 
@@ -61,9 +59,7 @@
 
   *(replace with Julias2025’s actual IP, found via `ipconfig`)*
 
-<hr class="section-break strong" />
-
-
+<hr class="section-break soft" />
 
 
 
@@ -78,9 +74,7 @@
 
 ➡️ Now it’ll appear as a normal drive every time you log in.
 
-<hr class="section-break strong" />
-
-
+<hr class="section-break soft" />
 
 
 
@@ -95,9 +89,7 @@
 * **If name lookup fails:** use the IP address.
 * **If still stubborn:** run `net use * /delete` in Command Prompt to flush connections.
 
-<hr class="section-break strong" />
-
-
+<hr class="section-break soft" />
 
 
 
@@ -181,7 +173,7 @@ With that done, now request a new IP address, with the same command as before:
 
 ### Resetting Network Settings
 
-Sometimes renewing the IP address isn’t enough, though. The next thing you can try is to reset your network interface entirely in the hope that whatever setting is causing the issue is returned to its default state. To do so, we’re going to use a program called ip. This is a very powerful tool that lets you control networking on your device. We have a full guide on using the ip command, though for now we only need three commands.
+Sometimes renewing the IP address isn’t enough, though. The next thing you can try is to reset your network interface entirely in the hope that whatever setting is causing the issue is returned to its default state. To do so, we’re going to use a program called IP. This is a very powerful tool that lets you control networking on your device. We have a full guide on using the IP command, though for now we only need three commands.
 
 The first is to show the interfaces present on your device. For that, type this:
 
