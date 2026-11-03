@@ -67,7 +67,8 @@ nav:
 
   - RCAS:
       - rcas/index.md
-      - Current Projects 01: rcas/Curr-Proj01.md
+      - Projects v11: rcas/Curr-Proj01.md
+      - Projects v15: rcas/TechRefv15.md
       - Docs v1b: rcas/BookingDoc.md
       - Exit Str: rcas/exitStrategy.md
       - Portal: rcas/Portal.md
