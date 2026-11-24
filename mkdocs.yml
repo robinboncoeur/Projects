@@ -69,6 +69,7 @@ nav:
       - rcas/index.md
       - v1.1 Technical Reference: rcas/Curr-Proj01.md
       - v1.5 Technical Reference: rcas/v15TechRef.md
+      - v1.5 TechReference-html: rcas/v15TR-html.md
       - v1.5 Quick Reference Guide: rcas/v15CheatSht.md
       - v1.1b Technical Reference: rcas/BookingDoc.md
       - Exit Str: rcas/exitStrategy.md
@@ -99,6 +100,7 @@ nav:
       - Code Base 1.55: rcas/Codev01ee.md
       - Code Base 1.56: rcas/Codev01ef.md
       - Code Base 1.5a: rcas/Codev01eg.md
+      - Code Base 1.5b: rcas/Codev01eh.md
       - Feature Requests: rcas/FeatureReq.md
       - Test Checklist: rcas/testChecklist.md
 
