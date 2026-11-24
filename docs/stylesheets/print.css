@@ -138,28 +138,53 @@ pre code {
 }
 
 
+/* Asset Register */
+
+.asset-register table {
+    table-layout: fixed;
+}
+.asset-register col:nth-child(1) {
+    width: 25% !important;
+}
+.asset-register col:nth-child(2) {
+    width: 35% !important;
+}
+.asset-register col:nth-child(3) {
+    width: 40% !important;
+}
+.asset-register th:nth-child(1) {
+    width: 25%;
+}
+.asset-register th:nth-child(2) {
+    width: 35%;
+}
+.asset-register th:nth-child(3) {
+    width: 40%;
+}
+
+
 /* File Register */
 
 .file-register table {
     table-layout: fixed;
 }
 .file-register col:nth-child(1) {
-    width: 10% !important;
+    width: 20% !important;
 }
 .file-register col:nth-child(2) {
     width: 25% !important;
 }
 .file-register col:nth-child(3) {
-    width: 65% !important;
+    width: 55% !important;
 }
 .file-register th:nth-child(1) {
-    width: 10%;
+    width: 20%;
 }
 .file-register th:nth-child(2) {
     width: 25%;
 }
 .file-register th:nth-child(3) {
-    width: 65%;
+    width: 55%;
 }
 
 

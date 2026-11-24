@@ -20,7 +20,9 @@
 **Confirmed** means evidenced by supplied screenshots, workbook inventory, or operational description.   
 **Source-derived** means evidenced by the supplied [`Codev01eh.md`](https://projects.tightbytes.com/rcas/Codev01eh/) source snapshot.   
 **Verify** identifies a detail not established by those materials.   
-**Recommendation** is advice, not a change made to the live application. The supplied source document bears a `[TEST]` heading and 27 October 2026 update note, whereas the production project screenshot shows creation on 2 November 2026. Therefore, its correspondence to the exact numbered production deployment has **not** been independently established. Treat this as a detailed description of the supplied v1.5 source, with production configuration separately verified.
+**Recommendation** is advice, not a change made to the live application. 
+
+The supplied source document bears a `[LIVE]` heading and 24 November 2026 update note.
 
 
 
@@ -31,28 +33,16 @@
 
 ## 1. Executive overview
 
-The RCAS Booking App provides a web-based booking form for tutors and event planners. It was developed in th Google Apps Script component in Google Sheets. The scripts is deployed as a link similar to this:
+The RCAS Booking App provides a web-based booking form for tutors and event planners. It was developed in the Google Apps Script component in Google Sheets. The scripts are deployed as a link, similar to this:
 
 ```text
-https://script.google.com/macros/s/ABCDEFGHIJKLMNOPQRRSTUVVWXYZabcdefghijklmnopqrstuvwxyz01234556-xxxxxxxxxxx/exec
+https://script.google.com/macros/s/ABCDEFGHIJKLMNOPQRRSTUVVWXYZabcdefghijklmnopqrstuvwxyz01234556-xxxxxx/exec
 ```
-The link is embedded in an RCAS SquareSpace page, served by Google Apps Script, and backed by a Google Sheets workbook and a dedicated Google Calendar. The script can also be run directly in the browser. Its functions include recording booking requests, checking RCAS room availability, creating calendar events for approved bookings, and supporting administrative cancellations. The workbook provides tutor and billing-related reporting.
+This link is embedded in an RCAS SquareSpace page, served by Google Apps Script, and backed by a Google Sheets workbook and a dedicated Google Calendar. The script can also be run directly in the browser by inserting that URL into the URL field. Its functions include recording booking requests, checking RCAS room availability, creating calendar events for approved bookings, and supporting administrative cancellations. The workbook provides tutor and billing-related reporting.
 
 **System of record:** Google Sheets (`WebForm_Submissions`).   
 
 **Scheduling representation:** Google Calendar (`Tutors Bookings - LIVE`). Synchronisation is **operation-specific and one-way**, not continuous or bidirectional. For this reason, *administrators* **must not** *directly edit or delete calendar events*. Changes to dates, times or venues in the workbook do not automatically update calendar events.
-
-**Approved procedure for changing an existing booking:**
-
-1. Locate the original booking in the `WebForm_Submissions` worksheet.
-2. Change its Status from `Approved` to `Cancelled`.
-3. Verify that the associated event has been removed from the Google Calendar by the automated cancellation process.
-4. Submit a new booking through the Booking Request form, incorporating the revised details.
-5. Verify that the replacement booking has been processed correctly and that the calendar reflects the new arrangements.
-
-This procedure ensures that the replacement booking undergoes the application's normal validation and conflict-checking processes, whilst preserving the original booking record for administrative and audit purposes.
-
-Direct modification of existing booking records is not a supported mechanism for rescheduling events.
 
 **Operational responsibilities (confirmed):** Currently, Julia Hahn — acting president, RCAS Inc — is presently the sheet administrator and processes cancellation requests; Sue Mazur currently prepares tutor billing, reportedly using Xero. The Booking App does **not** integrate with Xero or determine tutor pay rates. The intended scope is to provide accurate approved-session and hour information, not to operate an accounting system.
 
@@ -115,11 +105,13 @@ WebForm_Submissions -> Tutor_Summary / Tutor_Billing_Detail
 
 
 
-
+<div class="page-break"></div>
 
 
 
 ## 2. Asset and deployment register
+
+::: {.asset-register}
 
 | Asset | Verified details | Maintenance significance |
 |-------|------------------|--------------------------|
@@ -138,13 +130,20 @@ WebForm_Submissions -> Tutor_Summary / Tutor_Billing_Detail
 | Numeric source version | **1.5** | Displayed on booking form |
 | SquareSpace page URL | [RCAS Tutor Booking Platform](https://wrasse-collie-jw8f.squarespace.com/tutor-booking-platform) | Website integration completed |
 
+:::
+
 **Important deployment distinction.** The web app executes a selected, immutable numbered source version; the installed spreadsheet edit trigger executes `Head` (the current editor source). Saving code without updating the web deployment can therefore change cancellation behaviour without changing the booking form, or vice versa. Maintain and test both paths when making changes.
 
 **Do not archive other active deployments** until all consumers and links have been identified. Four active deployment descriptions were visible in the supplied screenshot. The production deployment is the one whose `/exec` URL matches SquareSpace.
 
-
-
 <!-- secret number: fb9defee74020745b9fe88a22a9f95429d6499037d116a29f151616c912a6683 -->
+
+
+
+
+
+<div class="page-break"></div>
+
 
 
 
@@ -165,7 +164,7 @@ The following describes the supplied source snapshot, not a fresh export of the 
 
 :::
 
-<div class="page-break"></div>
+
 
 ### 3.1 Function-by-function reference
 
@@ -187,6 +186,11 @@ The following describes the supplied source snapshot, not a fresh export of the 
 - `updateTutorWebsite`: updates the associated tutor web link when available.
 - DOM form submission handler: validates mandatory inputs, past dates and half-hour increments; switches to review stage rather than immediately writing a booking.
 - Confirm handler: calls `google.script.run.submitBooking(currentBooking)`, resets the form on success, and shows errors on failure. **Source-derived concern:** the success handler always displays `response.message` with a success style (green text), even when `response.status` is `Rejected` due to a room conflict.
+
+
+
+<div class="page-break"></div>
+
 
 **`SheetFunct.gs`**
 
@@ -217,15 +221,20 @@ The following describes the supplied source snapshot, not a fresh export of the 
 - `findTutorById_`: resolves the submitted tutor ID against the active tutor list; returns the matching tutor or `null`.
 
 
-**`WorkbookInventory.gs`**
 
-- **Purpose**
+<div class="page-break"></div>
+
+
+## `WorkbookInventory.gs`
+
+### Purpose
 
 Provides a diagnostic and documentation utility that generates a structured inventory of the active Google Sheets workbook. It is intended to assist with technical maintenance, structural auditing, troubleshooting and future application development.
 
 This utility is independent of the normal booking and cancellation workflows and is not required for routine application operation.
 
-- **Function** `inventoryWorkbook()`
+
+### Function: `inventoryWorkbook()`
 
 The function examines the active workbook and generates a JSON document describing its structure and selected configuration details.
 
@@ -240,7 +249,7 @@ The function examines the active workbook and generates a JSON document describi
 | Data validation | Distinct validation criteria types identified within the sampled rows |
 | Protections | Description and type of worksheet and range protections |
 
-- **Execution**
+### Execution
 
 The function is intended to be executed manually from the Apps Script editor.
 
@@ -251,7 +260,7 @@ The function is intended to be executed manually from the Apps Script editor.
 5. Authorise the required Google permissions if prompted.
 6. Examine the execution log for the URL of the generated inventory file.
 
-- **Output**
+### Output
 
 The function creates the following file in Google Drive:
 
@@ -259,15 +268,12 @@ The function creates the following file in Google Drive:
 
 The file contains formatted JSON with two-space indentation and is saved using the `PLAIN_TEXT` MIME type. Each execution creates a new file. Existing inventory files are not overwritten.
 
-- **Operational impact**
+### Operational impact
 
 The function reads workbook structure and configuration information without modifying worksheet contents, formulas, validation rules or protections. It does not interact with Google Calendar, submit bookings, process cancellations or modify application triggers. Its only persistent write operation is the creation of the inventory file in Google Drive.
 
-<div class="page-break"></div>
 
-
-
-- **Limitations**
+### Limitations
 
 The known limitations of this script are:
 
@@ -280,7 +286,7 @@ The known limitations of this script are:
 7. Reported row and column counts represent the last occupied row and column, rather than the total allocated worksheet dimensions.
 8. The output filename contains a hard-coded version number and is not automatically synchronised with the application version.
 
-- **Maintenance and security considerations**
+### Maintenance and security considerations
 
 The generated inventory is a structural snapshot of the workbook at the time of execution. It is not a complete workbook backup, restoration mechanism or verification of application correctness.
 
@@ -290,7 +296,7 @@ It is recommended that a fresh inventory be generated before and after any signi
 
 
 
-
+<div class="page-break"></div>
 
 
 
@@ -330,6 +336,19 @@ A Studio/Gallery overlap with a calendar event whose `Location` normalises to th
 - The lock reduces overlapping submissions but does not make the two external systems atomic.
 
 **Administrative rule:** Never assume that an error displayed to the tutor means no row or calendar event exists. Inspect the workbook and calendar before resubmitting.
+
+
+### 4.4 How To Change an Existing Booking
+
+1. Locate the original booking in the `WebForm_Submissions` worksheet.
+2. Change its Status from `Approved` to `Cancelled`.
+3. Verify that the associated event has been removed from the Google Calendar by the automated cancellation process.
+4. Submit a new booking through the Booking Request form, incorporating the revised details.
+5. Verify that the replacement booking has been processed correctly and that the calendar reflects the new arrangements.
+
+This procedure ensures that the replacement booking undergoes the application's normal validation and conflict-checking processes, whilst preserving the original booking record for administrative and audit purposes.
+
+Note: *Direct modification of existing booking records is not a supported mechanism for rescheduling events.*
 
 
 
@@ -425,6 +444,8 @@ S2: =IF(OR($Q2="",$R2=""),"",$Q2*$R2)
 The application installs analogous formulas in newly submitted rows. Billing hours are tied to the status `Approved`. Entering an hourly rate is an administrative decision and is outside the web form.
 
 
+<div class="page-break"></div>
+
 
 
 ### 6.2 `Tutors`
@@ -495,9 +516,6 @@ A conspicuous warning was added to the worksheet advising administrators not to 
 
 
 
-<div class="page-break"></div>
-
-
 
 ## 7. Google Calendar integration
 
@@ -515,6 +533,11 @@ A conspicuous warning was added to the worksheet advising administrators not to 
 | Calendar ID | Matches `CONFIG.CALENDAR_ID` in supplied source |
 
 Calendar description explicitly directs staff **not** to add, edit, move or delete events directly: all bookings should be managed through the Booking App so the spreadsheet and calendar remain consistent. The source includes tutor name and email in calendar event descriptions. These details are hidden from general public free/busy viewers but remain visible to authorised calendar users with sufficient access.
+
+
+
+
+<div class="page-break"></div>
 
 
 
@@ -661,7 +684,7 @@ If the form fails, inspect the Apps Script execution record, workbook, calendar 
 
 
 
-
+<div class="page-break"></div>
 
 
 ## 11. Troubleshooting guide

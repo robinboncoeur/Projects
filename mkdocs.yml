@@ -69,7 +69,6 @@ nav:
   - RCAS:
       - rcas/index.md
       - v1.1 Technical Reference: rcas/Curr-Proj01.md
-      - v1.5 Technical Reference: rcas/v15TechRef.md
       - v1.5 TechReference-html: rcas/v15TR-html.md
       - v1.5 Quick Reference Guide: rcas/v15CheatSht.md
       - v1.1b Technical Reference: rcas/BookingDoc.md
