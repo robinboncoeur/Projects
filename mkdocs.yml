@@ -91,9 +91,14 @@ nav:
       - Code Base 1.4a: rcas/Codev01da.md
       - Code Base 1.4b: rcas/Codev01db.md
       - Code Base 1.4: rcas/Codev01dc.md
-      - Code Base 1.5a: rcas/Codev01ea.md
-      - Code Base 1.5a: rcas/Codev01eb.md
-      - Code Base 1.5a: rcas/Codev01ec.md
+      - Code Base 1.50: rcas/Codev01ea.md
+      - Code Base 1.51: rcas/Codev01eb.md
+      - Code Base 1.52: rcas/Codev01ec.md
+      - Code Base 1.53: rcas/Codev01dd.md
+      - Code Base 1.54: rcas/Codev01ed.md
+      - Code Base 1.55: rcas/Codev01ee.md
+      - Code Base 1.56: rcas/Codev01ef.md
+      - Code Base 1.5a: rcas/Codev01eg.md
       - Feature Requests: rcas/FeatureReq.md
       - Test Checklist: rcas/testChecklist.md
 
