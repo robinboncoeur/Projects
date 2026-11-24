@@ -169,22 +169,22 @@ pre code {
     table-layout: fixed;
 }
 .file-register col:nth-child(1) {
-    width: 20% !important;
+    width: 22% !important;
 }
 .file-register col:nth-child(2) {
     width: 25% !important;
 }
 .file-register col:nth-child(3) {
-    width: 55% !important;
+    width: 53% !important;
 }
 .file-register th:nth-child(1) {
-    width: 20%;
+    width: 22%;
 }
 .file-register th:nth-child(2) {
     width: 25%;
 }
 .file-register th:nth-child(3) {
-    width: 55%;
+    width: 53%;
 }
 
 

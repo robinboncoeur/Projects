@@ -44,9 +44,9 @@ This link is embedded in an RCAS SquareSpace page, served by Google Apps Script,
 
 **Scheduling representation:** Google Calendar (`Tutors Bookings - LIVE`). Synchronisation is **operation-specific and one-way**, not continuous or bidirectional. For this reason, *administrators* **must not** *directly edit or delete calendar events*. Changes to dates, times or venues in the workbook do not automatically update calendar events.
 
-**Operational responsibilities (confirmed):** Currently, Julia Hahn — acting president, RCAS Inc — is presently the sheet administrator and processes cancellation requests; Sue Mazur currently prepares tutor billing, reportedly using Xero. The Booking App does **not** integrate with Xero or determine tutor pay rates. The intended scope is to provide accurate approved-session and hour information, not to operate an accounting system.
+**Operational responsibilities (confirmed):** Currently, Julia Hahn — acting president, RCAS Inc — is the sheet administrator and processes cancellation requests; Sue Mazur currently prepares tutor billing, reportedly using Xero. The Booking App does **not** integrate with Xero or determine tutor pay rates. The intended scope is to provide accurate approved-session and hour information, not to operate an accounting system.
 
-
+The supported procedure for changing an existing booking is to cancel the original booking and submit a replacement through the Booking Request form. See Section 4.4.
 
 <div class="page-break"></div>
 
@@ -124,10 +124,11 @@ WebForm_Submissions -> Tutor_Summary / Tutor_Billing_Detail
 | Embedded URL | [Booking Request Form](https://script.google.com/macros/s/AKfycbx_MFzNFF2y9JpRs05tkSVn1H2nxhMzxzKOo0wqh7d5P2blFgpbNPVuF-EA3h8lZXB1Mg/exec) | Must match production deployment |
 | Iframe | width `100%`, height `1000`, border `0`, lazy loading; title `RCAS Tutor Booking Portal` | Website integration |
 | Calendar | `Tutors Bookings - LIVE` | Calendar ID recorded in `CONFIG.CALENDAR_ID` |
-| Calendar ID | `secretnumber@group.calendar.google.com` | Must be accessible to RCAS execution identity |
+| Calendar ID | `{secretnumber} @group.calendar.google.com` | Must be accessible to RCAS execution identity |
 | Timezone | Australia/Brisbane / UTC+10 | Date/time handling and reports |
 | Spreadsheet edit trigger | `onApprovalEdit`; from spreadsheet; on edit; deployment `Head`; failure notifications daily | Cancellation workflow; separate from versioned web deployment |
-| Numeric source version | **1.5** | Displayed on booking form |
+| Application release | **1.5b** | Current application release |
+| Numbered Apps Script deployment version | Not recorded | To be captured by the technical administrator |
 | SquareSpace page URL | [RCAS Tutor Booking Platform](https://wrasse-collie-jw8f.squarespace.com/tutor-booking-platform) | Website integration completed |
 
 :::
@@ -136,7 +137,6 @@ WebForm_Submissions -> Tutor_Summary / Tutor_Billing_Detail
 
 **Do not archive other active deployments** until all consumers and links have been identified. Four active deployment descriptions were visible in the supplied screenshot. The production deployment is the one whose `/exec` URL matches SquareSpace.
 
-<!-- secret number: fb9defee74020745b9fe88a22a9f95429d6499037d116a29f151616c912a6683 -->
 
 
 
@@ -161,6 +161,7 @@ The following describes the supplied source snapshot, not a fresh export of the 
 | `SheetFunct.gs`   | Configuration; installed edit trigger; cancellation; calendar access; logging; sheet helpers | `onApprovalEdit`, `handleStatusEdit_`, `processCancellationRow_`, `normalizeRoom_`, `removeLiveCalendarEvent_`, `getHeaders_`, `valueByHeader_`, `trim_`, `getTargetCalendar_`, `logAction_`, `combineDateAndTime_`, `testDuplicateApproval` |
 | `BookingLogic.gs` | Booking evaluation, room-conflict checks, event creation | `evaluateBooking_`, `findRoomConflict_`, `createCalendarEvent_`, `buildConflictNote_` |
 | `Tutors.gs`       | Tutor directory and lookup | `getTutors`, `findTutorById_` |
+| `WorkbookInventory.gs` | An independent diagnostic utility | generate inventory of Google Sheets workbook | 
 
 :::
 
@@ -225,7 +226,7 @@ The following describes the supplied source snapshot, not a fresh export of the 
 <div class="page-break"></div>
 
 
-## `WorkbookInventory.gs`
+## 3.2 `WorkbookInventory.gs`
 
 ### Purpose
 
@@ -338,17 +339,18 @@ A Studio/Gallery overlap with a calendar event whose `Location` normalises to th
 **Administrative rule:** Never assume that an error displayed to the tutor means no row or calendar event exists. Inspect the workbook and calendar before resubmitting.
 
 
-### 4.4 How To Change an Existing Booking
+### 4.4 Changing an Existing Booking
 
-1. Locate the original booking in the `WebForm_Submissions` worksheet.
-2. Change its Status from `Approved` to `Cancelled`.
-3. Verify that the associated event has been removed from the Google Calendar by the automated cancellation process.
-4. Submit a new booking through the Booking Request form, incorporating the revised details.
-5. Verify that the replacement booking has been processed correctly and that the calendar reflects the new arrangements.
+1. The tutor or event planner requests cancellation of the original booking through the sheet administrator.
+2. The sheet administrator locates the original booking in the `WebForm_Submissions` worksheet.
+3. The sheet administrator changes its Status from `Approved` to `Cancelled` and verifies that the associated calendar event has been removed by the automated cancellation process.
+4. Once cancellation has been confirmed, the tutor or event planner submits a new booking through the Booking Request form, incorporating the revised details.
+5. The replacement booking is checked to ensure it has been processed correctly and that the calendar reflects the new arrangements.
 
 This procedure ensures that the replacement booking undergoes the application's normal validation and conflict-checking processes, whilst preserving the original booking record for administrative and audit purposes.
 
-Note: *Direct modification of existing booking records is not a supported mechanism for rescheduling events.*
+**Direct modification of existing booking records is not a supported mechanism for rescheduling events.**
+
 
 
 
@@ -477,7 +479,7 @@ The inventory shows a reporting month formula in `B1` (`=DATE(2026,11,1)`), date
           WebForm_Submissions!N:N, "Cancelled")
 ```
 
-The user confirmed there were no actual cancellations to test at the time. A synthetic or future real cancellation test remains pending. **Verify:** The date bounds in `C1`/`C2` represent the intended period and the approved and cancelled counts use the same period conventions. The snapshot showed the original (pre-correction) formula, so do not treat it as the current cancellation formula.
+The developer has confirmed there were no actual cancellations to test at the time. A synthetic or future real cancellation test remains pending. **Verify:** The date bounds in `C1`/`C2` represent the intended period and the approved and cancelled counts use the same period conventions. The snapshot showed the original (pre-correction) formula, so do not treat it as the current cancellation formula.
 
 
 
@@ -562,7 +564,7 @@ For approved requests, `createCalendarEvent_` writes title `Course Name (Locatio
 
 **Mistaken booking correction**
 
-Recommended operational procedure for current v1.5: cancel the incorrect approved booking, verify its calendar event was removed, then submit a new correct booking through the form. Do **not** simply edit the date, time, room or tutor in the spreadsheet and assume Google Calendar will update. Note: *It is important to keep in mind the flow of information is one way*: from the booking form to the workbook, and then, from the workbook to the calendar. Whilst it is *possible* to edit calendar events directly, the changes to the calendar do not flow back to the workbook. This can adversely affect workbook data accuracy.
+The supported operational procedure for v1.5b is documented in Section 4.4.
 
 
 
@@ -582,7 +584,7 @@ Recommended operational procedure for current v1.5: cancel the incorrect approve
 - **Sue Mazur:** Workbook editor; calendar sharing/management; currently handles billing. Also created the `online.` RCAS account, whose exact operational purpose is not documented.
 - **Julia Hahn:** Workbook editor; calendar sharing/management; currently processes booking cancellations and other sheet administration.
 - **`online.` RCAS account:** Retained editor; purpose to be confirmed with Sue Mazur.
-- **`t.` RCAS account:** User reports it was removed from sharing.
+- **`t.` RCAS account:** Developer confirms it was removed from sharing.
 - **Technical administrator after handover:** **To be nominated by RCAS**.
 
 
@@ -621,7 +623,7 @@ Open the published booking portal; select the tutor; enter course/session detail
  
 ### 9.2 Cancel an event
 
-Find the correct booking by tutor/date/course; confirm it is Approved; change N to Cancelled; optionally record the reason in M; check P and that O is cleared; verify calendar event removal; notify relevant people as needed. Do not use bulk paste or manually delete the calendar event. If P shows an error or event remains, escalate before further edits.
+Find the correct booking by tutor/date/course; confirm it is Approved; change N to Cancelled; optionally record the reason in M; check P and that O is cleared; verify calendar event removal; notify relevant people as needed. Do not use bulk paste or manually delete the calendar event. If P shows an error or event remains, escalate before further edits. See Section 4.4 for details on changing a booking.
 
 
 
@@ -728,7 +730,7 @@ This is a **documentation audit**, not a claim that these issues have been repro
 | A08 | Low | `Tutor_Billing_Detail!A3` unprotected | Inventory shows no protections; visual warning added | Optional protection on request |
 | A09 | Medium | Manual calculations adjacent to dynamic QUERY may misalign | Rows may reorder or expand | Warn users; validate billing exports |
 | A10 | Medium | Corrected cancellation formula lacks nonzero real-world verification | User corrected and copied down; no cancellations yet | Controlled test or first real cancellation review |
-| A11 | Medium | Production numeric version not captured; supplied source marked TEST | Screenshots + source heading | Export exact deployed version before declaring documentation final |
+| A11 | Medium | Exact numbered production deployment not independently reconciled with the v1.5b source snapshot | Deployment configuration and source register | Capture and reconcile the exact deployed source as part of ongoing RCAS technical maintenance |
 | A12 | Low | Four active deployment descriptions observed | Deployment screenshot | Identify consumers before archiving |
 | A13 | Medium | No notification guarantees for cancellations | Calendar notification settings None; code removes event only | Administrator must communicate cancellation |
 | A14 | Medium | Event description stores tutor name/email | `createCalendarEvent_`; calendar public free/busy only | Maintain privacy settings and editor discipline |
@@ -760,8 +762,8 @@ Use a **test workbook and test calendar** whenever an action creates or deletes 
 
 ::: {.test-matrix}
 
-| Test | Expected outcome | Evidence status at draft |
-|------|------------------|--------------------------|
+| Test | Expected outcome | Evidence status at handover |
+|------|------------------|-----------------------------|
 | Public portal opens in non-Google browser | Form loads without spreadsheet permission | Access configuration verified; re-test after permission changes recommended |
 | Active tutor appears; inactive tutor absent | Dropdown follows Tutors Active field | Source-derived; formal test not supplied |
 | Valid future Studio/Gallery booking | Row Approved, event created, event ID stored | User reports live use; no complete test record supplied |
@@ -794,14 +796,16 @@ Use a **test workbook and test calendar** whenever an action creates or deletes 
 - [x] Julia Hahn's administrative cancellation procedure documented.
 - [x] Sue Mazur's billing responsibility and absence of Xero integration documented.
 - [x] `Tutor_Billing_Detail!A3` warning added (cell protection not requested).
+
+### Outstanding items for RCAS following handover
+
+The following items are recorded for consideration and action by RCAS as part of its ongoing operational and technical responsibilities. They do not constitute outstanding development commitments by the original developer.
+
 - [_] Capture the numeric Apps Script version and export the exact production source.
 - [_] Nominate RCAS technical administrator and account recovery custodian.
-- [_] Confirm purpose of the `online.` RCAS editor account with Sue.
-- [_] Verify individual sharing of older v1.4/copy workbooks as appropriate.
-- [_] Perform a controlled cancellation test and verify calendar deletion.
+- [_] Confirm purpose of the `online.` RCAS editor account with Sue Mazur.
 - [_] Verify corrected summary cancellation count against nonzero test data.
 - [_] Record an agreed process for monitoring failed executions and responding to incidents.
-- [_] Confirm final SquareSpace calendar display arrangement.
 - [_] Obtain administrative acceptance of handover and record any unresolved limitations.
 
 
@@ -813,13 +817,12 @@ Use a **test workbook and test calendar** whenever an action creates or deletes 
 
 ## 15. Future enhancements — explicitly outside v1.5
 
-* tutor self-service booking history and cancellation;   
 * protected report-formula cells;  
 * status-sensitive client messaging;   
 * robust partial-failure reconciliation;   
 * stable tutor-ID-based billing summaries;   
-* safer billing exports;   
 * stronger change audit and notification workflow  
+* tutor self-service booking history and cancellation;   
 
 Each would require separate requirements, approval, development and testing. These are ideas, **not commitments**.
 
@@ -832,7 +835,7 @@ Each would require separate requirements, approval, development and testing. The
 
 ```javascript
 CONFIG.CALENDAR_MODE = 'id'
-CONFIG.CALENDAR_ID = 'fb9defee74020745b9fe88a22a9f95429d6499037d116a29f151616c912a6683@group.calendar.google.com'
+CONFIG.CALENDAR_ID = 'Can be found at the top of the constants declaration set on the SheetFunct.gs App Script' 
 CONFIG.SHEET_NAME = 'WebForm_Submissions'
 CONFIG.TUTORS_SHEET_NAME = 'Tutors'
 CONFIG.ROOM_VALUES = ['Studio', 'Gallery']
@@ -844,12 +847,8 @@ CONFIG.STATUS_VALUES = { APPROVED: 'Approved', REJECTED: 'Rejected', CANCELLED: 
 * Only the approved workflow creates calendar events;   
 * Calendar Event ID must be recorded before Approved status;   
 * only manual Approved→Cancelled Status changes trigger the current cancellation path;   
-* do not directly edit calendar events;   
 * do not delete `Tutor_Billing_Detail!A3`;   
 * preserve source headers and report formulas
-
-
-
 
 
 
@@ -869,6 +868,8 @@ CONFIG.STATUS_VALUES = { APPROVED: 'Approved', REJECTED: 'Rejected', CANCELLED: 
 
 ## Appendix C. Development Closure and Ongoing Maintenance
 
-Development of the application is formally concluded with the release of version 1.5b. Any subsequent requests for enhancements, amendments or defect remediation are to be managed as separate maintenance or development activities, subject to appropriate assessment, development, testing and deployment procedures. Responsibility for ongoing application maintenance, operational oversight, testing and future modifications rests with Redland Coast Art Society Inc following handover. The final wording amendment incorporated into version 1.5b was implemented at the request of the Treasurer. No subsequent regression testing has been undertaken.
+Development of the application is formally concluded with the release of version 1.5b. Any subsequent requests for enhancements, amendments or defect remediation are to be managed as separate maintenance or development activities, subject to appropriate assessment, development, testing and deployment procedures. Responsibility for ongoing application maintenance, operational oversight, testing and future modifications rests with Redland Coast Art Society Inc following handover. The final wording amendment incorporated into version 1.5b was implemented at the request of the Treasurer. 
+
+The final wording amendment incorporated into version 1.5b was implemented at the request of the Treasurer. The tutor webpage link label in the calendar event description was changed from “Tutor Webpage:” to “Click below for booking details & more info”. No subsequent regression testing has been undertaken.
 
 *Prepared as a technical handover for Redland Coast Art Society Inc. No production code, spreadsheet data or Google Calendar events were modified in preparing this document.*
