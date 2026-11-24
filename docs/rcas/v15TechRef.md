@@ -1,11 +1,13 @@
 # RCAS Booking App v1.5 
 
+<!-- vale off -->
+
 <hr class="section-break strong" />
 
 
 [![Logo][AS01]{ .artR width="140" }][AS01]
 
-**Technical Reference and Handover**
+## Technical Reference and Handover
 
 **Redland Coast Art Society Inc**  
 **Document version:** Draft 1.0 · 3 November 2026  
@@ -16,7 +18,7 @@
 **Reading this document.** 
 
 **Confirmed** means evidenced by supplied screenshots, workbook inventory, or operational description.   
-**Source-derived** means evidenced by the supplied `Codev01ef.md` source snapshot.   
+**Source-derived** means evidenced by the supplied [`Codev01ef.md`](https://projects.tightbytes.com/rcas/Codev01ef/) source snapshot.   
 **Verify** identifies a detail not established by those materials.   
 **Recommendation** is advice, not a change made to the live application. The supplied source document bears a `[TEST]` heading and 27 October 2026 update note, whereas the production project screenshot shows creation on 2 November 2026. Therefore, its correspondence to the exact numbered production deployment has **not** been independently established. Treat this as a detailed description of the supplied v1.5 source, with production configuration separately verified.
 
@@ -700,7 +702,7 @@ CONFIG.STATUS_VALUES = { APPROVED: 'Approved', REJECTED: 'Rejected', CANCELLED: 
 
 ## Appendix B. Source and evidence register
 
-1. [`Codev01ef.md`](): supplied five-file Apps Script source snapshot, headed `Booking App v1.5 [TEST]`, update 27 October 2026. This is the basis for function-level descriptions; correspondence to the numbered production version remains unverified.
+1. [`Codev01ef.md`](https://projects.tightbytes.com/rcas/Codev01ef/): supplied five-file Apps Script source snapshot, headed `Booking App v1.5 [TEST]`, update 27 October 2026. This is the basis for function-level descriptions; correspondence to the numbered production version remains unverified.
 2. `Workbook_Structure_v1.5.txt`: full JSON-formatted inventory of workbook, sheets, columns, sample formulas, validations and protections. Captured before the subsequent correction to the cancellation formula.
 3. Screenshots provided 3 November 2026: production deployment and matching SquareSpace iframe; Apps Script project owner; Drive folder and workbook sharing; monthly billing detail and A3 warning; Google Calendar settings, sharing and public free/busy permissions.
 4. Administrator's statements: Julia Hahn's form usability feedback; cancellation workflow; Sue Mazur's billing responsibility and Xero use; corrected cancellation formula; removal of `t.` editor; retention of `online.`; future enhancements not committed.
@@ -718,5 +720,3 @@ CONFIG.STATUS_VALUES = { APPROVED: 'Approved', REJECTED: 'Rejected', CANCELLED: 
 
 
 [AS01]: ../assets/images/rcas/RcasIncLogo.png
-[St00]: ../assets/images/base/00Writer.jpg
-[St09]: ../assets/images/base/09aParis.jpg
