@@ -20,7 +20,7 @@ https://script.google.com/macros/s/AKfycbyE-1EF2hcLs3_EeY-7o-PmYof_Duz5BwYQIYIC0
 
 * Replaced current wording: "Tutor Webpage:" with: "Click below for booking details & more info".  
 * Tutor website links added. Header-based submission/accounting fields retained.   
-* Web app deployed for external tutor testing and embedded in password-protected RCAS Tutor Booking Platform.
+* Web app deployed for external tutor use and embedded in password-protected RCAS Tutor Booking Platform.
 
 <hr class="section-break strong" />
 
