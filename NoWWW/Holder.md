@@ -7,6 +7,12 @@
 /**
  * One-calendar, two-room booking workflow
  */
+ 
+ <iframe src="https://calendar.google.com/calendar/embed?src=fb9defee74020745b9fe88a22a9f95429d6499037d116a29f151616c912a6683%40group.calendar.google.com&ctz=Australia%2FBrisbane" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+ 
+ Fixed:
+ 
+ <iframe src="https://calendar.google.com/calendar/embed?src=fb9defee74020745b9fe88a22a9f95429d6499037d116a29f151616c912a6683%40group.calendar.google.com&ctz=Australia%2FBrisbane" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 const CONFIG = {
   CALENDAR_MODE: 'id', // 'default' or 'id'
@@ -1288,3 +1294,19 @@ const CONFIG = {
 122/74 67   
 118/72 64   
 114/71 63
+
+
+
+
+
+
+## More Details Link
+
+That's part of Google Calendar's own interface, not something your RCAS booking application has added.
+When someone views a calendar event through the embedded Google Calendar, Google provides controls such as:
+- More details — opens the event in the full Google Calendar interface.
+- Copy to my calendar — lets a visitor add the event to their own calendar.
+Unfortunately, Google doesn't provide a supported setting to remove those individual controls from the embedded calendar's event popup. The iframe URL can control things such as the calendar's title, navigation buttons, tabs and display mode, but not those particular links.
+Does this compromise the read-only requirement?
+No.
+The More details link does not grant editing permission. Nor does Copy to my calendar modify the RCAS calendar; it creates a separate copy in the visitor's own calendar.

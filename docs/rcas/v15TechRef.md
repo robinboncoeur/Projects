@@ -1,5 +1,10 @@
 # RCAS Booking App v1.5 
 
+<hr class="section-break strong" />
+
+
+[![Logo][AS01]{ .artR width="240" }][AS01]
+
 **Technical Reference and Handover**
 
 **Redland Coast Art Society Inc**  
@@ -8,6 +13,13 @@
 **Status:** Documentation draft for administrative and technical review; not a certification of defect-free operation.
 
 > **Reading this document.** **Confirmed** means evidenced by supplied screenshots, workbook inventory, or operational description. **Source-derived** means evidenced by the supplied `Codev01ef.md` source snapshot. **Verify** identifies a detail not established by those materials. **Recommendation** is advice, not a change made to the live application. The supplied source document bears a `[TEST]` heading and 27 October 2026 update note, whereas the production project screenshot shows creation on 2 November 2026. Therefore, its correspondence to the exact numbered production deployment has **not** been independently established. Treat this as a detailed description of the supplied v1.5 source, with production configuration separately verified.
+
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## 1. Executive overview
 
@@ -65,6 +77,13 @@ WebForm_Submissions -> Tutor_Summary / Tutor_Billing_Detail
                     Sue's billing workflow (outside application)
 ```
 
+<hr class="section-break strong" />
+
+
+
+
+
+
 ## 2. Asset and deployment register
 
 | Asset | Verified details | Maintenance significance |
@@ -87,6 +106,13 @@ WebForm_Submissions -> Tutor_Summary / Tutor_Billing_Detail
 **Important deployment distinction.** The web app executes a selected, immutable numbered source version; the installed spreadsheet edit trigger executes `Head` (the current editor source). Saving code without updating the web deployment can therefore change cancellation behaviour without changing the booking form, or vice versa. Maintain and test both paths when making changes.
 
 **Do not archive other active deployments** until all consumers and links have been identified. Four active deployment descriptions were visible in the supplied screenshot. The production deployment is the one whose `/exec` URL matches SquareSpace.
+
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## 3. Source file register
 
@@ -149,6 +175,13 @@ The following describes the supplied source snapshot, not a fresh export of the 
 - `getTutors()`: reads the Tutors worksheet; requires `TutorID`, `Full Name`, `Email`, `Phone`, and `Active` headers; `Website` is optional. Returns only rows with ID/name and an active value of Boolean `true` or case-insensitive string `TRUE`.
 - `findTutorById_`: resolves the submitted tutor ID against the active tutor list; returns the matching tutor or `null`.
 
+<hr class="section-break strong" />
+
+
+
+
+
+
 ## 4. Booking lifecycle
 
 ### 4.1 Normal approved booking
@@ -179,6 +212,13 @@ A Studio/Gallery overlap with a calendar event whose `Location` normalises to th
 
 **Administrative rule:** Never assume that an error displayed to the tutor means no row or calendar event exists. Inspect the workbook and calendar before resubmitting.
 
+<hr class="section-break strong" />
+
+
+
+
+
+
 ## 5. Validation and business rules
 
 | Rule | Implemented behaviour |
@@ -198,6 +238,13 @@ A Studio/Gallery overlap with a calendar event whose `Location` normalises to th
 | Approved requests | Calendar event ID saved before Status set to `Approved` |
 
 **Known limitation:** The calendar is the source for room-conflict detection, so a missing or manually altered calendar event can invalidate the apparent availability check. Off-site locations do not participate in this conflict check.
+
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## 6. Spreadsheet data model
 
@@ -304,6 +351,13 @@ A conspicuous warning was added to the worksheet advising administrators not to 
 
 `logAction_` appends `[Timestamp, Level, Message, Details]` and creates those headers **only when the sheet is absent**. The supplied inventory shows that row 1 currently contains a log event, not those headings; this is a **confirmed structural discrepancy**. The sheet was hidden. Do not insert a header row casually in production without assessing other references; document the actual structure and correct it only as a controlled change. The log may contain tutor IDs and operational details; restrict access appropriately.
 
+<hr class="section-break strong" />
+
+
+
+
+
+
 ## 7. Google Calendar integration
 
 ### 7.1 Verified settings
@@ -347,6 +401,13 @@ Recommended operational procedure for current v1.5: cancel the incorrect approve
 
 Tutor self-service booking review and cancellation would require authenticated identity, authorisation to view/cancel only the tutor's bookings, confirmation and audit trails, and reliable event synchronisation. This is a future possibility, **not** a v1.5 requirement or delivery commitment.
 
+<hr class="section-break strong" />
+
+
+
+
+
+
 ## 8. Ownership, access and security
 
 ### 8.1 Confirmed ownership and roles
@@ -372,6 +433,13 @@ Tutor self-service booking review and cancellation would require authenticated i
 
 Keep organisational account recovery and multi-factor authentication under RCAS control. Avoid personal-account dependencies. Limit spreadsheet editors to necessary personnel. Review access periodically, particularly when committee roles change. Never put passwords, recovery codes, or the secret calendar iCal URL into documentation. Before enabling public calendar event details, assess exposure of tutor names and email addresses. Treat execution logs and the Tutors sheet as personal information.
 
+<hr class="section-break strong" />
+
+
+
+
+
+
 ## 9. Administration RunBook
 
 ### 9.1 New booking
@@ -393,6 +461,13 @@ Confirm the reporting month in `Tutor_Summary` and `Tutor_Billing_Detail`; check
 ### 9.5 Periodic health check
 
 Review Apps Script execution failures, hidden `System_Log`, blank-Status submission rows, missing event IDs on Approved rows, unexpected calendar events, and calendar event IDs that cannot be found. Verify the published iframe still loads without a Google login. Keep an administrator-accessible copy of the exact source version and a protected backup of the workbook.
+
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## 10. Deployment and change management
 
@@ -417,6 +492,13 @@ Record the active deployment description, **numeric source version**, deployment
 
 If the form fails, inspect the Apps Script execution record, workbook, calendar permissions and current deployment before changing code. If an approved row has no event ID, or an event exists without a corresponding row, do not simply repeat the submission: reconcile deliberately. If a release introduces regression, restore the previously verified numbered deployment version and separately assess the current `Head` trigger source. A spreadsheet backup alone is insufficient to restore calendar events automatically.
 
+<hr class="section-break strong" />
+
+
+
+
+
+
 ## 11. Troubleshooting guide
 
 | Symptom | First checks | Caution |
@@ -432,6 +514,13 @@ If the form fails, inspect the Apps Script execution record, workbook, calendar 
 | Cancellation count zero | Corrected D-column formula, month bounds, actual Cancelled rows | No real cancellation test yet performed |
 | Unexpected log headers | `System_Log` row 1 currently contains log data | Do not assume headers exist |
 | Multiple active deployments | Compare iframe URL to each deployment URL | Do not archive without dependency check |
+
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## 12. Technical audit: findings and limitations
 
@@ -464,6 +553,13 @@ This is a **documentation audit**, not a claim that these issues have been repro
 - Confirm the exact source code of the **numbered production version** matches the supplied snapshot; if not, reconcile differences before sign-off.
 - Confirm the RCAS website calendar's final placement and embed permissions after Sue's decision.
 
+<hr class="section-break strong" />
+
+
+
+
+
+
 ## 13. Acceptance test matrix
 
 Use a **test workbook and test calendar** whenever an action creates or deletes records. Record date, tester, result and supporting screenshot/log for each case.
@@ -482,6 +578,13 @@ Use a **test workbook and test calendar** whenever an action creates or deletes 
 | Billing detail monthly filter | Approved bookings within month, correct hours | Screenshot shows November report; full reconciliation pending |
 | Summary cancellation count | Counts known Cancelled rows correctly | Corrected formula, no nonzero cancellation available |
 | Partial calendar failure | Not Approved without event ID | Intended source behaviour; fault injection not supplied |
+
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## 14. Handover checklist
 
@@ -505,9 +608,23 @@ Use a **test workbook and test calendar** whenever an action creates or deletes 
 - [ ] Confirm final SquareSpace calendar display arrangement.
 - [ ] Obtain administrative acceptance of handover and record any unresolved limitations.
 
+<hr class="section-break strong" />
+
+
+
+
+
+
 ## 15. Future enhancements — explicitly outside v1.5
 
 These are ideas, **not commitments**: tutor self-service booking history and cancellation; protected report-formula cells; status-sensitive client messaging; robust partial-failure reconciliation; stable tutor-ID-based billing summaries; safer billing exports; stronger change audit and notification workflow. Each would require separate requirements, approval, development and testing.
+
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## Appendix A. Configuration values and invariants
 
@@ -522,6 +639,13 @@ CONFIG.STATUS_VALUES = { APPROVED: 'Approved', REJECTED: 'Rejected', CANCELLED: 
 
 **Operational invariants:** Only the approved workflow creates calendar events; Calendar Event ID must be recorded before Approved status; only manual Approved→Cancelled Status changes trigger the current cancellation path; do not directly edit calendar events; do not delete `Tutor_Billing_Detail!A3`; preserve source headers and report formulas.
 
+<hr class="section-break strong" />
+
+
+
+
+
+
 ## Appendix B. Source and evidence register
 
 1. `Codev01ef.md`: supplied five-file Apps Script source snapshot, headed `Booking App v1.5 [TEST]`, update 27 October 2026. This is the basis for function-level descriptions; correspondence to the numbered production version remains unverified.
@@ -534,3 +658,13 @@ CONFIG.STATUS_VALUES = { APPROVED: 'Approved', REJECTED: 'Rejected', CANCELLED: 
 ---
 
 *Prepared as a technical handover draft for Redland Coast Art Society Inc. No production code, spreadsheet data or Google Calendar events were modified in preparing this document.*
+
+<hr class="section-break strong" />
+
+
+<!--  Image references  -->
+
+
+[AS01]: ../assets/images/rcas/RcasIncLogo.png
+[St00]: ../assets/images/base/00Writer.jpg
+[St09]: ../assets/images/base/09aParis.jpg

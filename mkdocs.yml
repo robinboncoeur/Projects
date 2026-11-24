@@ -68,7 +68,8 @@ nav:
   - RCAS:
       - rcas/index.md
       - Projects v11: rcas/Curr-Proj01.md
-      - Projects v15: rcas/TechRefv15.md
+      - v15 Technical Reference: rcas/v15TechRef.md
+      - v15 Quick Reference Guide: rcas/v15CheatSht.md
       - Docs v1b: rcas/BookingDoc.md
       - Exit Str: rcas/exitStrategy.md
       - Portal: rcas/Portal.md
@@ -95,6 +96,7 @@ nav:
       - Code Base 1.5a: rcas/Codev01ec.md
       - Feature Requests: rcas/FeatureReq.md
       - Test Checklist: rcas/testChecklist.md
+
 
   - Tech:
       - tech/index.md
