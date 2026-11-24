@@ -45,6 +45,7 @@ theme:
 extra_css:
   - stylesheets/custom.css
   - stylesheets/extras.css
+  - stylesheets/print.css
 
 nav:
   - Home: index.md

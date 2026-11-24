@@ -18,10 +18,8 @@
 [At the Patio](#at-the-patio)  
 [Some Progress](#progress)  
 [Bluing 101](#bluing-101)  
-[Shade-house Foundation](#shadehouse-foundation)  
 [Fixing Drainage](#fixing-drainage)  
 [In The Trenches](#in-the-trenches)  
-[Shade-house Ideas](#shadehouse-ideas)  
 [Pathetic Henhouse](#pathetic-henhouse)  
 
 

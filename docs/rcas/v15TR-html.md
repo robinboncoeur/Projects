@@ -2,7 +2,7 @@
 
 <!-- vale off -->
 
-<hr class="section-break strong" />
+
 
 
 <img src="https://redlandcoastartsocietyinc.github.io/BookingApp/images/Logo.png" alt="logo" width="180" align="right">
@@ -22,7 +22,7 @@
 **Verify** identifies a detail not established by those materials.   
 **Recommendation** is advice, not a change made to the live application. The supplied source document bears a `[TEST]` heading and 27 October 2026 update note, whereas the production project screenshot shows creation on 2 November 2026. Therefore, its correspondence to the exact numbered production deployment has **not** been independently established. Treat this as a detailed description of the supplied v1.5 source, with production configuration separately verified.
 
-<hr class="section-break strong" />
+
 
 
 
@@ -56,7 +56,13 @@ Direct modification of existing booking records is not a supported mechanism for
 
 **Operational responsibilities (confirmed):** Currently, Julia Hahn — acting president, RCAS Inc — is presently the sheet administrator and processes cancellation requests; Sue Mazur currently prepares tutor billing, reportedly using Xero. The Booking App does **not** integrate with Xero or determine tutor pay rates. The intended scope is to provide accurate approved-session and hour information, not to operate an accounting system.
 
- 
+
+
+<div class="page-break"></div>
+
+
+
+
 ### 1.1 Scope and exclusions
 
 | Included in v1.5 | Not provided by v1.5 |
@@ -106,7 +112,7 @@ WebForm_Submissions -> Tutor_Summary / Tutor_Billing_Detail
                     Sue Mazur's billing workflow (outside application)
 ```
 
-<hr class="section-break strong" />
+
 
 
 
@@ -136,7 +142,7 @@ WebForm_Submissions -> Tutor_Summary / Tutor_Billing_Detail
 
 **Do not archive other active deployments** until all consumers and links have been identified. Four active deployment descriptions were visible in the supplied screenshot. The production deployment is the one whose `/exec` URL matches SquareSpace.
 
-<hr class="section-break strong" />
+
 
 <!-- secret number: fb9defee74020745b9fe88a22a9f95429d6499037d116a29f151616c912a6683 -->
 
@@ -145,17 +151,22 @@ WebForm_Submissions -> Tutor_Summary / Tutor_Billing_Detail
 
 ## 3. Source file register
 
+::: {.file-register}
+
 The following describes the supplied source snapshot, not a fresh export of the numbered production version.
 
-| File | Responsibility | Principal functions |
-|------|----------------|---------------------|
-| `Code.gs` | Web entry point; booking submission; validation; persistence; calendar creation; billing formulas | `doGet`, `submitBooking`, `parseTimeToMinutes` |
-| `Index.html` | HTML/CSS/JavaScript interface; client validation; review/confirm; calls to server | `showMessage`, `clearMessage`, `timeToMinutes`, `setMinimumEventDate`, `populateReviewPanel`, `showReviewPanel`, `updatePriceFields`, `updateOtherLocationField`, `populateTutorDropdown`, `updateTutorWebsite`; DOM handlers |
-| `SheetFunct.gs` | Configuration; installed edit trigger; cancellation; calendar access; logging; sheet helpers | `onApprovalEdit`, `handleStatusEdit_`, `processCancellationRow_`, `normalizeRoom_`, `removeLiveCalendarEvent_`, `getHeaders_`, `valueByHeader_`, `trim_`, `getTargetCalendar_`, `logAction_`, `combineDateAndTime_`, `testDuplicateApproval` |
+|    Script File    | Responsibility | Principal functions |
+|-------------------|----------------|---------------------|
+| `Code.gs`         | Web entry point; booking submission; validation; persistence; calendar creation; billing formulas | `doGet`, `submitBooking`, `parseTimeToMinutes` |
+| `Index.html`      | HTML/CSS/JavaScript interface; client validation; review/confirm; calls to server | `showMessage`, `clearMessage`, `timeToMinutes`, `setMinimumEventDate`, `populateReviewPanel`, `showReviewPanel`, `updatePriceFields`, `updateOtherLocationField`, `populateTutorDropdown`, `updateTutorWebsite`; DOM handlers |
+| `SheetFunct.gs`   | Configuration; installed edit trigger; cancellation; calendar access; logging; sheet helpers | `onApprovalEdit`, `handleStatusEdit_`, `processCancellationRow_`, `normalizeRoom_`, `removeLiveCalendarEvent_`, `getHeaders_`, `valueByHeader_`, `trim_`, `getTargetCalendar_`, `logAction_`, `combineDateAndTime_`, `testDuplicateApproval` |
 | `BookingLogic.gs` | Booking evaluation, room-conflict checks, event creation | `evaluateBooking_`, `findRoomConflict_`, `createCalendarEvent_`, `buildConflictNote_` |
-| `Tutors.gs` | Tutor directory and lookup | `getTutors`, `findTutorById_` |
+| `Tutors.gs`       | Tutor directory and lookup | `getTutors`, `findTutorById_` |
 
- 
+:::
+
+<div class="page-break"></div>
+
 ### 3.1 Function-by-function reference
 
 **`Code.gs`**
@@ -175,7 +186,7 @@ The following describes the supplied source snapshot, not a fresh export of the 
 - `populateTutorDropdown`: calls server `getTutors()` and fills the tutor selector.
 - `updateTutorWebsite`: updates the associated tutor web link when available.
 - DOM form submission handler: validates mandatory inputs, past dates and half-hour increments; switches to review stage rather than immediately writing a booking.
-- Confirm handler: calls `google.script.run.submitBooking(currentBooking)`, resets the form on success, and shows errors on failure. **Source-derived concern:** the success handler always displays `response.message` with a success style, even when `response.status` is `Rejected` due to a room conflict.
+- Confirm handler: calls `google.script.run.submitBooking(currentBooking)`, resets the form on success, and shows errors on failure. **Source-derived concern:** the success handler always displays `response.message` with a success style (green text), even when `response.status` is `Rejected` due to a room conflict.
 
 **`SheetFunct.gs`**
 
@@ -206,20 +217,20 @@ The following describes the supplied source snapshot, not a fresh export of the 
 - `findTutorById_`: resolves the submitted tutor ID against the active tutor list; returns the matching tutor or `null`.
 
 
-### WorkbookInventory.gs
+**`WorkbookInventory.gs`**
 
-**Purpose**
+- **Purpose**
 
 Provides a diagnostic and documentation utility that generates a structured inventory of the active Google Sheets workbook. It is intended to assist with technical maintenance, structural auditing, troubleshooting and future application development.
 
 This utility is independent of the normal booking and cancellation workflows and is not required for routine application operation.
 
-#### Function: `inventoryWorkbook()`
+- **Function** `inventoryWorkbook()`
 
 The function examines the active workbook and generates a JSON document describing its structure and selected configuration details.
 
 | Component | Information captured |
-|---|---|
+|-----------|----------------------|
 | Workbook | Workbook name and configured timezone |
 | Named ranges | Name, worksheet and A1 range notation |
 | Worksheets | Name, visibility and last occupied row and column |
@@ -229,7 +240,7 @@ The function examines the active workbook and generates a JSON document describi
 | Data validation | Distinct validation criteria types identified within the sampled rows |
 | Protections | Description and type of worksheet and range protections |
 
-#### Execution
+- **Execution**
 
 The function is intended to be executed manually from the Apps Script editor.
 
@@ -240,36 +251,36 @@ The function is intended to be executed manually from the Apps Script editor.
 5. Authorise the required Google permissions if prompted.
 6. Examine the execution log for the URL of the generated inventory file.
 
-#### Output
+- **Output**
 
 The function creates the following file in Google Drive:
 
 `Workbook_Structure_v1.5.json`
 
-The file contains formatted JSON with two-space indentation and is saved using the `PLAIN_TEXT` MIME type.
+The file contains formatted JSON with two-space indentation and is saved using the `PLAIN_TEXT` MIME type. Each execution creates a new file. Existing inventory files are not overwritten.
 
-Each execution creates a new file. Existing inventory files are not overwritten.
+- **Operational impact**
 
-#### Operational impact
+The function reads workbook structure and configuration information without modifying worksheet contents, formulas, validation rules or protections. It does not interact with Google Calendar, submit bookings, process cancellations or modify application triggers. Its only persistent write operation is the creation of the inventory file in Google Drive.
 
-The function reads workbook structure and configuration information without modifying worksheet contents, formulas, validation rules or protections.
+<div class="page-break"></div>
 
-It does not interact with Google Calendar, submit bookings, process cancellations or modify application triggers.
 
-Its only persistent write operation is the creation of the inventory file in Google Drive.
 
-#### Limitations
+- **Limitations**
 
-- Formula and data validation inspection is restricted to the first 100 rows of each worksheet.
-- A maximum of three formula examples is recorded per column.
-- The first row is assumed to contain column headings.
-- Number formatting is sampled from row 2 and may not represent formatting throughout the column.
-- Data validation criteria types are recorded, but their associated values and conditions are not.
-- Protection descriptions and types are recorded, but protected range addresses, authorised editors and warning-only settings are not.
-- Reported row and column counts represent the last occupied row and column, rather than the total allocated worksheet dimensions.
-- The output filename contains a hard-coded version number and is not automatically synchronised with the application version.
+The known limitations of this script are:
 
-#### Maintenance and security considerations
+1. Formula and data validation inspection is restricted to the first 100 rows of each worksheet.
+2. A maximum of three formula examples is recorded per column.
+3. The first row is assumed to contain column headings.
+4. Number formatting is sampled from row 2 and may not represent formatting throughout the column.
+5. Data validation criteria types are recorded, but their associated values and conditions are not.
+6. Protection descriptions and types are recorded, but protected range addresses, authorised editors and warning-only settings are not.
+7. Reported row and column counts represent the last occupied row and column, rather than the total allocated worksheet dimensions.
+8. The output filename contains a hard-coded version number and is not automatically synchronised with the application version.
+
+- **Maintenance and security considerations**
 
 The generated inventory is a structural snapshot of the workbook at the time of execution. It is not a complete workbook backup, restoration mechanism or verification of application correctness.
 
@@ -277,7 +288,7 @@ Although ordinary booking records are not exported, the inventory may contain in
 
 It is recommended that a fresh inventory be generated before and after any significant changes to the workbook structure, particularly changes involving column headings, formulas, named ranges or data validation rules.
 
-<hr class="section-break strong" />
+
 
 
 
@@ -288,7 +299,7 @@ It is recommended that a fresh inventory be generated before and after any signi
 
 ### 4.1 Normal approved booking
 
-1. Tutor opens SquareSpace booking page (SquareSpace-side password-protection); iframe loads the Apps Script web app.
+1. Tutor logs into the SquareSpace booking page; iframe loads the Apps Script web app.
 2. Browser requests active tutor list using `getTutors()`.
 3. Tutor completes the form and reviews the details before confirming.
 4. Server validates required fields, price type and amounts, skill level, active tutor and time increments.
@@ -298,12 +309,16 @@ It is recommended that a fresh inventory be generated before and after any signi
 8. Google Calendar event is created; the event ID is stored in the row; **then** Status becomes `Approved`.
 9. Processing note and billing formulas are written, an audit entry is appended, and the browser displays the response.
 
-**Approval invariant (design intention):** Do not mark a booking Approved until the linked Calendar Event ID is successfully written. This protects against ordinary calendar-creation failure but does not constitute a transactional guarantee across Google Sheets and Calendar.
+**Approval invariant (design intention):** A booking is not marked Approved until the linked Calendar Event ID is successfully written. This protects against ordinary calendar-creation failure but does not constitute a transactional guarantee across Google Sheets and Calendar.
 
- 
+
+
+
 ### 4.2 Conflicting booking
 
 A Studio/Gallery overlap with a calendar event whose `Location` normalises to the same room produces `Rejected`. The rejected request is recorded in the workbook; no new calendar event is created. The browser displays the returned conflict message, although the supplied client code styles all processed responses as success (review item).
+
+
 
  
 ### 4.3 Failed submission and partial states
@@ -316,11 +331,11 @@ A Studio/Gallery overlap with a calendar event whose `Location` normalises to th
 
 **Administrative rule:** Never assume that an error displayed to the tutor means no row or calendar event exists. Inspect the workbook and calendar before resubmitting.
 
-<hr class="section-break strong" />
 
 
 
 
+<div class="page-break"></div>
 
 
 ## 5. Validation and business rules
@@ -343,7 +358,7 @@ A Studio/Gallery overlap with a calendar event whose `Location` normalises to th
 
 **Known limitation:** The calendar is the source for room-conflict detection, so a missing or manually altered calendar event can invalidate the apparent availability check. Off-site locations do not participate in this conflict check.
 
-<hr class="section-break strong" />
+
 
 
 
@@ -354,6 +369,8 @@ A Studio/Gallery overlap with a calendar event whose `Location` normalises to th
 
 Workbook inventory supplied as `Workbook_Structure_v1.5.txt`, extracted 3 November 2026. The `rows`/`columns` values below describe the inventory snapshot, not fixed capacity limits.
 
+::: {.workbook-inventory}
+
 | Worksheet | Snapshot size | Purpose |
 |-----------|---------------|---------|
 | `System_Log` | 68 rows × 4 columns | Diagnostics and audit events; hidden |
@@ -362,7 +379,14 @@ Workbook inventory supplied as `Workbook_Structure_v1.5.txt`, extracted 3 Novemb
 | `Tutor_Summary` | 19 × 5 | Monthly counts per tutor |
 | `Tutor_Billing_Detail` | 40 × 15 | Formula-generated monthly approved-session details; extra worksheet columns available |
 
+:::
+
 No named ranges or sheet protections were reported by the inventory. The inventory samples up to three formulas per column; it is not an exhaustive cell-by-cell audit.
+
+
+
+<div class="page-break"></div>
+
 
  
 ### 6.1 `WebForm_Submissions` — canonical headers
@@ -400,7 +424,9 @@ S2: =IF(OR($Q2="",$R2=""),"",$Q2*$R2)
 
 The application installs analogous formulas in newly submitted rows. Billing hours are tied to the status `Approved`. Entering an hourly rate is an administrative decision and is outside the web form.
 
- 
+
+
+
 ### 6.2 `Tutors`
 
 | Col | Header | Meaning |
@@ -413,6 +439,8 @@ The application installs analogous formulas in newly submitted rows. Billing hou
 | F | Website | Optional tutor webpage link |
 
 **Adding a tutor:** Use a unique `TutorID`, populate required fields, and mark Active TRUE. Verify that the tutor appears in a freshly loaded booking form. **Disabling:** Change Active to FALSE; historical bookings remain in the submission sheet. Avoid changing a historical tutor's name without considering reporting formulas that match by name.
+
+
 
  
 ### 6.3 `Tutor_Summary`
@@ -429,6 +457,8 @@ The inventory shows a reporting month formula in `B1` (`=DATE(2026,11,1)`), date
 ```
 
 The user confirmed there were no actual cancellations to test at the time. A synthetic or future real cancellation test remains pending. **Verify:** The date bounds in `C1`/`C2` represent the intended period and the approved and cancelled counts use the same period conventions. The snapshot showed the original (pre-correction) formula, so do not treat it as the current cancellation formula.
+
+
 
  
 ### 6.4 `Tutor_Billing_Detail`
@@ -455,15 +485,17 @@ A conspicuous warning was added to the worksheet advising administrators not to 
 
 **Billing scope:** The workbook provides session details and hours for Sue Mazur's billing workflow. Rates, accounting decisions, invoices and Xero use remain RCAS administrative responsibilities. A copy of v1.4 was made by Sue for earlier manual sorting/filtering; leave it intact as historical work.
 
+
+
  
 ### 6.5 `System_Log`
 
 `logAction_` appends `[Timestamp, Level, Message, Details]` and creates those headers **only when the sheet is absent**. The supplied inventory shows that row 1 currently contains a log event, not those headings; this is a **confirmed structural discrepancy**. The sheet was hidden. Do not insert a header row casually in production without assessing other references; document the actual structure and correct it only as a controlled change. The log may contain tutor IDs and operational details; restrict access appropriately.
 
-<hr class="section-break strong" />
 
 
 
+<div class="page-break"></div>
 
 
 
@@ -482,17 +514,18 @@ A conspicuous warning was added to the worksheet advising administrators not to 
 | New/changed/cancelled event notifications | None shown in calendar settings |
 | Calendar ID | Matches `CONFIG.CALENDAR_ID` in supplied source |
 
-Calendar description explicitly directs staff **not** to add, edit, move or delete events directly: all bookings should be managed through the Booking App so the spreadsheet and calendar remain consistent.
+Calendar description explicitly directs staff **not** to add, edit, move or delete events directly: all bookings should be managed through the Booking App so the spreadsheet and calendar remain consistent. The source includes tutor name and email in calendar event descriptions. These details are hidden from general public free/busy viewers but remain visible to authorised calendar users with sufficient access.
 
-The source includes tutor name and email in calendar event descriptions. These details are hidden from general public free/busy viewers but remain visible to authorised calendar users with sufficient access. Do not publish the **secret iCal address**; it is not needed in this document.
+
 
  
-### 7.2 Event creation
+### 7.2 Processes
+
+**Event creation**
 
 For approved requests, `createCalendarEvent_` writes title `Course Name (Location)`, start/end times, location, and description lines containing Full Name, Email, Location, Course Name. The resulting event ID is stored in `WebForm_Submissions!O`.
 
- 
-### 7.3 Cancellation workflow — confirmed procedure
+**Cancellation workflow — confirmed procedure**
 
 1. Tutor/event planner notifies the sheet administrator (currently Julia Hahn).
 2. Julia Hahn locates the correct row and changes **Status (N)** from `Approved` to `Cancelled`.
@@ -504,25 +537,16 @@ For approved requests, `createCalendarEvent_` writes title `Course Name (Locatio
 
 **Trigger limitation:** The code specifically requires `oldValue === 'Approved'` and new value `Cancelled`. Bulk paste, multi-cell edits, programmatic changes, or changes from other statuses may not provide the same event data or invoke this path. Do not rely on those methods for cancellation.
 
- 
-### 7.4 Mistaken booking correction
+**Mistaken booking correction**
 
-Recommended operational procedure for current v1.5: cancel the incorrect approved booking, verify its calendar event was removed, then submit a new correct booking through the form. Do **not** simply edit the date, time, room or tutor in the spreadsheet and assume Google Calendar will update. 
-Note: *It is important to keep in mind the flow of information is one way*:
-
-* from the booking form to the workbook 
-* from the workbook to the calendar
- 
-Whilst it is *possible* to edit calendar events directly, the changes to the calendar do not flow back to the workbook. This can adversely affect workbook data accuracy.
-
- 
-### 7.5 Potential future enhancement (not committed)
-
-Tutor self-service booking review and cancellation would require authenticated identity, authorisation to view/cancel only the tutor's bookings, confirmation and audit trails, and reliable event synchronisation. This is a future possibility, **not** a v1.5 requirement or delivery commitment.
-
-<hr class="section-break strong" />
+Recommended operational procedure for current v1.5: cancel the incorrect approved booking, verify its calendar event was removed, then submit a new correct booking through the form. Do **not** simply edit the date, time, room or tutor in the spreadsheet and assume Google Calendar will update. Note: *It is important to keep in mind the flow of information is one way*: from the booking form to the workbook, and then, from the workbook to the calendar. Whilst it is *possible* to edit calendar events directly, the changes to the calendar do not flow back to the workbook. This can adversely affect workbook data accuracy.
 
 
+
+
+
+
+<div class="page-break"></div>
 
 
 
@@ -538,6 +562,8 @@ Tutor self-service booking review and cancellation would require authenticated i
 - **`t.` RCAS account:** User reports it was removed from sharing.
 - **Technical administrator after handover:** **To be nominated by RCAS**.
 
+
+
  
 ### 8.2 Confirmed sharing configuration
 
@@ -547,12 +573,14 @@ Tutor self-service booking review and cancellation would require authenticated i
 - Calendar: public **free/busy** only. Calendar event details are not publicly exposed by that permission.
 - Workbook editors can modify and execute attached Apps Script. Editor access should therefore be treated as technical trust, not merely permission to type booking data.
 
+
+
  
 ### 8.3 Security practices
 
 Keep organisational account recovery and multi-factor authentication under RCAS control. Avoid personal-account dependencies. Limit spreadsheet editors to necessary personnel. Review access periodically, particularly when committee roles change. Never put passwords, recovery codes, or the secret calendar iCal URL into documentation. Before enabling public calendar event details, assess exposure of tutor names and email addresses. Treat execution logs and the Tutors sheet as personal information.
 
-<hr class="section-break strong" />
+
 
 
 
@@ -565,27 +593,35 @@ Keep organisational account recovery and multi-factor authentication under RCAS 
 
 Open the published booking portal; select the tutor; enter course/session details, date, time, location, price type, skill level and optional details; review; confirm. Check that a successful booking appears as Approved in `WebForm_Submissions` and on the calendar. If the browser reports a failure, **check for a partial row/event before resubmitting**.
 
+
+
  
 ### 9.2 Cancel an event
 
 Find the correct booking by tutor/date/course; confirm it is Approved; change N to Cancelled; optionally record the reason in M; check P and that O is cleared; verify calendar event removal; notify relevant people as needed. Do not use bulk paste or manually delete the calendar event. If P shows an error or event remains, escalate before further edits.
+
+
 
  
 ### 9.3 Add or deactivate tutor
 
 Edit `Tutors` with a unique ID, full name, email, phone, Active flag and optional Website. Test a fresh form load. For deactivation, set Active FALSE rather than deleting historical tutor records. Review reports if changing tutor names.
 
+
+
  
 ### 9.4 Prepare monthly billing information
 
 Confirm the reporting month in `Tutor_Summary` and `Tutor_Billing_Detail`; check approved booking counts and detail rows; compare known sessions with calendar and submissions; use the approved-session Hours field as input to RCAS's separate billing process. Do not overwrite `Tutor_Billing_Detail!A3`. Do not assume user-entered formulas beside a `QUERY` spill remain aligned when results reorder. Payment rates and Xero processing remain Sue Mazur's responsibility.
+
+
 
  
 ### 9.5 Periodic health check
 
 Review Apps Script execution failures, hidden `System_Log`, blank-Status submission rows, missing event IDs on Approved rows, unexpected calendar events, and calendar event IDs that cannot be found. Verify the published iframe still loads without a Google login. Keep an administrator-accessible copy of the exact source version and a protected backup of the workbook.
 
-<hr class="section-break strong" />
+
 
 
 
@@ -597,6 +633,8 @@ Review Apps Script execution failures, hidden `System_Log`, blank-Status submiss
 ### 10.1 Baseline before changing anything
 
 Record the active deployment description, **numeric source version**, deployment ID/URL, execution identity, access policy, spreadsheet ID, calendar ID, installed triggers and authorisations. Export/copy source and workbook to a controlled RCAS archive. Do not put a secret calendar feed URL in this archive. Confirm whether test and production assets are isolated.
+
+
 
  
 ### 10.2 Controlled change sequence
@@ -612,12 +650,14 @@ Record the active deployment description, **numeric source version**, deployment
 
 **Do not** use a live booking or live calendar as an unplanned test bed. Test cancellations against dedicated test events and test rows where possible.
 
+
+
  
 ### 10.3 Recovery principles
 
 If the form fails, inspect the Apps Script execution record, workbook, calendar permissions and current deployment before changing code. If an approved row has no event ID, or an event exists without a corresponding row, do not simply repeat the submission: reconcile deliberately. If a release introduces regression, restore the previously verified numbered deployment version and separately assess the current `Head` trigger source. A spreadsheet backup alone is insufficient to restore calendar events automatically.
 
-<hr class="section-break strong" />
+
 
 
 
@@ -640,7 +680,7 @@ If the form fails, inspect the Apps Script execution record, workbook, calendar 
 | Unexpected log headers | `System_Log` row 1 currently contains log data | Do not assume headers exist |
 | Multiple active deployments | Compare iframe URL to each deployment URL | Do not archive without dependency check |
 
-<hr class="section-break strong" />
+
 
 
 
@@ -650,6 +690,8 @@ If the form fails, inspect the Apps Script execution record, workbook, calendar 
 ## 12. Technical audit: findings and limitations
 
 This is a **documentation audit**, not a claim that these issues have been reproduced in production. Priorities are advisory.
+
+::: {.tech-audit}
 
 | ID | Priority | Finding | Evidence / impact | Proposed disposition |
 |----|----------|---------|-------------------|----------------------|
@@ -669,6 +711,8 @@ This is a **documentation audit**, not a claim that these issues have been repro
 | A14 | Medium | Event description stores tutor name/email | `createCalendarEvent_`; calendar public free/busy only | Maintain privacy settings and editor discipline |
 | A15 | Medium | `getHeaders_` trims headers, but formulas use fixed letters | Source + inventory | Review both code and formulas when changing schema |
 
+:::
+
  
 ### 12.1 Additional review points requiring testing
 
@@ -679,16 +723,19 @@ This is a **documentation audit**, not a claim that these issues have been repro
 - Confirm the exact source code of the **numbered production version** matches the supplied snapshot; if not, reconcile differences before sign-off.
 - Confirm the RCAS website calendar's final placement and embed permissions after Sue Mazur's decision.
 
-<hr class="section-break strong" />
 
 
 
+
+<div class="page-break"></div>
 
 
 
 ## 13. Acceptance test matrix
 
 Use a **test workbook and test calendar** whenever an action creates or deletes records. Record date, tester, result and supporting screenshot/log for each case.
+
+::: {.test-matrix}
 
 | Test | Expected outcome | Evidence status at draft |
 |------|------------------|--------------------------|
@@ -705,7 +752,7 @@ Use a **test workbook and test calendar** whenever an action creates or deletes 
 | Summary cancellation count | Counts known Cancelled rows correctly | Corrected formula, no nonzero cancellation available |
 | Partial calendar failure | Not Approved without event ID | Intended source behaviour; fault injection not supplied |
 
-<hr class="section-break strong" />
+:::
 
 
 
@@ -734,16 +781,14 @@ Use a **test workbook and test calendar** whenever an action creates or deletes 
 - [_] Confirm final SquareSpace calendar display arrangement.
 - [_] Obtain administrative acceptance of handover and record any unresolved limitations.
 
-<hr class="section-break strong" />
 
 
 
+<div class="page-break"></div>
 
 
 
 ## 15. Future enhancements — explicitly outside v1.5
-
-These are ideas, **not commitments**:
 
 * tutor self-service booking history and cancellation;   
 * protected report-formula cells;  
@@ -753,9 +798,7 @@ These are ideas, **not commitments**:
 * safer billing exports;   
 * stronger change audit and notification workflow  
 
-Each would require separate requirements, approval, development and testing.
-
-<hr class="section-break strong" />
+Each would require separate requirements, approval, development and testing. These are ideas, **not commitments**.
 
 
 
@@ -782,7 +825,7 @@ CONFIG.STATUS_VALUES = { APPROVED: 'Approved', REJECTED: 'Rejected', CANCELLED: 
 * do not delete `Tutor_Billing_Detail!A3`;   
 * preserve source headers and report formulas
 
-<hr class="section-break strong" />
+
 
 
 
@@ -791,26 +834,18 @@ CONFIG.STATUS_VALUES = { APPROVED: 'Approved', REJECTED: 'Rejected', CANCELLED: 
 
 ## Appendix B. Source and evidence register
 
-1. [`Codev01ef.md`](https://projects.tightbytes.com/rcas/Codev01ef/): supplied five-file Apps Script source snapshot, headed `Booking App v1.5 [TEST]`, update 27 October 2026. This is the basis for function-level descriptions; correspondence to the numbered production version remains unverified.
+1. [`Codev01eh.md`](https://projects.tightbytes.com/rcas/Codev01eh/): supplied five-file Apps Script source snapshot, headed `Booking App v1.5b [LIVE]`, update 24 November 2026. This is the basis for function-level descriptions; correspondence to the numbered production version remains unverified.
 2. `Workbook_Structure_v1.5.txt`: full JSON-formatted inventory of workbook, sheets, columns, sample formulas, validations and protections. Captured before the subsequent correction to the cancellation formula.
 3. Screenshots provided 3 November 2026: production deployment and matching SquareSpace iframe; Apps Script project owner; Drive folder and workbook sharing; monthly billing detail and A3 warning; Google Calendar settings, sharing and public free/busy permissions.
 4. Administrator's statements: Julia Hahn's form usability feedback; cancellation workflow; Sue Mazur's billing responsibility and Xero use; corrected cancellation formula; removal of `t.` editor; retention of `online.`; future enhancements not committed.
 
-**Document maintenance rule:** When the production code or workbook changes, update this reference with the date, exact deployment version, test result and affected sections. Keep the source export and the technical reference together in RCAS-controlled storage.
+**Document maintenance rule:** When the production code or workbook changes, update this reference with the date, exact deployment version, test result and affected sections. Keep the source export and the technical reference together in RCAS-controlled storage.  Do not publish the **secret iCal address**; it is not needed in this document.
 
  
 
 
 ## Appendix C. Development Closure and Ongoing Maintenance
 
-Development of the application is formally concluded with the release of version 1.5b.
+Development of the application is formally concluded with the release of version 1.5b. Any subsequent requests for enhancements, amendments or defect remediation are to be managed as separate maintenance or development activities, subject to appropriate assessment, development, testing and deployment procedures. Responsibility for ongoing application maintenance, operational oversight, testing and future modifications rests with Redland Coast Art Society Inc following handover. The final wording amendment incorporated into version 1.5b was implemented at the request of the Treasurer. No subsequent regression testing has been undertaken.
 
-Any subsequent requests for enhancements, amendments or defect remediation are to be managed as separate maintenance or development activities, subject to appropriate assessment, development, testing and deployment procedures.
-
-Responsibility for ongoing application maintenance, operational oversight, testing and future modifications rests with Redland Coast Art Society Inc following handover.
-
-The final wording amendment incorporated into version 1.5b was implemented at the request of the Treasurer. No subsequent regression testing has been undertaken.
-
-*Prepared as a technical handover draft for Redland Coast Art Society Inc. No production code, spreadsheet data or Google Calendar events were modified in preparing this document.*
-
-<hr class="section-break strong" />
+*Prepared as a technical handover for Redland Coast Art Society Inc. No production code, spreadsheet data or Google Calendar events were modified in preparing this document.*
