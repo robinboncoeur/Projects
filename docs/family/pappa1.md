@@ -1603,7 +1603,7 @@ Status:
 
 
 
-### 1945 16
+### 1945 Martini
 
 Notes are [here](/family/pappa2/#29-aug-2026)
 
@@ -1747,7 +1747,7 @@ Status:
 
 
 
-[![Kaimu][Bnr02c]{ .artC width="1100" }][Bnr02c]
+[![Kaimu][Brc02]{ .artC width="1100" }][Brc02]
 
 
 
