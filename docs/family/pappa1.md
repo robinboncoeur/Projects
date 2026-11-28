@@ -97,13 +97,9 @@ My parents had rented a small flat on the top floor of the Coja house, with slop
 [![Img][St29]{ .artR width="140" }][St29]
 
 Status:  
-- Init transcription/translation:2025.09.30  
+- Init transcription/translation: 2025.09.30  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -150,13 +146,9 @@ Next to K’s parents lived the Rhodes: truly lovely, kind people. The father wa
 [![Img][St30]{ .artR width="140" }][St30]
 
 Status:  
-- Init transcription/translation:2025.09.30  
+- Init transcription/translation: 2025.09.30  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+ 
 
 <hr class="section-break strong" />
 
@@ -168,7 +160,7 @@ Status:
 
 
 
-### 1930 Jugend
+### 1930s Jugend
 
 Initial notes are [here](/family/pappa2/#29-aug-2026)
 
@@ -290,14 +282,58 @@ The fear of the punishment was greater than the consequences of the injury. Fort
 
 Status:    
 - Mod: 2026-08-29 Photographed, enhanced in GIMP; transcription, initial pass   
-- Mod: 2026-09-05 Paleography, and initial translation   
+- Mod: 2026-09-05 Paleography, and translated, first pass   
 - Mod:    
-- Mod:    
-- Mod:    
-- Mod:  
+ 
 
 <hr class="section-break strong" />
 
+
+
+
+
+
+
+
+### 1930s Jugend (bis)
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+
+**[Auf Deutsch]**  
+**--**  
+Als seine Mutter Tage später die noch nicht verheilte Wunde [sahjogten] K. nun im [Landkosten] einmal [zerbrochen] [Flaschen]. Ein neues Verbot night mehr im [Somolharten] zu spielen tat ihn nicht weh. Das letzte Erlebnis bendete seine Kindheit.  
+Auch öffnete es die Tür für die [Straße]. Das Speilen im Hof war vorbei. Gerhard Hoffman war mir ein guten Freund, er hatte K nicht verraten. Nur war K gezwungen mit einen anderen G. zur Schule zu gehen. Seine Eltern hatten erfahren von Gerhard Heinz. Die [Steizens] wohnten im Land an K. Schulweg. G. war einen Kopf größer den K. Ein verwohnten Knaben.  
+K Mutter kam mit Frau [LL] überein, daß K. ihr Goldsohn jeden Morgen zum Schulweg abholen würde. K. erhielt Prügel weil er nicht morgens geklingelt hatte um seinen neuen "Freund" abzuholen. K Mutter fand heraus warum. Die Klingeln waren zu hoch. Nun mußte K klopfen. Einmal war das Klopfen zu laut, dan nicht laut genug. Auf jeden fall bekam K einen schlag ins [Gesicht]. Frau Steiz schaute auf K mit ihren Rferolegesicht herab nur nicht so freundlich. K dachte wie ja das ist der Ernst des Lebens.  
+"Du kannst wohl nicht Tringeln."  
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+
+**[English Version]**  
+When his mother saw the wound, still not healed days later, [unclear passage concerning K., possibly a sandbox and broken bottles]. A new prohibition, no longer being allowed to play in the [garden?], didn't hurt him. This last experience put an end to his childhood.
+
+It also opened the door to the street. Playing in the courtyard was over. Gerhard Hoffman was a good friend to me; he hadn't betrayed K. Only now K. was forced to go to school with another G. His parents had found out about Gerhard Heinz. The [Steiz family] lived in Landl, on K.'s way to school. G. was a head taller than K. A spoilt boy.
+
+K.'s mother came to an agreement with Mrs [Steiz] that K. would call for her golden boy every morning on the way to school. K. got a beating because he hadn't rung the doorbell in the morning to collect his new "friend". K.'s mother found out why. The doorbells were too high. Now K. had to knock. One time the knocking was too loud, then not loud enough. In any case, K. got a slap in the face. Mrs Steiz looked down at K. with her [unclear description of her face], only not so friendly. K. thought, well, yes, this is the seriousness of life.
+
+"Can't you ring a doorbell properly?"
+</div>
+</div>
+
+---
+
+[![Img][St28]{ .artR width="140" }][St28]
+
+Status:  
+- Init transcription/translation: 2026.11.28
+- Mod:  
+
+
+<hr class="section-break strong" />
 
 
 
@@ -367,13 +403,9 @@ He had never seen Auntie like that before. When they arrived at the school, she 
 [![Img][Sp08]{ .artR width="140" }][Sp08]
 
 Status:  
-- Init transcription/translation:2025.09.30  
+- Init transcription/translation: 2025.09.30  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -434,11 +466,7 @@ The next few years were not exactly encouraging for his project. Since the [Sch�
 Status:  
 - Init transcription/translation: 2026.11.28
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -479,13 +507,9 @@ The session then continued with racial reflections. Naturally, only people with 
 [![Img][St25]{ .artR width="140" }][St25]
 
 Status:  
-- Init transcription/translation:2025.09.30  
+- Init transcription/translation: 2025.09.30  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -527,13 +551,9 @@ At the next meeting it was decided that I was to start as a technical draftsman 
 [![Img][St24]{ .artR width="140" }][St24]
 
 Status:  
-- Init transcription/translation:2025.09.30  
+- Init transcription/translation: 2025.09.30  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -604,13 +624,9 @@ Moved observations to [Issues](/family/pappa2/#02-oct-2025)
 [![Img][St01]{ .artR width="140" }][St01]
 
 Status:  
-- Init transcription/translation:2025.09.30  
+- Init transcription/translation: 2025.09.30  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -652,13 +668,9 @@ Before long he had the chance to witness an air show. One of Father’s workmate
 [![Img][St23]{ .artR width="140" }][St23]
 
 Status:  
-- Init transcription/translation:2025.09.30  
+- Init transcription/translation: 2025.09.30  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -707,10 +719,7 @@ Status:
 - Init translation: 2026.01.15
 - Mod: 2026.11.28
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -804,13 +813,11 @@ Steiner: “You know what people think about that."
 [![Img][Sp21]{ .artR width="140" }][Sp21]
 
 Status:  
-- Init transcription/translation:2025.09.30  
+- Init transcription/translation: 2025.09.30  
 - Mod: 2025.12.31
 - Mod: 2026.11.28
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -849,13 +856,9 @@ Status:
 [![Img][St17]{ .artR width="140" }][St17]
 
 Status:  
-- Init transcription/translation:2025.09.30  
+- Init transcription/translation: 2025.09.30  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -958,13 +961,10 @@ The cable was hooked on. Uwe lifted the wing. Signal in, signal out. The cable t
 [![Img][Sp03]{ .artR width="140" }][Sp03]
 
 Status:  
-- Init transcription/translation:2026.01.15   
+- Init transcription/translation: 2026.01.15   
 - Mod:  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -1060,11 +1060,7 @@ K. turned into the wind. Standing on the brakes he opened the throttle. The engi
 Status:  
 - Init transcription/translation 2026.11.28 
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -1117,13 +1113,9 @@ Early the next morning he went to the command post. It was damn cold and the sno
 [![Img][Sp11]{ .artR width="140" }][Sp11]
 
 Status:  
-- Init transcription/translation:2025.10.10  
+- Init transcription/translation: 2025.10.10  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -1168,13 +1160,9 @@ In Dortmund he received new flight orders: he was now heading to Halle. That was
 [![Img][St13]{ .artR width="140" }][St13]
 
 Status:  
-- Init transcription/translation:2025.09.28  
+- Init transcription/translation: 2025.09.28  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -1218,11 +1206,7 @@ After three stretches of four days it became second nature to avoid the bunk. Ac
 Status:  
 - Init transcription/translation: 2026.01.15
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -1272,13 +1256,9 @@ The children were sitting on an Opel Kadett.
 [![Img][St18]{ .artR width="140" }][St18]
 
 Status:  
-- Init transcription/translation:2025.09.30  
+- Init transcription/translation: 2025.09.30  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -1327,13 +1307,9 @@ A *fellow who resembled* the Grim Reaper walked back and forth as if under commi
 [![Img][St07]{ .artR width="140" }][St07]
 
 Status:  
-- Init transcription/translation:2025.10.10  
+- Init transcription/translation: 2025.10.10  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -1377,13 +1353,9 @@ The next day, after the bread was handed out, I forced myself to go outside agai
 [![Img][St10]{ .artR width="140" }][St10]
 
 Status:  
-- Init transcription/translation:2025.09.30  
+- Init transcription/translation: 2025.09.30  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -1431,13 +1403,9 @@ There were crates with three cylinders; the lids had been removed.
 [![Img][St15]{ .artR width="140" }][St15]
 
 Status:  
-- Init transcription/translation:2025.09.30  
+- Init transcription/translation: 2025.09.30  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -1476,13 +1444,9 @@ The way to the west exit was made even harder by the coarse ballast of the track
 [![Img][St05]{ .artR width="140" }][St05]
 
 Status:  
-- Init transcription/translation:2025.09.30  
+- Init transcription/translation: 2025.09.30  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -1575,11 +1539,7 @@ But those poor people would have been exhausted after the first kilometres. And 
 Status:  
 - Init transcription/translation: 2026.01.15
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -1631,11 +1591,7 @@ There were about 13,000 prisoners in the Tschenstochau camp. It had been built b
 Status:  
 - Init transcription/translation: 2025.09.28  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -1671,7 +1627,20 @@ Martini schaute mich trumphierend an, als hätte er gerade in die Lotterie gewon
 <div class="column column--right" markdown>
 
 **[ English Version ]**  
+Martini after the War
+Martini nach dem Krieg
 
+It was bitterly cold in the winter of '45. The hunger made it almost unbearable for us to get through this terrible time. At about twelve o'clock I was on my way to our workshop. As I was about to cross Teich Street, a Russian truck came along. Ahead of me an old woman was about to cross the street. The Russians put their foot down and the old woman was hurled into the air. It sounded as though someone were striking a wooden box. Then there was the blood on the roadway. Never would I have thought an old woman could have so much blood. Nobody took any notice. Why should they? There was nothing left to be saved anyway. Never in my life had I felt so wretched.
+
+After all that I had experienced, it was really only a small episode of cruelty. At the corner of [Läuchst Street] I met Klupsch. A lousy comrade.
+
+"Watch out, Hahn," he said, "when you get to the pub."
+
+"… Martini is waiting for you."
+
+What wonderfully pleasant air met me as I opened the door to the [workshop?]. Warmth was a luxury, just like having something to eat in those times. I looked around and said, "Schmahlzeit", because the word "Mahlzeit" wasn't appropriate, since nobody was eating anything. Not because nobody was hungry. There was enough of that. Nobody had anything to eat. The atmosphere was oppressive.
+
+Martini looked at me triumphantly, as though he had just won the lottery. With a sly look on his face he greeted me with "Heil Hitler". That was, of course, meant ironically. However, I knew immediately where I could apply the leverage.
 </div>
 </div>
 
@@ -1684,10 +1653,7 @@ Martini schaute mich trumphierend an, als hätte er gerade in die Lotterie gewon
 Status:  
 - Init transcription/translation: 2026-08-29 (Photographed, enhanced in GIMP; transcribed)
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -1768,11 +1734,7 @@ K kept stroking the mutt. The poor dog probably got nothing but beatings from th
 Status:  
 - Init transcription/translation: 2025.09.28  
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+
 
 <hr class="section-break strong" />
 
@@ -1785,28 +1747,14 @@ Status:
 
 
 
+[![Kaimu][Bnr02c]{ .artC width="1100" }][Bnr02c]
 
 
 
 
+## In The US
 
-
-
-
-## Still to Sort
-
-
-
-
-
-
-
-
-
-
-<!--
-
-### 19??: 1. Sonoma 19
+### 1990s Sonoma
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -1824,7 +1772,11 @@ Wo soll ich nun anfangen. Auf meine Geburt kann ich mich beim besten Willen nich
 <div class="column column--right" markdown>
 
 **[ English Version ]**  
+Last Sunday I was at the Sonoma airfield with my girlfriend. On display were antique cars and aeroplanes. Among many others there was also the Texan Trainer. I flew that thing in the German Luftwaffe. Only it was an older model.
 
+Later we got into conversation with a young married couple. As usual, I got to telling stories. In the end I had to promise the dear people to write a book about it. A real sacrifice, considering how lazy I am about writing.
+
+Now where shall I begin. Try as I might, I can no longer remember my birth. As a little boy I often had quite terrible dreams. The doctors said, "The child is dreaming about his birth." Perhaps it's a good thing we know nothing about it. Otherwise we'd have a fright that would last us a lifetime.
 </div>
 </div>
 
@@ -1833,14 +1785,9 @@ Wo soll ich nun anfangen. Auf meine Geburt kann ich mich beim besten Willen nich
 [![Img][St19]{ .artR width="140" }][St19]
 
 Status:  
-- Init transcription/translation: 
+- Init transcription/translation: 2026.11.28
 - Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-
+ 
 <hr class="section-break strong" />
 
 
@@ -1850,54 +1797,7 @@ Status:
 
 
 
-
-### [REV.] 28
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-
-**[Auf Deutsch]**  
-**--**  
-Als seine Mutter Tage später die noch nicht verheilte Wunde [sahjogten] K. nun im [Landkosten] einmal [zerbrochen] [Flaschen]. Ein neues Verbot night mehr im [Somolharten] zu spielen tat ihn nicht weh. Das letzte Erlebnis bendete seine Kindheit.  
-Auch öffnete es die Tür für die [Straße]. Das Speilen im Hof war vorbei. Gerhard Hoffman war mir ein guten Freund, er hatte K nicht verraten. Nur war K gezwungen mit einen anderen G. zur Schule zu gehen. Seine Eltern hatten erfahren von Gerhard Heinz. Die [Steizens] wohnten im Land an K. Schulweg. G. war einen Kopf größer den K. Ein verwohnten Knaben.  
-K Mutter kam mit Frau [LL] überein, daß K. ihr Goldsohn jeden Morgen zum Schulweg abholen würde. K. erhielt Prügel weil er nicht morgens geklingelt hatte um seinen neuen "Freund" abzuholen. K Mutter fand heraus warum. Die Klingeln waren zu hoch. Nun mußte K klopfen. Einmal war das Klopfen zu laut, dan nicht laut genug. Auf jeden fall bekam K einen schlag ins [Gesicht]. Frau Steiz schaute auf K mit ihren Rferolegesicht herab nur nicht so freundlich. K dachte wie ja das ist der Ernst des Lebens.  
-"Du kannst wohl nicht Tringeln."  
-
-</div>
-
----
-
-<div class="column column--right" markdown>
-
-**[English Version]**  
-
-</div>
-</div>
-
----
-
-[![Img][St28]{ .artR width="140" }][St28]
-
-Status:  
-- Init transcription/translation: 
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-
-
-### Free Association 31
+### Free Association
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -1910,23 +1810,37 @@ Meine Geschichte später unsere Ge. Die Notjahr der Ostz. Waßer Burucratze schn
 ---
 
 <div class="column column--right" markdown>
-**[English Version]**  
+**[English Version]**   
+My story, later our story. The years of hardship [in the eastern zone?]. Water. [Unclear]. Rapid healing. Weakness. Black. Grandfather's suicide. Border. Stop in Cologne. Switzerland. Old woman Freiburg. Black Forest. Blacksmith. Well driller. Medicines. Railway track worker. Sales representative. Plumber.
+
+Got married. Great love. Living in the Leibgedinge. Gliding. Emigration. Palatinate. [Unclear]. Tears. [Unclear].
+
+Three little boys, the little one in a carry bag. Old transport ship from Hamburg. Cleveland, Ohio. Great promises. Empty promises. Found nothing of it. Old Polish ethnic German. Work with the NYCRR as an electrician on locomotives. 50-dollar car, '49 Ford. Old clothes. My first house.
+
+Powered flying. Friend's accident. Reproaches. Gave it up. Girl and boy. Violin. Both working. Jewish house. By then moved eight times. Chain of unpleasant events. Jewish doctor. Work colleague. Water pollution.
+
+Move to California. Journey through the States in a Volkswagen bus. Greeted with hello. Yosemite Park. German folk songs. [Unclear phrase concerning California].
+
+We didn't stay long in California. From Frisco to Hawaii. Honolulu didn't appeal to us. Big Island of Hawaii. Palm trees, corrugated iron roofs, warm air. Summer all year round. Rainy season.
+
+Work for hotels. Business. Self-employed. Building my big house. Volcanic eruptions. Lightning during earthquakes. Hunting. Spearfishing. Fishing. Beauties in the water. Monterey. [Fish species unclear] like dragons. Hagfish.
+
+Aloha Friday. The language. The people. The homesickness. Back home, there's nothing.
+
+Working on the neighbouring islands. Different sands. Sand paintings. Photography. Camera club president. Wife always there. Telescope. German friends. Painter Averbeck. Visiting the other islands, flew myself.
+
 </div>
 </div>
 
 [![Img][St31]{ .artR width="140" }][St31]
 
 Status:  
-- Init transcription/translation: 
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
+- Init transcription/translation: 2026.11.28
 - Mod:  
 
 
--->
+
+
 
 <!--  Image references  -->
 
