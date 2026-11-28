@@ -4,6 +4,7 @@
 [![Freiburg 1944][Brb02]{ .artC width="1100" }][Brb02]
 
 <!-- vale off -->
+
 <hr class="section-break strong" />
 
 
@@ -23,14 +24,13 @@
   .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
 </style>
 
+
 <div class="flex-container" markdown>
+
 <div class="column" markdown>
-
-
 [![Img][St99]{ .artR width="480" }][St99]
-
-
 </div>
+
 <div class="column column--right" markdown>
 
 My notes on the process of translating and formatting can be 
@@ -46,6 +46,7 @@ The *general format* of this document will be:
 An image (or images) of the original document are provided - right-click and "View in a new Tab" to inspect the document.
 
 </div>
+
 </div>
 
 <hr class="section-break strong" />
@@ -58,6 +59,7 @@ An image (or images) of the original document are provided - right-click and "Vi
 
 
 
+[![Flying][BnrP1]{ .artC width="1100" }][StP1]
 
 
 
@@ -95,7 +97,7 @@ My parents had rented a small flat on the top floor of the Coja house, with slop
 [![Img][St29]{ .artR width="140" }][St29]
 
 Status:  
-- Init translation 2025.09.30  
+- Init transcription/translation:2025.09.30  
 - Mod:  
 - Mod:  
 - Mod:  
@@ -148,7 +150,7 @@ Next to K’s parents lived the Rhodes: truly lovely, kind people. The father wa
 [![Img][St30]{ .artR width="140" }][St30]
 
 Status:  
-- Init translation 2025.09.30  
+- Init transcription/translation:2025.09.30  
 - Mod:  
 - Mod:  
 - Mod:  
@@ -181,13 +183,17 @@ Kurtchen's Jugend fiel in die sog. sogenannte Systemzeit. Die vielen Parteien mi
 
 Ostern 1930 kam K. in die Schule. Noch trug er den abgetragenen Anzug. Seine grossen braunen Kulleraugen schauten ängstlich in die Welt. Selbst die riesige Zuckertüte konnte seine kindliche Angst versüßen. Seine Mutter erwähnte nur zu oft, dass jetzt der Ernst des Lebens beginne und die gute Zeit vorbei sei. So gerne hatte er noch im Sandkasten der Stadtanlagen gespielt. Die Tante Lotte besucht oder mit der Grossmutter im Schrebergarten geholfen. 
 
-Der Schulweg wurde ihm vorgeschrieben. Obwohl die vielen Umwege durch die kleinen Seitengassen der alten Stadt den Schulweg auf das doppelte verlängerten. Die Strassen waren gefährdet durch politische Aufmärsche und Tumulte der Parteien und Polizei. 
+---
 
-Hoffmann Gerhard, der ein Jahr älter als K. war, wusste immer wenn was los war. Sein Vater war SD (*Sicherheitsdienst, the Nazi Party/SS intelligence and security service*). So war K. immer gut informiert über das Zeitgeschehen. 
+Der Schulweg wurde ihm vorgeschrieben. Obwohl die vielen Umwege durch die kleinen Seitengassen der alten Stadt den Schulweg auf das doppelte verlängerten. Die Strassen waren gefährdet durch politische Aufmärsche und Tumulte der Parteien und Polizei. Hoffmann Gerhard, der ein Jahr älter als K. war, wusste immer wenn was los war. Sein Vater war SD (*Sicherheitsdienst, the Nazi Party/SS intelligence and security service*). So war K. immer gut informiert über das Zeitgeschehen. 
 
-Im Hinterhof der Cojas traf sich öfters bei wichtigen Aufmärschen die Kom. (*Likely: Kommunistische*) Kapelle. Die Bläser etc. waren Schlosserlehrlinge. Portier Namke sorgte für den Takt. Sein durch eine Kriegsverletzung linkes Bein war etwas kürzer. Bei links kam die Pauke in Schräglage, wobei Namke kräftig von oben auf die Pauke hieb. Der Gleichschritt der M.K. (*Musikkapelle*) war gesichert. Die Losungen wurden verteilt. Aber im Hinterhof nicht ausgerufen. Denn im Vorderhaus wohnten zu viele Sozis.
+---
 
-<br>
+Im Hinterhof der Cojas traf sich öfters bei wichtigen Aufmärschen die Kom. (*Likely: Kommunistische*) Kapelle. Die Bläser etc. waren Schlosserlehrlinge. Portier Namke sorgte für den Takt. Sein durch eine Kriegsverletzung linkes Bein war etwas kürzer.   
+Bei links kam die Pauke in Schräglage, wobei Namke kräftig von oben auf die Pauke hieb. Der Gleichschritt der M.K. (*Musikkapelle*) war gesichert.   
+Die Losungen wurden verteilt. Aber im Hinterhof nicht ausgerufen. Denn im Vorderhaus wohnten zu viele Sozis.
+
+---
   
 Kaum waren sie aus dem vorderen Tor von Landl heraus, ging es schon los.  
 Wer hat uns verraten.   
@@ -206,13 +212,20 @@ Rot Front.
 
 Kampflieder wurden gesungen. Gerh. u. K. sangen mit. Obwohl die Väter Sozis, es klang doch so schön. Inzwischen war man am Markt angelangt. Der Aufmarsch war von langer Hand vorbereitet. Von Neumarkt und anderen Orten waren die Kommunisten erschienen. Auf der Treppe des Rathauses begann eine Frau eine geifernde Rede gegen die Kapitalisten. Die Jungens konnten nicht sehen was anging. 
 
-Gerade als sie anfingen die Telefonzelle zu erklettern, erschien die Polizei mit Wasserwerfern. So ein Rindvieh in ihrer Nähe eine Handgranate abzog. Ein Toter und zwei Schwerverletzte lenkten die Aufmerksamkeit von den Jungens ab. 
+---
 
-Gerh. ging zu einem Kerl mit der Bemerkung: “Mein Freund blutet wie ein Schwein.“ Ein Stück Glas Ein Stück Glas von der Telefonzelle stak in seinem Arm. 
+Gerade als sie anfingen die Telefonzelle zu erklettern, erschien die Polizei mit Wasserwerfern. So ein Rindvieh in ihrer Nähe eine Handgranate abzog.   
+Ein Toter und zwei Schwerverletzte lenkten die Aufmerksamkeit von den Jungens ab. Gerh. ging zu einem Kerl mit der Bemerkung:   
+“Mein Freund blutet wie ein Schwein.“   
+Ein Stück Glas von der Telefonzelle stak in seinem Arm. 
 
 Der Mann zog die Jungens in den nächsten Hausgang. 
 
-K. war kreidebleich. “Mein Vater schlägt mich tot.“ Die Angst vor der Strafe war grösser als die Folgen der Verletzung. Zum Glück war es nur eine kleine Fleischwunde mit viel Blut. Mit Jod und Leukoplast war die Sache behoben.
+---
+
+K. war kreidebleich.   
+“Mein Vater schlägt mich tot.“   
+Die Angst vor der Strafe war grösser als die Folgen der Verletzung. Zum Glück war es nur eine kleine Fleischwunde mit viel Blut. Mit Jod und Leukoplast war die Sache behoben.
 
 
 </div>
@@ -224,15 +237,19 @@ K. war kreidebleich. “Mein Vater schlägt mich tot.“ Die Angst vor der Straf
 
 Little Kurt’s youth occurred during the so-called System era. The many parties with their different ideas to solve the social and economic problems. To the disadvantage of the Germans, the most radical party won. In his childlike naivety Little Kurt naturally did not know what was actually going on here. Most adults, incidentally, did not either.
 
-At Easter 1930 K. started school. He was still wearing the worn-out suit. His big brown round eyes looked anxiously into the world. "Not" even the enormous sugar cone could sweeten his childlike fear. His mother mentioned only too often that now the seriousness of life would begin and the good times would be over. How gladly he would have still played in the sandpit of the municipal gardens. Visited Aunt Lotte or helped Grandmother in the allotment garden.
+At Easter 1930 K. started school. He was still wearing the worn-out suit. His big brown round eyes looked anxiously into the world. "Not" even the enormous sugar cone could sweeten his childlike fear. His mother mentioned only too often that now the seriousness of life would begin and the good times would be over. How gladly he would have still played in the sandpit of the municipal gardens.    
+Visiting Aunt Lotte, or helping Grandmother in the allotment garden.
 
-The route to school was prescribed for him. Although the many detours through the little side streets of the old town doubled the route to school. The streets were endangered by political marches and tumults of the parties and police.
+---
 
-Hoffmann Gerhard, who was one year older than K., always knew when something was going on. His father was SD (*Sicherheitsdienst, the Nazi Party/SS intelligence and security service*). So K. was always well informed about the events of the time.
+The route to school was prescribed for him. Although the many detours through the little side streets of the old town doubled the route to school.   
+The streets were endangered by political marches and tumults of the parties and police. Hoffmann Gerhard, who was one year older than K., always knew when something was going on. His father was SD (*Sicherheitsdienst, the Nazi Party/SS intelligence and security service*). So K. was always well informed about the events of the time.
 
-In the rear courtyard of the Cojas the Com. (*Likely: Kommunistische*) band often met for important marches. The wind players etc. were apprentice locksmiths. Porter Namke provided the beat. His left leg, through a war injury, was somewhat shorter. On the left the kettledrum tilted, whereupon Namke struck the kettledrum forcefully from above. Marching in step of the M.K. (*Musikkapelle*) was assured. The slogans were distributed. But not called out in the rear courtyard. Because too many Social Democrats lived in the front building.
+---
 
-<br>
+In the rear courtyard of the Cojas the Com. (*Likely: Kommunistische*) band often met for important marches. The wind players etc. were apprentice locksmiths. Porter Namke provided the beat. His left leg, through a war injury, was somewhat shorter. On the left the kettledrum tilted, whereupon Namke struck the kettledrum forcefully from above. Marching in step of the M.K. (*Musikkapelle*) was assured. The slogans were distributed, but not announced in the rear courtyard because "too many Social Democrats" lived in the front building.
+
+---
 
 They had hardly come out through the front gate of Landl when it already started.   
 Who betrayed us.   
@@ -250,13 +267,19 @@ Red Front.
 
 Battle songs were sung. Gerh. and K. sang along. Although the fathers were Social Democrats, it sounded so beautiful. In the meantime they had arrived at the market. The march had been prepared well in advance. The Communists had appeared from Neumarkt and other places. On the steps of the town hall a woman began a vitriolic speech against the capitalists. The boys could not see what was going on.
 
-Just as they began to climb the telephone booth, the police appeared with water cannons. Some idiot (*Rindvieh*) near them set off a hand grenade. One dead and two seriously injured diverted the boys' attention.
+---
 
-Gerh. went to a fellow with the remark: “My friend is bleeding like a pig.” A piece of glass from the telephone booth was stuck in his arm.
+Just as they began to climb the telephone booth, the police appeared with water cannons. Some idiot (*Rindvieh*) near them set off a hand grenade. One dead and two seriously injured diverted the boys' attention. Gerhardt remarked to a fellow bystander:   
+“My friend is bleeding like a pig.”   
+A piece of glass from the telephone booth was stuck in his arm.
 
 The man pulled the boys into the nearest entrance hall.
 
-K. was chalk-white. “My father will beat me to death.” The fear of the punishment was greater than the consequences of the injury. Fortunately it was only a small flesh wound with a lot of blood. With iodine and Leukoplast the matter was dealt with.
+---
+
+K. was as white as chalk.   
+“My father will beat me to death.”   
+The fear of the punishment was greater than the consequences of the injury. Fortunately it was only a small flesh wound with a lot of blood. With iodine and Leukoplast the matter was dealt with.
 
 </div>
 </div>
@@ -344,7 +367,7 @@ He had never seen Auntie like that before. When they arrived at the school, she 
 [![Img][Sp08]{ .artR width="140" }][Sp08]
 
 Status:  
-- Init translation 2025.09.30  
+- Init transcription/translation:2025.09.30  
 - Mod:  
 - Mod:  
 - Mod:  
@@ -357,7 +380,67 @@ Status:
 
 
 
+### Die Fliegerei
 
+<div class="flex-container" markdown>
+<div class="column" markdown>
+**[Auf Deutsch]**  
+**--**  
+K. Traum war die Fliegerei. Als er noch in [einem?] Hof eingesperrt schaute er oft über sich hoch in den Himmel. Das Einzige über ihm hatte keine Begrenzung war der Himmel. Jedesmal wenn ein Flugzeug über den Hof nach Schlesien flog schrie er nach Leibeskräften 
+
+Flieger    
+Flieger 
+
+Die einzige Freiheit die war oben. Alles hatte sein Grenze. Der Hof, die Strasse selbst der Kindergarten. Die Freiheit war oben. Wenn ich nur fliegen könnte Wie die Sperlinge. Nur noch höher. Grossmutter rief runter zum Hof.   
+K. mach nicht so viel Krach.  
+Die Mutter sofort kommst du hoch.  
+
+In seinem Zimmer ging er nun seinen Träumen nach. Fliegen müsste man können. Eines Sonntag morgens nahm ihn sein Vater zum Exerzierplatz früher Gefangenenlager. Ein Privater Bastler hatte ein Flugzeug gebaut. Der Flugplatz war zu kurz. Der Amateur hatte sich entschlossen um genügend Fahrt aufzuholen im Westen zu starten. Am Ende stand eine Starthilfe und hielt eine Tragfläche bis die Flugmaschine nach Westen zeigte. Mit all der weisen Überlegung und guten Willens, der Flug endete in einer Bruchland[ung?]. 
+
+Trotz des Misserfolgs K. entschloss ich werde Pilot. Die nächsten Jahre waren nicht gerade ermunternd für sein Projekt. Seit die Schüler [Schübel?] aus den Hinterhof ausgezogen waren hatte sich so vieles für ihn verschlechtert.
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+**[English Version]**  
+K.'s dream was flying. When he was still shut up in the courtyard he often looked up above him into the sky. The only thing above him that had no boundaries was the sky. Every time an aeroplane flew over the courtyard towards Silesia he shouted at the top of his lungs:
+
+"Aeroplane! Aeroplane!"
+
+The only freedom was up above. Everything had its boundaries. The courtyard, the street, even the kindergarten. Freedom was up above.   
+If only I could fly. Like the sparrows. Only higher.   
+Grandmother called down into the courtyard.
+"K., don't make so much noise."   
+His mother: "You come upstairs this instant."
+
+In his room he pursued his dreams. One ought to be able to fly.
+
+One Sunday morning his father took him to the parade ground, formerly a prison camp. A private tinkerer had built an aeroplane. The airfield was too short. The amateur had decided, in order to pick up enough speed, to take off towards the west [with a tailwind].
+
+At the end stood someone assisting with the take-off and held one wing until the flying machine pointed west. With all the wise deliberation and good intentions, the flight ended in a crash landing. Despite the failure, K. decided:
+
+I will become a pilot.
+
+The next few years were not exactly encouraging for his project. Since the [Schübel family?] had moved out of the back courtyard, so much had changed for the worse for him.
+</div>
+</div>
+
+[![Img][St26]{ .artR width="140" }][St26]
+
+[![Img][Sp26]{ .artR width="140" }][Sp26]
+
+Status:  
+- Init transcription/translation: 2026.11.28
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+
+<hr class="section-break strong" />
 
 
 
@@ -396,7 +479,7 @@ The session then continued with racial reflections. Naturally, only people with 
 [![Img][St25]{ .artR width="140" }][St25]
 
 Status:  
-- Init translation 2025.09.30  
+- Init transcription/translation:2025.09.30  
 - Mod:  
 - Mod:  
 - Mod:  
@@ -444,7 +527,7 @@ At the next meeting it was decided that I was to start as a technical draftsman 
 [![Img][St24]{ .artR width="140" }][St24]
 
 Status:  
-- Init translation 2025.09.30  
+- Init transcription/translation:2025.09.30  
 - Mod:  
 - Mod:  
 - Mod:  
@@ -466,7 +549,7 @@ Status:
 
 
 
-
+[![Flying][BnrP2]{ .artC width="1100" }][StP2]
 
 
 
@@ -521,7 +604,7 @@ Moved observations to [Issues](/family/pappa2/#02-oct-2025)
 [![Img][St01]{ .artR width="140" }][St01]
 
 Status:  
-- Init translation 2025.09.30  
+- Init transcription/translation:2025.09.30  
 - Mod:  
 - Mod:  
 - Mod:  
@@ -569,7 +652,7 @@ Before long he had the chance to witness an air show. One of Father’s workmate
 [![Img][St23]{ .artR width="140" }][St23]
 
 Status:  
-- Init translation 2025.09.30  
+- Init transcription/translation:2025.09.30  
 - Mod:  
 - Mod:  
 - Mod:  
@@ -621,8 +704,8 @@ Now, one of us wasn’t as lucky or as gifted as we were — a certain Bone. The
 [![Img][St20]{ .artR width="140" }][St20]
 
 Status:  
-- Init translation  2026.01.15
-- Mod:  
+- Init translation: 2026.01.15
+- Mod: 2026.11.28
 - Mod:  
 - Mod:  
 - Mod:  
@@ -677,7 +760,15 @@ After three days, though, everything changed. The flight instructors arrived. Fl
 
 **[Auf Deutsch]**  
 
-Wer würde aber auf mich hören. Zunacht arbeitete ich noch in der Küche. Der Küchenbulle war ein Schweinskopf stets darauf bedacht sein machtstellung an uns kleinen Scheisern auszunutzen und uns schikanieren. Meine Knoera? den sagte "Mensch, laß doch nur des Eßen anbrennen." Das ging nur leider nicht. Denn die Keßel waren mit Glitzerin.  Am nächsten Tag hatte ich einen guten Einfall. 10 Pfn und Salz. Keiner konnte den Eintopf fresen. Natürlich hatte ich nichts damit zu tun. Trotzdem schob man mich ab. Mehr als eine Woche von deisen Lehrgang waren schon vorbei. Zuruck zum Flugbetrieb war ich wieder auf der Warteliste. Schon am ersten Tag hatten wir ein.   
+Wer würde aber auf mich hören.   
+
+Zunacht arbeitete ich noch in der Küche. Der Küchenbulle war ein Schweinskopf stets darauf bedacht sein machtstellung an uns kleinen Scheisern auszunutzen und uns schikanieren. Meine Kamaraden dann sagten:   
+"Mensch, laß doch nur des Eßen anbrennen."   
+Das ging nur leider nicht. Denn die Keßel waren mit Glitzerin.  
+
+---
+
+Am nächsten Tag hatte ich einen guten Einfall. 10 Pfn und Salz. Keiner konnte den Eintopf fresen. Natürlich hatte ich nichts damit zu tun. Trotzdem schob man mich ab. Mehr als eine Woche von deisen Lehrgang waren schon vorbei. Zuruck zum Flugbetrieb war ich wieder auf der Warteliste. Schon am ersten Tag hatten wir ein.   
 Herr Steiner ich habe gesehen wie Sie diese gefahliche Situation gemeistert haben.  
 Steiner: Sie wißen wie man darüber denkt. Ja den ich habe es gesehen.
 
@@ -692,10 +783,17 @@ Steiner: Sie wißen wie man darüber denkt. Ja den ich habe es gesehen.
 
 But who would listen to me?
 
-At first I was still working in the kitchen. The kitchen boss was a real pighead, always intent on using his position of power against us little shits and harassing us. My comrades said, “Man, just let the food burn.” Unfortunately that wasn’t really possible — the kettles were **[glazed/enamelled]**. The next day I had a good idea: **ten pounds of salt**. No one could eat the stew. Of course I had nothing to do with it. Even so, they got rid of me. More than a week of this course had already gone by. Going back to flight operations, I was put back on the waiting list.
-Already on the first day we had a … [incident].
-“Mr Steiner, I saw how you handled that dangerous situation.”
-Steiner: “You know what people think about that."
+At first I was still working in the kitchen. The kitchen boss was a real pighead, always intent on using his position of power against us little shits and harassing us.   
+My friends told me,   
+“Man, just let the food burn.”   
+Unfortunately that wasn’t really possible — the kettles were glazed enamel. 
+
+---
+
+The next day I had a good idea: **ten pounds of salt**. No one could eat the stew. Of course I had nothing to do with it. Even so, they got rid of me. More than a week of this course had already gone by. Going back to flight operations, I was put back on the waiting list.   
+Right on the first day we had an incident.   
+“Mr Steiner, I saw how you handled that dangerous situation.”   
+Steiner: “You know what people think about that."   
 "Yes — because I saw it.”
 
 </div>
@@ -706,9 +804,9 @@ Steiner: “You know what people think about that."
 [![Img][Sp21]{ .artR width="140" }][Sp21]
 
 Status:  
-- Init translation 2025.09.30  
-- Mod: 31.12.2025
-- Mod:  
+- Init transcription/translation:2025.09.30  
+- Mod: 2025.12.31
+- Mod: 2026.11.28
 - Mod:  
 - Mod:  
 - Mod:  
@@ -723,7 +821,7 @@ Status:
 
 
 
-### 1941 Der Letxte
+### 1941 Der Letzte
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
@@ -751,7 +849,7 @@ Status:
 [![Img][St17]{ .artR width="140" }][St17]
 
 Status:  
-- Init translation 2025.09.30  
+- Init transcription/translation:2025.09.30  
 - Mod:  
 - Mod:  
 - Mod:  
@@ -860,7 +958,7 @@ The cable was hooked on. Uwe lifted the wing. Signal in, signal out. The cable t
 [![Img][Sp03]{ .artR width="140" }][Sp03]
 
 Status:  
-- Init translation 2026.01.15   
+- Init transcription/translation:2026.01.15   
 - Mod:  
 - Mod:  
 - Mod:  
@@ -873,6 +971,102 @@ Status:
 
 
 
+
+
+
+### 1945 Fliegen
+
+Notes are [here](/family/pappa2/#1945-tales-of-a-pow)
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+
+**[Auf Deutsch]**  
+
+**1-Mar-1945**  
+
+Es war der 1. März 45. Wie jeden Morgen der erste Blick [K. war zum Himmel]. Die Bauern und besonders die Flieger interessierten sich für das Wetter. Das Wetter war lausig. Alles grau in grau. Heute fliegen wir [nicht?]. 
+ 
+Neben dem Bett hatte K. einen Electro Kocher und fing damit an sich ein Jagdwurst zu braten. Gerade schlug er ein geliehenes Buch auf. Der Titel war Drei Groschen für mein Leben. Ein altes Landsknechtsbuch.
+
+---
+
+Weiter kam er nicht. Der Ober L. Kohlhagen erschien in der Tür und war sehr ungehalten, seine Leute noch im Bett zu finden. K. war das sehr peinlich. War es doch stets für ihn von grosser Wichtigkeit ein guter Soldat zu sein. Hahn wir fliegen in 15 Minuten. Während des ankleidens aß er noch von der Wurst. Prompt ver-brannte er sich die Zunge. Doch ging alles sehr rasch. Uniformhose Lederweste Lederjacke [?] Lederhose Pelzstiefel ohne Socken. In einer Stunde sind wir ja wieder zurück.   
+Noch das Koppel mit der Pistole. Die Fliegerhaube. Der Oberl. war überrascht. Sind Sie schon fertig. Jawoll. Herr Oberlt. Da war nicht wie gewöhnlich ein Wagen der sie zur anderen Seite des Kpl. brachte. Sie stiegen in einen Fieseler Storch. Im Tiefflug ging es zur anderen Seite des Flugplatzes. Ein Auto wäre im Schlamm stecken geblieben.
+
+--- 
+
+Der Oberleutnant gab seine Befehle. Zu K. sagte er nur. Warten sie bis ich gest. bin. Der Platz war ein Matschfass. Selbst der OL war sich nicht sicher. Die Techniker hatten die Maschinen Startklar. Die Piloten stiegen ein. Zur selben Zeit wurden die Schwungkraft anlasser in Bewegung gesetzt. Die Mechaniker sprangen von den Tragflächen und mit einem lauten gebrüll sprangen die Motoren an. Kohlhagen drehte in die Startrichtung und gab Gas.
+
+Die Mech. drehten ihm den Rücken zu denn der Propellerwind war kalt. K. drehte seine Messerschmitt etwas zur Seite, dass er sehen konnte wie der OL über den Platz jagte. Die Räder pflügten durch den Schlamm und warfen ihn in die Höhe. Von dem Propeller wind erfasst wurde er zurück geworfen in die Kühlerklappen für die Motorkühlung. Der OL Startete mit geschlossenen Kühlerklappen. Endlich kam er frei. 
+
+K. drehte [in?] in den Wind. Auf den Bremsen stehend gab er Gas. Der Motor heulte auf die Räder rutschten durch den Schlamm. Zügig den Gashebel nach vorn. Von den Bremsen die Maschine holt Geschwindig keit auf.
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+
+**[ English Version ]**  
+
+**1-Mar-1945**  
+
+It was the 1st of March 1945. As every morning, [K.'s first glance was towards the sky]. The farmers and especially the airmen were interested in the weather. The weather was lousy. Everything grey upon grey. Today we [won't?] be flying.
+
+Beside the bed K. had an electric cooker and began frying himself some Jagdwurst. He had just opened a borrowed book. The title was Three Groschen for My Life. An Old Landsknecht's Book.
+
+---
+
+He got no further. Lieutenant Kohlhagen appeared in the doorway and was very annoyed to find his men still in bed. K. was very embarrassed about that. After all, it had always been of great importance to him to be a good soldier.
+
+"Hahn, we're flying in 15 minutes."
+
+While getting dressed he ate some more of the sausage. Promptly burnt his tongue. But everything went very quickly. Uniform trousers, leather waistcoat, leather jacket, leather trousers, fur-lined boots without socks. We'll be back in an hour anyway.
+
+Still the belt with the pistol. The flying helmet.
+
+The lieutenant was surprised.
+
+"Are you ready already?"
+
+"Yes, sir."
+
+There wasn't a car as usual to take them to the other side of the airfield. They climbed into a Fieseler Storch. Flying low, they went to the other side of the airfield. A car would have gotten stuck in the mud.
+
+The first lieutenant gave his orders. To K. he said only:
+
+"Wait until I've taken off."
+
+The airfield was a mud bath. Even the first lieutenant wasn't sure.
+
+The technicians had the aircraft ready for take-off. The pilots climbed in. At the same time the inertia starters were set in motion. The mechanics jumped down from the wings and with a loud roar the engines sprang to life. Kohlhagen turned in the direction of take-off and opened the throttle. The mechanics turned their backs to him because the propeller wash was cold.
+
+K. turned his Messerschmitt slightly to one side so that he could see how the first lieutenant raced across the airfield. The wheels ploughed through the mud and threw it into the air. Caught by the propeller wash, it was thrown back into the radiator flaps for the engine cooling.
+
+The first lieutenant took off with the radiator flaps closed. Finally he got clear.
+
+K. turned into the wind. Standing on the brakes he opened the throttle. The engine howled, the wheels slipped through the mud. Briskly forward with the throttle. Off the brakes, the aircraft picks up speed.
+
+</div>
+</div>
+
+---
+
+[![Img][St12]{ .artR width="140" }][St12]
+
+[![Img][Sp12]{ .artR width="140" }][Sp12]
+
+Status:  
+- Init transcription/translation 2026.11.28 
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+
+<hr class="section-break strong" />
 
 
 
@@ -923,7 +1117,7 @@ Early the next morning he went to the command post. It was damn cold and the sno
 [![Img][Sp11]{ .artR width="140" }][Sp11]
 
 Status:  
-- Init translation 2025.10.10  
+- Init transcription/translation:2025.10.10  
 - Mod:  
 - Mod:  
 - Mod:  
@@ -974,7 +1168,7 @@ In Dortmund he received new flight orders: he was now heading to Halle. That was
 [![Img][St13]{ .artR width="140" }][St13]
 
 Status:  
-- Init translation 2025.09.28  
+- Init transcription/translation:2025.09.28  
 - Mod:  
 - Mod:  
 - Mod:  
@@ -1022,7 +1216,7 @@ After three stretches of four days it became second nature to avoid the bunk. Ac
 [![Img][St27]{ .artR width="140" }][St27]
 
 Status:  
-- Init translation  2026.01.15
+- Init transcription/translation: 2026.01.15
 - Mod:  
 - Mod:  
 - Mod:  
@@ -1031,11 +1225,6 @@ Status:
 - Mod:  
 
 <hr class="section-break strong" />
-
-
-
-
-
 
 
 
@@ -1083,7 +1272,7 @@ The children were sitting on an Opel Kadett.
 [![Img][St18]{ .artR width="140" }][St18]
 
 Status:  
-- Init translation 2025.09.30  
+- Init transcription/translation:2025.09.30  
 - Mod:  
 - Mod:  
 - Mod:  
@@ -1092,8 +1281,6 @@ Status:
 - Mod:  
 
 <hr class="section-break strong" />
-
-
 
 
 
@@ -1140,7 +1327,7 @@ A *fellow who resembled* the Grim Reaper walked back and forth as if under commi
 [![Img][St07]{ .artR width="140" }][St07]
 
 Status:  
-- Init translation 2025.10.10  
+- Init transcription/translation:2025.10.10  
 - Mod:  
 - Mod:  
 - Mod:  
@@ -1149,8 +1336,6 @@ Status:
 - Mod:  
 
 <hr class="section-break strong" />
-
-
 
 
 
@@ -1192,7 +1377,7 @@ The next day, after the bread was handed out, I forced myself to go outside agai
 [![Img][St10]{ .artR width="140" }][St10]
 
 Status:  
-- Init translation 2025.09.30  
+- Init transcription/translation:2025.09.30  
 - Mod:  
 - Mod:  
 - Mod:  
@@ -1201,9 +1386,6 @@ Status:
 - Mod:  
 
 <hr class="section-break strong" />
-
-
-
 
 
 
@@ -1249,7 +1431,7 @@ There were crates with three cylinders; the lids had been removed.
 [![Img][St15]{ .artR width="140" }][St15]
 
 Status:  
-- Init translation 2025.09.30  
+- Init transcription/translation:2025.09.30  
 - Mod:  
 - Mod:  
 - Mod:  
@@ -1294,7 +1476,7 @@ The way to the west exit was made even harder by the coarse ballast of the track
 [![Img][St05]{ .artR width="140" }][St05]
 
 Status:  
-- Init translation 2025.09.30  
+- Init transcription/translation:2025.09.30  
 - Mod:  
 - Mod:  
 - Mod:  
@@ -1303,202 +1485,6 @@ Status:
 - Mod:  
 
 <hr class="section-break strong" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Post-War
-
-### 1946 Herbst
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-
-**[Auf Deutsch]**  
-
-**Herbst 1946** Ein Herbst des Hungers. O ihr lieber Leser wußt ihr was Hunger ist. Ist mein Hunger groß geschrieben. Es zieht sich durch Deine Gedärme. Ja, Hunger tut weh. Es ist ein Schmerz ganz nah zu Deine Seele.  
-"Unser täglich Brot gieb uns Heute." Da ist nichtmal keine einzige Krußt. Am Morgen stehst Du auf und mußt Dich erst auf die Bettkante setzen. Es wird Dir schwarz vor die Augen und es daurt schon eine Weile bevor Du aufstehen kannst. Da Hemd klebt am Leibe. Von och nächte haß geschwitzt. Wer nie sein Brot mit Tränen aß wer ein Kummervollen Nächten auf seinem Bett weinend sas der Kennt Euch nicht ihr himmlichen Mächte.  
-Ja, das waren die guten alten Zeiten. Die hatten noch Brot. Was uns geblieben waren nur Tränen und dieser verfluchte Hunger.  
-K wartete schon 10 Minuten auf seinen Freund Fritz. Es war nachts 2:00 Unr. Beide arbeiteten eine 48 Stunden Woche. Für den verdient kannten Beiden nicht die nötigen Lebensmittel kaufen. So mußten sie Nachts sich stehlen was ihnen einfach für eine normale Nahrung fehlte.  
-
----
-
-K. hörte Fritchen kommen. Sein Schritt war leicht einen Anderen zu untersch(ieden?). Fritz hatte eine Beinverletzung vom Kreig und zog das eine Bein etwas nach. Schweigsam ging [mua?] auf ein gewißen Ziel. Die letzten Tage waren sie immer zu seinen Kartoffel Acker bevorzugt gegangen und hatten fein säuberlich eine Furche nach defr Anderen die Kartoffeln geerntet.  
-Es war eine warme Herbstnacht. Die Sterne blichten auf sie herab. Als sie näher zum Gebiet ihren Tätigkeit kamen, ein Hund mit wedeln der Ruhe entgegen. K. kniete sofort um beßer zu können was hier angeht. Zur selben Zeit nahm er den Kopf des Hundes und streichelte ihn. Fritz und I. waren sehr still und horchten was diese eigenartige Geräusch war was da aus dem Kartoffleacker kam. Nun es war der Bauer der seine Kartoffeln gemeindsam mit seinem Hunde bewuchte. K. streichelte den Hund and Fritz nahm seine Säcke um sie zu füllen mit Kartoffeln. Natürlich K. streichelte immernoch diesen Köder. Dieser armer Hundevie hätte womöglich von seinen sturen Bauren immer nur Prügel bekommen. Ein angenehmes Schnurren entrang sich Seiner Dienst.  
-
-</div>
-
----
-
-<div class="column column--right" markdown>
-
-**[ English Version ]**  
-
-**Autumn 1946** An autumn of hunger. Dear reader, do you know what hunger is? I write "Hunger" in all caps. It winds through your guts. Hunger hurts, a pain pressed right up against your soul.  
-
-“Give us this day our daily bread.” Not even a crust remains. In the morning you force yourself upright, only to sit on the edge of the bed for a spell, feeling like you're about to pass out. It takes a while before you can stand up. Your shirt clings to you, soaked from the night-sweats.  
-
-“Whoever has never eaten his bread with tears, whoever has sat weeping on his bed during a worrisome night, does not know you, oh heavenly powers.”  
-
-Yes, those were the good old days. They had bread in those days. Now all we have are tears and this damned hunger. 
-  
-K had already been waiting ten minutes for his friend Fritz. It was two in the morning. Both worked forty-eight hours a week, yet on their wages they couldn’t buy enough to eat. So, some nights they would steal food just to survive.  
-
----
-
-K. heard Fritchen coming. His step was easy to distinguish from anyone else’s. Fritz had sustained a leg injury in the war, and ended up lame: he dragged one leg a little. Silent, [mua?] went toward a certain aim. In the last days they had always preferred going to his potato field and had neatly harvested the potatoes, one furrow after the other.  
-
-It was a warm autumn night. The stars looked down on them. As they came nearer to the area of their activity, a dog, tail wagging, came towards the [Rute?]. K. knelt at once to assess the situation. At the same time he took the dog’s head and stroked it.  
-Fritz and K sliently listened to a peculiar noise coming from the potato field. It was the farmer, watching over his potato crop, together with his dog. *Editor's note: He must have fallen asleep and so what K and Fritchen heard was him snoring.* As K pet the dog, Fritz filled his sacks with potatoes.  
-K kept stroking the mutt. The poor dog probably got nothing but beatings from the brutal farmer. A pleasant purring escaped his [throat?].  
-  
-(Yeah, this still needs work.)
-
-</div>
-</div>
-
----
-
-[![Img][St04]{ .artR width="140" }][St04]
-
-[![Img][Sp04]{ .artR width="140" }][Sp04]
-
-Status:  
-- Init translation 2025.09.28  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 1945 Nach dem Kreig
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-
-**[Auf Deutsch]**  
-
-In hauer Tschenstochau lagen etwa 13000 Gefangene. Es was von den Deutschen gebaut worden. Wer weiß wieviel Menschen hier schon gestorben sind. Als ein Transport ankam war es gerade am Regnen. Obwohl die Baracken füe so viel Gefangene lerr standen, müßten die Deutschen Schweine im kalten Regen warten. Am Boden lag noch Schnee der sich in Matsch verwandelte. Endlich etwa noch drei Stunden. Kam eine russische Abernung um diesen Haufen halb erfrorener Mensch Zahlen - und Namenmäßig zu erfaßen.  
-
-</div>
-
----
-
-<div class="column column--right" markdown>
-
-**[ English Version ]**  
-  
-There were about 13,000 prisoners in the Tschenstochau camp. It had been built by the Germans. Who knows how many people have already died here. When a transport arrived, it was raining. Even though the barracks stood empty for so many prisoners, the German swine kept us waiting out in the cold rain. There was still snow on the ground, turning to slush. Finally, after about three hours, a Russian detachment came to register this lot of half-frozen people by number and by name.
-  
-</div>
-</div>
-
----
-
-[![Img][St09]{ .artR width="140" }][St09]
-
-Status:  
-- Init translation 2025.09.28  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-
-
-### 1945 16
-
-Notes are [here](/family/pappa2/#29-aug-2026)
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-
-**[Auf Deutsch]**  
-**1945**  
-Martini nach dem Krieg  
-Es war bitter Kalt im Winter 45. Der Hunger machte es fast unertraglich für uns diese schreckliche Zeit zu überstehen . Gegen 12:00 ging ich zu unserer Werkstatt. Als ich die Teich Str. überg??ren wollte kam ein russischer Lastwagen. Vor mir wollte eine alte Frau die Str. überg??ren. Die Russen gaben vollgas und die a. Frau wurde in die Luft geschleutert. Es klang als wurde man gegen eine Holzkiste schlagen. Dann was das Blut auf Fohrbahn. Nie hätte ich gedacht eine alte Frau habe so viel Blut. Keiner Kümerte sie darum. Warum auch da war ja noch nicht mehr zu retten. Nie in meinen Leben habe ich so elend gefühlt. 
-<hr>
-Nach den allen was ich erlebt hatte war es doch nur eine kleine Episode der Krausamkeit. Ander Ecke Läuchst st. traf ich Klupsch. Ein lausiger Genoße. "Paß auf, Hahn," sagte er, "wenn Du in die Wirtschaft kommst."  
-<hr>
-"...der Martini wartet für Dich." War wie angenehme Luft schlug mir entgegen als ich die Tür zur Werst öfnet. Wärme war ein Luxus wie etwas zu eßen in diese Zeiten. Ich schaute mich und sagte 'Schmahlzeit', den das Wort 'Mahlzeit' war nicht angebr. den neimand aß etwas nicht weil Keiner Hunger hatte. Der war genugend verhanden. Niemand hatte etwas zu Eßen. Die Stimmung war Bedruhend.  
-Martini schaute mich trumphierend an, als hätte er gerade in die Lotterie gewonnen. Mit einen diebischen Gesicht begrüßte er mich mit "Heil Hitler". Das war natürlich ironisch gemeint. Jadoch wußte ich gleich wo ich den Hebel ansetzen konnte.  
-
-</div>
-
----
-
-<div class="column column--right" markdown>
-
-**[ English Version ]**  
-
-</div>
-</div>
-
----
-
-[![Img][St16]{ .artR width="140" }][St16]
-
-[![Img][Sp16]{ .artR width="140" }][Sp16]
-
-Status:  
-- Init translation  
-- Mod: 2026-08-29 Photographed, enhanced in GIMP; transcription, initial pass 
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-
-<hr class="section-break strong" />
-
-
-
-
-
 
 
 
@@ -1587,7 +1573,7 @@ But those poor people would have been exhausted after the first kilometres. And 
 [![Img][Sp14]{ .artR width="140" }][Sp14]
 
 Status:  
-- Init translation  2026.01.15
+- Init transcription/translation: 2026.01.15
 - Mod:  
 - Mod:  
 - Mod:  
@@ -1603,30 +1589,80 @@ Status:
 
 
 
-### 1-Mar-1945
+
+
+
+
+
+
+
+
+[![Freiburg 1944][BnrP3]{ .artC width="1100" }][StP3]
+
+
+## Post-War
+
+### 1945 Nach dem Kreig
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
 
 **[Auf Deutsch]**  
 
-**1-Mar-1945**  
+In hauer Tschenstochau lagen etwa 13000 Gefangene. Es was von den Deutschen gebaut worden. Wer weiß wieviel Menschen hier schon gestorben sind. Als ein Transport ankam war es gerade am Regnen. Obwohl die Baracken füe so viel Gefangene lerr standen, müßten die Deutschen Schweine im kalten Regen warten. Am Boden lag noch Schnee der sich in Matsch verwandelte. Endlich etwa noch drei Stunden. Kam eine russische Abernung um diesen Haufen halb erfrorener Mensch Zahlen - und Namenmäßig zu erfaßen.  
 
-Es war der 1. März 45. Wie jeden Morgen der erste Blick [K. war zum Himmel]. Die Bauern und besonders die Flieger interessierten sich für das Wetter. Das Wetter war lausig. Alles grau in grau. Heute fliegen wir [nicht?]. Neben dem Bett hatte K. einen Electro Kocher und fing damit an sich ein Jagdwurst zu braten. Gerade schlug er ein geliehenes Buch auf. Der Titel war Drei Groschen für mein Leben.  
-Ein altes Landsknechtsbuch.
+</div>
 
 ---
 
-Weiter kam er nicht. Der Ober L. Kohlhagen erschien in der Tür und war sehr ungehalten, seine Leute noch im Bett zu finden. K. war das sehr peinlich. War es doch stets für ihn von grosser Wichtigkeit ein guter Soldat zu sein. Hahn wir fliegen in 15 Minuten. Während des ankleidens aß er noch von der Wurst. Prompt ver-brannte er sich die Zunge. Doch ging alles sehr rasch. Uniformhose Lederweste Lederjacke [?] Lederhose Pelzstiefel ohne Socken. In einer Stunde sind wir ja wieder zurück.   
-Noch das Koppel mit der Pistole. Die Fliegerhaube. Der Oberl. war überrascht. Sind Sie schon fertig. Jawoll. Herr Oberlt. Da war nicht wie gewöhnlich ein Wagen der sie zur anderen Seite des Kpl. brachte. Sie stiegen in einen Fieseler Storch. Im Tiefflug ging es zur anderen Seite des Flugplatzes. Ein Auto wäre im
-Schlamm stecken geblieben.
+<div class="column column--right" markdown>
 
---- 
-Der Oberleutnant gab seine Befehle. Zu K. sagte er nur. Warten sie bis ich gest. bin. Der Platz war ein Matschfass. Selbst der OL war sich nicht sicher. Die Techniker hatten die Maschinen Startklar. Die Piloten stiegen ein. Zur selben Zeit wurden die Schwungkraft anlasser in Bewegung gesetzt. Die Mechaniker sprangen von den Tragflächen und mit einem lauten gebrüll sprangen die Motoren an. Kohlhagen drehte in die Startrichtung und gab Gas.
+**[ English Version ]**  
+  
+There were about 13,000 prisoners in the Tschenstochau camp. It had been built by the Germans. Who knows how many people have already died here. When a transport arrived, it was raining. Even though the barracks stood empty for so many prisoners, the German swine kept us waiting out in the cold rain. There was still snow on the ground, turning to slush. Finally, after about three hours, a Russian detachment came to register this lot of half-frozen people by number and by name.
+  
+</div>
+</div>
 
-Die Mech. drehten ihm den Rücken zu denn der Propellerwind war kalt. K. drehte seine Messerschmitt etwas zur Seite, dass er sehen konnte wie der OL über den Platz jagte. Die Räder pflügten durch den Schlamm und warfen ihn in die Höhe. Von dem Propeller wind erfasst wurde er zurück geworfen in die Kühlerklappen für die Motorkühlung. Der OL Startete mit geschlossenen Kühlerklappen. Endlich kam er frei. 
+---
 
-K. drehte [in?] in den Wind. Auf den Bremsen stehend gab er Gas. Der Motor heulte auf die Räder rutschten durch den Schlamm. Zügig den Gashebel nach vorn. Von den Bremsen die Maschine holt Geschwindig keit auf.
+[![Img][St09]{ .artR width="140" }][St09]
+
+Status:  
+- Init transcription/translation: 2025.09.28  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+
+
+### 1945 16
+
+Notes are [here](/family/pappa2/#29-aug-2026)
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+
+**[Auf Deutsch]**  
+**1945**  
+Martini nach dem Krieg  
+Es war bitter Kalt im Winter 45. Der Hunger machte es fast unertraglich für uns diese schreckliche Zeit zu überstehen . Gegen 12:00 ging ich zu unserer Werkstatt. Als ich die Teich Str. überg??ren wollte kam ein russischer Lastwagen. Vor mir wollte eine alte Frau die Str. überg??ren. Die Russen gaben vollgas und die a. Frau wurde in die Luft geschleutert. Es klang als wurde man gegen eine Holzkiste schlagen. Dann was das Blut auf Fohrbahn. Nie hätte ich gedacht eine alte Frau habe so viel Blut. Keiner Kümerte sie darum. Warum auch da war ja noch nicht mehr zu retten. Nie in meinen Leben habe ich so elend gefühlt. 
+<hr>
+Nach den allen was ich erlebt hatte war es doch nur eine kleine Episode der Krausamkeit. Ander Ecke Läuchst st. traf ich Klupsch. Ein lausiger Genoße. "Paß auf, Hahn," sagte er, "wenn Du in die Wirtschaft kommst."  
+<hr>
+"...der Martini wartet für Dich." War wie angenehme Luft schlug mir entgegen als ich die Tür zur Werst öfnet. Wärme war ein Luxus wie etwas zu eßen in diese Zeiten. Ich schaute mich und sagte 'Schmahlzeit', den das Wort 'Mahlzeit' war nicht angebr. den neimand aß etwas nicht weil Keiner Hunger hatte. Der war genugend verhanden. Niemand hatte etwas zu Eßen. Die Stimmung war Bedruhend.  
+Martini schaute mich trumphierend an, als hätte er gerade in die Lotterie gewonnen. Mit einen diebischen Gesicht begrüßte er mich mit "Heil Hitler". Das war natürlich ironisch gemeint. Jadoch wußte ich gleich wo ich den Hebel ansetzen konnte.  
 
 </div>
 
@@ -1637,52 +1673,16 @@ K. drehte [in?] in den Wind. Auf den Bremsen stehend gab er Gas. Der Motor heult
 **[ English Version ]**  
 
 </div>
-It was the 1st of March 1945. As every morning, [K.'s first glance was towards the sky]. The farmers and especially the airmen were interested in the weather. The weather was lousy. Everything grey upon grey. Today we [won't?] be flying.
-
-Beside the bed K. had an electric cooker and began frying himself some Jagdwurst. He had just opened a borrowed book. The title was Three Groschen for My Life. An Old Landsknecht's Book.
-
-He got no further. Lieutenant Kohlhagen appeared in the doorway and was very annoyed to find his men still in bed. K. was very embarrassed about that. After all, it had always been of great importance to him to be a good soldier.
-
-"Hahn, we're flying in 15 minutes."
-
-While getting dressed he ate some more of the sausage. Promptly burnt his tongue. But everything went very quickly. Uniform trousers, leather waistcoat, leather jacket, leather trousers, fur-lined boots without socks. We'll be back in an hour anyway.
-
-Still the belt with the pistol. The flying helmet.
-
-The lieutenant was surprised.
-
-"Are you ready already?"
-
-"Yes, sir."
-
-There wasn't a car as usual to take them to the other side of the airfield. They climbed into a Fieseler Storch. Flying low, they went to the other side of the airfield. A car would have gotten stuck in the mud.
-
-The first lieutenant gave his orders. To K. he said only:
-
-"Wait until I've taken off."
-
-The airfield was a mud bath. Even the first lieutenant wasn't sure.
-
-The technicians had the aircraft ready for take-off. The pilots climbed in. At the same time the inertia starters were set in motion. The mechanics jumped down from the wings and with a loud roar the engines sprang to life. Kohlhagen turned in the direction of take-off and opened the throttle. The mechanics turned their backs to him because the propeller wash was cold.
-
-K. turned his Messerschmitt slightly to one side so that he could see how the first lieutenant raced across the airfield. The wheels ploughed through the mud and threw it into the air. Caught by the propeller wash, it was thrown back into the radiator flaps for the engine cooling.
-
-The first lieutenant took off with the radiator flaps closed. Finally he got clear.
-
-K. turned into the wind. Standing on the brakes he opened the throttle. The engine howled, the wheels slipped through the mud. Briskly forward with the throttle. Off the brakes, the aircraft picks up speed.
-
-</div>
 </div>
 
 ---
 
-[![Img][St12]{ .artR width="140" }][St12]
+[![Img][St16]{ .artR width="140" }][St16]
 
-[![Img][Sp12]{ .artR width="140" }][Sp12]
+[![Img][Sp16]{ .artR width="140" }][Sp16]
 
 Status:  
-- Init translation  
-- Mod:  
+- Init transcription/translation: 2026-08-29 (Photographed, enhanced in GIMP; transcribed)
 - Mod:  
 - Mod:  
 - Mod:  
@@ -1691,6 +1691,90 @@ Status:
 
 <hr class="section-break strong" />
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 1946 Herbst
+
+<div class="flex-container" markdown>
+<div class="column" markdown>
+
+**[Auf Deutsch]**  
+
+**Herbst 1946** Ein Herbst des Hungers. O ihr lieber Leser wußt ihr was Hunger ist. Ist mein Hunger groß geschrieben. Es zieht sich durch Deine Gedärme. Ja, Hunger tut weh. Es ist ein Schmerz ganz nah zu Deine Seele.  
+"Unser täglich Brot gieb uns Heute." Da ist nichtmal keine einzige Krußt. Am Morgen stehst Du auf und mußt Dich erst auf die Bettkante setzen. Es wird Dir schwarz vor die Augen und es daurt schon eine Weile bevor Du aufstehen kannst. Da Hemd klebt am Leibe. Von och nächte haß geschwitzt. Wer nie sein Brot mit Tränen aß wer ein Kummervollen Nächten auf seinem Bett weinend sas der Kennt Euch nicht ihr himmlichen Mächte.  
+Ja, das waren die guten alten Zeiten. Die hatten noch Brot. Was uns geblieben waren nur Tränen und dieser verfluchte Hunger.  
+K wartete schon 10 Minuten auf seinen Freund Fritz. Es war nachts 2:00 Unr. Beide arbeiteten eine 48 Stunden Woche. Für den verdient kannten Beiden nicht die nötigen Lebensmittel kaufen. So mußten sie Nachts sich stehlen was ihnen einfach für eine normale Nahrung fehlte.  
+
+---
+
+K. hörte Fritchen kommen. Sein Schritt war leicht einen Anderen zu untersch(ieden?). Fritz hatte eine Beinverletzung vom Kreig und zog das eine Bein etwas nach. Schweigsam ging [mua?] auf ein gewißen Ziel. Die letzten Tage waren sie immer zu seinen Kartoffel Acker bevorzugt gegangen und hatten fein säuberlich eine Furche nach defr Anderen die Kartoffeln geerntet.  
+Es war eine warme Herbstnacht. Die Sterne blichten auf sie herab. Als sie näher zum Gebiet ihren Tätigkeit kamen, ein Hund mit wedeln der Ruhe entgegen. K. kniete sofort um beßer zu können was hier angeht. Zur selben Zeit nahm er den Kopf des Hundes und streichelte ihn. Fritz und I. waren sehr still und horchten was diese eigenartige Geräusch war was da aus dem Kartoffleacker kam. Nun es war der Bauer der seine Kartoffeln gemeindsam mit seinem Hunde bewuchte. K. streichelte den Hund and Fritz nahm seine Säcke um sie zu füllen mit Kartoffeln. Natürlich K. streichelte immernoch diesen Köder. Dieser armer Hundevie hätte womöglich von seinen sturen Bauren immer nur Prügel bekommen. Ein angenehmes Schnurren entrang sich Seiner Dienst.  
+
+</div>
+
+---
+
+<div class="column column--right" markdown>
+
+**[ English Version ]**  
+
+**Autumn 1946** An autumn of hunger. Dear reader, do you know what hunger is? I write "Hunger" in all caps. It winds through your guts. Hunger hurts, a pain pressed right up against your soul.  
+
+“Give us this day our daily bread.” Not even a crust remains. In the morning you force yourself upright, only to sit on the edge of the bed for a spell, feeling like you're about to pass out. It takes a while before you can stand up. Your shirt clings to you, soaked from the night-sweats.  
+
+“Whoever has never eaten his bread with tears, whoever has sat weeping on his bed during a worrisome night, does not know you, oh heavenly powers.”  
+
+Yes, those were the good old days. They had bread in those days. Now all we have are tears and this damned hunger. 
+  
+K had already been waiting ten minutes for his friend Fritz. It was two in the morning. Both worked forty-eight hours a week, yet on their wages they couldn’t buy enough to eat. So, some nights they would steal food just to survive.  
+
+---
+
+K. heard Fritchen coming. His step was easy to distinguish from anyone else’s. Fritz had sustained a leg injury in the war, and ended up lame: he dragged one leg a little. Silent, [mua?] went toward a certain aim. In the last days they had always preferred going to his potato field and had neatly harvested the potatoes, one furrow after the other.  
+
+It was a warm autumn night. The stars looked down on them. As they came nearer to the area of their activity, a dog, tail wagging, came towards the [Rute?]. K. knelt at once to assess the situation. At the same time he took the dog’s head and stroked it.  
+Fritz and K sliently listened to a peculiar noise coming from the potato field. It was the farmer, watching over his potato crop, together with his dog. *Editor's note: He must have fallen asleep and so what K and Fritchen heard was him snoring.* As K pet the dog, Fritz filled his sacks with potatoes.  
+K kept stroking the mutt. The poor dog probably got nothing but beatings from the brutal farmer. A pleasant purring escaped his [throat?].  
+  
+(Yeah, this still needs work.)
+
+</div>
+</div>
+
+---
+
+[![Img][St04]{ .artR width="140" }][St04]
+
+[![Img][Sp04]{ .artR width="140" }][Sp04]
+
+Status:  
+- Init transcription/translation: 2025.09.28  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+- Mod:  
+
+<hr class="section-break strong" />
 
 
 
@@ -1711,38 +1795,6 @@ Status:
 
 ## Still to Sort
 
-### [REDO] 26
-
-<div class="flex-container" markdown>
-<div class="column" markdown>
-**[Auf Deutsch]**  
-**--**  
-
-
-</div>
-
----
-
-<div class="column column--right" markdown>
-**[English Version]**  
-
-</div>
-</div>
-
-[![Img][St26]{ .artR width="140" }][St26]
-
-[![Img][Sp26]{ .artR width="140" }][Sp26]
-
-Status:  
-- Init translation  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-- Mod:  
-
-<hr class="section-break strong" />
 
 
 
@@ -1752,6 +1804,7 @@ Status:
 
 
 
+<!--
 
 ### 19??: 1. Sonoma 19
 
@@ -1780,7 +1833,7 @@ Wo soll ich nun anfangen. Auf meine Geburt kann ich mich beim besten Willen nich
 [![Img][St19]{ .artR width="140" }][St19]
 
 Status:  
-- Init translation  
+- Init transcription/translation: 
 - Mod:  
 - Mod:  
 - Mod:  
@@ -1826,7 +1879,7 @@ K Mutter kam mit Frau [LL] überein, daß K. ihr Goldsohn jeden Morgen zum Schul
 [![Img][St28]{ .artR width="140" }][St28]
 
 Status:  
-- Init translation  
+- Init transcription/translation: 
 - Mod:  
 - Mod:  
 - Mod:  
@@ -1864,7 +1917,7 @@ Meine Geschichte später unsere Ge. Die Notjahr der Ostz. Waßer Burucratze schn
 [![Img][St31]{ .artR width="140" }][St31]
 
 Status:  
-- Init translation  
+- Init transcription/translation: 
 - Mod:  
 - Mod:  
 - Mod:  
@@ -1873,6 +1926,7 @@ Status:
 - Mod:  
 
 
+-->
 
 <!--  Image references  -->
 

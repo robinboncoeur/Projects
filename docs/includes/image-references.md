@@ -9,7 +9,10 @@
 [Bra03]: /assets/images/base/Bnr03a.jpg
 [Bra04]: /assets/images/base/Bnr04a.jpg
 [Brb03]: /assets/images/base/Bnr03b.jpg
-[BnrAS]: /assets/images/base/BnrRcas.jpg
+[BnrP1]: /assets/images/base/BnrPa1.jpg
+[BnrP2]: /assets/images/base/BnrPa2.jpg
+[BnrP3]: /assets/images/base/BnrPa3.jpg
+
 
 [St00]: /assets/images/base/00Writer.jpg
 [Ts00]: /assets/images/base/00Emily.jpg
@@ -72,6 +75,11 @@
 [St45]: /assets/images/pappa/15.54.34.png
 [St46]: /assets/images/pappa/15.55.12.png
 [St47]: /assets/images/pappa/15.55.45.png
+
+[StP1]: /assets/images/pappa/000-storch2.jpg
+[StP2]: /assets/images/pappa/000-Messersch.jpg
+[StP3]: /assets/images/pappa/000-Freiburg1.jpg
+
 
 [Gn001]: /assets/images/garden/21-05-17_01.jpg
 [Gn002]: /assets/images/garden/21-05-17_02.jpg

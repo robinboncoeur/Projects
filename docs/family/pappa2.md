@@ -840,9 +840,11 @@ The events of image 22 appear to take place during K.'s youth. It is unclear at 
 
 
 
-## 28 Nov 2026
+## Tales of a POW
 
-Undertaking a difficult page. He wrote the first 7 lines using a blue pen that was sort-of last legs
+Undertaking a difficult page. He wrote the first 7 lines using a blue pen that was sort-of last legs. I ended up having AI sort out the heiroglyphics. The story clearly starts on the first of March, 1945, so I placed it at the top of his 1945 accounts list.
+
+Looks like there isn't much left to transcribe. I'll cross-examine / count the images against those in the document just to be sure.
 
 
 <hr class="section-break strong" />
