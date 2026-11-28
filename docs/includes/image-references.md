@@ -9,10 +9,12 @@
 [Bra03]: /assets/images/base/Bnr03a.jpg
 [Bra04]: /assets/images/base/Bnr04a.jpg
 [Brb03]: /assets/images/base/Bnr03b.jpg
+[BnrAS]: /assets/images/base/BnrRcas.jpg
 
-[Wtr00]: /assets/images/base/00Writer.jpg
+[St00]: /assets/images/base/00Writer.jpg
 [Ts00]: /assets/images/base/00Emily.jpg
-[St00]: /assets/images/pappa/P0.jpg
+
+[St99]: /assets/images/pappa/P0.jpg
 [St01]: /assets/images/pappa/P1.jpg
 [St02]: /assets/images/pappa/P2.jpg
 [St03]: /assets/images/pappa/P3.jpg 

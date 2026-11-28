@@ -1,6 +1,6 @@
 # Redlands Coast Art Society
 
-[![Old Kaimu][Br02]{ .artC width="1100" }][Br02]
+[![RCAS][BnrAS]{ .artC width="1100" }][BnrAS]
 
 <hr class="section-break strong" />
 
@@ -9,161 +9,118 @@
 
 
 
+🌼 
 
+The developer pages are in the [Technical Documentation for v1.5b](v15TR-html.md).  
+
+🌼 
+
+<hr class="section-break soft" />
 
 
 ## Introduction
-### 1. Purpose
 
-🌼 [Documentation v0.1](BookingDoc.md)  
+**Purpose**
 
+The RCAS Booking Manager is designed to provide a reliable, structured way to manage room bookings for the Studio and Gallery. It ensures:
 
-The RCAS Booking Manager is designed to provide a reliable, structured way to manage room bookings for the Studio and Gallery.
-It ensures:
-
-- bookings are reviewed before being committed
-- room conflicts are prevented
+- a session booking is accomplished by the tutor via the web portal
+- the software is designed to prevent room and time conflicts
 - the spreadsheet remains the single source of truth
 
 ---
 
-### 2. How the System Works
+### 1. Before making a booking
 
-1. A tutor submits a booking request via the form
-2. The request appears in the Admin sheet as **Pending**
-3. The booking manager reviews the request
-4. When marked **Approved**, the system creates a calendar event 5. If a conflict exists, the system prevents approval
+- Open the Tutor Booking Portal on the RCAS website.
+- Check the calendar for existing bookings.
+- Identify an available date, time and venue for your session.
+- Have your session details ready before completing the booking form.
 
----
+### 2. Creating a booking
 
-### 3. Status Meanings
+Complete the online booking form, providing the relevant information:
 
+- Tutor
+- Session or event title
+- Date
+- Start and end times
+- Venue
+- Pricing
+- Skill level
+- Additional session information
 
-**Pending** — Awaiting review
+Check spelling and accuracy carefully, as session information will appear in the public calendar.
 
-**Approved** — Booking confirmed and written to calendar
+### 3. Reviewing your booking
 
-**Rejected** — Booking declined
+Select **Review Booking**.
 
-**Conflict** — System detected an issue (see Processing Note)
+Check all the information displayed, paying particular attention to dates, times, venue, pricing and session descriptions.
 
-**Cancelled** — Booking removed and calendar event deleted
+If anything needs correcting, select **Back to Edit**.
 
----
+When satisfied that the information is correct, select **Confirm Booking**.
 
-### 4. Admin Workflow (Daily Use)
+Wait for the application to respond before navigating away from the page.
 
-1. Open Admin sheet and Calendar
-2. Review new **Pending** entries
-3. Check availability
-4. Adjust **Assigned Room** if needed 
-5. Set Status → **Approved**
+### 4. Booking confirmation
 
-Finally, confirm:
-  
-  - Status remains Approved
-  - Calendar Event ID populated
-  - Processing Note confirms success
+Where the requested venue and time are available, the booking is automatically processed and published to the calendar.
 
----
+If a booking conflict is identified, the booking requires further attention before it can be published.
 
-### 5. Assigned Room Logic
+Do not repeatedly submit the same booking.
 
-- Do NOT edit original Room
-- Use Assigned Room for overrides
-- System uses Assigned Room if present
+### 5. Checking the calendar
 
-Changing Assigned Room on an approved booking:  
-→ removes calendar event  
-→ resets booking to Pending
+Open the RCAS session calendar and locate your booking.
 
----
+Check that:
 
-### 6. If Something Goes Wrong
+- The session title is correct.
+- The date and times are correct.
+- The venue is correct.
+- The session information is displayed as expected.
 
-Check in this order: 
+Select the calendar entry to view further information.
 
-1. Status
-2. Processing Note 
-3. Calendar Event ID 
-4. Calendar
+The text **Click below for booking details & more info** accompanies the link to the tutor's webpage.
 
-Common causes:  
+### 6. Changing or cancelling a booking
 
-- overlapping booking 
-- invalid time
-- missing data
+Contact the RCAS bookings administrator if an existing booking needs to be amended or cancelled.
 
----
+**Do not edit, move or delete events directly in Google Calendar.**
 
-### 7. Key Rules
+Bookings must be managed through the appropriate booking administration process to ensure that the booking records and calendar remain synchronised.
 
-Never:
+### 7. If something goes wrong
 
-- edit base booking fields   
-- rename headers  
-- delete system columns
+If a booking does not appear as expected, or the application reports an error:
 
-Always:
+- Make a note of the error message.
+- Take a screenshot if possible.
+- Record the tutor, session title and requested date.
+- Contact the RCAS bookings administrator.
 
-- trust Processing Note
-- approve only after checking availability
+Avoid resubmitting the booking until its status has been established.
 
 ---
 
-### 8. Technical Overview
+**Remember**
 
-Flow:
-
-Form → Sheet → Script → Calendar
-
-Core behaviours:
-
-- Approval creates event
-- Status change removes event if needed 
-- Conflict blocks invalid bookings
-
----
-
-### 9. Notes
-
-- Recurring bookings are validated but not fully automated 
-- System_Log records system activity
-- Sheet is the single source of truth
-
----
-
-### 10. Philosophy
-
-The system is designed to:
-
-- prevent errors rather than fix them later 
-- make state changes explicit
-- support confident decision-making
-
-🌹
+Check availability → Complete booking → Review → Confirm → Check calendar.
 
 <hr class="section-break strong" />
 
 
 <!--  Image references  -->
 
+--8<-- "includes/image-references.md"
 
-[Br02]: ../assets/images/base/Bnr02c.jpg
-[St00]: ../assets/images/base/00Writer.jpg
-[St09]: ../assets/images/base/09aParis.jpg
 
 <!--
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
 /-->
-
-
-<!-- Notes to Self 
-
-https://script.google.com/macros/s/AKfycbzfiE5czc3z23egkzcAQAij5emCs6GJSaf0Kwy6TlXPZXny6fa6m6VUQ3YU48GjN-2qOA/exec
-
-old-pw: RCASinc!2326
-pw: Tutor@RCAS0826#
-
--->

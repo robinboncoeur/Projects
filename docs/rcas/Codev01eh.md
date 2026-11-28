@@ -1,5 +1,7 @@
 # Booking App v1.5b [LIVE]
 
+[![RCAS][BnrAS]{ .artC width="1100" }][BnrAS]
+
 ## Final
 
 ### 24.Nov.2026
@@ -2093,3 +2095,11 @@ function inventoryWorkbook() {
 }
 
 ```
+
+
+<hr class="section-break strong" />
+
+
+<!--  Image references  -->
+
+--8<-- "includes/image-references.md"

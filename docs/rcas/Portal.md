@@ -1,5 +1,7 @@
 # Member Portal
 
+[![RCAS][BnrAS]{ .artC width="1100" }][BnrAS]
+
 
 ## Al's Suggestion
 
@@ -170,3 +172,10 @@ That separation keeps the whole system much simpler and much easier to maintain 
 
 [1]: https://support.squarespace.com/hc/en-us/articles/360050832631-Member-Sites?utm_source=chatgpt.com "Member Sites – Squarespace Help Center"
 [2]: https://support.squarespace.com/hc/en-us/articles/14721894632589-Squarespace-website-platform-plans?utm_source=chatgpt.com "Squarespace website platform plans – Squarespace Help Center"
+
+<hr class="section-break strong" />
+
+
+<!--  Image references  -->
+
+--8<-- "includes/image-references.md"

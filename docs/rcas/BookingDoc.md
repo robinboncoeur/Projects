@@ -1,5 +1,7 @@
 # Documentation v1b
 
+[![RCAS][BnrAS]{ .artC width="1100" }][BnrAS]
+
 <!--
 ---
 title: "RCAS Booking Manager"
@@ -672,3 +674,10 @@ Before trial deployment, review:
 - whether screenshots should be added to the User Manual
 - whether a one-page quick-reference sheet should be produced for the booking manager
 - whether the missing helper reference in the supplied code extract has already been resolved in the live project
+
+<hr class="section-break strong" />
+
+
+<!--  Image references  -->
+
+--8<-- "includes/image-references.md"

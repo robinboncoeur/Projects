@@ -27,7 +27,7 @@
 <div class="column" markdown>
 
 
-[![Img][St00]{ .artR width="480" }][St00]
+[![Img][St99]{ .artR width="480" }][St99]
 
 
 </div>
@@ -1597,34 +1597,11 @@ Status:
 
 <hr class="section-break strong" />
 
-<hr class="section-break strong" />
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Still to Sort
 
 ### 1-Mar-1945
 
@@ -1635,20 +1612,22 @@ Status:
 
 **1-Mar-1945**  
 
-Es war der 1. März 45. Wie jeden Morgen der erste Blick [K. war zum Himmel]. Die Bauern und besonders die Flieger interessierten sich für das Wetter. Das Wetter war lausig. Alles grau in grau. Heute fliegen wir [nicht?]. Neben dem Bett hatte K. einen Electro Kocher und fing damit an sich ein Jagdwurst zu braten. Gerade schlug er ein geliehenes Buch auf. Der Titel war Drei Groschen für mein Leben.
-
+Es war der 1. März 45. Wie jeden Morgen der erste Blick [K. war zum Himmel]. Die Bauern und besonders die Flieger interessierten sich für das Wetter. Das Wetter war lausig. Alles grau in grau. Heute fliegen wir [nicht?]. Neben dem Bett hatte K. einen Electro Kocher und fing damit an sich ein Jagdwurst zu braten. Gerade schlug er ein geliehenes Buch auf. Der Titel war Drei Groschen für mein Leben.  
 Ein altes Landsknechtsbuch.
 
-Weiter kam er nicht. Der Ober L. Kohlhagen erschien in der Tür und war sehr ungehalten, seine Leute noch im Bett zu finden. K. war das sehr peinlich. War es doch stets für ihn von grosser Wichtigkeit ein guter Soldat zu sein. Hahn wir fliegen in 15 Minuten. Während des ankleidens aß er noch von der Wurst. Prompt ver-brannte er sich die Zunge. Doch ging alles sehr rasch. Uniformhose Lederweste Lederjacke [?] Lederhose Pelzstiefel ohne Socken. In einer Stunde sind wir ja wieder zurück.
+---
 
+Weiter kam er nicht. Der Ober L. Kohlhagen erschien in der Tür und war sehr ungehalten, seine Leute noch im Bett zu finden. K. war das sehr peinlich. War es doch stets für ihn von grosser Wichtigkeit ein guter Soldat zu sein. Hahn wir fliegen in 15 Minuten. Während des ankleidens aß er noch von der Wurst. Prompt ver-brannte er sich die Zunge. Doch ging alles sehr rasch. Uniformhose Lederweste Lederjacke [?] Lederhose Pelzstiefel ohne Socken. In einer Stunde sind wir ja wieder zurück.   
 Noch das Koppel mit der Pistole. Die Fliegerhaube. Der Oberl. war überrascht. Sind Sie schon fertig. Jawoll. Herr Oberlt. Da war nicht wie gewöhnlich ein Wagen der sie zur anderen Seite des Kpl. brachte. Sie stiegen in einen Fieseler Storch. Im Tiefflug ging es zur anderen Seite des Flugplatzes. Ein Auto wäre im
 Schlamm stecken geblieben.
 
+--- 
 Der Oberleutnant gab seine Befehle. Zu K. sagte er nur. Warten sie bis ich gest. bin. Der Platz war ein Matschfass. Selbst der OL war sich nicht sicher. Die Techniker hatten die Maschinen Startklar. Die Piloten stiegen ein. Zur selben Zeit wurden die Schwungkraft anlasser in Bewegung gesetzt. Die Mechaniker sprangen von den Tragflächen und mit einem lauten gebrüll sprangen die Motoren an. Kohlhagen drehte in die Startrichtung und gab Gas.
 
 Die Mech. drehten ihm den Rücken zu denn der Propellerwind war kalt. K. drehte seine Messerschmitt etwas zur Seite, dass er sehen konnte wie der OL über den Platz jagte. Die Räder pflügten durch den Schlamm und warfen ihn in die Höhe. Von dem Propeller wind erfasst wurde er zurück geworfen in die Kühlerklappen für die Motorkühlung. Der OL Startete mit geschlossenen Kühlerklappen. Endlich kam er frei. 
 
 K. drehte [in?] in den Wind. Auf den Bremsen stehend gab er Gas. Der Motor heulte auf die Räder rutschten durch den Schlamm. Zügig den Gashebel nach vorn. Von den Bremsen die Maschine holt Geschwindig keit auf.
+
 </div>
 
 ---
@@ -1693,6 +1672,7 @@ The first lieutenant took off with the radiator flaps closed. Finally he got cle
 K. turned into the wind. Standing on the brakes he opened the throttle. The engine howled, the wheels slipped through the mud. Briskly forward with the throttle. Off the brakes, the aircraft picks up speed.
 
 </div>
+</div>
 
 ---
 
@@ -1717,6 +1697,19 @@ Status:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+## Still to Sort
 
 ### [REDO] 26
 
