@@ -1058,7 +1058,7 @@ K. turned into the wind. Standing on the brakes he opened the throttle. The engi
 [![Img][Sp12]{ .artR width="140" }][Sp12]
 
 Status:  
-- Init transcription/translation 2026.11.28 
+- Init transcription/translation 2026.11.28    
 - Mod:  
 
 
@@ -1160,7 +1160,7 @@ In Dortmund he received new flight orders: he was now heading to Halle. That was
 [![Img][St13]{ .artR width="140" }][St13]
 
 Status:  
-- Init transcription/translation: 2025.09.28  
+- Init transcription/translation: 2025.09.28     
 - Mod:  
 
 
@@ -1589,7 +1589,7 @@ There were about 13,000 prisoners in the Tschenstochau camp. It had been built b
 [![Img][St09]{ .artR width="140" }][St09]
 
 Status:  
-- Init transcription/translation: 2025.09.28  
+- Init transcription/translation: 2025.09.28     
 - Mod:  
 
 
@@ -1732,7 +1732,7 @@ K kept stroking the mutt. The poor dog probably got nothing but beatings from th
 [![Img][Sp04]{ .artR width="140" }][Sp04]
 
 Status:  
-- Init transcription/translation: 2025.09.28  
+- Init transcription/translation: 2025.09.28        
 - Mod:  
 
 
