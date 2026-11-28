@@ -835,12 +835,18 @@ Image 16 tells a dismal story of a witnessed hit-and-run, ending with the death 
 
 The events of image 22 appear to take place during K.'s youth. It is unclear at this stage what exactly transpired: too many of the words couldn't be parsed. I'll try another pass soon and see if some of the words resolve. I might take the harder words **as written** and see if Emily can make sense of them.
 
+<hr class="section-break strong" />
 
 
 
+
+## 28 Nov 2026
+
+Undertaking a difficult page. He wrote the first 7 lines using a blue pen that was sort-of last legs
 
 
 <hr class="section-break strong" />
+
 
 <!--  Image references  -->
 

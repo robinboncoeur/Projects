@@ -29,6 +29,7 @@
 [St11]: /assets/images/pappa/P11.jpg
 [Sp11]: /assets/images/pappa/P11p.jpg
 [St12]: /assets/images/pappa/P12.jpg
+[Sp12]: /assets/images/pappa/P12p.jpg
 [St13]: /assets/images/pappa/P13.jpg
 [St14]: /assets/images/pappa/P14.jpg
 [Sp14]: /assets/images/pappa/P14p.jpg

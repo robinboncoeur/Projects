@@ -1626,15 +1626,29 @@ Status:
 
 ## Still to Sort
 
-### 1945 [REDO] 12
+### 1-Mar-1945
 
 <div class="flex-container" markdown>
 <div class="column" markdown>
 
 **[Auf Deutsch]**  
 
-**1945**  
+**1-Mar-1945**  
 
+Es war der 1. März 45. Wie jeden Morgen der erste Blick [K. war zum Himmel]. Die Bauern und besonders die Flieger interessierten sich für das Wetter. Das Wetter war lausig. Alles grau in grau. Heute fliegen wir [nicht?]. Neben dem Bett hatte K. einen Electro Kocher und fing damit an sich ein Jagdwurst zu braten. Gerade schlug er ein geliehenes Buch auf. Der Titel war Drei Groschen für mein Leben.
+
+Ein altes Landsknechtsbuch.
+
+Weiter kam er nicht. Der Ober L. Kohlhagen erschien in der Tür und war sehr ungehalten, seine Leute noch im Bett zu finden. K. war das sehr peinlich. War es doch stets für ihn von grosser Wichtigkeit ein guter Soldat zu sein. Hahn wir fliegen in 15 Minuten. Während des ankleidens aß er noch von der Wurst. Prompt ver-brannte er sich die Zunge. Doch ging alles sehr rasch. Uniformhose Lederweste Lederjacke [?] Lederhose Pelzstiefel ohne Socken. In einer Stunde sind wir ja wieder zurück.
+
+Noch das Koppel mit der Pistole. Die Fliegerhaube. Der Oberl. war überrascht. Sind Sie schon fertig. Jawoll. Herr Oberlt. Da war nicht wie gewöhnlich ein Wagen der sie zur anderen Seite des Kpl. brachte. Sie stiegen in einen Fieseler Storch. Im Tiefflug ging es zur anderen Seite des Flugplatzes. Ein Auto wäre im
+Schlamm stecken geblieben.
+
+Der Oberleutnant gab seine Befehle. Zu K. sagte er nur. Warten sie bis ich gest. bin. Der Platz war ein Matschfass. Selbst der OL war sich nicht sicher. Die Techniker hatten die Maschinen Startklar. Die Piloten stiegen ein. Zur selben Zeit wurden die Schwungkraft anlasser in Bewegung gesetzt. Die Mechaniker sprangen von den Tragflächen und mit einem lauten gebrüll sprangen die Motoren an. Kohlhagen drehte in die Startrichtung und gab Gas.
+
+Die Mech. drehten ihm den Rücken zu denn der Propellerwind war kalt. K. drehte seine Messerschmitt etwas zur Seite, dass er sehen konnte wie der OL über den Platz jagte. Die Räder pflügten durch den Schlamm und warfen ihn in die Höhe. Von dem Propeller wind erfasst wurde er zurück geworfen in die Kühlerklappen für die Motorkühlung. Der OL Startete mit geschlossenen Kühlerklappen. Endlich kam er frei. 
+
+K. drehte [in?] in den Wind. Auf den Bremsen stehend gab er Gas. Der Motor heulte auf die Räder rutschten durch den Schlamm. Zügig den Gashebel nach vorn. Von den Bremsen die Maschine holt Geschwindig keit auf.
 </div>
 
 ---
@@ -1644,11 +1658,47 @@ Status:
 **[ English Version ]**  
 
 </div>
+It was the 1st of March 1945. As every morning, [K.'s first glance was towards the sky]. The farmers and especially the airmen were interested in the weather. The weather was lousy. Everything grey upon grey. Today we [won't?] be flying.
+
+Beside the bed K. had an electric cooker and began frying himself some Jagdwurst. He had just opened a borrowed book. The title was Three Groschen for My Life. An Old Landsknecht's Book.
+
+He got no further. Lieutenant Kohlhagen appeared in the doorway and was very annoyed to find his men still in bed. K. was very embarrassed about that. After all, it had always been of great importance to him to be a good soldier.
+
+"Hahn, we're flying in 15 minutes."
+
+While getting dressed he ate some more of the sausage. Promptly burnt his tongue. But everything went very quickly. Uniform trousers, leather waistcoat, leather jacket, leather trousers, fur-lined boots without socks. We'll be back in an hour anyway.
+
+Still the belt with the pistol. The flying helmet.
+
+The lieutenant was surprised.
+
+"Are you ready already?"
+
+"Yes, sir."
+
+There wasn't a car as usual to take them to the other side of the airfield. They climbed into a Fieseler Storch. Flying low, they went to the other side of the airfield. A car would have gotten stuck in the mud.
+
+The first lieutenant gave his orders. To K. he said only:
+
+"Wait until I've taken off."
+
+The airfield was a mud bath. Even the first lieutenant wasn't sure.
+
+The technicians had the aircraft ready for take-off. The pilots climbed in. At the same time the inertia starters were set in motion. The mechanics jumped down from the wings and with a loud roar the engines sprang to life. Kohlhagen turned in the direction of take-off and opened the throttle. The mechanics turned their backs to him because the propeller wash was cold.
+
+K. turned his Messerschmitt slightly to one side so that he could see how the first lieutenant raced across the airfield. The wheels ploughed through the mud and threw it into the air. Caught by the propeller wash, it was thrown back into the radiator flaps for the engine cooling.
+
+The first lieutenant took off with the radiator flaps closed. Finally he got clear.
+
+K. turned into the wind. Standing on the brakes he opened the throttle. The engine howled, the wheels slipped through the mud. Briskly forward with the throttle. Off the brakes, the aircraft picks up speed.
+
 </div>
 
 ---
 
 [![Img][St12]{ .artR width="140" }][St12]
+
+[![Img][Sp12]{ .artR width="140" }][Sp12]
 
 Status:  
 - Init translation  
@@ -1660,10 +1710,6 @@ Status:
 - Mod:  
 
 <hr class="section-break strong" />
-
-
-
-
 
 
 
